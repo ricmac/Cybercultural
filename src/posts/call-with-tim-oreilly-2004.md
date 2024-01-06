@@ -1,6 +1,6 @@
 ---
-title: '004. A Call With Tim O'Reilly'
-description: "I interview the man who coined 'Web 2.0' and wonder if he thinks my questions suck; also, I begin experimenting with earning money from blogging."
+title: "004. A Call With Tim O'Reilly"
+description: "I interview the man who coined Web 2.0 and wonder if he thinks my questions suck; also, I begin experimenting with earning money from blogging."
 date: 2023-11-12
 permalink: "p/call-with-tim-oreilly-2004/"
 ---
