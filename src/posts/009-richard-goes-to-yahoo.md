@@ -6,11 +6,11 @@ permalink: "p/009-richard-goes-to-yahoo/"
 ---
 [
 
-![Me at the Yahoo! campus, 10 October 2005](https://substack-post-media.s3.amazonaws.com/public/images/cdbb72de-7f87-4153-b670-94087d30c792_640x480.jpeg "Me at the Yahoo! campus, 10 October 2005")
+![Me at the Yahoo! campus, 10 October 2005](/assets/images/cdbb72de-7f87-4153-b670-94087d30c792_640x480.jpg "Me at the Yahoo! campus, 10 October 2005")
 
 
 
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcdbb72de-7f87-4153-b670-94087d30c792_640x480.jpeg)
+](/assets/images/cdbb72de-7f87-4153-b670-94087d30c792_640x480.jpg)
 
 Me at the Yahoo! campus, 10 October 2005; photo [by Jeremy Zawodny](https://www.flickr.com/photos/jzawodn/51348982/).
 
@@ -30,11 +30,11 @@ Havi was in her early 50s and had a ring of thick curly brown hair that framed a
 
 [
 
-![The day I visited the Yahoo! campus, October 2005.](https://substack-post-media.s3.amazonaws.com/public/images/60e78016-35a1-498b-9d25-61d5e60d7617_1637x1228.jpeg "The day I visited the Yahoo! campus, October 2005.")
+![The day I visited the Yahoo! campus, October 2005.](/assets/images/60e78016-35a1-498b-9d25-61d5e60d7617_1637x1228.jpg "The day I visited the Yahoo! campus, October 2005.")
 
 
 
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F60e78016-35a1-498b-9d25-61d5e60d7617_1637x1228.jpeg)
+](/assets/images/60e78016-35a1-498b-9d25-61d5e60d7617_1637x1228.jpg)
 
 The day I visited the Yahoo! campus, October 2005.
 
@@ -44,11 +44,11 @@ Yahoo’s campus was still relatively new; it had opened [in April 2001](https:/
 
 [
 
-![In 2005, I could easily imagine myself playing hoops in Sunnyvale, CA.](https://substack-post-media.s3.amazonaws.com/public/images/cca10ecc-aa56-4e68-81a3-6f4752a0dc60_1637x1228.jpeg "In 2005, I could easily imagine myself playing hoops in Sunnyvale, CA.")
+![In 2005, I could easily imagine myself playing hoops in Sunnyvale, CA.](/assets/images/cca10ecc-aa56-4e68-81a3-6f4752a0dc60_1637x1228.jpg "In 2005, I could easily imagine myself playing hoops in Sunnyvale, CA.")
 
 
 
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcca10ecc-aa56-4e68-81a3-6f4752a0dc60_1637x1228.jpeg)
+](/assets/images/cca10ecc-aa56-4e68-81a3-6f4752a0dc60_1637x1228.jpg)
 
 In 2005, I could easily imagine myself playing hoops in Sunnyvale, CA.
 
@@ -58,11 +58,11 @@ We walked into the reception, where there was a computer set up for visitor chec
 
 [
 
-![Yahoo! merch](https://substack-post-media.s3.amazonaws.com/public/images/d7df9b90-0d26-4647-8b74-99ca3fb72fea_1637x1228.jpeg "Yahoo! merch")
+![Yahoo! merch](/assets/images/d7df9b90-0d26-4647-8b74-99ca3fb72fea_1637x1228.jpg "Yahoo! merch")
 
 
 
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd7df9b90-0d26-4647-8b74-99ca3fb72fea_1637x1228.jpeg)
+](/assets/images/d7df9b90-0d26-4647-8b74-99ca3fb72fea_1637x1228.jpg)
 
 Yahoo! merch.
 
@@ -76,11 +76,11 @@ Scott led me to a nearby meeting room and we talked about a possible job for me 
 
 [
 
-![There were several active Yahoo! bloggers at this time, including Scott Gatz](https://substack-post-media.s3.amazonaws.com/public/images/868548a9-2e62-4a79-a776-3c413e0da584_1280x786.webp "There were several active Yahoo! bloggers at this time, including Scott Gatz")
+![There were several active Yahoo! bloggers at this time, including Scott Gatz](/assets/images/868548a9-2e62-4a79-a776-3c413e0da584_1280x786.jpg "There were several active Yahoo! bloggers at this time, including Scott Gatz")
 
 
 
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F868548a9-2e62-4a79-a776-3c413e0da584_1280x786.webp)
+](/assets/images/868548a9-2e62-4a79-a776-3c413e0da584_1280x786.jpg)
 
 There were several active Yahoo! bloggers at this time, [including Scott Gatz](https://web.archive.org/web/20051212213038/http://www.scottgatz.com/blog/2005/10/07/research-rss-crossing-into-the-mainstream/).
 
@@ -92,11 +92,11 @@ He suggested we head over to the cafeteria opposite for coffee, so we made our w
 
 [
 
-![The Yahoo! cafetaria, URL’s, on the day I visited](https://substack-post-media.s3.amazonaws.com/public/images/3d81afb6-7dc3-44cc-ab94-362277472f56_1637x1228.jpeg "The Yahoo! cafetaria, URL’s, on the day I visited")
+![The Yahoo! cafetaria, URL’s, on the day I visited](/assets/images/3d81afb6-7dc3-44cc-ab94-362277472f56_1637x1228.jpg "The Yahoo! cafetaria, URL’s, on the day I visited")
 
 
 
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3d81afb6-7dc3-44cc-ab94-362277472f56_1637x1228.jpeg)
+](/assets/images/3d81afb6-7dc3-44cc-ab94-362277472f56_1637x1228.jpg)
 
 The Yahoo! cafetaria, URL’s, on the day I visited.
 
@@ -108,11 +108,11 @@ When he posted the photo later, Jeremy used my name as the title and added the c
 
 [
 
-![Inside the Yahoo! cafe.](https://substack-post-media.s3.amazonaws.com/public/images/eae714ac-087f-40ed-955d-62a0db713abd_1637x1228.jpeg "Inside the Yahoo! cafe.")
+![Inside the Yahoo! cafe.](/assets/images/eae714ac-087f-40ed-955d-62a0db713abd_1637x1228.jpg "Inside the Yahoo! cafe.")
 
 
 
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feae714ac-087f-40ed-955d-62a0db713abd_1637x1228.jpeg)
+](/assets/images/eae714ac-087f-40ed-955d-62a0db713abd_1637x1228.jpg)
 
 Inside the Yahoo! cafe.
 
@@ -120,11 +120,11 @@ During our conversation, Jeremy was a little dismissive of Yahoo’s competitors
 
 [
 
-![Google Reader was released during the Web 2.0 Conference](https://substack-post-media.s3.amazonaws.com/public/images/5357d171-9d1f-4b31-bd9a-7fa3acbdd8f2_800x622.png "Google Reader was released during the Web 2.0 Conference")
+![Google Reader was released during the Web 2.0 Conference](/assets/images/5357d171-9d1f-4b31-bd9a-7fa3acbdd8f2_800x622.png "Google Reader was released during the Web 2.0 Conference")
 
 
 
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5357d171-9d1f-4b31-bd9a-7fa3acbdd8f2_800x622.png)
+](/assets/images/5357d171-9d1f-4b31-bd9a-7fa3acbdd8f2_800x622.png)
 
 Google Reader was released during the Web 2.0 Conference; photo [by Kars Alfrink](https://www.flickr.com/photos/kaeru/50509951).
 

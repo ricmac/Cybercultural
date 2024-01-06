@@ -6,11 +6,11 @@ permalink: "p/roadmap-bubbleblog/"
 ---
 [
 
-![Bubble Blog book cover](https://substack-post-media.s3.amazonaws.com/public/images/73ba0b8a-0364-47f9-9b0d-a7a3cca2a00c_3400x2134.jpeg "Bubble Blog book cover")
+![Bubble Blog book cover](/assets/images/73ba0b8a-0364-47f9-9b0d-a7a3cca2a00c_3400x2134.jpg "Bubble Blog book cover")
 
 
 
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F73ba0b8a-0364-47f9-9b0d-a7a3cca2a00c_3400x2134.jpeg)
+](/assets/images/73ba0b8a-0364-47f9-9b0d-a7a3cca2a00c_3400x2134.jpg)
 
 If you are looking for a good overview of my book project, see [my launch post](https://www.cybercultural.com/p/bubble-blog-web20-memoir).
 

@@ -6,11 +6,11 @@ permalink: "p/introduction-to-bubble-blog-book/"
 ---
 [
 
-![Bubble Blog book cover](https://substack-post-media.s3.amazonaws.com/public/images/5bb99c88-7e3e-4ea2-ad9f-3d32600357a5_3400x2134.jpeg "Bubble Blog book cover")
+![Bubble Blog book cover](/assets/images/5bb99c88-7e3e-4ea2-ad9f-3d32600357a5_3400x2134.jpg "Bubble Blog book cover")
 
 
 
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5bb99c88-7e3e-4ea2-ad9f-3d32600357a5_3400x2134.jpeg)
+](/assets/images/5bb99c88-7e3e-4ea2-ad9f-3d32600357a5_3400x2134.jpg)
 
 _Welcome to the first post in the serialization of my Web 2.0 memoir. This is the introduction, which sets the scene for the 20 chapters to come. Each following chapter will have a number of sections, which you’ll receive as posts via email. There is also [a roadmap (table of contents)](https://www.cybercultural.com/p/roadmap-bubbleblog), which lists all the sections in order — in case you need to catch-up at any point. Thank you for joining me on this journey to the heart of Web 2.0. Please leave comments and/or share on social media if you enjoy it — this is the read/write web after all! Here we go…_
 
@@ -20,11 +20,11 @@ My Silicon Valley story began in September 2005, when I took my first trip to th
 
 [
 
-![ReadWriteWeb in September 2005](https://substack-post-media.s3.amazonaws.com/public/images/5fefa11a-2489-4e38-a4ef-48af2ba10cc7_1024x742.jpeg "ReadWriteWeb in September 2005")
+![ReadWriteWeb in September 2005](/assets/images/5fefa11a-2489-4e38-a4ef-48af2ba10cc7_1024x742.jpg "ReadWriteWeb in September 2005")
 
 
 
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5fefa11a-2489-4e38-a4ef-48af2ba10cc7_1024x742.jpeg)
+](/assets/images/5fefa11a-2489-4e38-a4ef-48af2ba10cc7_1024x742.jpg)
 
 A screen capture of RWW just before I visited Silicon Valley for the first time. The Feedburner RSS badge number indicates this was pre-growth spurt.
 
@@ -40,11 +40,11 @@ To me, Silicon Valley was the modern embodiment of the American Dream, in that i
 
 [
 
-![Richard MacManus in March 2005](https://substack-post-media.s3.amazonaws.com/public/images/f3005330-66f7-4f97-91b6-865741d63d27_480x587.jpeg "Richard MacManus in March 2005")
+![Richard MacManus in March 2005](/assets/images/f3005330-66f7-4f97-91b6-865741d63d27_480x587.jpg "Richard MacManus in March 2005")
 
 
 
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff3005330-66f7-4f97-91b6-865741d63d27_480x587.jpeg)
+](/assets/images/f3005330-66f7-4f97-91b6-865741d63d27_480x587.jpg)
 
 The author in all his geeky, naive glory in March 2005.
 
@@ -66,11 +66,11 @@ A couple of years later, in April 2003, I started a blog and called it Read/Writ
 
 [
 
-![The first ReadWriteWeb post, April 2003](https://substack-post-media.s3.amazonaws.com/public/images/c4634562-0d3e-4b0b-99a4-ebcc2ac9711c_2158x1160.png "The first ReadWriteWeb post, April 2003")
+![The first ReadWriteWeb post, April 2003](/assets/images/c4634562-0d3e-4b0b-99a4-ebcc2ac9711c_2158x1160.png "The first ReadWriteWeb post, April 2003")
 
 
 
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc4634562-0d3e-4b0b-99a4-ebcc2ac9711c_2158x1160.png)
+](/assets/images/c4634562-0d3e-4b0b-99a4-ebcc2ac9711c_2158x1160.png)
 
 The first RWW post, [April 2003](https://web.archive.org/web/20030809061335/http://www.readwriteweb.com/2003/04/20.html) (screenshot from Aug 03)
 
@@ -94,11 +94,11 @@ All of this, which I chronicled on my tech blog, was bundled into a term that be
 
 [
 
-![Web 2.0 meme map, September 2005](https://substack-post-media.s3.amazonaws.com/public/images/cd0fc819-0ef6-4d2b-afb7-490ee31857bd_500x375.jpeg "Web 2.0 meme map, September 2005")
+![Web 2.0 meme map, September 2005](/assets/images/cd0fc819-0ef6-4d2b-afb7-490ee31857bd_500x375.jpg "Web 2.0 meme map, September 2005")
 
 
 
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcd0fc819-0ef6-4d2b-afb7-490ee31857bd_500x375.jpeg)
+](/assets/images/cd0fc819-0ef6-4d2b-afb7-490ee31857bd_500x375.jpg)
 
 [Tim O’Reilly maps](https://web.archive.org/web/20051124001430/http://www.oreillynet.com/pub/a/oreilly/tim/news/2005/09/30/what-is-web-20.html) “the many ideas that radiate out from the Web 2.0 core.” Published 30 September 2005.
 
@@ -108,11 +108,11 @@ In any case, my blog — ReadWriteWeb, a.k.a. RWW — became one of the defining
 
 [
 
-![Bubble 2.0 meme map, October 2005](https://substack-post-media.s3.amazonaws.com/public/images/4bbd5ce8-fdd1-4190-9f3a-322818456d3a_540x483.gif "Bubble 2.0 meme map, October 2005")
+![Bubble 2.0 meme map, October 2005](/assets/images/4bbd5ce8-fdd1-4190-9f3a-322818456d3a_540x483.gif "Bubble 2.0 meme map, October 2005")
 
 
 
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4bbd5ce8-fdd1-4190-9f3a-322818456d3a_540x483.gif)
+](/assets/images/4bbd5ce8-fdd1-4190-9f3a-322818456d3a_540x483.gif)
 
 A parody of the Web 2.0 Meme Map [by Charlie Wood](https://web.archive.org/web/20051026024257/http://bubble20.blogspot.com/2005/10/bubble-2_11.html). Published 11 October 2005. Side note: the very next day, Charlie posted [this quote from me](https://web.archive.org/web/20060507120040/http://bubble20.blogspot.com/2005/10/web-2.html): “OK so there's a lot of hype. So the VCs are throwing money around. So get to work. Build something Web-based that mainstream people will need and want. Now's the time to do it.” ([original RWW post](https://web.archive.org/web/20060103153819/http://www.readwriteweb.com/archives/web_20_land_of.php) where that quote comes from)
 
@@ -130,11 +130,11 @@ As soon as it launched, I’d reached out to Mike’s co-founder, a British expa
 
 [
 
-![At the Techcrunch home office, October 2005](https://substack-post-media.s3.amazonaws.com/public/images/1f8d3307-7220-4e10-ac17-1f7499c0ede6_1637x1228.jpeg "At the Techcrunch home office, October 2005")
+![At the Techcrunch home office, October 2005](/assets/images/1f8d3307-7220-4e10-ac17-1f7499c0ede6_1637x1228.jpg "At the Techcrunch home office, October 2005")
 
 
 
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1f8d3307-7220-4e10-ac17-1f7499c0ede6_1637x1228.jpeg)
+](/assets/images/1f8d3307-7220-4e10-ac17-1f7499c0ede6_1637x1228.jpg)
 
 At the TechCrunch home office, 13 October 2005. From L to R: Fred Oliveira, Michael Arrington, Gabe Rivera from tech.memeorandum.
 
@@ -144,11 +144,11 @@ It had soon become clear to me that Mike was already an insider in this scene, b
 
 [
 
-![Techcrunch, October 2005](https://substack-post-media.s3.amazonaws.com/public/images/f42c077a-de27-4809-9768-44960a515440_1838x1174.png "Techcrunch, October 2005")
+![Techcrunch, October 2005](/assets/images/f42c077a-de27-4809-9768-44960a515440_1838x1174.png "Techcrunch, October 2005")
 
 
 
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff42c077a-de27-4809-9768-44960a515440_1838x1174.png)
+](/assets/images/f42c077a-de27-4809-9768-44960a515440_1838x1174.png)
 
 The [TechcCunch Ning post](https://web.archive.org/web/20051013062358/https://techcrunch.com/2005/10/04/ning-launches/) (screenshot from 13 October 2005). Note the “Web 2.0 Workgroup” badge on the left — that was brand new. It was a group that me, Mike Arrington and Fred Oliveira launched while I was staying at the TechCrunch ranch.
 

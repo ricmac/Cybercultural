@@ -6,11 +6,11 @@ permalink: "p/the-early-years-of-readwriteweb/"
 ---
 [
 
-![My weblog avatar in January 2004](https://substack-post-media.s3.amazonaws.com/public/images/5fa25a2e-ef88-4fd7-9866-bf939acc998b_640x480.jpeg "My weblog avatar in January 2004")
+![My weblog avatar in January 2004](/assets/images/5fa25a2e-ef88-4fd7-9866-bf939acc998b_640x480.jpg "My weblog avatar in January 2004")
 
 
 
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5fa25a2e-ef88-4fd7-9866-bf939acc998b_640x480.jpeg)
+](/assets/images/5fa25a2e-ef88-4fd7-9866-bf939acc998b_640x480.jpg)
 
 My weblog avatar in January 2004, age 32.
 
@@ -30,11 +30,11 @@ Since starting it in April 2003, my weblog had mostly focused on analysis of the
 
 [
 
-![Behold, my tableless CSS design. Safari screen capture from 10 January 2004.](https://substack-post-media.s3.amazonaws.com/public/images/c74891d5-b3c0-4b36-b5b1-7e2f4b283144_1024x768.bmp "Behold, my tableless CSS design. Safari screen capture from 10 January 2004.")
+![Behold, my tableless CSS design. Safari screen capture from 10 January 2004.](/assets/images/c74891d5-b3c0-4b36-b5b1-7e2f4b283144_1024x768.bmp "Behold, my tableless CSS design. Safari screen capture from 10 January 2004.")
 
 
 
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc74891d5-b3c0-4b36-b5b1-7e2f4b283144_1024x768.bmp)
+](/assets/images/c74891d5-b3c0-4b36-b5b1-7e2f4b283144_1024x768.bmp)
 
 Behold, my tableless CSS design. Safari screen capture from 10 January 2004.
 
@@ -46,11 +46,11 @@ Silicon Valley seemed very far away at the time, but at least I felt a sense of 
 
 [
 
-![Radio Community Server 3/30/2004](https://substack-post-media.s3.amazonaws.com/public/images/972e2e17-f086-4884-80e6-3c3afcf408a7_1024x738.jpeg "Radio Community Server 3/30/2004")
+![Radio Community Server 3/30/2004](/assets/images/972e2e17-f086-4884-80e6-3c3afcf408a7_1024x738.jpg "Radio Community Server 3/30/2004")
 
 
 
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F972e2e17-f086-4884-80e6-3c3afcf408a7_1024x738.jpeg)
+](/assets/images/972e2e17-f086-4884-80e6-3c3afcf408a7_1024x738.jpg)
 
 Up until May 2004, I ran my blog on Radio Userland, desktop blogging software created by Dave Winer. On this particular day, 30 March 2004, RWW was ranked 8th in the community — just ahead of future Microsoft CTO Ray Ozzie. In early May, I [switched to Movable Type](https://web.archive.org/web/20040701054525/http://www.readwriteweb.com/archives/001838.php), a browser-based blog platform.
 
@@ -62,11 +62,11 @@ In February, a young Harvard student named Mark Zuckerberg launched a new site c
 
 [
 
-![thefacebook, Feb 2004](https://substack-post-media.s3.amazonaws.com/public/images/03276131-8174-4846-892c-7f5bcd1db9ac_1424x912.png "thefacebook, Feb 2004")
+![thefacebook, Feb 2004](/assets/images/03276131-8174-4846-892c-7f5bcd1db9ac_1424x912.png "thefacebook, Feb 2004")
 
 
 
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F03276131-8174-4846-892c-7f5bcd1db9ac_1424x912.png)
+](/assets/images/03276131-8174-4846-892c-7f5bcd1db9ac_1424x912.png)
 
 Earliest Wayback Machine copy of “Thefacebook”, [12 February 2004](https://web.archive.org/web/20040212031928/http://www.thefacebook.com:80/).
 
@@ -76,11 +76,11 @@ I never did get into the beta of the game, probably because by the time I discov
 
 [
 
-![Flickr co-founder Caterina Fake’s Flickr homepage, June 2004](https://substack-post-media.s3.amazonaws.com/public/images/756168ee-7d51-4bbc-8f68-5559ed903a42_1788x1368.jpeg "Flickr co-founder Caterina Fake’s Flickr homepage, June 2004")
+![Flickr co-founder Caterina Fake’s Flickr homepage, June 2004](/assets/images/756168ee-7d51-4bbc-8f68-5559ed903a42_1788x1368.jpg "Flickr co-founder Caterina Fake’s Flickr homepage, June 2004")
 
 
 
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F756168ee-7d51-4bbc-8f68-5559ed903a42_1788x1368.jpeg)
+](/assets/images/756168ee-7d51-4bbc-8f68-5559ed903a42_1788x1368.jpg)
 
 Flickr co-founder Caterina Fake’s Flickr homepage, [June 2004](https://web.archive.org/web/20040624003419/http://www.flickr.com:80/photos/caterina/). Note the “beta” tag on the logo; this became a familiar sight in Web 2.0!
 
@@ -90,11 +90,11 @@ Funnily enough, Google hadn’t invented this snazzy technique — in fact, it c
 
 [
 
-![Gmail at launch, April 2004](https://substack-post-media.s3.amazonaws.com/public/images/1fb001cd-752c-418a-ba46-9c717c17dc17_826x769.gif "Gmail at launch, April 2004")
+![Gmail at launch, April 2004](/assets/images/1fb001cd-752c-418a-ba46-9c717c17dc17_826x769.gif "Gmail at launch, April 2004")
 
 
 
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1fb001cd-752c-418a-ba46-9c717c17dc17_826x769.gif)
+](/assets/images/1fb001cd-752c-418a-ba46-9c717c17dc17_826x769.gif)
 
 A Gmail screenshot from 2 April 2004, the day after its launch. Via [Kevin Fox](https://web.archive.org/web/20040607065412/http://fury.com/article/1990.php) and [Jason Shellen](https://web.archive.org/web/20040405222707/https://www.shellen.com/), who worked at Google at the time.
 
@@ -108,11 +108,11 @@ Already, though, I had noticed a dark underside to the nascent social web. For a
 
 [
 
-![RWW, Jan 2004](https://substack-post-media.s3.amazonaws.com/public/images/ae179681-15a1-4533-9413-c9c2e5866d99_1600x1178.png "RWW, Jan 2004")
+![RWW, Jan 2004](/assets/images/ae179681-15a1-4533-9413-c9c2e5866d99_1600x1178.png "RWW, Jan 2004")
 
 
 
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fae179681-15a1-4533-9413-c9c2e5866d99_1600x1178.png)
+](/assets/images/ae179681-15a1-4533-9413-c9c2e5866d99_1600x1178.png)
 
 Blogging about blogging; a common activity in 2004. Via [Wayback Machine](https://web.archive.org/web/20040813165529/http://www.readwriteweb.com:80/archives/001795.php).
 

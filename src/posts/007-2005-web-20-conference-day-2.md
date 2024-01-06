@@ -6,11 +6,11 @@ permalink: "p/007-2005-web-20-conference-day-2/"
 ---
 [
 
-![A cartoon drawn of me at the Web 2.0 Conference, October 2005](https://substack-post-media.s3.amazonaws.com/public/images/d1f5d47b-1e9d-458e-bbfa-5256ab205153_562x705.jpeg "A cartoon drawn of me at the Web 2.0 Conference, October 2005")
+![A cartoon drawn of me at the Web 2.0 Conference, October 2005](/assets/images/d1f5d47b-1e9d-458e-bbfa-5256ab205153_562x705.jpg "A cartoon drawn of me at the Web 2.0 Conference, October 2005")
 
 
 
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd1f5d47b-1e9d-458e-bbfa-5256ab205153_562x705.jpeg)
+](/assets/images/d1f5d47b-1e9d-458e-bbfa-5256ab205153_562x705.jpg)
 
 A cartoon drawn of me at the Web 2.0 Conference, October 2005.
 
@@ -34,11 +34,11 @@ I looked closer at the man, who was about my age, and saw that his smile was a m
 
 [
 
-![Jason Calacanis revelling in the glory of selling his business](https://substack-post-media.s3.amazonaws.com/public/images/38dba855-2765-4bde-99ae-ed20accbaf5a_2048x1362.jpeg "Jason Calacanis revelling in the glory of selling his business")
+![Jason Calacanis revelling in the glory of selling his business](/assets/images/38dba855-2765-4bde-99ae-ed20accbaf5a_2048x1362.jpg "Jason Calacanis revelling in the glory of selling his business")
 
 
 
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F38dba855-2765-4bde-99ae-ed20accbaf5a_2048x1362.jpeg)
+](/assets/images/38dba855-2765-4bde-99ae-ed20accbaf5a_2048x1362.jpg)
 
 Jason Calacanis revelling in the glory of selling his business; photo [by Gen Kanai](https://www.flickr.com/photos/gen/50315516/in/album-1082901/).
 
@@ -50,11 +50,11 @@ At one such conference, a few years after he’d sold Weblogs, Inc., a colleague
 
 [
 
-![My new Irish friends, Fergus Burns and Jonathan Hill, in the lobby of the Web 2.0 Conference](https://substack-post-media.s3.amazonaws.com/public/images/2128cec9-2787-4052-827f-7963bd8607a2_960x1280.jpeg "My new Irish friends, Fergus Burns and Jonathan Hill, in the lobby of the Web 2.0 Conference")
+![My new Irish friends, Fergus Burns and Jonathan Hill, in the lobby of the Web 2.0 Conference](/assets/images/2128cec9-2787-4052-827f-7963bd8607a2_960x1280.jpg "My new Irish friends, Fergus Burns and Jonathan Hill, in the lobby of the Web 2.0 Conference")
 
 
 
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2128cec9-2787-4052-827f-7963bd8607a2_960x1280.jpeg)
+](/assets/images/2128cec9-2787-4052-827f-7963bd8607a2_960x1280.jpg)
 
 My new Irish friends, Fergus Burns and Jonathan Hill, in the lobby of the Web 2.0 Conference. Photo [via Fergus Burns](https://www.flickr.com/photos/itnorthwest/49761814/).
 
@@ -70,11 +70,11 @@ At the end of the day, I had some time to kill before the Swig party, so I heade
 
 [
 
-![House of Shields exterior](https://substack-post-media.s3.amazonaws.com/public/images/79b85733-add5-40d2-a39e-cd35b308e969_1280x856.webp "House of Shields exterior")
+![House of Shields exterior](/assets/images/79b85733-add5-40d2-a39e-cd35b308e969_1280x856.jpg "House of Shields exterior")
 
 
 
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F79b85733-add5-40d2-a39e-cd35b308e969_1280x856.webp)
+](/assets/images/79b85733-add5-40d2-a39e-cd35b308e969_1280x856.jpg)
 
 Photo [by Steve Rhodes](https://www.flickr.com/photos/ari/4102964213/).
 
@@ -98,11 +98,11 @@ By the end of the bus journey into the city — about a twenty minute trip, with
 
 [
 
-![Me sometime in 1997](https://substack-post-media.s3.amazonaws.com/public/images/8f7b94c4-f715-402a-b084-55d68e29a78a_1123x711.jpeg "Me sometime in 1997")
+![Me sometime in 1997](/assets/images/8f7b94c4-f715-402a-b084-55d68e29a78a_1123x711.jpg "Me sometime in 1997")
 
 
 
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8f7b94c4-f715-402a-b084-55d68e29a78a_1123x711.jpeg)
+](/assets/images/8f7b94c4-f715-402a-b084-55d68e29a78a_1123x711.jpg)
 
 Me sometime in 1997.
 
@@ -118,11 +118,11 @@ On this, my first trip to the US, I hadn’t yet figured out how to get my primi
 
 [
 
-![The Motorola E815](https://substack-post-media.s3.amazonaws.com/public/images/87edef62-e3eb-439f-a379-fa40c4f40cdf_1600x1200.jpeg "The Motorola E815")
+![The Motorola E815](/assets/images/87edef62-e3eb-439f-a379-fa40c4f40cdf_1600x1200.jpg "The Motorola E815")
 
 
 
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F87edef62-e3eb-439f-a379-fa40c4f40cdf_1600x1200.jpeg)
+](/assets/images/87edef62-e3eb-439f-a379-fa40c4f40cdf_1600x1200.jpg)
 
 The Motorola E815; photo [by Hugo Londoño](https://www.flickr.com/photos/sinlentes/66200888).
 

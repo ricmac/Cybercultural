@@ -6,11 +6,11 @@ permalink: "p/008-the-colors-of-web-20-party/"
 ---
 [
 
-![Web 2.0 cool kids](https://substack-post-media.s3.amazonaws.com/public/images/70a2272f-baa4-4971-a3ed-6de5b29856f4_2048x1365.jpeg "Web 2.0 cool kids")
+![Web 2.0 cool kids](/assets/images/70a2272f-baa4-4971-a3ed-6de5b29856f4_2048x1365.jpg "Web 2.0 cool kids")
 
 
 
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F70a2272f-baa4-4971-a3ed-6de5b29856f4_2048x1365.jpeg)
+](/assets/images/70a2272f-baa4-4971-a3ed-6de5b29856f4_2048x1365.jpg)
 
 Me leading my posse into the party… no, just kidding, this was someone much cooler than me. Photo [by Kris Krug](https://www.flickr.com/photos/kk/50159142/in/album-1111108/).
 
@@ -24,11 +24,11 @@ The Colors of Web 2.0 Party was held on Thursday, October 6, 2005, at Swig — a
 
 [
 
-![Invitation to the party](https://substack-post-media.s3.amazonaws.com/public/images/abc1db78-2132-4849-87b3-5e408c7bf470_1000x978.png "Invitation to the party")
+![Invitation to the party](/assets/images/abc1db78-2132-4849-87b3-5e408c7bf470_1000x978.png "Invitation to the party")
 
 
 
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fabc1db78-2132-4849-87b3-5e408c7bf470_1000x978.png)
+](/assets/images/abc1db78-2132-4849-87b3-5e408c7bf470_1000x978.png)
 
 The invite; photo [by Chris Messina](https://www.flickr.com/photos/factoryjoe/49414122).
 
@@ -36,11 +36,11 @@ Swig was heaving with people when I arrived. Many of the young and hip partygoer
 
 [
 
-![Web 2.0 party attendees](https://substack-post-media.s3.amazonaws.com/public/images/b704c692-ee86-4097-b8e3-b9af90112984_799x533.jpeg "Web 2.0 party attendees")
+![Web 2.0 party attendees](/assets/images/b704c692-ee86-4097-b8e3-b9af90112984_799x533.jpg "Web 2.0 party attendees")
 
 
 
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb704c692-ee86-4097-b8e3-b9af90112984_799x533.jpeg)
+](/assets/images/b704c692-ee86-4097-b8e3-b9af90112984_799x533.jpg)
 
 Chris Messina, Nicole Lee, Niall Kennedy. Photo [by Kris Krug](https://www.flickr.com/photos/kk/50154715).
 
@@ -50,11 +50,11 @@ I was also writing a blog for ZDNet, an established tech news brand owned by CNE
 
 [
 
-![The Colors of Web 2.0 Party, Oct 2005](https://substack-post-media.s3.amazonaws.com/public/images/3e1d1bc0-aaf7-408d-9ccc-3a74d587d6df_1280x960.jpeg "The Colors of Web 2.0 Party, Oct 2005")
+![The Colors of Web 2.0 Party, Oct 2005](/assets/images/3e1d1bc0-aaf7-408d-9ccc-3a74d587d6df_1280x960.jpg "The Colors of Web 2.0 Party, Oct 2005")
 
 
 
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3e1d1bc0-aaf7-408d-9ccc-3a74d587d6df_1280x960.jpeg)
+](/assets/images/3e1d1bc0-aaf7-408d-9ccc-3a74d587d6df_1280x960.jpg)
 
 Photo [by Tara Hunt](https://www.flickr.com/photos/missrogue/50242180).
 
@@ -62,11 +62,11 @@ I remember it was a fun evening and I’m sure I half-listened to some shouted s
 
 [
 
-![The after-party](https://substack-post-media.s3.amazonaws.com/public/images/4a1e0bbb-70ca-44f9-a4cc-3c967ca99c30_1600x1080.jpeg "The after-party")
+![The after-party](/assets/images/4a1e0bbb-70ca-44f9-a4cc-3c967ca99c30_1600x1080.jpg "The after-party")
 
 
 
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F4a1e0bbb-70ca-44f9-a4cc-3c967ca99c30_1600x1080.jpeg)
+](/assets/images/4a1e0bbb-70ca-44f9-a4cc-3c967ca99c30_1600x1080.jpg)
 
 The after-party I was either too cool to attend, or wasn’t cool enough to attend (I’ll leave it to the reader to decide). Photo [by Kris Krug](https://www.flickr.com/photos/kk/50793989/).
 
@@ -76,11 +76,11 @@ Sometime between 10 and 11pm, after we’d had enough of the crowds and noise at
 
 [
 
-![My ZDNet blog, which I started at the end of August 2005.](https://substack-post-media.s3.amazonaws.com/public/images/10b7036c-d4a7-4615-a781-459a8c2795e2_1604x896.png "My ZDNet blog, which I started at the end of August 2005.")
+![My ZDNet blog, which I started at the end of August 2005.](/assets/images/10b7036c-d4a7-4615-a781-459a8c2795e2_1604x896.png "My ZDNet blog, which I started at the end of August 2005.")
 
 
 
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F10b7036c-d4a7-4615-a781-459a8c2795e2_1604x896.png)
+](/assets/images/10b7036c-d4a7-4615-a781-459a8c2795e2_1604x896.png)
 
 My ZDNet blog, which I started at the end of August 2005.
 
@@ -90,11 +90,11 @@ Josh was telling me about a guy he’d met at the conference, who was building a
 
 [
 
-![The Structured Blogging website, circa December 2005.](https://substack-post-media.s3.amazonaws.com/public/images/76f31374-a566-48b1-a510-3d12bed6573b_1254x814.png "The Structured Blogging website, circa December 2005.")
+![The Structured Blogging website, circa December 2005.](/assets/images/76f31374-a566-48b1-a510-3d12bed6573b_1254x814.png "The Structured Blogging website, circa December 2005.")
 
 
 
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F76f31374-a566-48b1-a510-3d12bed6573b_1254x814.png)
+](/assets/images/76f31374-a566-48b1-a510-3d12bed6573b_1254x814.png)
 
 The [Structured Blogging website](https://web.archive.org/web/20051217131422/http://structuredblogging.org/), circa December 2005.
 
@@ -108,11 +108,11 @@ Josh could see that I was full-on panicking now, so he asked if I was ok. I just
 
 [
 
-![Caltrain, October 2005](https://substack-post-media.s3.amazonaws.com/public/images/19892471-a2a3-4d39-886b-ae93272c5807_800x600.jpeg "Caltrain, October 2005")
+![Caltrain, October 2005](/assets/images/19892471-a2a3-4d39-886b-ae93272c5807_800x600.jpg "Caltrain, October 2005")
 
 
 
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F19892471-a2a3-4d39-886b-ae93272c5807_800x600.jpeg)
+](/assets/images/19892471-a2a3-4d39-886b-ae93272c5807_800x600.jpg)
 
 Caltrain, October 2005; photo [by Tantek Çelik](https://www.flickr.com/photos/tantek/53044122).
 

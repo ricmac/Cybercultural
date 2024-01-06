@@ -6,11 +6,11 @@ permalink: "p/the-first-web-20-conference-2004/"
 ---
 [
 
-![Read/Write Web, 25 March 2004](https://substack-post-media.s3.amazonaws.com/public/images/c374b60f-7b0f-4b94-a4f3-c4ca0498f5e0_2320x1596.png "Read/Write Web, 25 March 2004")
+![Read/Write Web, 25 March 2004](/assets/images/c374b60f-7b0f-4b94-a4f3-c4ca0498f5e0_2320x1596.png "Read/Write Web, 25 March 2004")
 
 
 
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc374b60f-7b0f-4b94-a4f3-c4ca0498f5e0_2320x1596.png)
+](/assets/images/c374b60f-7b0f-4b94-a4f3-c4ca0498f5e0_2320x1596.png)
 
 Read/Write Web, [25 March 2004](https://web.archive.org/web/20040325005810/http://readwriteweb.com/) (just before Marc Canter interview)
 
@@ -34,11 +34,11 @@ The resulting post was the first of mine to get a ton of traffic, after making t
 
 [
 
-![Radio Community Server stats after my first Slashdotting](https://substack-post-media.s3.amazonaws.com/public/images/3e2fa41d-9daa-4372-a0be-b7d3028420d0_1024x738.jpeg "Radio Community Server stats after my first Slashdotting")
+![Radio Community Server stats after my first Slashdotting](/assets/images/3e2fa41d-9daa-4372-a0be-b7d3028420d0_1024x738.jpg "Radio Community Server stats after my first Slashdotting")
 
 
 
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3e2fa41d-9daa-4372-a0be-b7d3028420d0_1024x738.jpeg)
+](/assets/images/3e2fa41d-9daa-4372-a0be-b7d3028420d0_1024x738.jpg)
 
 My first Slashdotting. I think this screenshot was taken at my day job (since it’s an IE browser).
 
@@ -46,11 +46,11 @@ It also resulted in my first article in a noted print publication. I sent it to 
 
 [
 
-![Computerworld, April 2004](https://substack-post-media.s3.amazonaws.com/public/images/0b85f74c-418f-4847-b963-1f09bca3e185_1280x953.webp "Computerworld, April 2004")
+![Computerworld, April 2004](/assets/images/0b85f74c-418f-4847-b963-1f09bca3e185_1280x953.jpg "Computerworld, April 2004")
 
 
 
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F0b85f74c-418f-4847-b963-1f09bca3e185_1280x953.webp)
+](/assets/images/0b85f74c-418f-4847-b963-1f09bca3e185_1280x953.jpg)
 
 Almost my first byline in a print newspaper (except they left my name off the article). Computerworld, April 2004.
 
@@ -66,11 +66,11 @@ I met Canter in person the following year, during my first trip to the US. He wa
 
 [
 
-![Marc Canter during his MacroMind years](https://substack-post-media.s3.amazonaws.com/public/images/5c5f798c-4866-4777-b45a-9f4f78808e11_600x391.webp "Marc Canter during his MacroMind years")
+![Marc Canter during his MacroMind years](/assets/images/5c5f798c-4866-4777-b45a-9f4f78808e11_600x391.jpg "Marc Canter during his MacroMind years")
 
 
 
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5c5f798c-4866-4777-b45a-9f4f78808e11_600x391.webp)
+](/assets/images/5c5f798c-4866-4777-b45a-9f4f78808e11_600x391.jpg)
 
 Marc Canter during his [MacroMind years](https://medium.com/@marccanter4real/marc-canter-wikipedia-corrections-96f1da0da167).
 
@@ -82,11 +82,11 @@ In July 2004, the computer book publisher Tim O’Reilly made a keynote speech a
 
 [
 
-![Tim O’Reilly at Oscon 04](https://substack-post-media.s3.amazonaws.com/public/images/066e8b0c-6b06-4470-8a93-5610fb03a562_375x255.jpeg "Tim O’Reilly at Oscon 04")
+![Tim O’Reilly at Oscon 04](/assets/images/066e8b0c-6b06-4470-8a93-5610fb03a562_375x255.jpg "Tim O’Reilly at Oscon 04")
 
 
 
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F066e8b0c-6b06-4470-8a93-5610fb03a562_375x255.jpeg)
+](/assets/images/066e8b0c-6b06-4470-8a93-5610fb03a562_375x255.jpg)
 
 Tim O’Reilly at Oscon 04; photo [via Dan Farber](https://web.archive.org/web/20040930130457/http://blogs.zdnet.com/index.php?p=241), ZDNet
 
@@ -98,11 +98,11 @@ The phrase “network effects” was repeated multiple times during his talk; he
 
 [
 
-![Tim O’Reilly’s internet stack at Oscon 2004](https://substack-post-media.s3.amazonaws.com/public/images/c97cf636-da3b-474d-83f7-0bdca7357999_2220x1678.jpeg "Tim O’Reilly’s internet stack at Oscon 2004")
+![Tim O’Reilly’s internet stack at Oscon 2004](/assets/images/c97cf636-da3b-474d-83f7-0bdca7357999_2220x1678.jpg "Tim O’Reilly’s internet stack at Oscon 2004")
 
 
 
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc97cf636-da3b-474d-83f7-0bdca7357999_2220x1678.jpeg)
+](/assets/images/c97cf636-da3b-474d-83f7-0bdca7357999_2220x1678.jpg)
 
 Tim O’Reilly’s internet stack at Oscon 2004 (via [his presentation](https://web.archive.org/web/20190221185128/http://conferences.oreillynet.com/presentations/os2004/oreilly_tim.pdf))
 
@@ -112,11 +112,11 @@ There was no mention of the term “Web 2.0” during O’Reilly’s Oscon keyno
 
 [
 
-![Web 2.0 Conference website, 2 June 2004](https://substack-post-media.s3.amazonaws.com/public/images/01cb160d-9744-4244-a984-a2cda80392f8_1682x1538.jpeg "Web 2.0 Conference website, 2 June 2004")
+![Web 2.0 Conference website, 2 June 2004](/assets/images/01cb160d-9744-4244-a984-a2cda80392f8_1682x1538.jpg "Web 2.0 Conference website, 2 June 2004")
 
 
 
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F01cb160d-9744-4244-a984-a2cda80392f8_1682x1538.jpeg)
+](/assets/images/01cb160d-9744-4244-a984-a2cda80392f8_1682x1538.jpg)
 
 [Web 2.0 Conference website](https://web.archive.org/web/20040602111547/http://www.web2con.com/), 2 June 2004
 
@@ -130,11 +130,11 @@ Marc Andreessen’s [panel](https://web.archive.org/web/20040614114254/http://we
 
 [
 
-![John Battelle, Marc Andreessen and Dan Rosensweig at Web 2.0 Conference, October 2004](https://substack-post-media.s3.amazonaws.com/public/images/500f92b7-24b9-4c9b-a99f-4940312596d5_1280x964.webp "John Battelle, Marc Andreessen and Dan Rosensweig at Web 2.0 Conference, October 2004")
+![John Battelle, Marc Andreessen and Dan Rosensweig at Web 2.0 Conference, October 2004](/assets/images/500f92b7-24b9-4c9b-a99f-4940312596d5_1280x964.jpg "John Battelle, Marc Andreessen and Dan Rosensweig at Web 2.0 Conference, October 2004")
 
 
 
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F500f92b7-24b9-4c9b-a99f-4940312596d5_1280x964.webp)
+](/assets/images/500f92b7-24b9-4c9b-a99f-4940312596d5_1280x964.jpg)
 
 John Battelle, Marc Andreessen and Dan Rosensweig at Web 2.0 Conference, October 2004; [photo by Esther Dyson](https://www.flickr.com/photos/edyson/742330)
 
@@ -148,11 +148,11 @@ Even in 2004, many years before cancel culture, the plantation owner analogy was
 
 [
 
-![One of the very few diverse panels at the 2004 Web 2.0 Conference, the “teen panel”](https://substack-post-media.s3.amazonaws.com/public/images/d590aa3f-88dd-4649-8b70-80afe67f7722_2879x1160.jpeg "One of the very few diverse panels at the 2004 Web 2.0 Conference, the “teen panel”")
+![One of the very few diverse panels at the 2004 Web 2.0 Conference, the “teen panel”](/assets/images/d590aa3f-88dd-4649-8b70-80afe67f7722_2879x1160.jpg "One of the very few diverse panels at the 2004 Web 2.0 Conference, the “teen panel”")
 
 
 
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd590aa3f-88dd-4649-8b70-80afe67f7722_2879x1160.jpeg)
+](/assets/images/d590aa3f-88dd-4649-8b70-80afe67f7722_2879x1160.jpg)
 
 One of the very few diverse panels at the 2004 Web 2.0 Conference, the “teen panel”; [photo by ptufts](https://www.flickr.com/photos/zippy/50537455/in/dateposted/)
 

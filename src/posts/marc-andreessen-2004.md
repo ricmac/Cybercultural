@@ -6,11 +6,11 @@ permalink: "p/marc-andreessen-2004/"
 ---
 [
 
-![Marc Andreessen on the cover of TIME magazine in Feb 1996](https://substack-post-media.s3.amazonaws.com/public/images/fd1d4179-2029-4f19-80ef-29a90033148b_973x1280.jpeg "Marc Andreessen on the cover of TIME magazine in Feb 1996")
+![Marc Andreessen on the cover of TIME magazine in Feb 1996](/assets/images/fd1d4179-2029-4f19-80ef-29a90033148b_973x1280.jpg "Marc Andreessen on the cover of TIME magazine in Feb 1996")
 
 
 
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffd1d4179-2029-4f19-80ef-29a90033148b_973x1280.jpeg)
+](/assets/images/fd1d4179-2029-4f19-80ef-29a90033148b_973x1280.jpg)
 
 Marc Andreessen, bare feet and all, on the cover of TIME magazine in Feb 1996.
 
@@ -31,11 +31,11 @@ The other Marc, Andreessen, was doing just fine financially and had no shortage 
 
 [
 
-![Andreessen in November 2003](https://substack-post-media.s3.amazonaws.com/public/images/1906cfc0-9876-4912-88cb-52981beeefd0_960x630.jpeg "Andreessen in November 2003")
+![Andreessen in November 2003](/assets/images/1906cfc0-9876-4912-88cb-52981beeefd0_960x630.jpg "Andreessen in November 2003")
 
 
 
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1906cfc0-9876-4912-88cb-52981beeefd0_960x630.jpeg)
+](/assets/images/1906cfc0-9876-4912-88cb-52981beeefd0_960x630.jpg)
 
 Andreessen in November 2003; photo credit: [The Chronicle](https://www.sfgate.com/business/ontherecord/article/OPSWARE-INC-On-the-record-Marc-Andreessen-2525822.php)
 
@@ -51,11 +51,11 @@ Ten years ago to the day, he’d been just a few months into a new startup ventu
 
 [
 
-![Netscape officers Jim Barksdale, Marc Andreessen, and James Clark, 1995](https://substack-post-media.s3.amazonaws.com/public/images/cffc7ba2-86c3-4b15-ab78-df0b8502877e_442x300.webp "Netscape officers Jim Barksdale, Marc Andreessen, and James Clark, 1995")
+![Netscape officers Jim Barksdale, Marc Andreessen, and James Clark, 1995](/assets/images/cffc7ba2-86c3-4b15-ab78-df0b8502877e_442x300.jpg "Netscape officers Jim Barksdale, Marc Andreessen, and James Clark, 1995")
 
 
 
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcffc7ba2-86c3-4b15-ab78-df0b8502877e_442x300.webp)
+](/assets/images/cffc7ba2-86c3-4b15-ab78-df0b8502877e_442x300.jpg)
 
 Netscape officers Jim Barksdale, Marc Andreessen, and James Clark, 1995; Credit: [Encyclopædia Britannica](https://www.britannica.com/topic/Netscape-Communications-Corp)
 
@@ -65,11 +65,11 @@ His second company had been a different beast. It had started out as LoudCloud i
 
 [
 
-![Opsware in April 2004](https://substack-post-media.s3.amazonaws.com/public/images/8d7992e7-0c53-4d7a-8786-549bc7906a50_1592x714.png "Opsware in April 2004")
+![Opsware in April 2004](/assets/images/8d7992e7-0c53-4d7a-8786-549bc7906a50_1592x714.png "Opsware in April 2004")
 
 
 
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8d7992e7-0c53-4d7a-8786-549bc7906a50_1592x714.png)
+](/assets/images/8d7992e7-0c53-4d7a-8786-549bc7906a50_1592x714.png)
 
 Chairman of the board; Opsware in April 2004
 
@@ -79,11 +79,11 @@ Andreessen’s third act came to be called Ning and when he started it in July 2
 
 [
 
-![Gina Bianchini and Marc Andreessen in 2008](https://substack-post-media.s3.amazonaws.com/public/images/ba719df1-9ac5-49bb-995b-fff22ae5b43b_460x586.webp "Gina Bianchini and Marc Andreessen in 2008")
+![Gina Bianchini and Marc Andreessen in 2008](/assets/images/ba719df1-9ac5-49bb-995b-fff22ae5b43b_460x586.jpg "Gina Bianchini and Marc Andreessen in 2008")
 
 
 
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fba719df1-9ac5-49bb-995b-fff22ae5b43b_460x586.webp)
+](/assets/images/ba719df1-9ac5-49bb-995b-fff22ae5b43b_460x586.jpg)
 
 Christian Witkin's photo of Gina Bianchini and Marc Andreessen in a 2008 Vanity Fair profile; [via Boing Boing](https://boingboing.net/2008/06/04/evil-genius-photo-of.html)
 
@@ -95,11 +95,11 @@ So what was the inspiration? Facebook had started the same year as Ning, but it 
 
 [
 
-![LinkedIn screenshot, November 2004](https://substack-post-media.s3.amazonaws.com/public/images/aa68b854-ed21-4ce1-beb9-1987ac722d9f_1568x1648.png "LinkedIn screenshot, November 2004")
+![LinkedIn screenshot, November 2004](/assets/images/aa68b854-ed21-4ce1-beb9-1987ac722d9f_1568x1648.png "LinkedIn screenshot, November 2004")
 
 
 
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faa68b854-ed21-4ce1-beb9-1987ac722d9f_1568x1648.png)
+](/assets/images/aa68b854-ed21-4ce1-beb9-1987ac722d9f_1568x1648.png)
 
 LinkedIn screenshot, November 2004; [via vefsafn.is](https://vefsafn.is/is/20041102131846/https:/www.linkedin.com/)
 

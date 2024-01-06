@@ -6,11 +6,11 @@ permalink: "p/call-with-tim-oreilly-2004/"
 ---
 [
 
-![My Tim O’Reilly interview after the first Web 2.0 Conference, Nov 2004.](https://substack-post-media.s3.amazonaws.com/public/images/b355a7e0-ccf7-4464-83c0-2c3251ea3a0b_1514x1126.png "My Tim O’Reilly interview after the first Web 2.0 Conference, Nov 2004.")
+![My Tim O’Reilly interview after the first Web 2.0 Conference, Nov 2004.](/assets/images/b355a7e0-ccf7-4464-83c0-2c3251ea3a0b_1514x1126.png "My Tim O’Reilly interview after the first Web 2.0 Conference, Nov 2004.")
 
 
 
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb355a7e0-ccf7-4464-83c0-2c3251ea3a0b_1514x1126.png)
+](/assets/images/b355a7e0-ccf7-4464-83c0-2c3251ea3a0b_1514x1126.png)
 
 My Tim O’Reilly interview after the first Web 2.0 Conference, Nov 2004.
 
@@ -34,11 +34,11 @@ I would later learn that this was what O’Reilly was like to everyone — he wa
 
 [
 
-![Tim O'Reilly and Jeff Bezos during the 2004 Web 2.0 Conference](https://substack-post-media.s3.amazonaws.com/public/images/d620f1ef-25fe-41ce-8c43-621e6f826268_663x493.jpeg "Tim O'Reilly and Jeff Bezos during the 2004 Web 2.0 Conference")
+![Tim O'Reilly and Jeff Bezos during the 2004 Web 2.0 Conference](/assets/images/d620f1ef-25fe-41ce-8c43-621e6f826268_663x493.jpg "Tim O'Reilly and Jeff Bezos during the 2004 Web 2.0 Conference")
 
 
 
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd620f1ef-25fe-41ce-8c43-621e6f826268_663x493.jpeg)
+](/assets/images/d620f1ef-25fe-41ce-8c43-621e6f826268_663x493.jpg)
 
 Tim O'Reilly and Jeff Bezos during the 2004 Web 2.0 Conference; Photo [by JD Lasica](https://www.flickr.com/photos/jdlasica/153327706/in/album-600477/)
 
@@ -48,21 +48,21 @@ This turned out to be spot on; Microsoft eventually morphed into a cloud computi
 
 [
 
-![my logo circa mid-2004](https://substack-post-media.s3.amazonaws.com/public/images/324be902-c26a-4ff8-ab54-ce97f56075b3_800x75.jpeg "my logo circa mid-2004")
+![my logo circa mid-2004](/assets/images/324be902-c26a-4ff8-ab54-ce97f56075b3_800x75.jpg "my logo circa mid-2004")
 
 
 
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F324be902-c26a-4ff8-ab54-ce97f56075b3_800x75.jpeg)
+](/assets/images/324be902-c26a-4ff8-ab54-ce97f56075b3_800x75.jpg)
 
 Messing about with my logo circa mid-2004. The ‘giant pencils’ image in my header mystified many RWW readers; it came from a 2001 John Baldessari art installation entitled READ/WRITE/THINK/DREAM.
 
 [
 
-![from a 2001 John Baldessari art installation entitled READ/WRITE/THINK/DREAM](https://substack-post-media.s3.amazonaws.com/public/images/1bb012a7-63aa-48e4-aefb-21d5e11d0940_740x414.jpeg "from a 2001 John Baldessari art installation entitled READ/WRITE/THINK/DREAM")
+![from a 2001 John Baldessari art installation entitled READ/WRITE/THINK/DREAM](/assets/images/1bb012a7-63aa-48e4-aefb-21d5e11d0940_740x414.jpg "from a 2001 John Baldessari art installation entitled READ/WRITE/THINK/DREAM")
 
 
 
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1bb012a7-63aa-48e4-aefb-21d5e11d0940_740x414.jpeg)
+](/assets/images/1bb012a7-63aa-48e4-aefb-21d5e11d0940_740x414.jpg)
 
 The original Baldessari artwork; [via UC San Diego Stuart Collection](https://stuartcollection.ucsd.edu/artist/baldessari.html).
 
@@ -72,11 +72,11 @@ Other predictions from O’Reilly in 2004 were less accurate, with the benefit o
 
 [
 
-![Feedburner, the RSS management service I became enamoured with in 2004](https://substack-post-media.s3.amazonaws.com/public/images/dee6162c-589e-43ea-bf23-9767609f0ab0_1658x1158.png "Feedburner, the RSS management service I became enamoured with in 2004")
+![Feedburner, the RSS management service I became enamoured with in 2004](/assets/images/dee6162c-589e-43ea-bf23-9767609f0ab0_1658x1158.png "Feedburner, the RSS management service I became enamoured with in 2004")
 
 
 
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdee6162c-589e-43ea-bf23-9767609f0ab0_1658x1158.png)
+](/assets/images/dee6162c-589e-43ea-bf23-9767609f0ab0_1658x1158.png)
 
 [Feedburner](https://web.archive.org/web/20040602184705/http://feedburner.com/fb/a/home), the RSS management service I became enamoured with in 2004.
 
@@ -90,11 +90,11 @@ The feedback I got from the Tim O’Reilly interview, which I published in three
 
 [
 
-![Part 2 of the Tim O’Reilly interview](https://substack-post-media.s3.amazonaws.com/public/images/fe475259-8a55-449e-bfba-ee253af3d751_1504x1176.png "Part 2 of the Tim O’Reilly interview")
+![Part 2 of the Tim O’Reilly interview](/assets/images/fe475259-8a55-449e-bfba-ee253af3d751_1504x1176.png "Part 2 of the Tim O’Reilly interview")
 
 
 
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffe475259-8a55-449e-bfba-ee253af3d751_1504x1176.png)
+](/assets/images/fe475259-8a55-449e-bfba-ee253af3d751_1504x1176.png)
 
 Part 2 of the Tim O’Reilly interview.
 
@@ -108,11 +108,11 @@ There was a debate happening in the blogosphere about whether the Marqui blogger
 
 [
 
-![Marqui blogosphere program](https://substack-post-media.s3.amazonaws.com/public/images/8ff3c61d-ea5f-4c82-87e4-5ff4a8e13790_1568x1044.png "Marqui blogosphere program")
+![Marqui blogosphere program](/assets/images/8ff3c61d-ea5f-4c82-87e4-5ff4a8e13790_1568x1044.png "Marqui blogosphere program")
 
 
 
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8ff3c61d-ea5f-4c82-87e4-5ff4a8e13790_1568x1044.png)
+](/assets/images/8ff3c61d-ea5f-4c82-87e4-5ff4a8e13790_1568x1044.png)
 
 I was searching for a business model for my blog, but this didn’t turn out to be it.
 
@@ -122,11 +122,11 @@ It was a solid business idea, but unfortunately neither Phil nor I were adept at
 
 [
 
-![WordPress in 2004](https://substack-post-media.s3.amazonaws.com/public/images/73077544-498e-4613-b41c-2809989c80ae_893x381.png "WordPress in 2004")
+![WordPress in 2004](/assets/images/73077544-498e-4613-b41c-2809989c80ae_893x381.png "WordPress in 2004")
 
 
 
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F73077544-498e-4613-b41c-2809989c80ae_893x381.png)
+](/assets/images/73077544-498e-4613-b41c-2809989c80ae_893x381.png)
 
 Although ‘Weblog Solutions’ didn’t work out, it did give me a chance to play with WordPress (I used Movable Type for RWW). In 2004, there were controversial changes in Movable Type's licensing, which started the first wave of WordPress adoption. I stuck with MT, as by then I was used to it.
 
@@ -136,11 +136,11 @@ By this point, it was clear what the focus of my blog would be going forward: We
 
 [
 
-![RWW Reader Share 2004](https://substack-post-media.s3.amazonaws.com/public/images/b6d2d000-32e2-4f71-98a7-07b69ab330af_420x317.gif "RWW Reader Share 2004")
+![RWW Reader Share 2004](/assets/images/b6d2d000-32e2-4f71-98a7-07b69ab330af_420x317.gif "RWW Reader Share 2004")
 
 
 
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb6d2d000-32e2-4f71-98a7-07b69ab330af_420x317.gif)
+](/assets/images/b6d2d000-32e2-4f71-98a7-07b69ab330af_420x317.gif)
 
 By [the end of 2004](https://web.archive.org/web/20041229152041/http://www.readwriteweb.com/archives/002574.php), most of my subscribers used browser-based Bloglines as their RSS Reader, with NetNewsWire (a desktop app) a distant second.
 

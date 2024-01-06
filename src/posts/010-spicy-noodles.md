@@ -6,11 +6,11 @@ permalink: "p/010-spicy-noodles/"
 ---
 [
 
-![Celebrating the Web 2.0 Workgroup at Jing Jing, in Palo Alto.](https://substack-post-media.s3.amazonaws.com/public/images/5f0cf3d8-28af-4f7c-ab78-350ffe501156_2272x1704.jpeg "Celebrating the Web 2.0 Workgroup at Jing Jing, in Palo Alto.")
+![Celebrating the Web 2.0 Workgroup at Jing Jing, in Palo Alto.](/assets/images/5f0cf3d8-28af-4f7c-ab78-350ffe501156_2272x1704.jpg "Celebrating the Web 2.0 Workgroup at Jing Jing, in Palo Alto.")
 
 
 
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5f0cf3d8-28af-4f7c-ab78-350ffe501156_2272x1704.jpeg)
+](/assets/images/5f0cf3d8-28af-4f7c-ab78-350ffe501156_2272x1704.jpg)
 
 Celebrating the Web 2.0 Workgroup at Jing Jing, in Palo Alto. From left to right: Gabe Rivera, Dave Winer, me, Mike Arrington, Fred Oliveira. Photo by Dave.
 
@@ -26,11 +26,11 @@ Fred created a new [website](http://web.archive.org/web/20051013062347/http://ww
 
 [
 
-![The Web 2.0 Workgroup homepage](https://substack-post-media.s3.amazonaws.com/public/images/cc5284db-c315-44f0-9762-c3d46c54fab2_1882x1190.png "The Web 2.0 Workgroup homepage")
+![The Web 2.0 Workgroup homepage](/assets/images/cc5284db-c315-44f0-9762-c3d46c54fab2_1882x1190.jpg "The Web 2.0 Workgroup homepage")
 
 
 
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcc5284db-c315-44f0-9762-c3d46c54fab2_1882x1190.png)
+](/assets/images/cc5284db-c315-44f0-9762-c3d46c54fab2_1882x1190.jpg)
 
 The Web 2.0 Workgroup [homepage](http://web.archive.org/web/20051013062347/http://www.web20workgroup.com/).
 
@@ -42,11 +42,11 @@ Dave was 50 years old at this time (roughly the same age as I am now, writing th
 
 [
 
-![My photo of the others during the spicy noodles lunch.](https://substack-post-media.s3.amazonaws.com/public/images/c96d5846-bcd6-4871-bae2-c4f227731c34_1637x1228.jpeg "My photo of the others during the spicy noodles lunch.")
+![My photo of the others during the spicy noodles lunch.](/assets/images/c96d5846-bcd6-4871-bae2-c4f227731c34_1637x1228.jpg "My photo of the others during the spicy noodles lunch.")
 
 
 
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc96d5846-bcd6-4871-bae2-c4f227731c34_1637x1228.jpeg)
+](/assets/images/c96d5846-bcd6-4871-bae2-c4f227731c34_1637x1228.jpg)
 
 My photo of the others during the spicy noodles lunch.
 
@@ -56,11 +56,11 @@ I was a fan of Dave’s theories about the web in large part because he credited
 
 [
 
-![Scripting News at around the time I met Dave Winer.](https://substack-post-media.s3.amazonaws.com/public/images/c26576d2-4e40-4de6-9508-3491636c9336_1376x1442.webp "Scripting News at around the time I met Dave Winer.")
+![Scripting News at around the time I met Dave Winer.](/assets/images/c26576d2-4e40-4de6-9508-3491636c9336_1376x1442.jpg "Scripting News at around the time I met Dave Winer.")
 
 
 
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc26576d2-4e40-4de6-9508-3491636c9336_1376x1442.webp)
+](/assets/images/c26576d2-4e40-4de6-9508-3491636c9336_1376x1442.jpg)
 
 [Scripting News](https://web.archive.org/web/20051013060457/http://www.scripting.com:80/) at around the time I met Dave Winer.
 
@@ -78,11 +78,11 @@ As I neared the end of my first trip to Silicon Valley, I began to think more se
 
 [
 
-![Gabe and Mike, October 2005](https://substack-post-media.s3.amazonaws.com/public/images/307a3854-2abc-4cd4-a05b-11383492159d_800x600.jpeg "Gabe and Mike, October 2005")
+![Gabe and Mike, October 2005](/assets/images/307a3854-2abc-4cd4-a05b-11383492159d_800x600.jpg "Gabe and Mike, October 2005")
 
 
 
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F307a3854-2abc-4cd4-a05b-11383492159d_800x600.jpeg)
+](/assets/images/307a3854-2abc-4cd4-a05b-11383492159d_800x600.jpg)
 
 Gabe and Mike, October 2005; photo [by Mike Arrington](https://www.flickr.com/photos/michaelarrington/55888102).
 
@@ -94,11 +94,11 @@ Even though I’d experienced, first-hand, why America is called the land of opp
 
 [
 
-![a photo of Market St, San Francisco, on 4 October 2005.](https://substack-post-media.s3.amazonaws.com/public/images/cf0b8c25-4534-4c3b-948d-c85425645db6_1637x1228.jpeg "a photo of Market St, San Francisco, on 4 October 2005.")
+![a photo of Market St, San Francisco, on 4 October 2005.](/assets/images/cf0b8c25-4534-4c3b-948d-c85425645db6_1637x1228.jpg "a photo of Market St, San Francisco, on 4 October 2005.")
 
 
 
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcf0b8c25-4534-4c3b-948d-c85425645db6_1637x1228.jpeg)
+](/assets/images/cf0b8c25-4534-4c3b-948d-c85425645db6_1637x1228.jpg)
 
 I got to know the real America during this trip. This is a photo of Market St, San Francisco, on 4 October 2005.
 
@@ -110,11 +110,11 @@ We also chatted a couple of times over burgers at a local joint in Atherton or M
 
 [
 
-![The tech blogosphere was abuzz about blog valuations in October 2005](https://substack-post-media.s3.amazonaws.com/public/images/71919bfe-6285-4230-a8dd-9fb594c09116_2444x1728.webp "The tech blogosphere was abuzz about blog valuations in October 2005")
+![The tech blogosphere was abuzz about blog valuations in October 2005](/assets/images/71919bfe-6285-4230-a8dd-9fb594c09116_2444x1728.jpg "The tech blogosphere was abuzz about blog valuations in October 2005")
 
 
 
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F71919bfe-6285-4230-a8dd-9fb594c09116_2444x1728.webp)
+](/assets/images/71919bfe-6285-4230-a8dd-9fb594c09116_2444x1728.jpg)
 
 The tech blogosphere was abuzz about blog valuations in [October 2005](https://www.techmeme.com/051007/p29#a051007p29).
 

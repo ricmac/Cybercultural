@@ -6,11 +6,11 @@ permalink: "p/006-revving-up-2005-web-20-conference/"
 ---
 [
 
-![My press badge for the Web 2.0 Conference, October 2005](https://substack-post-media.s3.amazonaws.com/public/images/29881ba3-77b3-47a3-90d5-a4d81521ed5b_800x600.jpeg "My press badge for the Web 2.0 Conference, October 2005")
+![My press badge for the Web 2.0 Conference, October 2005](/assets/images/29881ba3-77b3-47a3-90d5-a4d81521ed5b_800x600.jpg "My press badge for the Web 2.0 Conference, October 2005")
 
 
 
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F29881ba3-77b3-47a3-90d5-a4d81521ed5b_800x600.jpeg)
+](/assets/images/29881ba3-77b3-47a3-90d5-a4d81521ed5b_800x600.jpg)
 
 My press badge for the Web 2.0 Conference, October 2005
 
@@ -32,11 +32,11 @@ During my stay at Mike’s house, Keith would drop by regularly. He always seeme
 
 [
 
-![Keith Teare in Mike’s living room in October 2005](https://substack-post-media.s3.amazonaws.com/public/images/67cf0fb0-b247-4f80-be8c-6b3129d34d38_800x600.jpeg "Keith Teare in Mike’s living room in October 2005")
+![Keith Teare in Mike’s living room in October 2005](/assets/images/67cf0fb0-b247-4f80-be8c-6b3129d34d38_800x600.jpg "Keith Teare in Mike’s living room in October 2005")
 
 
 
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F67cf0fb0-b247-4f80-be8c-6b3129d34d38_800x600.jpeg)
+](/assets/images/67cf0fb0-b247-4f80-be8c-6b3129d34d38_800x600.jpg)
 
 Keith Teare in Mike’s living room in October 2005; photo [by Michael Arrington](https://www.flickr.com/photos/michaelarrington/55034191/in/dateposted/).
 
@@ -46,11 +46,11 @@ The Argent Hotel was a 36-story building around the corner from Market St, in th
 
 [
 
-![Web 2.0 Conference 2005](https://substack-post-media.s3.amazonaws.com/public/images/3e0f736a-898b-4fe6-9b8d-b2d7a0857cde_2048x1362.jpeg "Web 2.0 Conference 2005")
+![Web 2.0 Conference 2005](/assets/images/3e0f736a-898b-4fe6-9b8d-b2d7a0857cde_2048x1362.jpg "Web 2.0 Conference 2005")
 
 
 
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3e0f736a-898b-4fe6-9b8d-b2d7a0857cde_2048x1362.jpeg)
+](/assets/images/3e0f736a-898b-4fe6-9b8d-b2d7a0857cde_2048x1362.jpg)
 
 Web 2.0 Conference 2005; photo [by Gen Kanai](https://www.flickr.com/photos/gen/49888383/in/album-1082901/).
 
@@ -60,11 +60,11 @@ In addition to Ning, there were [a couple of other acquisitions](https://web.arc
 
 [
 
-![Conference website just before the event began](https://substack-post-media.s3.amazonaws.com/public/images/ef87331e-1101-4b5d-828f-0e3951f60e5a_1280x891.jpeg "Conference website just before the event began")
+![Conference website just before the event began](/assets/images/ef87331e-1101-4b5d-828f-0e3951f60e5a_1280x891.jpg "Conference website just before the event began")
 
 
 
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fef87331e-1101-4b5d-828f-0e3951f60e5a_1280x891.jpeg)
+](/assets/images/ef87331e-1101-4b5d-828f-0e3951f60e5a_1280x891.jpg)
 
 [Conference website](https://web.archive.org/web/20051003223237/http://www.web2con.com/) just before the event began.
 
@@ -76,11 +76,11 @@ I had several contacts I was keen to meet in person at the event. One was Joshua
 
 [
 
-![The May 2005 article that led to a book deal with O’Reilly Media.](https://substack-post-media.s3.amazonaws.com/public/images/7c1c6fab-f387-4a6c-a864-48cebdf0a9d7_2072x1542.png "The May 2005 article that led to a book deal with O’Reilly Media.")
+![The May 2005 article that led to a book deal with O’Reilly Media.](/assets/images/7c1c6fab-f387-4a6c-a864-48cebdf0a9d7_2072x1542.png "The May 2005 article that led to a book deal with O’Reilly Media.")
 
 
 
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7c1c6fab-f387-4a6c-a864-48cebdf0a9d7_2072x1542.png)
+](/assets/images/7c1c6fab-f387-4a6c-a864-48cebdf0a9d7_2072x1542.png)
 
 The May 2005 article that led to a book deal with O’Reilly Media.
 
@@ -92,11 +92,11 @@ When Josh and I eventually got called up to see Tim, we made our way upstairs th
 
 [
 
-![Tim O’Reilly at the Web 2.0 Conference 2005](https://substack-post-media.s3.amazonaws.com/public/images/5bb7a5f5-87f2-4940-bd4e-c83b9e050bd8_2048x1536.jpeg "Tim O’Reilly at the Web 2.0 Conference 2005")
+![Tim O’Reilly at the Web 2.0 Conference 2005](/assets/images/5bb7a5f5-87f2-4940-bd4e-c83b9e050bd8_2048x1536.jpg "Tim O’Reilly at the Web 2.0 Conference 2005")
 
 
 
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5bb7a5f5-87f2-4940-bd4e-c83b9e050bd8_2048x1536.jpeg)
+](/assets/images/5bb7a5f5-87f2-4940-bd4e-c83b9e050bd8_2048x1536.jpg)
 
 Tim O’Reilly at the Web 2.0 Conference 2005; photo [by Peter Kaminski](https://www.flickr.com/photos/peterkaminski/49985709).
 
@@ -108,11 +108,11 @@ The awkward pleasantries finished, Tim began talking about what he wanted our bo
 
 [
 
-![Along with the official program guide, attendees received a copy of Tim O’Reilly’s “What is Web 2.0?” essay](https://substack-post-media.s3.amazonaws.com/public/images/317492b8-b232-4819-a3d9-21bd54713985_2016x1512.jpeg "Along with the official program guide, attendees received a copy of Tim O’Reilly’s “What is Web 2.0?” essay")
+![Along with the official program guide, attendees received a copy of Tim O’Reilly’s “What is Web 2.0?” essay](/assets/images/317492b8-b232-4819-a3d9-21bd54713985_2016x1512.jpg "Along with the official program guide, attendees received a copy of Tim O’Reilly’s “What is Web 2.0?” essay")
 
 
 
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F317492b8-b232-4819-a3d9-21bd54713985_2016x1512.jpeg)
+](/assets/images/317492b8-b232-4819-a3d9-21bd54713985_2016x1512.jpg)
 
 Along with the official program guide, attendees received a copy of Tim O’Reilly’s “What is Web 2.0?” essay.
 

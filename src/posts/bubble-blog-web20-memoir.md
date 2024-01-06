@@ -6,11 +6,11 @@ permalink: "p/bubble-blog-web20-memoir/"
 ---
 [
 
-![Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution](https://substack-post-media.s3.amazonaws.com/public/images/33d48ded-f999-4173-8440-9d752446428b_3400x2134.jpeg "Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution")
+![Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution](/assets/images/33d48ded-f999-4173-8440-9d752446428b_3400x2134.jpg "Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution")
 
 
 
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F33d48ded-f999-4173-8440-9d752446428b_3400x2134.jpeg)
+](/assets/images/33d48ded-f999-4173-8440-9d752446428b_3400x2134.jpg)
 
 I’m excited to launch a project I’ve been working on for over a year now: a book called **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. I will be serializing the book here on Substack, starting this week, and it will also be released as a paperback in early 2024.
 

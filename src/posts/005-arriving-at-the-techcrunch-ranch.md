@@ -6,11 +6,11 @@ permalink: "p/005-arriving-at-the-techcrunch-ranch/"
 ---
 [
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/17177e5f-92c2-4622-a0c3-e20be441a46f_1637x1228.jpeg)
+![](/assets/images/17177e5f-92c2-4622-a0c3-e20be441a46f_1637x1228.jpg)
 
 
 
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F17177e5f-92c2-4622-a0c3-e20be441a46f_1637x1228.jpeg)
+](/assets/images/17177e5f-92c2-4622-a0c3-e20be441a46f_1637x1228.jpg)
 
 For two weeks in October 2005, this room was where TechCrunch, Read/Write Web, WeBreakStuff and tech.memeorandum were published.
 
@@ -32,11 +32,11 @@ We arrived at Mike’s rented house in Atherton. It was set back from the street
 
 [
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/e804bae1-92c2-47c5-88f4-d6c3241892d1_864x864.jpeg)
+![](/assets/images/e804bae1-92c2-47c5-88f4-d6c3241892d1_864x864.jpg)
 
 
 
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe804bae1-92c2-47c5-88f4-d6c3241892d1_864x864.jpeg)
+](/assets/images/e804bae1-92c2-47c5-88f4-d6c3241892d1_864x864.jpg)
 
 The back yard of the TechCrunch ranch in Atherton.
 
@@ -48,11 +48,11 @@ I had been testing an awkwardly named tech news aggregator called tech.memeorand
 
 [
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/8dd8fcd2-a52f-46da-b622-059e66197f12_1878x1438.png)
+![](/assets/images/8dd8fcd2-a52f-46da-b622-059e66197f12_1878x1438.png)
 
 
 
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8dd8fcd2-a52f-46da-b622-059e66197f12_1878x1438.png)
+](/assets/images/8dd8fcd2-a52f-46da-b622-059e66197f12_1878x1438.png)
 
 tech.memeorandum, [1 October 2005](https://web.archive.org/web/20051001010935/http://tech.memeorandum.com/). Long gone are the days when an obscure feed format (OPML) could be the number 1 story on Techmeme.
 
@@ -66,11 +66,11 @@ In later trips to the US, I’d learn to stay awake as long as possible into the
 
 [
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/9cfe9ccd-d87a-4759-b23d-232ca3719a34_800x533.jpeg)
+![](/assets/images/9cfe9ccd-d87a-4759-b23d-232ca3719a34_800x533.jpg)
 
 
 
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F9cfe9ccd-d87a-4759-b23d-232ca3719a34_800x533.jpeg)
+](/assets/images/9cfe9ccd-d87a-4759-b23d-232ca3719a34_800x533.jpg)
 
 At one of the TechCrunch BBQs; photo taken on 21 October 2005 [by Scott Beale](https://www.flickr.com/photos/laughingsquid/54890801).
 
@@ -82,11 +82,11 @@ I was invited to set up my laptop in the makeshift office, which had a small spa
 
 [
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/87e20616-45f8-4c6e-9c2f-b695915ab370_1674x1572.png)
+![](/assets/images/87e20616-45f8-4c6e-9c2f-b695915ab370_1674x1572.png)
 
 
 
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F87e20616-45f8-4c6e-9c2f-b695915ab370_1674x1572.png)
+](/assets/images/87e20616-45f8-4c6e-9c2f-b695915ab370_1674x1572.png)
 
 Technorati, [1 Oct 2005](https://web.archive.org/web/20051001090738/http://technorati.com/pop/blogs/). We soon became very addicted to this site!
 
@@ -96,11 +96,11 @@ I had to admit, TechCrunch was a great name for a blog and also captured Mike’
 
 [
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/8f4c05cd-4748-441f-b2af-66823c512455_800x533.jpeg)
+![](/assets/images/8f4c05cd-4748-441f-b2af-66823c512455_800x533.jpg)
 
 
 
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8f4c05cd-4748-441f-b2af-66823c512455_800x533.jpeg)
+](/assets/images/8f4c05cd-4748-441f-b2af-66823c512455_800x533.jpg)
 
 The door on the top-left of this pic was my bedroom for the duration of my stay at the TechCrunch ranch; photo taken on 21 October 2005 [by Scott Beale](https://www.flickr.com/photos/laughingsquid/54892487).
 

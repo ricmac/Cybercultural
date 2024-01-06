@@ -4,13 +4,8 @@ description: "My cover as leader of the Web 2.0 Illuminati is blown by Supr.c.il
 date: 2023-12-06
 permalink: "p/011-the-web-20-illuminati/"
 ---
-[
 
-![Richard MacManus = Illuminati (according to Supr.c.ilio.us in 2005)](https://substack-post-media.s3.amazonaws.com/public/images/8702d00f-1066-4581-a67d-e494497a4473_1822x1338.jpeg "Richard MacManus = Illuminati (according to Supr.c.ilio.us in 2005)")
-
-
-
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8702d00f-1066-4581-a67d-e494497a4473_1822x1338.jpeg)
+![Richard MacManus = Illuminati (according to Supr.c.ilio.us in 2005)](/assets/images/8702d00f-1066-4581-a67d-e494497a4473_1822x1338.jpg "Richard MacManus = Illuminati (according to Supr.c.ilio.us in 2005)")
 
 _This post concludes Chapter 3 of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. To catch up on previous posts or to view the table of contents, check [the Roadmap](https://www.cybercultural.com/p/roadmap-bubbleblog)._
 
@@ -26,13 +21,7 @@ The Wednesday before I left, I had coffee with Chris Alden, who had been a co-fo
 
 After I mentioned I was considering moving here, Chris told me he would definitely hire me as a product manager _if_ I lived here. That was good to hear, even though I knew he wasn’t in a position to support my visa application.
 
-[
-
-![Rojo, a browser-based RSS Reader I did some freelance work for over 2005.](https://substack-post-media.s3.amazonaws.com/public/images/e2ca48a7-ae01-4797-bb4d-0d26656347d1_468x364.jpeg "Rojo, a browser-based RSS Reader I did some freelance work for over 2005.")
-
-
-
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe2ca48a7-ae01-4797-bb4d-0d26656347d1_468x364.jpeg)
+![Rojo, a browser-based RSS Reader I did some freelance work for over 2005.](/assets/images/e2ca48a7-ae01-4797-bb4d-0d26656347d1_468x364.jpg "Rojo, a browser-based RSS Reader I did some freelance work for over 2005.")
 
 Rojo, a browser-based RSS Reader I did some freelance work for over 2005.
 
@@ -42,13 +31,7 @@ Dan was a long-time tech journalist; he’d worked for PC World and Macworld dur
 
 I also discovered that Dan had a way of peering at you that seemed to cut through any bullshit. I’d  known from the start that I was dealing with a serious journalist, even in our email conversations. But meeting him in person — with his grey hair, set mouth and no-nonsense eyes — I wondered what he really thought of bloggers like me. Did he think we were interlopers into his profession, or just another resource that established media organizations could utilize? In retrospect, I think it was the latter and that he was much more pragmatic than I gave him credit for in 2005. It said more about my own insecurity at that time that I felt like an imposter sitting in his CNET office in San Francisco.
 
-[
-
-![The apprentice and the master. Me and Dan Farber in 2006.](https://substack-post-media.s3.amazonaws.com/public/images/3978d24d-db09-4a0b-ab5d-90e66cd4a72a_800x600.jpeg "The apprentice and the master. Me and Dan Farber in 2006.")
-
-
-
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3978d24d-db09-4a0b-ab5d-90e66cd4a72a_800x600.jpeg)
+![The apprentice and the master. Me and Dan Farber in 2006.](/assets/images/3978d24d-db09-4a0b-ab5d-90e66cd4a72a_800x600.jpg "The apprentice and the master. Me and Dan Farber in 2006.")
 
 The apprentice and the master. This photo [by Tantek Çelik](https://www.flickr.com/photos/tantek/174168416) is actually from June 2006, but it nicely captures the high regard I have for Dan.
 
@@ -58,13 +41,7 @@ When he’d first approached me about starting a ZDNet blog back in August, the 
 
 While at the CNET office with Dan, I jotted down some of the business metrics we discussed. I’d gotten 80,000 page views in September, my first full month of blogging on Web 2.0 Explorer. This was actually more than the monthly average for RWW at the time! Then Dan pointed out that Between the Lines got 800,000 that same month. He was politely putting me in my place, but point taken: I had much to learn about professional blogging. Dan also told me that ZDNet was giving bloggers like me 25-30% of the revenue it received. I would be earning between $1,000-$1,500 from ZDNet every month, which was more than I was bringing in at the time from ReadWriteWeb.
 
-[
-
-![My ZDNet blog, Web 2.0 Explorer, soon after I’d started it.](https://substack-post-media.s3.amazonaws.com/public/images/c87fadd3-7f93-481f-9669-f41b3c01921f_1552x1118.png "My ZDNet blog, Web 2.0 Explorer, soon after I’d started it.")
-
-
-
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc87fadd3-7f93-481f-9669-f41b3c01921f_1552x1118.png)
+![My ZDNet blog, Web 2.0 Explorer, soon after I’d started it.](/assets/images/c87fadd3-7f93-481f-9669-f41b3c01921f_1552x1118.png "My ZDNet blog, Web 2.0 Explorer, soon after I’d started it.")
 
 My ZDNet blog, [Web 2.0 Explorer](https://web.archive.org/web/20051210171833/http://blogs.zdnet.com/web2explorer/?p=5), soon after I’d started it.
 
@@ -76,13 +53,7 @@ The next day, a Friday, I was heading back home. Mike drove me to the airport, a
 
 Later, while on the plane, I reflected on where I was at with RWW as a business. I had only one steady sponsor at this time, who was paying $800 per month for a banner on my “Web 2.0 Weekly Wrapup” post. That had started back in April, after an Atlanta-based startup called ThePort Network had reached out to me offering to sponsor my weekly roundup of Web 2.0 news. I’d promised that their banner on the Weekly Wrapup would display on both my website and in my RSS feed (at the time, advertising within an RSS feed was a new thing — Yahoo had been fishing for my opinions on this all year). I’d made a 3-month agreement with ThePort Network, and when that finished I signed up another startup to take over: Onfolio. The current sponsor was Webmail.us, so I’d managed to get a regular sponsor for this one RWW feature for 7 months in a row now.
 
-[
-
-![ThePort Network was ReadWriteWeb’s first banner sponsor, in April 2005.](https://substack-post-media.s3.amazonaws.com/public/images/aa990755-b0ec-4219-9bb3-a52b30b192ca_1634x1172.png "ThePort Network was ReadWriteWeb’s first banner sponsor, in April 2005.")
-
-
-
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faa990755-b0ec-4219-9bb3-a52b30b192ca_1634x1172.png)
+![ThePort Network was ReadWriteWeb’s first banner sponsor, in April 2005.](/assets/images/aa990755-b0ec-4219-9bb3-a52b30b192ca_1634x1172.jpg "ThePort Network was ReadWriteWeb’s first banner sponsor, in April 2005.")
 
 ThePort Network was ReadWriteWeb’s first banner sponsor, in April 2005.
 
@@ -98,13 +69,7 @@ I was feeling optimistic about my ability to earn a living from Silicon Valley, 
 
 Then, a record scratch. “But regardless of all this déjà vu, we are not in a bubble,” Battelle wrote. He spent the rest of the article arguing why we weren’t in a bubble, but of course he’d opened himself up to the accusation that he ‘doth protest too much.’ The rest of the Web 2.0 era would be forever linked to the concept of a market bubble — and if or when it would burst.
 
-[
-
-![John Battelle’s “not a bubble” op-ed, Nov 05](https://substack-post-media.s3.amazonaws.com/public/images/04048252-db0b-4506-bb64-33432973b288_1986x1300.png "John Battelle’s “not a bubble” op-ed, Nov 05")
-
-
-
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F04048252-db0b-4506-bb64-33432973b288_1986x1300.png)
+![John Battelle’s “not a bubble” op-ed, Nov 05](/assets/images/04048252-db0b-4506-bb64-33432973b288_1986x1300.png "John Battelle’s “not a bubble” op-ed, Nov 05")
 
 John Battelle’s “not a bubble” op-ed, Nov 05 ([screenshot](https://web.archive.org/web/20060220110402/http://www.nytimes.com/2005/11/18/opinion/18battelle.html?ex=1289970000&en=24386e654b2c02ed&ei=5088&partner=rssnyt&emc=rss) Feb 06)
 
@@ -112,13 +77,7 @@ The month before, two young engineers, Eran Globen and Ryan King, had started a 
 
 I was already aware of Eran and Ryan’s mock blog, as I’d become one of the targets of its good-natured but anarchic humor. The week before, the pair had been [interviewed](https://web.archive.org/web/20060816170321/http://blip.tv/file/4324) by Irina Slutsky, a Silicon Valley reporter who was launching her own YouTube channel, called Geek Entertainment TV. Slutsky introduced her [debut show](https://web.archive.org/web/20060210143846/http://www.geekentertainment.tv/2005/11/15/web-20-is-taking-over-the-nation/) by saying she was “reporting from inside the bubble.” She then asked Globen, what is Web 2.0?
 
-[
-
-![Irina Slutsky’s vlog was all over the Web 2.0 phenomenon by the end of 2005.](https://substack-post-media.s3.amazonaws.com/public/images/783238e2-ab82-4eda-85cc-a2da790eccb9_1280x874.jpeg "Irina Slutsky’s vlog was all over the Web 2.0 phenomenon by the end of 2005.")
-
-
-
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F783238e2-ab82-4eda-85cc-a2da790eccb9_1280x874.jpeg)
+![Irina Slutsky’s vlog was all over the Web 2.0 phenomenon by the end of 2005.](/assets/images/783238e2-ab82-4eda-85cc-a2da790eccb9_1280x874.jpg "Irina Slutsky’s vlog was all over the Web 2.0 phenomenon by the end of 2005.")
 
 Irina Slutsky’s vlog was all over the Web 2.0 phenomenon by the end of 2005.
 
@@ -134,13 +93,7 @@ By the end of 2005, even I was tired of all the arguments about the terminology.
 
 And why wouldn’t I? The bubble was only just getting started ;)
 
-[
-
-![From the business section of the San Francisco Chronicle, Friday, October 7, 2005](https://substack-post-media.s3.amazonaws.com/public/images/3e44d978-d500-4a9a-91d0-821df28ff97f_1280x1011.webp "From the business section of the San Francisco Chronicle, Friday, October 7, 2005")
-
-
-
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3e44d978-d500-4a9a-91d0-821df28ff97f_1280x1011.webp)
+![From the business section of the San Francisco Chronicle, Friday, October 7, 2005](/assets/images/3e44d978-d500-4a9a-91d0-821df28ff97f_1280x1011.jpg "From the business section of the San Francisco Chronicle, Friday, October 7, 2005")
 
 From the business section of the San Francisco Chronicle, Friday, October 7, 2005
 

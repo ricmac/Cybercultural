@@ -6,11 +6,11 @@ permalink: "p/what-the-web-was-like-in-2005/"
 ---
 [
 
-![Browse. Search. Subscribe.](https://substack-post-media.s3.amazonaws.com/public/images/346c4a1a-89b1-437a-b730-16b6f9921b60_2048x1365.jpeg "Browse. Search. Subscribe.")
+![Browse. Search. Subscribe.](/assets/images/346c4a1a-89b1-437a-b730-16b6f9921b60_2048x1365.jpg "Browse. Search. Subscribe.")
 
 
 
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F346c4a1a-89b1-437a-b730-16b6f9921b60_2048x1365.jpeg)
+](/assets/images/346c4a1a-89b1-437a-b730-16b6f9921b60_2048x1365.jpg)
 
 Browse. Search. Subscribe. That’s what it was all about in 2005. [Photo by Kris Krug](https://www.flickr.com/photos/kk/21367593/), at Gnomedex 5, June 2005.
 
@@ -26,11 +26,11 @@ As 2005 drew to a close, I did [a re-design of my blog](https://web.archive.org/
 
 [
 
-![RWW in Dec 2005](https://substack-post-media.s3.amazonaws.com/public/images/36b6618f-41b3-49df-8767-bbfd1ba7df84_2170x1454.png "RWW in Dec 2005")
+![RWW in Dec 2005](/assets/images/36b6618f-41b3-49df-8767-bbfd1ba7df84_2170x1454.png "RWW in Dec 2005")
 
 
 
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F36b6618f-41b3-49df-8767-bbfd1ba7df84_2170x1454.png)
+](/assets/images/36b6618f-41b3-49df-8767-bbfd1ba7df84_2170x1454.png)
 
 Even though Web 2.0 as a trend had taken off after the Web 2.0 Conference I’d attended in October, it wasn’t yet apparent in the [Technorati Top 100 list](https://web.archive.org/web/20051231055421/http://technorati.com/pop/blogs/) at the end of the year. There was only one tech blog that focused on Web 2.0 in the list at that point — Mike Arrington’s TechCrunch at number 70. There were other tech blogs on the list — two gadget blogs in the top 10 (Engadget and Gizmodo), the official Google blog at 14, Kottke’s already long-time blog at 21, A List Apart at 27, etc. — but the _tech news_ blogs had yet to make their mark.
 

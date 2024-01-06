@@ -6,11 +6,11 @@ permalink: "p/012-gift-basket-seattle-january-2006/"
 ---
 [
 
-![Josh Porter and I at the Seattle Central Library](https://substack-post-media.s3.amazonaws.com/public/images/fc79d690-3a0c-43d3-bbe9-92799b4cfda7_799x533.jpeg "Josh Porter and I at the Seattle Central Library")
+![Josh Porter and I at the Seattle Central Library](/assets/images/fc79d690-3a0c-43d3-bbe9-92799b4cfda7_799x533.jpg "Josh Porter and I at the Seattle Central Library")
 
 
 
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ffc79d690-3a0c-43d3-bbe9-92799b4cfda7_799x533.jpeg)
+](/assets/images/fc79d690-3a0c-43d3-bbe9-92799b4cfda7_799x533.jpg)
 
 Josh Porter and I at the Seattle Central Library; photo [by Fred Oliveira](https://www.flickr.com/photos/webreakstuff/95892538).
 
@@ -28,11 +28,11 @@ Search Champs was being hosted by the MSN Search group, which had invited over 5
 
 [
 
-![ReadWriteWeb in Jan 2006](https://substack-post-media.s3.amazonaws.com/public/images/da727c61-a2ba-48a7-9188-492dfff7b73a_1280x769.jpeg "ReadWriteWeb in Jan 2006")
+![ReadWriteWeb in Jan 2006](/assets/images/da727c61-a2ba-48a7-9188-492dfff7b73a_1280x769.jpg "ReadWriteWeb in Jan 2006")
 
 
 
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fda727c61-a2ba-48a7-9188-492dfff7b73a_1280x769.jpeg)
+](/assets/images/da727c61-a2ba-48a7-9188-492dfff7b73a_1280x769.jpg)
 
 ReadWriteWeb in Jan 2006; I’d begun to introduce more red elements in the design, but in hindsight the dark grey and orange header leaves a bit to be desired. Also, the Feedburner badge number is wrong in [this Wayback Machine screenshot](https://web.archive.org/web/20060114152207if_/http://www.readwriteweb.com:80/) (it was actually below 10,000 at the time).
 
@@ -46,11 +46,11 @@ To my horror, I then noticed that this message had gone out to the entire mailin
 
 [
 
-![The Search Champs gift basket](https://substack-post-media.s3.amazonaws.com/public/images/65ae06b2-5417-4554-bd11-55827ccd8288_800x600.jpeg "The Search Champs gift basket")
+![The Search Champs gift basket](/assets/images/65ae06b2-5417-4554-bd11-55827ccd8288_800x600.jpg "The Search Champs gift basket")
 
 
 
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F65ae06b2-5417-4554-bd11-55827ccd8288_800x600.jpeg)
+](/assets/images/65ae06b2-5417-4554-bd11-55827ccd8288_800x600.jpg)
 
 The Search Champs gift basket; photo [by Donavon West](https://www.flickr.com/photos/donavon/91796967).
 
@@ -68,11 +68,11 @@ On Tuesday, a bunch of us — including Fred and Josh — went to explore the fa
 
 [
 
-![Seattle Central Library](https://substack-post-media.s3.amazonaws.com/public/images/8b430354-998d-4ef1-9edc-e3ac87d320ae_1637x1228.jpeg "Seattle Central Library")
+![Seattle Central Library](/assets/images/8b430354-998d-4ef1-9edc-e3ac87d320ae_1637x1228.jpg "Seattle Central Library")
 
 
 
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F8b430354-998d-4ef1-9edc-e3ac87d320ae_1637x1228.jpeg)
+](/assets/images/8b430354-998d-4ef1-9edc-e3ac87d320ae_1637x1228.jpg)
 
 The beautiful Seattle Central Library; photo by me on the day I first visited.
 
@@ -84,11 +84,11 @@ When I first began communicating with Erik, around 2003, he was working as a dev
 
 [
 
-![My 43Things profile](https://substack-post-media.s3.amazonaws.com/public/images/092d9381-ab47-4ddb-b607-44c798220594_1628x1520.png "My 43Things profile")
+![My 43Things profile](/assets/images/092d9381-ab47-4ddb-b607-44c798220594_1628x1520.png "My 43Things profile")
 
 
 
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F092d9381-ab47-4ddb-b607-44c798220594_1628x1520.png)
+](/assets/images/092d9381-ab47-4ddb-b607-44c798220594_1628x1520.png)
 
 My 43Things profile; [Wayback Machine screenshot](https://web.archive.org/web/20080121182105if_/http://www.43things.com:80/people/view/ricmac) from Jan 2008. Some of the “things” to do in my list were pre-populated — e.g. Second p0st (item #7) was my friend Phil Pearson’s blog, so most likely he’d entered that into 43Things and then I’d clicked a button to add it to my list.
 
@@ -98,11 +98,11 @@ When we arrived, Erik came downstairs to greet us. In person, he was tall and le
 
 [
 
-![The Robot Co-op team the day I met them, Jan 2006](https://substack-post-media.s3.amazonaws.com/public/images/39683c11-32e6-4200-92f4-7a5dd3969338_1637x1228.jpeg "The Robot Co-op team the day I met them, Jan 2006")
+![The Robot Co-op team the day I met them, Jan 2006](/assets/images/39683c11-32e6-4200-92f4-7a5dd3969338_1637x1228.jpg "The Robot Co-op team the day I met them, Jan 2006")
 
 
 
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F39683c11-32e6-4200-92f4-7a5dd3969338_1637x1228.jpeg)
+](/assets/images/39683c11-32e6-4200-92f4-7a5dd3969338_1637x1228.jpg)
 
 The Robot Co-op team the day I met them, Jan 2006. Erik Benson is at the back.
 
@@ -110,11 +110,11 @@ Upstairs in The Robot Co-op office, we met the other members of the team, includ
 
 [
 
-![Erik’s photo of Fred and I](https://substack-post-media.s3.amazonaws.com/public/images/22a34091-74f0-4d87-8f5a-15dd587b9ca8_1152x864.jpeg "Erik’s photo of Fred and I")
+![Erik’s photo of Fred and I](/assets/images/22a34091-74f0-4d87-8f5a-15dd587b9ca8_1152x864.jpg "Erik’s photo of Fred and I")
 
 
 
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F22a34091-74f0-4d87-8f5a-15dd587b9ca8_1152x864.jpeg)
+](/assets/images/22a34091-74f0-4d87-8f5a-15dd587b9ca8_1152x864.jpg)
 
 [Erik’s photo](https://www.flickr.com/photos/erikbenson/90820805/in/dateposted/) of Fred and I.
 

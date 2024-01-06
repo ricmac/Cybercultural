@@ -6,11 +6,11 @@ permalink: "p/2005-growth-of-web-20-and-rww/"
 ---
 [
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/b811ca8a-7408-4f06-81a8-53f101bf82a0_829x622.gif)
+![](/assets/images/b811ca8a-7408-4f06-81a8-53f101bf82a0_829x622.gif)
 
 
 
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb811ca8a-7408-4f06-81a8-53f101bf82a0_829x622.gif)
+](/assets/images/b811ca8a-7408-4f06-81a8-53f101bf82a0_829x622.gif)
 
 A reader emailed me this screenshot of RWW in March 2005, in order to point out the MyYahoo Ticker at the bottom of the screen. “My RSS headlines stream on the bottom of my screen all day and I click things that catch my eye,” he told me.
 
@@ -25,11 +25,11 @@ Let’s go right back to January 2005, which happened to be when I launched the 
 
 [
 
-![The first Web 2.0 Weekly Wrap-up](https://substack-post-media.s3.amazonaws.com/public/images/eecfe25b-79e3-4359-b98f-1df6eec998d2_1620x1108.png "The first Web 2.0 Weekly Wrap-up")
+![The first Web 2.0 Weekly Wrap-up](/assets/images/eecfe25b-79e3-4359-b98f-1df6eec998d2_1620x1108.png "The first Web 2.0 Weekly Wrap-up")
 
 
 
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Feecfe25b-79e3-4359-b98f-1df6eec998d2_1620x1108.png)
+](/assets/images/eecfe25b-79e3-4359-b98f-1df6eec998d2_1620x1108.png)
 
 The first Web 2.0 Weekly Wrap-up; [via Wayback Machine](https://web.archive.org/web/20050122000605/http://www.readwriteweb.com/archives/002629.php)
 
@@ -55,11 +55,11 @@ Indeed, I got my first sponsor that very month. It was an Atlanta-based startup 
 
 [
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/71abf7c4-494e-4f42-b445-b63e54f505c4_1366x944.png)
+![](/assets/images/71abf7c4-494e-4f42-b445-b63e54f505c4_1366x944.png)
 
 
 
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F71abf7c4-494e-4f42-b445-b63e54f505c4_1366x944.png)
+](/assets/images/71abf7c4-494e-4f42-b445-b63e54f505c4_1366x944.png)
 
 My very first sponsor, [ThePort Network](https://web.archive.org/web/20050403054647id_/http://www.theport.com/). Not sure whatever became of it, but I’m grateful it took a chance on an indie tech blog in April 2005.
 
@@ -85,11 +85,11 @@ Other interesting acquisitions during this period included:
 
 [
 
-![](https://substack-post-media.s3.amazonaws.com/public/images/3da58028-47b3-4b8c-8dd5-200c92ff0658_1864x1202.png)
+![](/assets/images/3da58028-47b3-4b8c-8dd5-200c92ff0658_1864x1202.png)
 
 
 
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3da58028-47b3-4b8c-8dd5-200c92ff0658_1864x1202.png)
+](/assets/images/3da58028-47b3-4b8c-8dd5-200c92ff0658_1864x1202.png)
 
 Yahoo actively integrated RSS into its products over 2005; diagram from [a Scott Gatz presentation](https://web.archive.org/web/20060104074623/http://www.scottgatz.com/blog/wp-content/ScottGatz_Yahoo_Syndicate_Dec2005.pdf) (Scott was Yahoo’s “RSS guy”), Dec 2005.
 
@@ -101,11 +101,11 @@ Lastly, I have to mention a very influential essay that was published in Februar
 
 [
 
-![Diagram of Ajax web development by Adaptive Path](https://substack-post-media.s3.amazonaws.com/public/images/3f1ab80b-733d-4545-9471-d2dbc31426d9_1040x998.png "Diagram of Ajax web development by Adaptive Path")
+![Diagram of Ajax web development by Adaptive Path](/assets/images/3f1ab80b-733d-4545-9471-d2dbc31426d9_1040x998.png "Diagram of Ajax web development by Adaptive Path")
 
 
 
-](https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F3f1ab80b-733d-4545-9471-d2dbc31426d9_1040x998.png)
+](/assets/images/3f1ab80b-733d-4545-9471-d2dbc31426d9_1040x998.png)
 
 Diagram of Ajax web development by Adaptive Path
 
