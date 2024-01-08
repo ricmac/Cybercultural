@@ -4,8 +4,8 @@ title: 'Cybercultural'
 description: 'Tech history and its impact on our culture.'
 layout: 'home'
 blog:
-  title: 'Blog'
-  intro: "I'm showing the last 4 blog posts, but there might be more!"
+  title: 'Recent Posts'
+  intro: "For a full list of posts, see the roadmap (a.k.a. Table of Contents)."
 ---
 
 ## Tech History

@@ -8,7 +8,7 @@ layout: base
       <h1 class="text-center">{{ title }}</h1>
     </div>
   </div>
-  {% include 'svg/divider-waves.svg' %}
+
 </header>
 
 <article class="region">
@@ -28,7 +28,7 @@ layout: base
   <!-- TODO: duplicate of partials/blog.njk -->
 
   <ul class="wrapper grid mt-l-xl" role="list" data-rows="masonry" data-layout="50-50">
-    {% set postslist = collections.posts %} {% for post in postslist.slice(0, 4) %}
+    {% set postslist = collections.posts %} {% for post in postslist.slice(0, 8) %}
 
     <li class="card flow overflow-hidden">
       <h3>

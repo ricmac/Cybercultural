@@ -1,20 +1,25 @@
 ---
 title: About
 permalink: /about/index.html
-description: About this starter
+description: About Cybercultural
 layout: page
-youtube: true
+
 ---
+I’m Richard MacManus (@ricmac), a pioneering tech blogger and author. Cybercultural is my newsletter about **tech history and its impact on our culture**. I’m currently serializing my latest book, "Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution". It chronicles the rise of the modern internet during the first decade of this century.
 
-Based on the [companion website](https://buildexcellentwebsit.es/) of Andy Bell's talk 'Be the browser’s mentor, not its micromanager'. It takes over a core functionality: Using Tailwind CSS to generate CSS variables based on design tokens.
+Subscribe
 
-Like buildexcellentwebsit.es, this starter uses modern CSS, fluid type & space, flexible Layouts and Progressive Enhancement, wrapped in a basic template, ideal for personal websites and other small projects.
+I was the founder and Editor-in-Chief of [ReadWriteWeb](https://ricmac.org/career-archive/readwriteweb/) (RWW) from 2003-2012. RWW was ranked among the top 10 blogs in the world, according to Technorati. It was syndicated by The New York Times and eventually acquired by SAY Media.
 
-The aim is to spread the idea and use of this _excellent_ workflow. To work with it efficiently you should be familiar with [cube.fyi](https://cube.fyi/), [utopia.fyi](https://utopia.fyi/) and [every-layout.dev](https://every-layout.dev/).
+My most recent online project was [Web Development History](https://webdevelopmenthistory.com/) (2020-21), a blog that chronicled the early years of the web from a developer perspective. Here are some nice things people said about that project:
 
-- Find out more on https://buildexcellentwebsit.es/.
-- Remix the original: https://glitch.com/edit/#!/remix/build-excellent-websites
+![](/assets/images/c38fbe37-9903-4529-8dc4-ae14403d7c9b_1178x616.png)
+([link](https://twitter.com/vboykis/status/1427778555153354756))
 
-## Watch the talk
+![](/assets/images/7fb0cd89-e8d0-4e13-a14b-1be395083217_1168x382.png)
+([link](https://twitter.com/gordonbrander/status/1438356086956847105))
 
-{% youtube 'JqnMI1AXl6w', 'Andy Bell – Be the browser’s mentor, not its micromanager' %}
+![](/assets/images/f1847b86-51c6-4483-9d7b-84ddfec05c85_1176x728.png)
+([link](https://twitter.com/NerdyAndQuirky/status/1596256679473315841))
+
+Subscribe
