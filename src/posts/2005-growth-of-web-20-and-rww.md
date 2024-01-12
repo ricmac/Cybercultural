@@ -4,15 +4,8 @@ description: "I first visited the US in late September 2005. But what happened i
 date: 2023-11-17
 permalink: "p/2005-growth-of-web-20-and-rww/"
 ---
-[
-
-![](/assets/images/b811ca8a-7408-4f06-81a8-53f101bf82a0_829x622.gif)
-
-
-
-](/assets/images/b811ca8a-7408-4f06-81a8-53f101bf82a0_829x622.gif)
-
-A reader emailed me this screenshot of RWW in March 2005, in order to point out the MyYahoo Ticker at the bottom of the screen. “My RSS headlines stream on the bottom of my screen all day and I click things that catch my eye,” he told me.
+![](/assets/images/b811ca8a-7408-4f06-81a8-53f101bf82a0_829x622.png)
+*A reader emailed me this screenshot of RWW in March 2005, in order to point out the MyYahoo Ticker at the bottom of the screen. “My RSS headlines stream on the bottom of my screen all day and I click things that catch my eye,” he told me.*
 
 Part 5 of my serialized book, _Bubble Blog_, describes [my first trip to Silicon Valley](https://www.cybercultural.com/p/005-arriving-at-the-techcrunch-ranch) at the end of September and for a couple of weeks in October of 2005. Some of you may’ve noticed that I skipped the previous 9 months, since part 4 was about [the second half of 2004](https://www.cybercultural.com/p/call-with-tim-oreilly-2004). I did that mostly because I wanted to get to my Silicon Valley experiences, which is when the action truly begins in my story. The [next three sections](https://www.cybercultural.com/p/roadmap-bubbleblog) will further describe this trip, focusing in particular on my attendance at the 2005 Web 2.0 Conference — arguably the first major tipping point for the Web 2.0 era.
 
@@ -23,15 +16,8 @@ Growth of ReadWriteWeb, Jan-Sep 2005
 
 Let’s go right back to January 2005, which happened to be when I launched the Web 2.0 Weekly Wrapup. This became a long-running feature of ReadWriteWeb and helped the site become a go-to source of Web 2.0 news, which in turned increased my page views and RSS subscribers over 2005.
 
-[
-
-![The first Web 2.0 Weekly Wrap-up](/assets/images/eecfe25b-79e3-4359-b98f-1df6eec998d2_1620x1108.png "The first Web 2.0 Weekly Wrap-up")
-
-
-
-](/assets/images/eecfe25b-79e3-4359-b98f-1df6eec998d2_1620x1108.png)
-
-The first Web 2.0 Weekly Wrap-up; [via Wayback Machine](https://web.archive.org/web/20050122000605/http://www.readwriteweb.com/archives/002629.php)
+![The first Web 2.0 Weekly Wrap-up](/assets/images/eecfe25b-79e3-4359-b98f-1df6eec998d2_1620x1108.jpg "The first Web 2.0 Weekly Wrap-up")
+*The first Web 2.0 Weekly Wrap-up; [via Wayback Machine](https://web.archive.org/web/20050122000605/http://www.readwriteweb.com/archives/002629.php)*
 
 Although my percentage stats growth was impressive over the year (more on that shortly), I must stress it was an extremely niche audience at that time. Here’s what I emailed someone at the beginning of April 2005:
 
@@ -53,15 +39,8 @@ Potential sponsors had begun to reach out to me already, in the first quarter of
 
 Indeed, I got my first sponsor that very month. It was an Atlanta-based startup called ThePort Network, who agreed to sponsor my Weekly Wrapup for three months. (I discuss this more in part 8 of the book, coming soon.)
 
-[
-
-![](/assets/images/71abf7c4-494e-4f42-b445-b63e54f505c4_1366x944.png)
-
-
-
-](/assets/images/71abf7c4-494e-4f42-b445-b63e54f505c4_1366x944.png)
-
-My very first sponsor, [ThePort Network](https://web.archive.org/web/20050403054647id_/http://www.theport.com/). Not sure whatever became of it, but I’m grateful it took a chance on an indie tech blog in April 2005.
+![](/assets/images/71abf7c4-494e-4f42-b445-b63e54f505c4_1366x944.jpg)
+*My very first sponsor, [ThePort Network](https://web.archive.org/web/20050403054647id_/http://www.theport.com/). Not sure whatever became of it, but I’m grateful it took a chance on an indie tech blog in April 2005.*
 
 Just before I travelled over to Silicon Valley at the end of September, I sent this email to another potential sponsor. It shows that, in less than six months, my page views had more than doubled and I had 5x’ed my RSS subscribers:
 
@@ -82,16 +61,8 @@ Other interesting acquisitions during this period included:
     
 *   eBay purchasing Skype in September (notable mainly for going over the billion dollar mark, perhaps for the first time in Web 2.0).
     
-
-[
-
-![](/assets/images/3da58028-47b3-4b8c-8dd5-200c92ff0658_1864x1202.png)
-
-
-
-](/assets/images/3da58028-47b3-4b8c-8dd5-200c92ff0658_1864x1202.png)
-
-Yahoo actively integrated RSS into its products over 2005; diagram from [a Scott Gatz presentation](https://web.archive.org/web/20060104074623/http://www.scottgatz.com/blog/wp-content/ScottGatz_Yahoo_Syndicate_Dec2005.pdf) (Scott was Yahoo’s “RSS guy”), Dec 2005.
+![](/assets/images/3da58028-47b3-4b8c-8dd5-200c92ff0658_1864x1202.jpg)
+*Yahoo actively integrated RSS into its products over 2005; diagram from [a Scott Gatz presentation](https://web.archive.org/web/20060104074623/http://www.scottgatz.com/blog/wp-content/ScottGatz_Yahoo_Syndicate_Dec2005.pdf) (Scott was Yahoo’s “RSS guy”), Dec 2005.*
 
 There were also several significant launches during the first part of 2005: Google Maps in February (important for the rise of “mashups”, due to its API), Reddit in June, and the beta of YouTube in May.
 
@@ -99,15 +70,8 @@ I should also mention a few tech blog launches during this time: TechCrunch, of 
 
 Lastly, I have to mention a very influential essay that was published in February, which was inspired by the launch of Google Maps. It was by Jesse James Garrett from the web design firm Adaptive Path. The essay, “[Ajax: A New Approach to Web Applications](https://designftw.mit.edu/lectures/apis/ajax_adaptive_path.pdf)”, ushered in a new buzzword (Ajax) and popularised a form of JavaScript development where updates happened on a web page without the page needing to be reloaded. It [wasn’t an entirely new technique](https://webdevelopmenthistory.com/1997-the-year-of-dhtml/), but it became more prevalent after Ajax was coined.
 
-[
-
-![Diagram of Ajax web development by Adaptive Path](/assets/images/3f1ab80b-733d-4545-9471-d2dbc31426d9_1040x998.png "Diagram of Ajax web development by Adaptive Path")
-
-
-
-](/assets/images/3f1ab80b-733d-4545-9471-d2dbc31426d9_1040x998.png)
-
-Diagram of Ajax web development by Adaptive Path
+![Diagram of Ajax web development by Adaptive Path](/assets/images/3f1ab80b-733d-4545-9471-d2dbc31426d9_1040x998.jpg "Diagram of Ajax web development by Adaptive Path")
+*Diagram of Ajax web development by Adaptive Path*
 
 After noting that Google was using the Ajax approach in all of its recent web products — including Gmail and Maps — Garrett wrote that “many of the features that people love in Flickr depend on Ajax, and Amazon’s A9.com search engine applies similar techniques.” Along with RSS, APIs and Ruby on Rails, Ajax was among the most talked about technologies in the early part of Web 2.0.
 

@@ -4,13 +4,7 @@ description: "The introductory chapter of my serialized Web 2.0 memoir, Bubble B
 date: 2023-11-02
 permalink: "p/introduction-to-bubble-blog-book/"
 ---
-[
-
 ![Bubble Blog book cover](/assets/images/5bb99c88-7e3e-4ea2-ad9f-3d32600357a5_3400x2134.jpg "Bubble Blog book cover")
-
-
-
-](/assets/images/5bb99c88-7e3e-4ea2-ad9f-3d32600357a5_3400x2134.jpg)
 
 _Welcome to the first post in the serialization of my Web 2.0 memoir. This is the introduction, which sets the scene for the 20 chapters to come. Each following chapter will have a number of sections, which you’ll receive as posts via email. There is also [a roadmap (table of contents)](https://www.cybercultural.com/p/roadmap-bubbleblog), which lists all the sections in order — in case you need to catch-up at any point. Thank you for joining me on this journey to the heart of Web 2.0. Please leave comments and/or share on social media if you enjoy it — this is the read/write web after all! Here we go…_
 
@@ -18,15 +12,8 @@ _Welcome to the first post in the serialization of my Web 2.0 memoir. This is th
 
 My Silicon Valley story began in September 2005, when I took my first trip to the valley — in fact it was my first trip to America. I’d just turned 34, was born and raised in New Zealand, and had barely set foot out of my home country prior to 2005. At the time, I was running a tech blog that was beginning to make some money, but only just.
 
-[
-
 ![ReadWriteWeb in September 2005](/assets/images/5fefa11a-2489-4e38-a4ef-48af2ba10cc7_1024x742.jpg "ReadWriteWeb in September 2005")
-
-
-
-](/assets/images/5fefa11a-2489-4e38-a4ef-48af2ba10cc7_1024x742.jpg)
-
-A screen capture of RWW just before I visited Silicon Valley for the first time. The Feedburner RSS badge number indicates this was pre-growth spurt.
+*A screen capture of RWW just before I visited Silicon Valley for the first time. The Feedburner RSS badge number indicates this was pre-growth spurt.*
 
 Like anyone who works in tech but has never been to Silicon Valley, I had illusions about the place before I arrived. Some were formed by the books I’d read. I had thought all startup founders were crazy, monomaniacal and heroic; like the Netscape co-founder Jim Clark, as portrayed by Michael Lewis in his book, _The New New Thing_. But the founders I eventually met on the ground were strivers, like me. Many had been humbled by the Dot Com boom and bust, so they were willing to listen to new ideas and new people — even ones from the other side of the world.
 
@@ -38,15 +25,8 @@ I had also imagined Silicon Valley to be populated by a mix of rich old hippies 
 
 To me, Silicon Valley was the modern embodiment of the American Dream, in that it was a place outsiders could arrive at and begin their striving for a better life. And the thing is, everyone is an outsider when they first arrive in Silicon Valley; or at least, that was the accepted lore when I arrived in 2005.
 
-[
-
 ![Richard MacManus in March 2005](/assets/images/f3005330-66f7-4f97-91b6-865741d63d27_480x587.jpg "Richard MacManus in March 2005")
-
-
-
-](/assets/images/f3005330-66f7-4f97-91b6-865741d63d27_480x587.jpg)
-
-The author in all his geeky, naive glory in March 2005.
+*The author in all his geeky, naive glory in March 2005.*
 
 Even Marc Andreessen, the guy who Jim Clark piggy-backed off to launch Netscape in the 1990s, didn’t come from the valley. Andreessen went on to become the internet’s first rock star and the ultimate tech insider, but he was an outsider when he landed in the valley in 1993 (or so the story goes). He’d been raised in Iowa and went to his local University of Illinois, so I imagined his journey west was not unlike that of W. Axl Rose a decade earlier, who famously — but possibly apocryphally — stepped off a greyhound bus from Indiana and onto the hard but glamorous streets of LA.
 
@@ -64,15 +44,8 @@ By the time the Dot Com bubble burst in 2001, I was a Web Manager for Ericsson�
 
 A couple of years later, in April 2003, I started a blog and called it Read/Write Web. Initially it was an outlet for me to explore the cutting edge of internet technology; things I didn’t need to know to do my job, but I wanted to know because I was curious where web technology was headed. I didn’t realize it at the time, but people in Silicon Valley were also curious about this, since it was the depths of the post-Dot Com winter.
 
-[
-
 ![The first ReadWriteWeb post, April 2003](/assets/images/c4634562-0d3e-4b0b-99a4-ebcc2ac9711c_2158x1160.png "The first ReadWriteWeb post, April 2003")
-
-
-
-](/assets/images/c4634562-0d3e-4b0b-99a4-ebcc2ac9711c_2158x1160.png)
-
-The first RWW post, [April 2003](https://web.archive.org/web/20030809061335/http://www.readwriteweb.com/2003/04/20.html) (screenshot from Aug 03)
+*The first RWW post, [April 2003](https://web.archive.org/web/20030809061335/http://www.readwriteweb.com/2003/04/20.html) (screenshot from Aug 03)*
 
 By 2004, winter was thawing and Silicon Valley was experimenting with the web again. Blogs were one of the emerging technologies, along with wikis and primitive social networks like Friendster and MySpace. Because I was writing about these and other web trends, people from Silicon Valley began reading my blog, commenting on it, and linking to it from their own blogs. Amazingly, these people seemed interested in what an outsider — someone who lived 7,000 miles away, spoke funny, and had not gone to Stanford or Harvard — had to say about their industry.
 
@@ -92,29 +65,15 @@ Meanwhile, companies like Google and Amazon took advantage of “the wisdom of t
 
 All of this, which I chronicled on my tech blog, was bundled into a term that became a rallying cry for entrepreneurs in Silicon Valley during the 2000s: “Web 2.0.” It was coined in 2004 by O’Reilly Media, a technical books company led by Tim O’Reilly, a shrewd businessman who had built his career on watching carefully what computer programmers did and then documenting it before anyone else. Web 2.0 was a clever term, because it implied that this was a second generation of the internet. It was billed as a renaissance, a re-building of the startup scene after the Dot Com boom and bust. Web 2.0 meant nothing to the outside world, but it didn’t need to — it was a term that startup founders could put in their PowerPoint presentations to angel investors (like Andreessen) and VCs, which in turn helped developers get jobs again in Silicon Valley.
 
-[
-
 ![Web 2.0 meme map, September 2005](/assets/images/cd0fc819-0ef6-4d2b-afb7-490ee31857bd_500x375.jpg "Web 2.0 meme map, September 2005")
-
-
-
-](/assets/images/cd0fc819-0ef6-4d2b-afb7-490ee31857bd_500x375.jpg)
-
-[Tim O’Reilly maps](https://web.archive.org/web/20051124001430/http://www.oreillynet.com/pub/a/oreilly/tim/news/2005/09/30/what-is-web-20.html) “the many ideas that radiate out from the Web 2.0 core.” Published 30 September 2005.
+*[Tim O’Reilly maps](https://web.archive.org/web/20051124001430/http://www.oreillynet.com/pub/a/oreilly/tim/news/2005/09/30/what-is-web-20.html) “the many ideas that radiate out from the Web 2.0 core.” Published 30 September 2005.*
 
 As the Web 2.0 movement grew, in 2005 and beyond, Tim O’Reilly and others attempted to retroactively define the term. But it resisted a firm definition, even after O’Reilly hired me and another blogger in August 2005 to write a book documenting it (that project was abandoned half a year later, just a few chapters in). Although O’Reilly Media went on to publish a 100-page technical report at the end of 2006 about Web 2.0 — written by a fellow tech blogger, John Musser — the meaning of the term continued to be debated for several years after that. Over time, many developers positioned themselves against Web 2.0, disliking the hype that surrounded it and claiming it was empty of technical merits.
 
 In any case, my blog — ReadWriteWeb, a.k.a. RWW — became one of the defining Web 2.0 tech blogs. And, I must admit, I rode that hype wave for all it was worth.
 
-[
-
-![Bubble 2.0 meme map, October 2005](/assets/images/4bbd5ce8-fdd1-4190-9f3a-322818456d3a_540x483.gif "Bubble 2.0 meme map, October 2005")
-
-
-
-](/assets/images/4bbd5ce8-fdd1-4190-9f3a-322818456d3a_540x483.gif)
-
-A parody of the Web 2.0 Meme Map [by Charlie Wood](https://web.archive.org/web/20051026024257/http://bubble20.blogspot.com/2005/10/bubble-2_11.html). Published 11 October 2005. Side note: the very next day, Charlie posted [this quote from me](https://web.archive.org/web/20060507120040/http://bubble20.blogspot.com/2005/10/web-2.html): “OK so there's a lot of hype. So the VCs are throwing money around. So get to work. Build something Web-based that mainstream people will need and want. Now's the time to do it.” ([original RWW post](https://web.archive.org/web/20060103153819/http://www.readwriteweb.com/archives/web_20_land_of.php) where that quote comes from)
+![Bubble 2.0 meme map, October 2005](/assets/images/4bbd5ce8-fdd1-4190-9f3a-322818456d3a_540x483.png "Bubble 2.0 meme map, October 2005")
+*A parody of the Web 2.0 Meme Map [by Charlie Wood](https://web.archive.org/web/20051026024257/http://bubble20.blogspot.com/2005/10/bubble-2_11.html). Published 11 October 2005. Side note: the very next day, Charlie posted [this quote from me](https://web.archive.org/web/20060507120040/http://bubble20.blogspot.com/2005/10/web-2.html): “OK so there's a lot of hype. So the VCs are throwing money around. So get to work. Build something Web-based that mainstream people will need and want. Now's the time to do it.” ([original RWW post](https://web.archive.org/web/20060103153819/http://www.readwriteweb.com/archives/web_20_land_of.php) where that quote comes from)*
 
 * * *
 
@@ -128,29 +87,15 @@ I was in town to attend the Web 2.0 Conference. The founder of TechCrunch, Micha
 
 As soon as it launched, I’d reached out to Mike’s co-founder, a British expat named Keith Teare, noting that TechCrunch “looks like a great resource about Web 2.0.” Keith cc’ed in Mike, who immediately replied, saying, “I am a big fan of your website and have been using it for leads on TechCrunch.” We were similar ages — he was born the year before Andreessen and me — so we swapped emails and soon connected on Skype IM.
 
-[
-
 ![At the Techcrunch home office, October 2005](/assets/images/1f8d3307-7220-4e10-ac17-1f7499c0ede6_1637x1228.jpg "At the Techcrunch home office, October 2005")
-
-
-
-](/assets/images/1f8d3307-7220-4e10-ac17-1f7499c0ede6_1637x1228.jpg)
-
-At the TechCrunch home office, 13 October 2005. From L to R: Fred Oliveira, Michael Arrington, Gabe Rivera from tech.memeorandum.
+*At the TechCrunch home office, 13 October 2005. From L to R: Fred Oliveira, Michael Arrington, Gabe Rivera from tech.memeorandum.*
 
 Since I was staying with Mike in his Atherton ranch house, I had noticed the TechCrunch post about Ning as soon as it went up. It had been posted in the early hours of Tuesday, about 1am — late-night blogging was all part of the adventure. The writer wasn’t Mike, but Frederico (Fred) Oliveira, a young developer from Portugal who was also staying at the TechCrunch ranch. Both Fred and Mike were friendly to me and I had felt an immediate camaraderie with them; we were “bloggers” and there was a lot of talk about Web 2.0 and the exciting startups that were emerging at that time, interspersed with rounds of Applewood pizza and watching episodes of South Park.
 
 It had soon become clear to me that Mike was already an insider in this scene, by dint of his Atherton location and previous Dot Com experience (he’d been a lawyer for startups). He had some kind of direct access to either Andreessen or Bianchini, or both, which I didn’t yet have. Fred too had connected with at least one of Ning’s founders, opening his own blog post about Ning by [writing](https://web.archive.org/web/20051025080305/http://webreakstuff.com/blog/2005/10/ning), “Gina from 24 Hour Laundry just IM’d me giving me the green light to talk about their project.”
 
-[
-
-![Techcrunch, October 2005](/assets/images/f42c077a-de27-4809-9768-44960a515440_1838x1174.png "Techcrunch, October 2005")
-
-
-
-](/assets/images/f42c077a-de27-4809-9768-44960a515440_1838x1174.png)
-
-The [TechcCunch Ning post](https://web.archive.org/web/20051013062358/https://techcrunch.com/2005/10/04/ning-launches/) (screenshot from 13 October 2005). Note the “Web 2.0 Workgroup” badge on the left — that was brand new. It was a group that me, Mike Arrington and Fred Oliveira launched while I was staying at the TechCrunch ranch.
+![Techcrunch, October 2005](/assets/images/f42c077a-de27-4809-9768-44960a515440_1838x1174.jpg "Techcrunch, October 2005")
+*The [TechcCunch Ning post](https://web.archive.org/web/20051013062358/https://techcrunch.com/2005/10/04/ning-launches/) (screenshot from 13 October 2005). Note the “Web 2.0 Workgroup” badge on the left — that was brand new. It was a group that me, Mike Arrington and Fred Oliveira launched while I was staying at the TechCrunch ranch.*
 
 After seeing the TechCrunch post, I wrote [a quick post](https://web.archive.org/web/20060508061910/http://www.readwriteweb.com/archives/ning.php) that linked back to it. I really had nothing to add, since I had not actually been given access to the product yet. But I wrote, “I can't wait to have a play.” This initiated my first — and to this day, only — direct contact with Marc Andreessen. Soon after my post was published, I received the following email from him:
 

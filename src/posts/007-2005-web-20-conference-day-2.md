@@ -4,15 +4,8 @@ description: "I watch Jason Calacanis celebrate selling his Web 2.0 blog busines
 date: 2023-11-22
 permalink: "p/007-2005-web-20-conference-day-2/"
 ---
-[
-
 ![A cartoon drawn of me at the Web 2.0 Conference, October 2005](/assets/images/d1f5d47b-1e9d-458e-bbfa-5256ab205153_562x705.jpg "A cartoon drawn of me at the Web 2.0 Conference, October 2005")
-
-
-
-](/assets/images/d1f5d47b-1e9d-458e-bbfa-5256ab205153_562x705.jpg)
-
-A cartoon drawn of me at the Web 2.0 Conference, October 2005.
+*A cartoon drawn of me at the Web 2.0 Conference, October 2005.*
 
 _This post continues Chapter 2 of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. To catch up on previous posts or to view the table of contents, check [the Roadmap](https://www.cybercultural.com/p/roadmap-bubbleblog)._
 
@@ -32,15 +25,8 @@ When I walked into the Web 2.0 Conference at the Argent the next morning, a Thur
 
 I looked closer at the man, who was about my age, and saw that his smile was a mile wide and he was loving all the attention he was getting. He was talking and gesturing; even across the room, I could pick up bits of his New York patter and the odd squeal of delight from his audience. Every now and then, someone would walk up to the group and shake his hand.
 
-[
-
 ![Jason Calacanis revelling in the glory of selling his business](/assets/images/38dba855-2765-4bde-99ae-ed20accbaf5a_2048x1362.jpg "Jason Calacanis revelling in the glory of selling his business")
-
-
-
-](/assets/images/38dba855-2765-4bde-99ae-ed20accbaf5a_2048x1362.jpg)
-
-Jason Calacanis revelling in the glory of selling his business; photo [by Gen Kanai](https://www.flickr.com/photos/gen/50315516/in/album-1082901/).
+*Jason Calacanis revelling in the glory of selling his business; photo [by Gen Kanai](https://www.flickr.com/photos/gen/50315516/in/album-1082901/).*
 
 It turned out that Calacanis and his co-founder Brian Alvey had sold their company to AOL for [$25 million](https://web.archive.org/web/20051013061555/http://calacanis.weblogsinc.com/). It was an impressive sum for what amounted to a network of blogs. The deal wasn’t far off what Yahoo! had paid for Flickr, the trendy Web 2.0 photo sharing service, back in March. If I wasn’t sure whether blogging was a career before today, I was now converted.
 
@@ -48,15 +34,8 @@ Weblogs, Inc. was a collection of a few dozen topical blogs, many of which were 
 
 At one such conference, a few years after he’d sold Weblogs, Inc., a colleague and I were seated at [a dinner table](https://web.archive.org/web/20120620031531/http://www.readwriteweb.com/archives/jason-calacanis.php) with about 10-12 people. Everyone was picking at their starch-heavy plates of food, while engaging in the usual conference chit-chat. Which meant asking or answering these two questions: "And what do you do?", closely followed by "What's been the highlight of the conference for you so far?". This typical, rather placid, conference dinner scene was playing out on this occasion, when out of nowhere a grinning Jason Calacanis approached the table. He immediately began to regale my colleague and I with several funny stories, delivered rapid fire one after the other in his broad Brooklyn accent. It was highly entertaining, but it wasn't a conversation as such... more of a comedy routine. Before we had a chance to get a word in, Calacanis had moved down the table to entertain another group of people. Soon he gravitated to the next table — and all we heard then was appreciative laughter from his new audience.
 
-[
-
 ![My new Irish friends, Fergus Burns and Jonathan Hill, in the lobby of the Web 2.0 Conference](/assets/images/2128cec9-2787-4052-827f-7963bd8607a2_960x1280.jpg "My new Irish friends, Fergus Burns and Jonathan Hill, in the lobby of the Web 2.0 Conference")
-
-
-
-](/assets/images/2128cec9-2787-4052-827f-7963bd8607a2_960x1280.jpg)
-
-My new Irish friends, Fergus Burns and Jonathan Hill, in the lobby of the Web 2.0 Conference. Photo [via Fergus Burns](https://www.flickr.com/photos/itnorthwest/49761814/).
+*My new Irish friends, Fergus Burns and Jonathan Hill, in the lobby of the Web 2.0 Conference. Photo [via Fergus Burns](https://www.flickr.com/photos/itnorthwest/49761814/).*
 
 Anyway, back to 2005. I turned to Fergus and Jonathan and asked if they were going to the Web 2.0 party tonight, at the Swig bar on Geary St?
 
@@ -68,15 +47,8 @@ I felt more comfortable at the Web 2.0 Conference over day two, which was spent 
 
 At the end of the day, I had some time to kill before the Swig party, so I headed to a nearby pub called ‘House of Shields.’ The night before, it had been the location of the [Web 1.0 Summit](https://laughingsquid.com/web-1-summit/) — a counter-programming event pitched at entrepreneurs who couldn’t afford the ticket price of the Web 2.0 Conference, or bloggers who weren’t on a Technorati list. As a still-young Generation Xer myself, I appreciated the irony and camaraderie of a bunch of outsiders poking fun at the new thing while playing drinking games based on a bygone era (the blink tag!). But I was also unironically enjoying the excitement of the main event, Web 2.0, so I had not gone to the Web 1.0 Summit booze-up. Perhaps I was afraid I’d be called a sell-out (a very Gen X concern).
 
-[
-
 ![House of Shields exterior](/assets/images/79b85733-add5-40d2-a39e-cd35b308e969_1280x856.jpg "House of Shields exterior")
-
-
-
-](/assets/images/79b85733-add5-40d2-a39e-cd35b308e969_1280x856.jpg)
-
-Photo [by Steve Rhodes](https://www.flickr.com/photos/ari/4102964213/).
+*Photo [by Steve Rhodes](https://www.flickr.com/photos/ari/4102964213/).*
 
 The bar had large, yellow-on-red fluorescent signage above its entrance: “House of Shields, Live Music.” Inside it was a rectangular shape, with the bar running across almost the entire downstairs floor. The room had a lot of wood paneling and basked in a dim orange glow, from a mixture of the fluorescent lights outside and the yellow lighting inside. There was an upstairs section too, with tables, but I was on my own to start with — I’d be meeting Josh Porter and the Irish lads here soon — and so I headed straight to the bar and sat on one of the stools.
 
@@ -96,15 +68,8 @@ This guy also had a world weariness about him, which brought back more recent me
 
 By the end of the bus journey into the city — about a twenty minute trip, with all the stops — I’d realised that I didn’t recognize the guy in the seat behind me after all. I think he’d known that from the start. Regardless, we decided to go to some bars together, since we were both alone.
 
-[
-
 ![Me sometime in 1997](/assets/images/8f7b94c4-f715-402a-b084-55d68e29a78a_1123x711.jpg "Me sometime in 1997")
-
-
-
-](/assets/images/8f7b94c4-f715-402a-b084-55d68e29a78a_1123x711.jpg)
-
-Me sometime in 1997.
+*Me sometime in 1997.*
 
 He bought the first drinks — mine was a beer, his a club soda and lime.
 
@@ -116,15 +81,8 @@ Again, that was a time before internet and before mobile phones (at least for me
 
 On this, my first trip to the US, I hadn’t yet figured out how to get my primitive 2005-era mobile phone to work in the US (later, I discovered that I just needed to buy a temporary SIM card). But I’d noticed other people with mobile phones, although they mostly used them for doing phone calls. One popular model was the [Motorola E815](https://www.cnet.com/reviews/motorola-e815-verizon-wireless-review/) — a clamshell-style device that ran on Verizon’s CDMA network. It had been released earlier that year and represented the state of the art in mobile phone technology at the time. If you flipped it open, it revealed a screen just over 2 inches tall. The other panel had small, cushion-like numbered buttons, along with a circular navigation pad above.
 
-[
-
 ![The Motorola E815](/assets/images/87edef62-e3eb-439f-a379-fa40c4f40cdf_1600x1200.jpg "The Motorola E815")
-
-
-
-](/assets/images/87edef62-e3eb-439f-a379-fa40c4f40cdf_1600x1200.jpg)
-
-The Motorola E815; photo [by Hugo Londoño](https://www.flickr.com/photos/sinlentes/66200888).
+*The Motorola E815; photo [by Hugo Londoño](https://www.flickr.com/photos/sinlentes/66200888).*
 
 Unbeknownst to me, a few months before the Web 2.0 Conference, Google had acquired a tiny startup named Android. The news had received almost no press and Google kept whatever they were building behind closed doors for a couple more years. As for Apple, Steve Jobs had publicly unveiled an “iTunes phone” in partnership with Motorola just weeks before I arrived in Silicon Valley. It was called the Motorola ROKR and [Jobs hated it](https://www.theverge.com/2017/6/13/15782200/one-device-secret-history-iphone-brian-merchant-book-excerpt). Fueled by that disappointment, Apple then committed to building a smartphone in-house.
 

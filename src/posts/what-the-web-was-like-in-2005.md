@@ -4,33 +4,19 @@ description: "I look back on web technology in 2005 — a world before social me
 date: 2023-12-15
 permalink: "p/what-the-web-was-like-in-2005/"
 ---
-[
-
 ![Browse. Search. Subscribe.](/assets/images/346c4a1a-89b1-437a-b730-16b6f9921b60_2048x1365.jpg "Browse. Search. Subscribe.")
-
-
-
-](/assets/images/346c4a1a-89b1-437a-b730-16b6f9921b60_2048x1365.jpg)
-
-Browse. Search. Subscribe. That’s what it was all about in 2005. [Photo by Kris Krug](https://www.flickr.com/photos/kk/21367593/), at Gnomedex 5, June 2005.
+*Browse. Search. Subscribe. That’s what it was all about in 2005. [Photo by Kris Krug](https://www.flickr.com/photos/kk/21367593/), at Gnomedex 5, June 2005.*
 
 Earlier this week I [began chapter 4](https://www.cybercultural.com/p/012-gift-basket-seattle-january-2006) of my serialized memoir, _Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution_. There are twenty chapters in total, plus an introduction and epilogue. So there is a long way to go yet. Much of what I’ve published so far ([parts 5-11](https://www.cybercultural.com/p/roadmap-bubbleblog)) has focused on 2005, a key year in Web 2.0. That was when Web 2.0 became the driving trend of Silicon Valley, and Read/WriteWeb got swept up in a new tech bubble. But what was the web like back then? It’s now 18 years ago, which in internet years means a couple of generations!
 
 In this post I’ll reflect back on 2005 on the web, and what it meant to me and my generation. This post is for paid subscribers to Cybercultural, but you aren’t already [you can become one](https://www.cybercultural.com/subscribe) for just £5 per month (or click the button below for a 7-day free trial of an annual subscription). Your support is much appreciated and will help fund even more internet history. I’m currently working on a ‘prequel’ about Web 1.0, which will be the next serialized book to be published on Cybercultural.
 
-[Get 7 day free trial](https://www.cybercultural.com/subscribe?coupon=33efecda&utm_content=139810322)
-
 As I noted in [a previous bonus post](https://www.cybercultural.com/p/2005-growth-of-web-20-and-rww), the first three quarters of 2005 were full of startup launches (e.g. YouTube, Reddit), acquisitions (e.g. Flickr, MySpace), and technological advancements (e.g. Ajax). Over that time, I’d also found my groove with Read/WriteWeb — especially after my [revelatory first trip to Silicon Valley](https://www.cybercultural.com/p/005-arriving-at-the-techcrunch-ranch) in September/October 2005.
 
 As 2005 drew to a close, I did [a re-design of my blog](https://web.archive.org/web/20051223075615if_/http://readwriteweb.com/). Although it still looks a little amateurish (I wasn’t a professional designer), it consolidated the “RWW red” branding. TechCrunch [hadn’t yet](https://web.archive.org/web/20051231031515/http://www.techcrunch.com/) gone full green, Mashable, GigaOm and ProgrammableWeb had all opted for blue, and so I was the only red tech blog that I knew of (Boing Boing had a red logo, but otherwise it used traditional blue links).
 
-[
-
-![RWW in Dec 2005](/assets/images/36b6618f-41b3-49df-8767-bbfd1ba7df84_2170x1454.png "RWW in Dec 2005")
-
-
-
-](/assets/images/36b6618f-41b3-49df-8767-bbfd1ba7df84_2170x1454.png)
+![RWW in Dec 2005](/assets/images/36b6618f-41b3-49df-8767-bbfd1ba7df84_2170x1454.jpg "RWW in Dec 2005")
+*RWW in Dec 2005*
 
 Even though Web 2.0 as a trend had taken off after the Web 2.0 Conference I’d attended in October, it wasn’t yet apparent in the [Technorati Top 100 list](https://web.archive.org/web/20051231055421/http://technorati.com/pop/blogs/) at the end of the year. There was only one tech blog that focused on Web 2.0 in the list at that point — Mike Arrington’s TechCrunch at number 70. There were other tech blogs on the list — two gadget blogs in the top 10 (Engadget and Gizmodo), the official Google blog at 14, Kottke’s already long-time blog at 21, A List Apart at 27, etc. — but the _tech news_ blogs had yet to make their mark.
 

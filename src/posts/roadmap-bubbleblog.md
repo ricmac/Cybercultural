@@ -4,13 +4,7 @@ description: "A chronological table of contents for my book, Bubble Blog: From O
 date: 2023-11-02
 permalink: "p/roadmap-bubbleblog/"
 ---
-[
-
 ![Bubble Blog book cover](/assets/images/73ba0b8a-0364-47f9-9b0d-a7a3cca2a00c_3400x2134.jpg "Bubble Blog book cover")
-
-
-
-](/assets/images/73ba0b8a-0364-47f9-9b0d-a7a3cca2a00c_3400x2134.jpg)
 
 If you are looking for a good overview of my book project, see [my launch post](https://www.cybercultural.com/p/bubble-blog-web20-memoir).
 
