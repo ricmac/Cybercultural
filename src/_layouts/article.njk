@@ -13,7 +13,9 @@ layout: base
 </header>
 
 <article class="wrapper region">
+<div class="wrapper flow prose">
 <p>Articles about tech history and its impact on our culture.</p>
+</div>
   <ul class="grid mt-l-xl" role="list" data-rows="masonry" data-layout="50-50">
     {% for post in collections.posts %}
       {% if 'Article' in post.data.tags %}
