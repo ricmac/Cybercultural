@@ -3,6 +3,7 @@ title: '011. The Web 2.0 Illuminati'
 description: "My cover as leader of the Web 2.0 Illuminati is blown by Supr.c.ilio.us at the end of 2005; also: I contemplate expanding ReadWriteWeb's business model."
 date: 2023-12-06
 permalink: "p/011-the-web-20-illuminati/"
+tags: ['Book']
 ---
 
 ![Richard MacManus = Illuminati (according to Supr.c.ilio.us in 2005)](/assets/images/8702d00f-1066-4581-a67d-e494497a4473_1822x1338.jpg "Richard MacManus = Illuminati (according to Supr.c.ilio.us in 2005)")

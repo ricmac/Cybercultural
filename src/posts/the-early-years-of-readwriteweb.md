@@ -3,6 +3,7 @@ title: '002. The Early Years of ReadWriteWeb'
 description: "A naive young man from New Zealand explores the blogosphere with a weblog called 'Read/Write Web'."
 date: 2023-11-06
 permalink: "p/the-early-years-of-readwriteweb/"
+tags: ['Book']
 ---
 ![My weblog avatar in January 2004](/assets/images/5fa25a2e-ef88-4fd7-9866-bf939acc998b_640x480.jpg "My weblog avatar in January 2004")
 *My weblog avatar in January 2004, age 32.*

@@ -3,6 +3,7 @@ title: '012. The Gift Basket; Seattle, January 2006'
 description: "I fly to Seattle for Microsoft Search Champs and to meet up again with my blog buddies. But there's a problem: no gift basket..."
 date: 2023-12-13
 permalink: "p/012-gift-basket-seattle-january-2006/"
+tags: ['Book']
 ---
 ![Josh Porter and I at the Seattle Central Library](/assets/images/fc79d690-3a0c-43d3-bbe9-92799b4cfda7_799x533.jpg "Josh Porter and I at the Seattle Central Library")
 *Josh Porter and I at the Seattle Central Library; photo [by Fred Oliveira](https://www.flickr.com/photos/webreakstuff/95892538).*

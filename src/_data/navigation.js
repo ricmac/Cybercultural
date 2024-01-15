@@ -5,8 +5,12 @@ module.exports = {
       url: '/about/'
     },
     {
-      text: 'Archive',
-      url: '/archive/'
+      text: 'Books',
+      url: '/books/'
+    },
+    {
+      text: 'Articles',
+      url: '/articles/'
     }
   ],
   bottom: [

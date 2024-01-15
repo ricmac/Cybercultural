@@ -15,7 +15,7 @@ layout: base
 <article class="wrapper region">
   <ul class="grid mt-l-xl" role="list" data-rows="masonry" data-layout="50-50">
     {% for post in collections.posts %}
-      {% if 'Book' in post.data.tags %}
+      {% if 'Article' in post.data.tags %}
         <li class="card flow overflow-hidden">
           <h2>
             <a href="{{ post.url | url }}">{{ post.data.title }}</a>

@@ -3,6 +3,7 @@ title: '005. Arriving at the TechCrunch Ranch'
 description: "My first trip to America in 2005, where I get to know the founder of a new blog called TechCrunch and the founder of a new aggregator called Techmeme."
 date: 2023-11-15
 permalink: "p/005-arriving-at-the-techcrunch-ranch/"
+tags: ['Book']
 ---
 ![](/assets/images/17177e5f-92c2-4622-a0c3-e20be441a46f_1637x1228.jpg)
 *For two weeks in October 2005, this room was where TechCrunch, Read/Write Web, WeBreakStuff and tech.memeorandum were published.*

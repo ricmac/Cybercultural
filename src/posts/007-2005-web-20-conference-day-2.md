@@ -3,6 +3,7 @@ title: '007. Day 2 of the 2005 Web 2.0 Conference'
 description: "I watch Jason Calacanis celebrate selling his Web 2.0 blog business; later I have a drink by myself at the House of Shields, and think about pre-internet days."
 date: 2023-11-22
 permalink: "p/007-2005-web-20-conference-day-2/"
+tags: ['Book']
 ---
 ![A cartoon drawn of me at the Web 2.0 Conference, October 2005](/assets/images/d1f5d47b-1e9d-458e-bbfa-5256ab205153_562x705.jpg "A cartoon drawn of me at the Web 2.0 Conference, October 2005")
 *A cartoon drawn of me at the Web 2.0 Conference, October 2005.*

@@ -3,6 +3,7 @@ title: 'Bonus: What the Web Was Like in 2005'
 description: "I look back on web technology in 2005 — a world before social media, smartphones and the cloud!"
 date: 2023-12-15
 permalink: "p/what-the-web-was-like-in-2005/"
+tags: ['Book']
 ---
 ![Browse. Search. Subscribe.](/assets/images/346c4a1a-89b1-437a-b730-16b6f9921b60_2048x1365.jpg "Browse. Search. Subscribe.")
 *Browse. Search. Subscribe. That’s what it was all about in 2005. [Photo by Kris Krug](https://www.flickr.com/photos/kk/21367593/), at Gnomedex 5, June 2005.*

@@ -3,6 +3,7 @@ title: 'Bonus: Why Marc Andreessen is a Key Character in My Book'
 description: "A bonus post for paid subscribers: I explain how Marc Andreessen was a much bigger part of my original outline, and show you an 'outtake' I wrote about his 2004 activities."
 date: 2023-11-10
 permalink: "p/marc-andreessen-2004/"
+tags: ['Book']
 ---
 ![Marc Andreessen on the cover of TIME magazine in Feb 1996](/assets/images/fd1d4179-2029-4f19-80ef-29a90033148b_973x1280.jpg "Marc Andreessen on the cover of TIME magazine in Feb 1996")
 *Marc Andreessen, bare feet and all, on the cover of TIME magazine in Feb 1996.*
