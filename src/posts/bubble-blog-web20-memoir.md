@@ -3,11 +3,11 @@ title: 'Welcome to Bubble Blog, My Web 2.0 Memoir'
 description: "Announcing my latest book, a memoir and internet history to be serialized on Cybercultural."
 date: 2023-10-30
 permalink: "p/bubble-blog-web20-memoir/"
-tags: ['Book']
+tags: ['Memoir']
 ---
 ![Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution](/assets/images/33d48ded-f999-4173-8440-9d752446428b_3400x2134.jpg "Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution")
 
-I’m excited to launch a project I’ve been working on for over a year now: a book called **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. I will be serializing the book here on Substack, starting this week, and it will also be released as a paperback in early 2024.
+I’m excited to launch a project I’ve been working on for over a year now: a book called **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. I will be serializing the book here on Cybercultural, starting this week, and it will also be released as a paperback in early 2024.
 
 The first post from the book will go up this Thursday, 2 November, 2023. If you haven’t already, I invite you to subscribe to Cybercultural today so that you receive the serialized book in your email inbox (you’ll receive two emails per week).
 

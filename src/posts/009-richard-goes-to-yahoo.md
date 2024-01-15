@@ -3,7 +3,7 @@ title: '009. Richard Goes to Yahoo!'
 description: "On a sunny, cloudless day in October 2005, I visit the gleaming yellow and purple Yahoo! campus to talk RSS and blogging with the company's resident bloggers."
 date: 2023-11-29
 permalink: "p/009-richard-goes-to-yahoo/"
-tags: ['Book']
+tags: ['Memoir']
 ---
 ![Me at the Yahoo! campus, 10 October 2005](/assets/images/cdbb72de-7f87-4153-b670-94087d30c792_640x480.jpg "Me at the Yahoo! campus, 10 October 2005")
 *Me at the Yahoo! campus, 10 October 2005; photo [by Jeremy Zawodny](https://www.flickr.com/photos/jzawodn/51348982/).*

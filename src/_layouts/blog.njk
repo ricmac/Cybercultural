@@ -13,9 +13,11 @@ layout: base
 </header>
 
 <article class="wrapper region">
+<p>The serialization of my Web 2.0 memoir: "Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution". 
+For more about this project, read <a href="/p/bubble-blog-web20-memoir/">my launch post</a> from October 2023.</p>
   <ul class="grid mt-l-xl" role="list" data-rows="masonry" data-layout="50-50">
     {% for post in collections.posts %}
-      {% if 'Book' in post.data.tags %}
+      {% if 'Memoir' in post.data.tags %}
         <li class="card flow overflow-hidden">
           <h2>
             <a href="{{ post.url | url }}">{{ post.data.title }}</a>

@@ -1,6 +1,6 @@
 ---
-title: Books
-description: "Serialization of my tech history books. Starting with my Web 2.0 memoir, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**."
+title: Memoir
+description: "Serialization of my tech history books. Starting with my Web 2.0 memoir, Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution."
 layout: blog
-permalink: /books/index.html
+permalink: /memoir/index.html
 ---

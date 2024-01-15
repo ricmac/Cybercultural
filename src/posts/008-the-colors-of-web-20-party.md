@@ -3,7 +3,7 @@ title: '008. The Colors of Web 2.0 Party'
 description: "I attend a hyped Web 2.0 party; later in the night, I desparately try to catch the last train back to Silicon Valley."
 date: 2023-11-27
 permalink: "p/008-the-colors-of-web-20-party/"
-tags: ['Book']
+tags: ['Memoir']
 ---
 ![Web 2.0 cool kids](/assets/images/70a2272f-baa4-4971-a3ed-6de5b29856f4_2048x1365.jpg "Web 2.0 cool kids")
 *Me leading my posse into the party… no, just kidding, this was someone much cooler than me. Photo [by Kris Krug](https://www.flickr.com/photos/kk/50159142/in/album-1111108/).*

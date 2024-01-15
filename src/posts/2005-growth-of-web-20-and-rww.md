@@ -3,7 +3,7 @@ title: 'Bonus: Growth of Web 2.0 & RWW in 2005, Before My US Trip'
 description: "I first visited the US in late September 2005. But what happened in Web 2.0 and for ReadWriteWeb in the 9 months prior? (A bonus post for paid subscribers)"
 date: 2023-11-17
 permalink: "p/2005-growth-of-web-20-and-rww/"
-tags: ['Book']
+tags: ['Memoir']
 ---
 ![](/assets/images/b811ca8a-7408-4f06-81a8-53f101bf82a0_829x622.png)
 *A reader emailed me this screenshot of RWW in March 2005, in order to point out the MyYahoo Ticker at the bottom of the screen. “My RSS headlines stream on the bottom of my screen all day and I click things that catch my eye,” he told me.*

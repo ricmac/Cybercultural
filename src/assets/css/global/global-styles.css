@@ -86,6 +86,7 @@ a {
 }
 
 a:hover {
+  color: #B80103;
   text-decoration: none;
 }
 

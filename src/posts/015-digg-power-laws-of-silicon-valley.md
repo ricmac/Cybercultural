@@ -3,7 +3,7 @@ title: '015. Digg and the Power Laws of Silicon Valley'
 description: "In 2006, there was a lot of controversy about the power wielded at 'user generated content' aggregators like Digg, Reddit and Netscape 2.0."
 date: 2024-01-09
 permalink: "p/015-digg-power-laws-of-silicon-valley/"
-tags: ['Book']
+tags: ['Memoir']
 ---
 
 ![Digg CEO Kevin Rose at the Digg 3.0 launch party, June 2006](/assets/images/a75d9528-09fb-4a81-9ffc-4f8127ccab34_1200x800.jpg "Digg CEO Kevin Rose at the Digg 3.0 launch party, June 2006")

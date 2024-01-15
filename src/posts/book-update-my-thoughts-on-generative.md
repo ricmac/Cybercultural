@@ -7,7 +7,7 @@ tags: ['Article']
 ---
 ![](/assets/images/4fa6afa2-ed85-4a5a-8a75-46de0e98b1f1_1024x1024.jpg)
 
-This month I finished the first draft of my “Web 2.0 memoir,” which weighed in at 153,000 words. I’ve been working on this book for the past eight months; every weekday, before breakfast in the early morning. My plan is still to serialize the book here on Substack, which I’m hoping to start within 2-3 months.
+This month I finished the first draft of my “Web 2.0 memoir,” which weighed in at 153,000 words. I’ve been working on this book for the past eight months; every weekday, before breakfast in the early morning. My plan is still to serialize the book here on Cybercultural, which I’m hoping to start within 2-3 months.
 
 Part of my goal for the second draft, which I began working on this week, is to cut it down to a manageable length. 150k+ words is too many — it’s almost enough to train a Large Language Model 😉
 
