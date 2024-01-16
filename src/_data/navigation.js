@@ -9,6 +9,10 @@ module.exports = {
       url: '/memoir/'
     },
     {
+      text: 'Memoir Roadmap',
+      url: '/p/roadmap-bubbleblog/'
+    },
+    {
       text: 'Articles',
       url: '/articles/'
     }
