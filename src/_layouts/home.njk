@@ -31,6 +31,9 @@ layout: base
     {% set postslist = collections.posts %} {% for post in postslist.slice(0, 8) %}
 
     <li class="card flow overflow-hidden">
+      {% if post.data.featureImage %}
+        <img src="{{ post.data.featureImage | url }}" alt="{{ post.data.title }}">
+      {% endif %}
       <h3>
         <a href="{{ post.url | url }}">{{ post.data.title }}</a>
       </h3>

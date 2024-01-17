@@ -4,6 +4,7 @@ description: "Day one of the 2005 Web 2.0 Conference, held at the Argent Hotel i
 date: 2023-11-20
 permalink: "p/006-revving-up-2005-web-20-conference/"
 tags: ['Memoir']
+featureImage: "/assets/images/29881ba3-77b3-47a3-90d5-a4d81521ed5b_800x600.jpg"
 ---
 ![My press badge for the Web 2.0 Conference, October 2005](/assets/images/29881ba3-77b3-47a3-90d5-a4d81521ed5b_800x600.jpg "My press badge for the Web 2.0 Conference, October 2005")
 *My press badge for the Web 2.0 Conference, October 2005*

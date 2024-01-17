@@ -4,6 +4,7 @@ description: "I watch Jason Calacanis celebrate selling his Web 2.0 blog busines
 date: 2023-11-22
 permalink: "p/007-2005-web-20-conference-day-2/"
 tags: ['Memoir']
+featureImage: "/assets/images/d1f5d47b-1e9d-458e-bbfa-5256ab205153_562x705.jpg"
 ---
 ![A cartoon drawn of me at the Web 2.0 Conference, October 2005](/assets/images/d1f5d47b-1e9d-458e-bbfa-5256ab205153_562x705.jpg "A cartoon drawn of me at the Web 2.0 Conference, October 2005")
 *A cartoon drawn of me at the Web 2.0 Conference, October 2005.*

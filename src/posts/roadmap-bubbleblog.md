@@ -4,10 +4,11 @@ description: "A chronological table of contents for my book, Bubble Blog: From O
 date: 2023-11-02
 permalink: "p/roadmap-bubbleblog/"
 tags: ['Memoir']
+featureImage: "/assets/images/73ba0b8a-0364-47f9-9b0d-a7a3cca2a00c_3400x2134.jpg"
 ---
 ![Bubble Blog book cover](/assets/images/73ba0b8a-0364-47f9-9b0d-a7a3cca2a00c_3400x2134.jpg "Bubble Blog book cover")
 
-If you are looking for a good overview of my book project, see [my launch post](https://www.cybercultural.com/p/bubble-blog-web20-memoir).
+If you are looking for a good overview of my book project, see [my launch post](/p/bubble-blog-web20-memoir).
 
 The following is a chronological table of contents for my book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. Each post will link to what came before and what comes next (once that post is out) or you can come here at any time and read the stories in order. You can also use this page as a quick way to find what you’re looking for if you want to share a post with a friend or colleague.
 

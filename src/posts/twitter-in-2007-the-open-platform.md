@@ -4,6 +4,7 @@ description: "How do Bluesky and Mastodon compare with Twitter in 2007? Nobody q
 date: 2023-05-25
 permalink: "p/twitter-in-2007-the-open-platform/"
 tags: ['Article']
+featureImage: "/assets/images/c364af08-a78d-4d11-a532-a9c316233380_3200x1894.jpg"
 ---
 
 ![](/assets/images/c364af08-a78d-4d11-a532-a9c316233380_3200x1894.jpg)

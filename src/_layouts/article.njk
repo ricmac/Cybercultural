@@ -20,6 +20,9 @@ layout: base
     {% for post in collections.posts %}
       {% if 'Article' in post.data.tags %}
         <li class="card flow overflow-hidden">
+          {% if post.data.featureImage %}
+          <img src="{{ post.data.featureImage | url }}" alt="{{ post.data.title }}">
+          {% endif %}
           <h2>
             <a href="{{ post.url | url }}">{{ post.data.title }}</a>
           </h2>

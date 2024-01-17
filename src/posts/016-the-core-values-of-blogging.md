@@ -4,6 +4,7 @@ description: "In June 2006, I interviewed Yahoo at Supernova about its so-called
 date: 2024-01-16
 permalink: "p/016-the-core-values-of-blogging/"
 tags: ['Memoir']
+featureImage: "/assets/images/f93a892c-5e78-4050-961e-9cd4c2092040_2048x1365.jpg"
 ---
 
 ![Me and Greg Narain at BloggerCon IV, June 2006](/assets/images/f93a892c-5e78-4050-961e-9cd4c2092040_2048x1365.jpg "Me and Greg Narain at BloggerCon IV, June 2006")

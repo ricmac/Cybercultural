@@ -4,6 +4,7 @@ description: "I first visited the US in late September 2005. But what happened i
 date: 2023-11-17
 permalink: "p/2005-growth-of-web-20-and-rww/"
 tags: ['Memoir']
+featureImage: "/assets/images/b811ca8a-7408-4f06-81a8-53f101bf82a0_829x622.png"
 ---
 ![](/assets/images/b811ca8a-7408-4f06-81a8-53f101bf82a0_829x622.png)
 *A reader emailed me this screenshot of RWW in March 2005, in order to point out the MyYahoo Ticker at the bottom of the screen. “My RSS headlines stream on the bottom of my screen all day and I click things that catch my eye,” he told me.*

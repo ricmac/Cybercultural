@@ -4,6 +4,7 @@ description: "My first trip to America in 2005, where I get to know the founder 
 date: 2023-11-15
 permalink: "p/005-arriving-at-the-techcrunch-ranch/"
 tags: ['Memoir']
+featureImage: "/assets/images/17177e5f-92c2-4622-a0c3-e20be441a46f_1637x1228.jpg"
 ---
 ![](/assets/images/17177e5f-92c2-4622-a0c3-e20be441a46f_1637x1228.jpg)
 *For two weeks in October 2005, this room was where TechCrunch, Read/Write Web, WeBreakStuff and tech.memeorandum were published.*

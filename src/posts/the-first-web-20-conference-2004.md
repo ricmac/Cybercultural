@@ -4,6 +4,7 @@ description: "I tune into the 2004 Web 2.0 Conference and learn about network ef
 date: 2023-11-08
 permalink: "p/the-first-web-20-conference-2004/"
 tags: ['Memoir']
+featureImage: "/assets/images/c374b60f-7b0f-4b94-a4f3-c4ca0498f5e0_2320x1596.png"
 ---
 ![Read/Write Web, 25 March 2004](/assets/images/c374b60f-7b0f-4b94-a4f3-c4ca0498f5e0_2320x1596.png "Read/Write Web, 25 March 2004")
 *Read/Write Web, [25 March 2004](https://web.archive.org/web/20040325005810/http://readwriteweb.com/) (just before Marc Canter interview)*

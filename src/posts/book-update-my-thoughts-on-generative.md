@@ -4,6 +4,7 @@ description: "An update on my Web 2.0 memoir (draft 1 finished!), plus thoughts 
 date: 2023-06-23
 permalink: "p/book-update-my-thoughts-on-generative/"
 tags: ['Article']
+featureImage: "/assets/images/4fa6afa2-ed85-4a5a-8a75-46de0e98b1f1_1024x1024.jpg"
 ---
 ![](/assets/images/4fa6afa2-ed85-4a5a-8a75-46de0e98b1f1_1024x1024.jpg)
 

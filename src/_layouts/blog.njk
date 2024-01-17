@@ -15,12 +15,15 @@ layout: base
 <article class="wrapper region">
 <div class="wrapper flow prose">
 <p>The serialization of my Web 2.0 memoir: "Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution". 
-For more about this project, read <a href="/p/bubble-blog-web20-memoir/">my launch post</a> from October 2023.</p>
+View the <a href="/p/roadmap-bubbleblog/">roadmap</a>.</p>
 </div>
   <ul class="grid mt-l-xl" role="list" data-rows="masonry" data-layout="50-50">
     {% for post in collections.posts %}
       {% if 'Memoir' in post.data.tags %}
         <li class="card flow overflow-hidden">
+          {% if post.data.featureImage %}
+          <img src="{{ post.data.featureImage | url }}" alt="{{ post.data.title }}">
+          {% endif %}
           <h2>
             <a href="{{ post.url | url }}">{{ post.data.title }}</a>
           </h2>

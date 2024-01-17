@@ -4,6 +4,7 @@ description: "The introductory chapter of my serialized Web 2.0 memoir, Bubble B
 date: 2023-11-02
 permalink: "p/introduction-to-bubble-blog-book/"
 tags: ['Memoir']
+featureImage: "/assets/images/5bb99c88-7e3e-4ea2-ad9f-3d32600357a5_3400x2134.jpg"
 ---
 ![Bubble Blog book cover](/assets/images/5bb99c88-7e3e-4ea2-ad9f-3d32600357a5_3400x2134.jpg "Bubble Blog book cover")
 

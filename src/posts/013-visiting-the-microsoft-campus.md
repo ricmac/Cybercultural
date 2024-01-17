@@ -4,6 +4,7 @@ description: "It's January 2006 and I attend Microsoft Search Champs to discuss 
 date: 2023-12-20
 permalink: "p/013-visiting-the-microsoft-campus/"
 tags: ['Memoir']
+featureImage: "/assets/images/315d4eb2-a0cb-45d9-be9f-e8a5e55b2fb6_1637x1228.jpg"
 ---
 ![Welcome to Microsoft Search Champs](/assets/images/315d4eb2-a0cb-45d9-be9f-e8a5e55b2fb6_1637x1228.jpg "Welcome to Microsoft Search Champs")
 *Welcome to Microsoft Search Champs; photo by me.*

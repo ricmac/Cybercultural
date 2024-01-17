@@ -4,6 +4,7 @@ description: "I look back on two decades of RWW, including the more than 10 year
 date: 2023-04-20
 permalink: "p/readwriteweb-20/"
 tags: ['Article']
+featureImage: "/assets/images/faafce12-b7fb-4286-a0e8-a433eecd742e_2022x1384.png"
 ---
 
 ![](/assets/images/faafce12-b7fb-4286-a0e8-a433eecd742e_2022x1384.png)

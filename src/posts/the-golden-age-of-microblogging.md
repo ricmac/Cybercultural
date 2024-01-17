@@ -4,6 +4,7 @@ description: "I take a nostalgic trip back to 2007-11, when Tumblr, Soup.io, Fri
 date: 2023-03-22
 permalink: "p/the-golden-age-of-microblogging/"
 tags: ['Article']
+featureImage: "/assets/images/d5131350-70d9-4804-a905-ab391eadb615_1430x888.jpg"
 ---
 ![](/assets/images/d5131350-70d9-4804-a905-ab391eadb615_1430x888.jpg)
 

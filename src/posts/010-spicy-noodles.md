@@ -4,6 +4,7 @@ description: "The Web 2.0 Workgroup forms, and I meet one of my web heroes: Dave
 date: 2023-12-04
 permalink: "p/010-spicy-noodles/"
 tags: ['Memoir']
+featureImage: "/assets/images/5f0cf3d8-28af-4f7c-ab78-350ffe501156_2272x1704.jpg"
 ---
 ![Celebrating the Web 2.0 Workgroup at Jing Jing, in Palo Alto.](/assets/images/5f0cf3d8-28af-4f7c-ab78-350ffe501156_2272x1704.jpg "Celebrating the Web 2.0 Workgroup at Jing Jing, in Palo Alto.")
 *Celebrating the Web 2.0 Workgroup at Jing Jing, in Palo Alto. From left to right: Gabe Rivera, Dave Winer, me, Mike Arrington, Fred Oliveira. Photo by Dave.*

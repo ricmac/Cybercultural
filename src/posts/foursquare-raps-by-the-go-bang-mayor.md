@@ -4,6 +4,7 @@ description: "I look back on a forgotten age in social media, when you checked-i
 date: 2023-02-21
 permalink: "p/foursquare-raps-by-the-go-bang-mayor/"
 tags: ['Article']
+featureImage: "/assets/images/479e6f2c-37c6-43c4-9b2c-7acd19b49d7d_1114x810.jpg"
 ---
 ![](/assets/images/479e6f2c-37c6-43c4-9b2c-7acd19b49d7d_1114x810.jpg)
 

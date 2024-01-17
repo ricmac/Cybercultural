@@ -4,6 +4,7 @@ description: "A bonus post for paid subscribers: I explain how Marc Andreessen w
 date: 2023-11-10
 permalink: "p/marc-andreessen-2004/"
 tags: ['Memoir']
+featureImage: "/assets/images/fd1d4179-2029-4f19-80ef-29a90033148b_973x1280.jpg"
 ---
 ![Marc Andreessen on the cover of TIME magazine in Feb 1996](/assets/images/fd1d4179-2029-4f19-80ef-29a90033148b_973x1280.jpg "Marc Andreessen on the cover of TIME magazine in Feb 1996")
 *Marc Andreessen, bare feet and all, on the cover of TIME magazine in Feb 1996.*
