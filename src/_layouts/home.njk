@@ -32,7 +32,7 @@ layout: base
 
     <li class="card flow overflow-hidden">
       {% if post.data.featureImage %}
-        <img src="{{ post.data.featureImage | url }}" alt="{{ post.data.title }}">
+      <img class="post-feature-image" src="{{ post.data.featureImage | url }}" alt="{{ post.data.title }}">
       {% endif %}
       <h3>
         <a href="{{ post.url | url }}">{{ post.data.title }}</a>

@@ -21,9 +21,9 @@ View the <a href="/p/roadmap-bubbleblog/">roadmap</a>.</p>
     {% for post in collections.posts %}
       {% if 'Memoir' in post.data.tags %}
         <li class="card flow overflow-hidden">
-          {% if post.data.featureImage %}
-          <img src="{{ post.data.featureImage | url }}" alt="{{ post.data.title }}">
-          {% endif %}
+      {% if post.data.featureImage %}
+      <img class="post-feature-image" src="{{ post.data.featureImage | url }}" alt="{{ post.data.title }}">
+      {% endif %}
           <h2>
             <a href="{{ post.url | url }}">{{ post.data.title }}</a>
           </h2>
