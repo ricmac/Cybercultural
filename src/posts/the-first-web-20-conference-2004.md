@@ -19,7 +19,7 @@ In-between trying to get linked to by an A-Lister in the blogosphere, I inadvert
 
 During our phone call, I was won over by Canter’s loquacious charm and you can tell from [my writeup](https://web.archive.org/web/20040624214129/http://www.readwriteweb.com/archives/001818.php) that I was under his spell. I badly wanted to believe his tales of multimedia rock n’ roll parties in the 1980s — the blaring music, huge video projectors, beer in the bathtub, smoke-filled hotel suites, and rented Cadillacs. His constant name-dropping and preposterous comparisons (he likened early MacroMind to the 1962 Beatles in Hamburg) only served to fire up my imagination even more about Silicon Valley.
 
-[Subscribe now](https://www.cybercultural.com/subscribe?)
+
 
 I was also attracted to his talk about bootstrapping a cool startup and what it took to get such a company off the ground. “Every time I'd go do a demo or a speech somewhere,” he told me about the first years of MacroMind, “I’d bring a couple of cases of software and I'd sell it at the back of the room.”
 
@@ -105,4 +105,3 @@ Andreessen’s final comment in the Web 2.0 panel was to answer a question from 
 
 Next up: [004\. A Call With Tim O'Reilly](https://www.cybercultural.com/p/call-with-tim-oreilly-2004)
 
-To receive the next installment of Bubble Blog, subscribe now.

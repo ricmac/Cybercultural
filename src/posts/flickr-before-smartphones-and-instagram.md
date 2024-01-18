@@ -12,8 +12,6 @@ As I’ve been writing my “Web 2.0 memoir” this year, I’ve been using Flic
 
 One of the distinguishing features about Flickr in early Web 2.0 was that it was a time before smartphone cameras. Most of the photos uploaded by people back then were taken on a digital camera. Sometimes you used the crappy quality camera on your mobile phone, which output these rough things called “PXTs”. Either way, to get photos onto Flickr, usually you connected your camera or phone to your computer by cable, downloaded your photos to your computer, and _then_ uploaded them to Flickr. There was no sync straight to the cloud back then.
 
-Thanks for reading Cybercultural! Subscribe for free to receive new posts and support my work.
-
 I was already planning to write about early Web 2.0 Flickr anyway for Cybercultural, and then I saw an article on The New York Times with the headline, [The Hottest Gen Z Gadget Is a 20-Year-Old Digital Camera](https://www.nytimes.com/2023/01/07/technology/digital-cameras-olympus-canon.html). It turns out, just as Gen Z are big fans of the tv show Friends, they’re also going retro (sometimes) with their social media photos too. Here’s part of the intro, describing how an 18-year old took photos at his prom using his Mom’s old digital camera:
 
 > “…instead of using his smartphone, Mr. Tabarez documented prom night with an Olympus FE-230, a 7.1-megapixel, silver digital camera made in 2007 and previously owned by his mother. During his senior year of high school, cameras like it started appearing in classrooms and at social gatherings. On prom night, Mr. Tabarez passed around his camera, which snapped fuchsia-tinted photos that looked straight from the early aughts.”

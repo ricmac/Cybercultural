@@ -79,4 +79,3 @@ As for Gabe, he used sarcasm a lot to deflect serious conversations, but I could
 
 Next up: [011\. The Web 2.0 Illuminati](https://www.cybercultural.com/p/011-the-web-20-illuminati)
 
-Subscribe to receive the next installment of Bubble Blog, my serialized Web 2.0 memoir.

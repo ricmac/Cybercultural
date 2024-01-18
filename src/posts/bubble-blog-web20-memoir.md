@@ -12,8 +12,6 @@ I’m excited to launch a project I’ve been working on for over a year now: a 
 
 The first post from the book will go up this Thursday, 2 November, 2023. If you haven’t already, I invite you to subscribe to Cybercultural today so that you receive the serialized book in your email inbox (you’ll receive two emails per week).
 
-Subscribe to the serialization of my new book, Bubble Blog.
-
 _Bubble Blog_ is a memoir of my experiences running my tech blog, ReadWriteWeb, during the first decade of the 2000s (I mainly focus on the years 2004-2011). ReadWriteWeb was one of the key tech publications of the Web 2.0 era — for several years it was ranked one of the top 10 blogs in the world by Technorati — and was syndicated by the New York Times. The 2000s was a transformative decade for internet technology; it was when social media, smartphones and apps, and cloud computing all emerged. I chronicled this revolution on my blog. Also during this time, I traveled to Silicon Valley regularly and made (and lost) many friends along the way.
 
 My book will, I hope, give you an inside view into what it was like building the modern internet — starting from before Facebook and the iPhone even existed.
@@ -33,4 +31,3 @@ Perhaps current tech entrepreneurs and media “creators” (to use the modern l
 
 I hope you’ll join me for this journey into the heart of Web 2.0. The first serialized post will be released later this week!
 
-[Subscribe now](https://www.cybercultural.com/subscribe?)

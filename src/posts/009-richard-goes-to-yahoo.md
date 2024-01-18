@@ -82,4 +82,3 @@ In hindsight, he was only partially right — blogs and RSS eventually gave way 
 
 Next up: [010\. Spicy Noodles](https://www.cybercultural.com/p/010-spicy-noodles)
 
-Subscribe to receive the next installment of Bubble Blog, my serialized Web 2.0 memoir.

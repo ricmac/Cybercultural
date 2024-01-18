@@ -19,7 +19,7 @@ The Web 2.0 Conference kicked off on Wednesday, October 5, 2005, at The Argent H
 
 Since I wanted to arrive early on the first day of the conference, I’d arranged to catch a lift into the city with Keith Teare, Mike Arrington’s business partner. Mike was more relaxed about the event and he had posts to write, he told me, so he would arrive later.
 
-[Subscribe now](https://www.cybercultural.com/subscribe?)
+
 
 Keith was a balding 51-year old Englishman who had a long history of running startups — he’d co-founded a London ISP and Internet cafe in the 1990s, then moved his family to Palo Alto in 1997 and founded a domain name service called RealNames. That company hired Mike, as a lawyer, in 1999.
 
@@ -79,4 +79,3 @@ Before we knew it, Josh and I had been shuffled out the door so that Tim could p
 
 Next up: [007\. Day 2 of the 2005 Web 2.0 Conference](https://www.cybercultural.com/p/007-2005-web-20-conference-day-2)
 
-Subscribe to receive the next installment of Bubble Blog, my serialized Web 2.0 memoir.

@@ -14,7 +14,7 @@ The following is a chronological table of contents for my book, **Bubble Blog: F
 
 Each chapter is a series of posts, usually about three to four. The links will be filled in as posts are mailed out.
 
-[Subscribe now](https://www.cybercultural.com/subscribe?)
+
 
 ### Introduction
 

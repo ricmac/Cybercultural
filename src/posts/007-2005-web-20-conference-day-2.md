@@ -19,7 +19,7 @@ When I walked into the Web 2.0 Conference at the Argent the next morning, a Thur
 
 “I see one of your lot has been bought,” Fergus said to me, as I shuffled in beside them and slurped my coffee.
 
-[Subscribe now](https://www.cybercultural.com/subscribe?)
+
 
 “What do you mean?” I asked. He nodded in the direction of a short man with blond hair, wearing a salmon-colored business shirt and an oversized black jacket. He was perched on the side of a chair, surrounded by people — mostly men with glasses and tan slacks.
 
@@ -94,4 +94,3 @@ All of that was in the future, as I supped my beer at the House of Shields and w
 
 Next up: [008\. The Colors of Web 2.0 Party](https://www.cybercultural.com/p/008-the-colors-of-web-20-party)
 
-Subscribe to receive the next installment of Bubble Blog, my serialized Web 2.0 memoir.

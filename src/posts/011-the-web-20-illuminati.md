@@ -96,4 +96,3 @@ And why wouldn’t I? The bubble was only just getting started ;)
 
 Next up: [012\. The Gift Basket; Seattle, January 2006](https://www.cybercultural.com/p/012-gift-basket-seattle-january-2006)
 
-Subscribe to receive the next installment of Bubble Blog, my serialized Web 2.0 memoir.

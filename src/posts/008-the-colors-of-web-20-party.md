@@ -74,4 +74,3 @@ The overwhelming feeling I had as I slumped into my seat, wheezing for breath an
 
 Next up: [009\. Richard Goes to Yahoo!](https://www.cybercultural.com/p/009-richard-goes-to-yahoo)
 
-Subscribe to receive the next installment of Bubble Blog, my serialized Web 2.0 memoir.

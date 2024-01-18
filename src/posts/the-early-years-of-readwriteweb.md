@@ -19,8 +19,6 @@ I was a long way from Silicon Valley at the beginning of 2004, both geographical
 
 “I'm a writer, web technology analyst and web producer,” I [described myself](https://web.archive.org/web/20040114183039/http://www.readwriteweb.com/stories/2004/01/08/aboutMe2004.html) on my blog at the beginning of 2004. “The latter one pays the mortgage right now, but I'm working on increasing the influence of the first two in my career.” And that, I wrote, was where my weblog came in. At the time, I worked for Contact Energy, one of New Zealand’s leading power suppliers. As hinted at in my profile page, I found my day-job rather dull — I managed the internal and external websites of the company, using a mix of off-the-shelf content management system software and whatever web publishing products Microsoft and Macromedia had at the time. The topics I wrote about in my blog were many years away from being a part of corporate websites.
 
-Subscribe to the serialization of my new book, Bubble Blog.
-
 Since starting it in April 2003, my weblog had mostly focused on analysis of the latest web technology trends — but it was also a “learn by doing” situation. I’d spent a good deal of time organizing the structure of the blog (creating the navigation, setting up subscription formats, deciding what to put in the sidebars, and so on), and I’d completed a full “[tableless CSS](https://web.archive.org/web/20040111235103/http://www.readwriteweb.com/2003/09/28.html#a123)” redesign in September. But I’d also veered off track at times, such as my participation in NaNoWriMo — National Novel Writing Month — an annual challenge to write a 50,000-word novel in 30 days, over the month of November 2003.
 
 ![Behold, my tableless CSS design. Safari screen capture from 10 January 2004.](/assets/images/c74891d5-b3c0-4b36-b5b1-7e2f4b283144_1024x768.jpg "Behold, my tableless CSS design. Safari screen capture from 10 January 2004.")
@@ -74,5 +72,3 @@ These were early warning signs of what social media would turn into in the 2010s
 * * *
 
 On to [003\. The First Web 2.0 Conference](https://www.cybercultural.com/p/the-first-web-20-conference-2004)
-
-Subscribe for free to receive all installments of Bubble Blog by email.

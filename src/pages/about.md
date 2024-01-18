@@ -7,8 +7,22 @@ layout: page
 ---
 I’m Richard MacManus (@ricmac), a pioneering tech blogger and author. Cybercultural is my newsletter about **tech history and its impact on our culture**. I’m currently serializing my latest book, "Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution". It chronicles the rise of the modern internet during the first decade of this century.
 
-## Subscribe
+<h2>Subscribe</h2>
 
+<form
+  action="https://buttondown.email/api/emails/embed-subscribe/ricmac"
+  method="post"
+  target="popupwindow"
+  onsubmit="window.open('https://buttondown.email/ricmac', 'popupwindow')"
+  class="embeddable-buttondown-form"
+>
+  <label for="bd-email">Enter your email</label>
+  <input type="email" name="email" id="bd-email" />
+  
+  <input type="submit" value="Subscribe" />
+</form>
+
+## More Info
 I was the founder and Editor-in-Chief of [ReadWriteWeb](https://ricmac.org/career-archive/readwriteweb/) (RWW) from 2003-2012. RWW was ranked among the top 10 blogs in the world, according to Technorati. It was syndicated by The New York Times and eventually acquired by SAY Media.
 
 My most recent online project was [Web Development History](https://webdevelopmenthistory.com/) (2020-21), a blog that chronicled the early years of the web from a developer perspective. Here are some nice things people said about that project:

@@ -73,4 +73,3 @@ In fairness, FM was still a new business and so was busy ironing out its own sca
 
 Next up: 015. Power Laws and Digg
 
-Subscribe to receive the next installment of Bubble Blog, my serialized Web 2.0 memoir.

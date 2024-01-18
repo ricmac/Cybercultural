@@ -77,4 +77,3 @@ Before we left, I promised to try and make it to the Andy Warhol-themed party Er
 
 Next up: [013\. Visiting the Microsoft Campus](https://www.cybercultural.com/p/013-visiting-the-microsoft-campus)
 
-Subscribe to receive the next installment of Bubble Blog, my serialized Web 2.0 memoir.

@@ -19,7 +19,7 @@ I hadn’t gone to the first Web 2.0 Conference in October 2004, but I monitored
 
 I called him from my day job, at the power company I worked for in Wellington. The office was open-plan and so I couldn’t do the call at my desk, since it had nothing to do with my job. So I hid myself away in a small conference room. I told a couple of the developers I was friendly with about the true nature of the call, but the IT and marketing project managers I interacted with daily knew nothing about it. If they had peeped into the conference room during the hour I talked to O’Reilly, they may’ve thought I was talking to a local web design company about our company intranet.
 
-[Subscribe now](https://www.cybercultural.com/subscribe?)
+
 
 I was nervous about the call and felt some imposter syndrome. At the start, O’Reilly was friendly, but also a little sniffy. For my first question, I asked what were the key insights about Web 2.0 that he personally got from the conference that he didn't know beforehand? “When you work on putting together the program, you know what's in it, so I wasn't surprised terribly much by anything,” he replied.
 
@@ -87,7 +87,7 @@ By this point, it was clear what the focus of my blog would be going forward: We
 
 Next up: [005\. Arriving at the TechCrunch Ranch](https://www.cybercultural.com/p/005-arriving-at-the-techcrunch-ranch)
 
-To receive the next installment of Bubble Blog, subscribe now.
+
 
 [1](#footnote-anchor-1)
 

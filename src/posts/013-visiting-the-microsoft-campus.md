@@ -96,4 +96,3 @@ As for Microsoft, it simply wanted to latch onto the new, new thing — whatever
 
 Next up: [014\. Reluctant Salesman](https://www.cybercultural.com/p/014-the-sponsor-ads-era-2006)
 
-Subscribe to receive the next installment of Bubble Blog, my serialized Web 2.0 memoir.

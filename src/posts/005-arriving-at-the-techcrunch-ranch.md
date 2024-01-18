@@ -19,7 +19,7 @@ On a Friday afternoon at the end of September 2005, I stepped foot on American s
 
 “Richard? Hi, I’m Mike,” he said, and shook my hand. It had been a twelve-hour overnight flight and I hadn’t slept, so my brain felt foggy. Plus, I was overwhelmed by finally being in the land of opportunity. I smiled and mumbled something like ‘great to meet you’ and he led the way to his car.
 
-[Subscribe now](https://www.cybercultural.com/subscribe?)
+
 
 Soon we were heading south down the famous 101 highway, in Mike Arrington’s open-top sports car. It was so bright and hot that I was worried I’d get sunburned, so I took sun cream out of the laptop bag I was clutching and began applying it. Mike, who was tanned and relaxed in the driver’s seat, looked over at me, bemused and perhaps wondering what kind of weirdo he’d taken in. “I have fair skin,” I said, embarrassed and already feeling out of place in sunny California. We talked a bit about blogging and the startups we were both covering on our respective blogs, although I found it hard to hear amidst the whirl of the motorway and the thwak-thwak-thwak sound of the tires as we drove at speed down the 101. My ears were also still partially blocked after the flight.
 
@@ -72,4 +72,3 @@ As for me, I was enjoying my new surroundings, but I still felt overwhelmed with
 
 Next up: [006\. Revving Up at the Web 2.0 Conference](https://www.cybercultural.com/p/006-revving-up-2005-web-20-conference)
 
-To receive the next installment of Bubble Blog, subscribe now.

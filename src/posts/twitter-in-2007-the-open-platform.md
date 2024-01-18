@@ -82,5 +82,3 @@ For now, I’ll leave you with some of my Twitter bangers from 2007…the good o
 
 ![](/assets/images/dc8a0c42-b5a4-4f94-89b8-c520f9593621_1782x1810.png)
 My Twitter feed, October 2007
-
-Thanks for reading Cybercultural! Subscribe for free to receive new posts and support my work.
