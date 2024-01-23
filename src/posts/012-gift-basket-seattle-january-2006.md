@@ -9,9 +9,9 @@ featureImage: "/assets/images/fc79d690-3a0c-43d3-bbe9-92799b4cfda7_799x533.jpg"
 ![Josh Porter and I at the Seattle Central Library](/assets/images/fc79d690-3a0c-43d3-bbe9-92799b4cfda7_799x533.jpg "Josh Porter and I at the Seattle Central Library")
 *Josh Porter and I at the Seattle Central Library; photo [by Fred Oliveira](https://www.flickr.com/photos/webreakstuff/95892538).*
 
-_This post begins Chapter 4 of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. To catch up on previous posts or to view the table of contents, check [the Roadmap](https://www.cybercultural.com/p/roadmap-bubbleblog)._
+This post begins Chapter 4 of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. To catch up on previous posts or to view the table of contents, check [the Roadmap](/p/roadmap-bubbleblog).
 
-Back to [011\. The Web 2.0 Illuminati](https://www.cybercultural.com/p/011-the-web-20-illuminati)
+Back to [011\. The Web 2.0 Illuminati](/p/011-the-web-20-illuminati)
 
 * * *
 
@@ -75,5 +75,5 @@ Before we left, I promised to try and make it to the Andy Warhol-themed party Er
 
 * * *
 
-Next up: [013\. Visiting the Microsoft Campus](https://www.cybercultural.com/p/013-visiting-the-microsoft-campus)
+Next up: [013\. Visiting the Microsoft Campus](/p/013-visiting-the-microsoft-campus)
 

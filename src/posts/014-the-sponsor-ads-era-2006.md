@@ -9,9 +9,9 @@ featureImage: "/assets/images/59d474d4-5497-4bb7-a6b1-6d95eac0233b_1001x572.jpg"
 ![](/assets/images/59d474d4-5497-4bb7-a6b1-6d95eac0233b_1001x572.jpg)
 *Read/WriteWeb homepage in August 2006, soon after I began to run sponsor ads.*
 
-_This post completes Chapter 4 of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. To catch up on previous posts or to view the table of contents, check [the Roadmap](https://www.cybercultural.com/p/roadmap-bubbleblog)._
+This post completes Chapter 4 of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. To catch up on previous posts or to view the table of contents, check [the Roadmap](/p/roadmap-bubbleblog).
 
-Back to [013\. Visiting the Microsoft Campus in Redmond](https://www.cybercultural.com/p/013-visiting-the-microsoft-campus)
+Back to [013\. Visiting the Microsoft Campus in Redmond](/p/013-visiting-the-microsoft-campus)
 
 * * *
 

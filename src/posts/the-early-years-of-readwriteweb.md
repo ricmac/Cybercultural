@@ -9,9 +9,9 @@ featureImage: "/assets/images/5fa25a2e-ef88-4fd7-9866-bf939acc998b_640x480.jpg"
 ![My weblog avatar in January 2004](/assets/images/5fa25a2e-ef88-4fd7-9866-bf939acc998b_640x480.jpg "My weblog avatar in January 2004")
 *My weblog avatar in January 2004, age 32.*
 
-_This is the opening section of Chapter 1 of my book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. To view the table of contents, check [the Roadmap](https://www.cybercultural.com/p/roadmap-bubbleblog)._
+This is the opening section of Chapter 1 of my book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. To view the table of contents, check [the Roadmap](/p/roadmap-bubbleblog).
 
-Back to [001\. Introduction to Bubble Blog](https://www.cybercultural.com/p/introduction-to-bubble-blog-book)
+Back to [001\. Introduction to Bubble Blog](/p/introduction-to-bubble-blog-book)
 
 * * *
 
@@ -71,4 +71,4 @@ These were early warning signs of what social media would turn into in the 2010s
 
 * * *
 
-On to [003\. The First Web 2.0 Conference](https://www.cybercultural.com/p/the-first-web-20-conference-2004)
+On to [003\. The First Web 2.0 Conference](/p/the-first-web-20-conference-2004)

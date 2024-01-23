@@ -9,9 +9,9 @@ featureImage: "/assets/images/8702d00f-1066-4581-a67d-e494497a4473_1822x1338.jpg
 
 ![Richard MacManus = Illuminati (according to Supr.c.ilio.us in 2005)](/assets/images/8702d00f-1066-4581-a67d-e494497a4473_1822x1338.jpg "Richard MacManus = Illuminati (according to Supr.c.ilio.us in 2005)")
 
-_This post concludes Chapter 3 of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. To catch up on previous posts or to view the table of contents, check [the Roadmap](https://www.cybercultural.com/p/roadmap-bubbleblog)._
+This post concludes Chapter 3 of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. To catch up on previous posts or to view the table of contents, check [the Roadmap](/p/roadmap-bubbleblog).
 
-Back to [010\. Spicy Noodles](https://www.cybercultural.com/p/010-spicy-noodles)
+Back to [010\. Spicy Noodles](/p/010-spicy-noodles)
 
 * * *
 
@@ -94,5 +94,5 @@ And why wouldn’t I? The bubble was only just getting started ;)
 
 * * *
 
-Next up: [012\. The Gift Basket; Seattle, January 2006](https://www.cybercultural.com/p/012-gift-basket-seattle-january-2006)
+Next up: [012\. The Gift Basket; Seattle, January 2006](/p/012-gift-basket-seattle-january-2006)
 

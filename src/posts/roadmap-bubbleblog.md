@@ -67,7 +67,7 @@ PART 1: 2004-06
 
 *   [016\. The Core Values of Blogging](/p/016-the-core-values-of-blogging)
 
-*   017. Gnomedex / Media 2.0
+*   [017. Gnomedex 2006 and My Corporate Blogging Adventure](/p/017-gnomedex-2006-corporate-blogging)
     
 
 To be continued…

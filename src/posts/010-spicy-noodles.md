@@ -9,9 +9,9 @@ featureImage: "/assets/images/5f0cf3d8-28af-4f7c-ab78-350ffe501156_2272x1704.jpg
 ![Celebrating the Web 2.0 Workgroup at Jing Jing, in Palo Alto.](/assets/images/5f0cf3d8-28af-4f7c-ab78-350ffe501156_2272x1704.jpg "Celebrating the Web 2.0 Workgroup at Jing Jing, in Palo Alto.")
 *Celebrating the Web 2.0 Workgroup at Jing Jing, in Palo Alto. From left to right: Gabe Rivera, Dave Winer, me, Mike Arrington, Fred Oliveira. Photo by Dave.*
 
-_This post continues Chapter 3 of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. To catch up on previous posts or to view the table of contents, check [the Roadmap](https://www.cybercultural.com/p/roadmap-bubbleblog)._
+This post continues Chapter 3 of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. To catch up on previous posts or to view the table of contents, check [the Roadmap](/p/roadmap-bubbleblog).
 
-Back to [009\. Richard Goes to Yahoo!](https://www.cybercultural.com/p/009-richard-goes-to-yahoo)
+Back to [009\. Richard Goes to Yahoo!](/p/009-richard-goes-to-yahoo)
 
 * * *
 
@@ -77,5 +77,5 @@ As for Gabe, he used sarcasm a lot to deflect serious conversations, but I could
 
 * * *
 
-Next up: [011\. The Web 2.0 Illuminati](https://www.cybercultural.com/p/011-the-web-20-illuminati)
+Next up: [011\. The Web 2.0 Illuminati](/p/011-the-web-20-illuminati)
 

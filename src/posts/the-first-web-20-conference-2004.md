@@ -9,9 +9,9 @@ featureImage: "/assets/images/c374b60f-7b0f-4b94-a4f3-c4ca0498f5e0_2320x1596.png
 ![Read/Write Web, 25 March 2004](/assets/images/c374b60f-7b0f-4b94-a4f3-c4ca0498f5e0_2320x1596.png "Read/Write Web, 25 March 2004")
 *Read/Write Web, [25 March 2004](https://web.archive.org/web/20040325005810/http://readwriteweb.com/) (just before Marc Canter interview)*
 
-_This post continues Chapter 1 of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. To view the table of contents, check [the Roadmap](https://www.cybercultural.com/p/roadmap-bubbleblog)._
+This post continues Chapter 1 of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. To view the table of contents, check [the Roadmap](/p/roadmap-bubbleblog).
 
-Back to [002\. The Early Years of ReadWriteWeb](https://www.cybercultural.com/p/the-early-years-of-readwriteweb)
+Back to [002\. The Early Years of ReadWriteWeb](/p/the-early-years-of-readwriteweb)
 
 * * *
 
@@ -103,5 +103,5 @@ Andreessen’s final comment in the Web 2.0 panel was to answer a question from 
 
 * * *
 
-Next up: [004\. A Call With Tim O'Reilly](https://www.cybercultural.com/p/call-with-tim-oreilly-2004)
+Next up: [004\. A Call With Tim O'Reilly](/p/call-with-tim-oreilly-2004)
 

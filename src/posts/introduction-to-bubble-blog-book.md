@@ -8,7 +8,7 @@ featureImage: "/assets/images/5bb99c88-7e3e-4ea2-ad9f-3d32600357a5_3400x2134.jpg
 ---
 ![Bubble Blog book cover](/assets/images/5bb99c88-7e3e-4ea2-ad9f-3d32600357a5_3400x2134.jpg "Bubble Blog book cover")
 
-_Welcome to the first post in the serialization of my Web 2.0 memoir. This is the introduction, which sets the scene for the 20 chapters to come. Each following chapter will have a number of sections, which you’ll receive as posts via email. There is also [a roadmap (table of contents)](https://www.cybercultural.com/p/roadmap-bubbleblog), which lists all the sections in order — in case you need to catch-up at any point. Thank you for joining me on this journey to the heart of Web 2.0. Please leave comments and/or share on social media if you enjoy it — this is the read/write web after all! Here we go…_
+Welcome to the first post in the serialization of my Web 2.0 memoir. This is the introduction, which sets the scene for the 20 chapters to come. Each following chapter will have a number of sections, which you’ll receive as posts via email. There is also [a roadmap (table of contents)](/p/roadmap-bubbleblog), which lists all the sections in order — in case you need to catch-up at any point. Thank you for joining me on this journey to the heart of Web 2.0. Please leave comments and/or share on social media if you enjoy it — this is the read/write web after all! Here we go…
 
 * * *
 
@@ -109,4 +109,4 @@ I felt like I’d just joined the ranks of Silicon Valley’s insiders. And, as 
 
 * * *
 
-On to [002\. The Early Years of ReadWriteWeb](https://www.cybercultural.com/p/the-early-years-of-readwriteweb)
+On to [002\. The Early Years of ReadWriteWeb](/p/the-early-years-of-readwriteweb)

@@ -10,9 +10,9 @@ featureImage: "/assets/images/a75d9528-09fb-4a81-9ffc-4f8127ccab34_1200x800.jpg"
 ![Digg CEO Kevin Rose at the Digg 3.0 launch party, June 2006](/assets/images/a75d9528-09fb-4a81-9ffc-4f8127ccab34_1200x800.jpg "Digg CEO Kevin Rose at the Digg 3.0 launch party, June 2006")
 *Digg CEO Kevin Rose at the Digg 3.0 launch party, June 2006; [photo](https://www.flickr.com/photos/laughingsquid/173085670) by Scott Beale / [Laughing Squid](http://laughingsquid.com/)*
 
-_This post begins Chapter 5 of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. To catch up on previous posts or to view the table of contents, check [the Roadmap](https://www.cybercultural.com/p/roadmap-bubbleblog)._
+This post begins Chapter 5 of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. To catch up on previous posts or to view the table of contents, check [the Roadmap](/p/roadmap-bubbleblog).
 
-Back to [014\. Reluctant Salesman: The Sponsor Ads Era](https://www.cybercultural.com/p/014-the-sponsor-ads-era-2006)
+Back to [014\. Reluctant Salesman: The Sponsor Ads Era](/p/014-the-sponsor-ads-era-2006)
 
 * * *
 
@@ -36,7 +36,7 @@ Despite Mike being so busy, we managed to collaborate on a story involving Digg,
 ![Digg homepage, June 2006](/assets/images/87da23ad-abcb-4eef-8f30-32df48607493_2096x1882.jpg "Digg homepage, June 2006")
 *Digg homepage, June 2006.*
 
-Just before departing for California, I’d written about the relaunch of a famous internet brand: [Netscape](https://web.archive.org/web/20110830152230/http://www.readwriteweb.com/archives/netscape_wears.php). AOL had put Jason Calacanis in charge of the brand, after [acquiring his Weblogs, Inc. business](https://www.cybercultural.com/p/007-2005-web-20-conference-day-2) the previous year. Calacanis had decided to turn Netscape into a user-voted news aggregator that bore a striking resemblance to Digg. Some bloggers—Mike included—thought this might be a “[Digg killer](https://web.archive.org/web/20110907024559/http://techcrunch.com/2006/06/14/aol-netscape-launches-massive-digg-like-site/)” due to the considerable built-in audience the Netscape portal still enjoyed at the time. I noted in my piece that “Netscape gets a surprising 811 million monthly page views,” compared to Digg’s 200 million.
+Just before departing for California, I’d written about the relaunch of a famous internet brand: [Netscape](https://web.archive.org/web/20110830152230/http://www.readwriteweb.com/archives/netscape_wears.php). AOL had put Jason Calacanis in charge of the brand, after [acquiring his Weblogs, Inc. business](/p/007-2005-web-20-conference-day-2) the previous year. Calacanis had decided to turn Netscape into a user-voted news aggregator that bore a striking resemblance to Digg. Some bloggers—Mike included—thought this might be a “[Digg killer](https://web.archive.org/web/20110907024559/http://techcrunch.com/2006/06/14/aol-netscape-launches-massive-digg-like-site/)” due to the considerable built-in audience the Netscape portal still enjoyed at the time. I noted in my piece that “Netscape gets a surprising 811 million monthly page views,” compared to Digg’s 200 million.
 
 The key difference was that Digg was entirely controlled by the “wisdom of the crowd” (its users), whereas Calacanis had added editors (whom he called “anchors”) to select which stories would feature at the top of the page. As Calacanis himself put it, he wanted “an editorial voice to balance the hive mind.” I’d written that this approach was “inherently less democratic, even if it ends up being more effective.” I added, “I can’t see any current Digg users defecting, but perhaps Digg should hurry up with those new features it’s been promising!”
 

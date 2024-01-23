@@ -9,9 +9,9 @@ featureImage: "/assets/images/17177e5f-92c2-4622-a0c3-e20be441a46f_1637x1228.jpg
 ![](/assets/images/17177e5f-92c2-4622-a0c3-e20be441a46f_1637x1228.jpg)
 *For two weeks in October 2005, this room was where TechCrunch, Read/Write Web, WeBreakStuff and tech.memeorandum were published.*
 
-_This post begins Chapter 2 of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. To view the table of contents, check [the Roadmap](https://www.cybercultural.com/p/roadmap-bubbleblog)._
+This post begins Chapter 2 of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. To view the table of contents, check [the Roadmap](/p/roadmap-bubbleblog).
 
-Back to [004\. A Call With Tim O'Reilly](https://www.cybercultural.com/p/call-with-tim-oreilly-2004)
+Back to [004\. A Call With Tim O'Reilly](/p/call-with-tim-oreilly-2004)
 
 * * *
 
@@ -70,5 +70,5 @@ As for me, I was enjoying my new surroundings, but I still felt overwhelmed with
 
 * * *
 
-Next up: [006\. Revving Up at the Web 2.0 Conference](https://www.cybercultural.com/p/006-revving-up-2005-web-20-conference)
+Next up: [006\. Revving Up at the Web 2.0 Conference](/p/006-revving-up-2005-web-20-conference)
 

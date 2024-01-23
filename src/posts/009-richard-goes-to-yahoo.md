@@ -9,9 +9,9 @@ featureImage: "/assets/images/cdbb72de-7f87-4153-b670-94087d30c792_640x480.jpg"
 ![Me at the Yahoo! campus, 10 October 2005](/assets/images/cdbb72de-7f87-4153-b670-94087d30c792_640x480.jpg "Me at the Yahoo! campus, 10 October 2005")
 *Me at the Yahoo! campus, 10 October 2005; photo [by Jeremy Zawodny](https://www.flickr.com/photos/jzawodn/51348982/).*
 
-_This post begins Chapter 3 of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. To catch up on previous posts or to view the table of contents, check [the Roadmap](https://www.cybercultural.com/p/roadmap-bubbleblog)._
+This post begins Chapter 3 of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. To catch up on previous posts or to view the table of contents, check [the Roadmap](/p/roadmap-bubbleblog).
 
-Back to [008\. The Colors of Web 2.0 Party](https://www.cybercultural.com/p/008-the-colors-of-web-20-party)
+Back to [008\. The Colors of Web 2.0 Party](/p/008-the-colors-of-web-20-party)
 
 * * *
 
@@ -80,5 +80,5 @@ In hindsight, he was only partially right — blogs and RSS eventually gave way 
 
 * * *
 
-Next up: [010\. Spicy Noodles](https://www.cybercultural.com/p/010-spicy-noodles)
+Next up: [010\. Spicy Noodles](/p/010-spicy-noodles)
 

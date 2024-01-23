@@ -9,9 +9,9 @@ featureImage: "/assets/images/29881ba3-77b3-47a3-90d5-a4d81521ed5b_800x600.jpg"
 ![My press badge for the Web 2.0 Conference, October 2005](/assets/images/29881ba3-77b3-47a3-90d5-a4d81521ed5b_800x600.jpg "My press badge for the Web 2.0 Conference, October 2005")
 *My press badge for the Web 2.0 Conference, October 2005*
 
-_This post continues Chapter 2 of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. To catch up on previous posts or to view the table of contents, check [the Roadmap](https://www.cybercultural.com/p/roadmap-bubbleblog)._
+This post continues Chapter 2 of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. To catch up on previous posts or to view the table of contents, check [the Roadmap](/p/roadmap-bubbleblog).
 
-Back to [005\. Arriving at the TechCrunch Ranch](https://www.cybercultural.com/p/005-arriving-at-the-techcrunch-ranch)
+Back to [005\. Arriving at the TechCrunch Ranch](/p/005-arriving-at-the-techcrunch-ranch)
 
 * * *
 
@@ -77,5 +77,5 @@ Before we knew it, Josh and I had been shuffled out the door so that Tim could p
 
 * * *
 
-Next up: [007\. Day 2 of the 2005 Web 2.0 Conference](https://www.cybercultural.com/p/007-2005-web-20-conference-day-2)
+Next up: [007\. Day 2 of the 2005 Web 2.0 Conference](/p/007-2005-web-20-conference-day-2)
 

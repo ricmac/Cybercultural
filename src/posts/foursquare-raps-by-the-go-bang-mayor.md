@@ -44,7 +44,7 @@ Also in October, I began to use Foursquare to document my travels — including 
 
 Some of my check-in posts during this time were vaguely poetic and diaristic, e.g. this from November 21, 2010, back once more at Go-Bang:
 
-_House hunting again. Sprawly, cold winds outside. Taking shelter in my fave cafe for huevos rancheros and trim flat white._
+_House hunting again. Sprawly, cold winds outside. Taking shelter in my fave cafe for huevos rancheros and trim flat white.
 
 Again, it’s a nice personal memory from that time period — and _place_, since I now live in Wales, halfway across the world. Also, Go-Bang sure did a wonderful plate of huevos rancheros!
 
@@ -54,7 +54,7 @@ Again, it’s a nice personal memory from that time period — and _place_, sinc
 Why I Chose to Use Foursquare
 -----------------------------
 
-So why did I post these diary-like entries and silly raps into Foursquare? I could’ve done the same short posts on Facebook or Twitter, or even Instagram — which I’d started using in October 2010 (as I wrote about in [my previous Cybercultural post](https://www.cybercultural.com/p/flickr-before-smartphones-and-instagram)). I think it was that I wanted to somehow _celebrate_ the places that I went to and enjoyed, and to let people know that they were a regular part of my life. I wanted to show I was at Go-Bang not only because it served great coffee and eggs, but that it had a _vibe_ that said something about me.
+So why did I post these diary-like entries and silly raps into Foursquare? I could’ve done the same short posts on Facebook or Twitter, or even Instagram — which I’d started using in October 2010 (as I wrote about in [my previous Cybercultural post](/p/flickr-before-smartphones-and-instagram)). I think it was that I wanted to somehow _celebrate_ the places that I went to and enjoyed, and to let people know that they were a regular part of my life. I wanted to show I was at Go-Bang not only because it served great coffee and eggs, but that it had a _vibe_ that said something about me.
 
 It was like posting about a favourite band on Twitter (or more likely Tumblr, at that point), or rating a book on Goodreads. I wanted folks to know I loved this _thing_…this place, in the case of Foursquare. Also, in Web 2.0, we were still working out how to use social media — hard to believe now, but it wasn’t all about voicing your opinions back then. What you put on social media was often a reflection of your broader lifestyle; I visit these places (Foursquare and/or Flickr), I listen to this music (Twitter and Tumblr), I watch these tv shows (AllConsuming), I’m friends with these people (Facebook).
 

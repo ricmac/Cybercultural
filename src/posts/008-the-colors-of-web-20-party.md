@@ -9,9 +9,9 @@ featureImage: "/assets/images/70a2272f-baa4-4971-a3ed-6de5b29856f4_2048x1365.jpg
 ![Web 2.0 cool kids](/assets/images/70a2272f-baa4-4971-a3ed-6de5b29856f4_2048x1365.jpg "Web 2.0 cool kids")
 *Me leading my posse into the party… no, just kidding, this was someone much cooler than me. Photo [by Kris Krug](https://www.flickr.com/photos/kk/50159142/in/album-1111108/).*
 
-_This post completes Chapter 2 of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. To catch up on previous posts or to view the table of contents, check [the Roadmap](https://www.cybercultural.com/p/roadmap-bubbleblog)._
+This post completes Chapter 2 of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. To catch up on previous posts or to view the table of contents, check [the Roadmap](/p/roadmap-bubbleblog).
 
-Back to [007\. Day 2 of the 2005 Web 2.0 Conference](https://www.cybercultural.com/p/007-2005-web-20-conference-day-2)
+Back to [007\. Day 2 of the 2005 Web 2.0 Conference](/p/007-2005-web-20-conference-day-2)
 
 * * *
 
@@ -72,5 +72,5 @@ The overwhelming feeling I had as I slumped into my seat, wheezing for breath an
 
 * * *
 
-Next up: [009\. Richard Goes to Yahoo!](https://www.cybercultural.com/p/009-richard-goes-to-yahoo)
+Next up: [009\. Richard Goes to Yahoo!](/p/009-richard-goes-to-yahoo)
 

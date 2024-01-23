@@ -10,13 +10,13 @@ featureImage: "/assets/images/f93a892c-5e78-4050-961e-9cd4c2092040_2048x1365.jpg
 ![Me and Greg Narain at BloggerCon IV, June 2006](/assets/images/f93a892c-5e78-4050-961e-9cd4c2092040_2048x1365.jpg "Me and Greg Narain at BloggerCon IV, June 2006")
 *Me and Greg Narain at BloggerCon IV, June 2006; photo [by Chris Heuer](https://www.flickr.com/photos/chrisheuer/173971067)*
 
-_This post continues Chapter 5 of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. To catch up on previous posts or to view the table of contents, check [the Roadmap](https://www.cybercultural.com/p/roadmap-bubbleblog)._
+This post continues Chapter 5 of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. To catch up on previous posts or to view the table of contents, check [the Roadmap](/p/roadmap-bubbleblog).
 
-Back to [015\. Digg and the Power Laws of Silicon Valley](https://www.cybercultural.com/p/015-digg-power-laws-of-silicon-valley)
+Back to [015\. Digg and the Power Laws of Silicon Valley](/p/015-digg-power-laws-of-silicon-valley)
 
 * * *
 
-For the rest of the week after the [Digg podcast call](https://www.cybercultural.com/p/015-digg-power-laws-of-silicon-valley), I attended the 2006 Supernova conference, run by a business academic named Kevin Werbach. It wasn’t as good as the Web 2.0 Conference. In too many cases, panelists and speakers just talked about their own products or companies, and the event was targeted at businesspeople, not developers (the [tagline](https://web.archive.org/web/20060519102608/http://www.supernova2006.com/) was “Because technology is everyone’s business”). That was true of the Web 2.0 Conference as well, but developers were at least hanging around the hallways there—which wasn’t the case at Supernova.
+For the rest of the week after the [Digg podcast call](/p/015-digg-power-laws-of-silicon-valley), I attended the 2006 Supernova conference, run by a business academic named Kevin Werbach. It wasn’t as good as the Web 2.0 Conference. In too many cases, panelists and speakers just talked about their own products or companies, and the event was targeted at businesspeople, not developers (the [tagline](https://web.archive.org/web/20060519102608/http://www.supernova2006.com/) was “Because technology is everyone’s business”). That was true of the Web 2.0 Conference as well, but developers were at least hanging around the hallways there—which wasn’t the case at Supernova.
 
 The most interesting news from my perspective was [Yahoo announcing](https://web.archive.org/web/20060828233005/http://blogs.zdnet.com/web2explorer/?p=217) more support for “microformats,” a structured blogging initiative that had emerged the previous year. The theory was that making web content more structured through open-standard formats made it possible (or at least a lot easier) to create new aggregation services. The announcement was part of a larger story that Yahoo was pushing in the industry: that it was now an open platform and that developers were free to build things on its APIs and “mashup” its user data as they pleased.
 
@@ -55,9 +55,9 @@ It was another key lesson for entrepreneurs and developers in the Web 2.0 era: k
 
 * * *
 
-That Friday, I skipped the last day of Supernova to attend the first day of BloggerCon IV. It was an “unconference” jointly run by Dave Winer, the [pioneering blogger](https://www.cybercultural.com/p/010-spicy-noodles) and software developer, and Harvard Law School’s Berkman Center. I later adopted the unconference format for my own ReadWriteWeb events, which began in 2009. But whereas we wanted to make money from our events, Winer liked to call his BloggerCon unconference “non-commercial”—although, he sold blogging software for a living, so it was obviously a good promotional tool for him.
+That Friday, I skipped the last day of Supernova to attend the first day of BloggerCon IV. It was an “unconference” jointly run by Dave Winer, the [pioneering blogger](/p/010-spicy-noodles) and software developer, and Harvard Law School’s Berkman Center. I later adopted the unconference format for my own ReadWriteWeb events, which began in 2009. But whereas we wanted to make money from our events, Winer liked to call his BloggerCon unconference “non-commercial”—although, he sold blogging software for a living, so it was obviously a good promotional tool for him.
 
-BloggerCon was held at CNET’s office in San Francisco, so the location was familiar after [my meeting](https://www.cybercultural.com/p/011-the-web-20-illuminati) with ZDNet editor Dan Farber back in October. Dan was at BloggerCon too, as were most of my blog buddies—Mike Arrington, Gabe Rivera, Susan Mernit, Marc Canter, Chris Pirillo, Anil Dash, and others. And yes, of the fewer than one hundred attendees, most were men—although the ratio was improved slightly by the presence of three founders from a conference called BlogHer.
+BloggerCon was held at CNET’s office in San Francisco, so the location was familiar after [my meeting](/p/011-the-web-20-illuminati) with ZDNet editor Dan Farber back in October. Dan was at BloggerCon too, as were most of my blog buddies—Mike Arrington, Gabe Rivera, Susan Mernit, Marc Canter, Chris Pirillo, Anil Dash, and others. And yes, of the fewer than one hundred attendees, most were men—although the ratio was improved slightly by the presence of three founders from a conference called BlogHer.
 
 BloggerCon was also deliberately low-key. When you walked into CNET, a hand-drawn sign to the left of reception pointed the way to the conference room. It was just a black marker pen on a piece of A0 paper, and it couldn’t have contrasted more with the slick, neon-yellow signage of CNET at the reception desk. Another handwritten sign just outside the conference room prompted the attendees to sign in by filling out a name tag sticker.
 
@@ -92,7 +92,7 @@ I didn’t think this was a useful discussion, and even if I had been called upo
 
 Eventually, Mike changed the topic to something that was front and center for emerging pro bloggers like me: conflicts of interest. He wanted to explore the more subtle ways that this can influence a blogger. “What if I’m investing in a company, and I’ve disclosed that, but they have a competitor?” he said. “Or, you know, just the subtle ways that we can all push things we like and not push things we don’t like—where’s the line there?”
 
-This was something I would grapple with in the coming months, as I [landed new sponsors](https://www.cybercultural.com/p/014-the-sponsor-ads-era-2006). Zoho was in the web office space and Pageflakes was in start pages—two product categories that I loved to write about. If anything, I ended up trying to avoid writing about my sponsors; over the following years, I wrote more often about Google Docs than Zoho, and Netvibes more than Pageflakes. In retrospect, I was perhaps a little unfair on my sponsors when it came to editorial.
+This was something I would grapple with in the coming months, as I [landed new sponsors](/p/014-the-sponsor-ads-era-2006). Zoho was in the web office space and Pageflakes was in start pages—two product categories that I loved to write about. If anything, I ended up trying to avoid writing about my sponsors; over the following years, I wrote more often about Google Docs than Zoho, and Netvibes more than Pageflakes. In retrospect, I was perhaps a little unfair on my sponsors when it came to editorial.
 
 ![Blog boys at BloggerCon](/assets/images/798abfd0-03a8-4f7b-9518-a6e28628adfd_800x533.jpg "Blog boys at BloggerCon")
 *Blog boys at BloggerCon; from left to right: Gabe Rivera, me, Steve Gillmor, Doc Searls, Marc Canter, Dave McClure, Mike Arrington; photo [by Mike](https://www.flickr.com/photos/michaelarrington/224318819/)*
@@ -103,4 +103,4 @@ As RWW began turning into a media business over the rest of 2006, those words fr
 
 * * *
 
-Next up: 017. Gnomedex / Media 2.0
+Next up: [017. Gnomedex 2006 and My Corporate Blogging Adventure](/p/017-gnomedex-2006-corporate-blogging/)

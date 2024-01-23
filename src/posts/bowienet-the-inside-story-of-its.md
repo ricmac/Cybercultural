@@ -200,4 +200,4 @@ He thanks his website designers, Nettmedia, “for putting up with my constant f
 
 If you enjoyed this post, please share it on social media. Also, subscribe for free to receive future Cybercultural posts.
 
-_Image credits: [YouTube video](https://www.youtube.com/watch?v=utRNomjKytk) of David Bowie interview on ZDTV's Internet Tonight, June 1999._
+_Image credits: [YouTube video](https://www.youtube.com/watch?v=utRNomjKytk) of David Bowie interview on ZDTV's Internet Tonight, June 1999.

@@ -9,9 +9,9 @@ featureImage: "/assets/images/b355a7e0-ccf7-4464-83c0-2c3251ea3a0b_1514x1126.jpg
 ![My Tim O’Reilly interview after the first Web 2.0 Conference, Nov 2004.](/assets/images/b355a7e0-ccf7-4464-83c0-2c3251ea3a0b_1514x1126.jpg "My Tim O’Reilly interview after the first Web 2.0 Conference, Nov 2004.")
 *My Tim O’Reilly interview after the first Web 2.0 Conference, Nov 2004.*
 
-_This post completes Chapter 1 of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. To view the table of contents, check [the Roadmap](https://www.cybercultural.com/p/roadmap-bubbleblog)._
+This post completes Chapter 1 of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. To view the table of contents, check [the Roadmap](/p/roadmap-bubbleblog).
 
-Back to [003\. The First Web 2.0 Conference](https://www.cybercultural.com/p/the-first-web-20-conference-2004)
+Back to [003\. The First Web 2.0 Conference](/p/the-first-web-20-conference-2004)
 
 * * *
 
@@ -85,7 +85,7 @@ By this point, it was clear what the focus of my blog would be going forward: We
 
 * * *
 
-Next up: [005\. Arriving at the TechCrunch Ranch](https://www.cybercultural.com/p/005-arriving-at-the-techcrunch-ranch)
+Next up: [005\. Arriving at the TechCrunch Ranch](/p/005-arriving-at-the-techcrunch-ranch)
 
 
 

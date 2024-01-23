@@ -9,9 +9,9 @@ featureImage: "/assets/images/d1f5d47b-1e9d-458e-bbfa-5256ab205153_562x705.jpg"
 ![A cartoon drawn of me at the Web 2.0 Conference, October 2005](/assets/images/d1f5d47b-1e9d-458e-bbfa-5256ab205153_562x705.jpg "A cartoon drawn of me at the Web 2.0 Conference, October 2005")
 *A cartoon drawn of me at the Web 2.0 Conference, October 2005.*
 
-_This post continues Chapter 2 of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. To catch up on previous posts or to view the table of contents, check [the Roadmap](https://www.cybercultural.com/p/roadmap-bubbleblog)._
+This post continues Chapter 2 of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. To catch up on previous posts or to view the table of contents, check [the Roadmap](/p/roadmap-bubbleblog).
 
-Back to [006\. Revving Up at the Web 2.0 Conference](https://www.cybercultural.com/p/006-revving-up-2005-web-20-conference)
+Back to [006\. Revving Up at the Web 2.0 Conference](/p/006-revving-up-2005-web-20-conference)
 
 * * *
 
@@ -92,5 +92,5 @@ All of that was in the future, as I supped my beer at the House of Shields and w
 
 * * *
 
-Next up: [008\. The Colors of Web 2.0 Party](https://www.cybercultural.com/p/008-the-colors-of-web-20-party)
+Next up: [008\. The Colors of Web 2.0 Party](/p/008-the-colors-of-web-20-party)
 
