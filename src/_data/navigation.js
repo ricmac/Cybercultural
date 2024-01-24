@@ -12,10 +12,6 @@ module.exports = {
       text: 'Articles',
       url: '/articles/'
     },
-    {
-      text: 'RSS',
-      url: '/feed.xml'
-    }
   ],
   bottom: [
     {
