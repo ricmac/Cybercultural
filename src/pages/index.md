@@ -8,7 +8,7 @@ blog:
   intro: ""
 ---
 
-A newsletter about tech history and its impact on our culture, by Richard MacManus. Currently serializing [my latest book](/memoir/), *Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution*.
+A newsletter about tech history and its impact on our culture, by [Richard MacManus](/about/). Currently serializing [my latest book](/memoir/).
 
 <form
   action="https://buttondown.email/api/emails/embed-subscribe/ricmac"
