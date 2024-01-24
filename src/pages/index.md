@@ -4,7 +4,7 @@ title: 'Cybercultural'
 description: 'Tech history and its impact on our culture.'
 layout: 'home'
 blog:
-  title: 'Recent Posts'
+  title: ""
   intro: ""
 ---
 

@@ -2,7 +2,9 @@
 FLOW UTILITY
 Like the Every Layout stack: https://every-layout.dev/layouts/stack/
 Info about this implementation: https://piccalil.li/quick-tip/flow-utility/
+
+RM note: was margin-block-start: var(--flow-space, 1em)
 */
 .flow > * + * {
-  margin-block-start: var(--flow-space, 1em);
+  margin-block-start: 0;
 }
