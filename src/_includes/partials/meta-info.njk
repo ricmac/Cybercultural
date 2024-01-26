@@ -29,6 +29,18 @@
 <link rel="me" href="{{ meta.meta_data.mastodonProfile }}" />
 {% endif %}
 
+<!-- Google Analytics code -->
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-142477361-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-142477361-1');
+</script>
+
+
 <!-- Open Graph meta  -->
 <meta property="og:url" content="{{ meta.url }}{{ page.url }}" />
 <meta property="og:type" content="website" />
