@@ -31,7 +31,7 @@ module.exports = {
   },
   address: {
     // edit all presets or leave empty. They are being used in the pages for privacy.md and imprint.md
-    firma: 'Organization name',
+    firma: 'Org name',
     street: '123 Main St.',
     city: 'Ciudad',
     state: 'Estado',
