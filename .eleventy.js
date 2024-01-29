@@ -126,6 +126,11 @@ module.exports = eleventyConfig => {
   eleventyConfig.addPassthroughCopy({
     'src/assets/images/favicon/*': '/'
   });
+
+  module.exports = (eleventyConfig) => {
+    // Assuming your file resides under src/_redirects
+    eleventyConfig.addPassthroughCopy('src/_redirects');
+  }  
   
   // 	--------------------- general config -----------------------
   return {
