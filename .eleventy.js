@@ -122,21 +122,10 @@ module.exports = eleventyConfig => {
     eleventyConfig.addPassthroughCopy(path)
   );
   
-  module.exports = function (config) {
-    //All other stuff
-
-  // Passthrough copy
-    // All other passthroughs
-  config.addPassthroughCopy('src/_redirects');
-
-  return {
-    dir: {
-      input: 'src',
-      output: 'dist'
-    },
-    passthroughFileCopy: true
-  };
-}; 
+  module.exports = (eleventyConfig) => {
+    // Assuming your file resides under src/_redirects
+    eleventyConfig.addPassthroughCopy('src/_redirects');
+  }   
 
   // social icons to root directory
   eleventyConfig.addPassthroughCopy({
