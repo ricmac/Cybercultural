@@ -116,32 +116,32 @@ module.exports = eleventyConfig => {
   eleventyConfig.addPlugin(inclusiveLangPlugin);
   eleventyConfig.addPlugin(bundlerPlugin);
 
-  // 	--------------------- Passthrough File Copy -----------------------
-  module.exports = function (eleventyConfig) {
-    // Passthrough copy for fonts and images
-    ['src/assets/fonts/', 'src/assets/images/'].forEach(path =>
-      eleventyConfig.addPassthroughCopy(path)
-    );
+// 	--------------------- Passthrough File Copy -----------------------
+  // same path
+  ['src/assets/fonts/', 'src/assets/images/'].forEach(path =>
+    eleventyConfig.addPassthroughCopy(path)
+  );
   
-    // Passthrough copy for _redirects
-    eleventyConfig.addPassthroughCopy('src/_redirects');
-  
-    // Passthrough copy for social icons to root directory
-    eleventyConfig.addPassthroughCopy({
-      'src/assets/images/favicon/*': '/'
-    });
-  
-    // All other configurations
-    // ...
-  
-    return {
-      dir: {
-        input: 'src',
-        output: 'dist'
-      },
-      passthroughFileCopy: true
-    };
+  module.exports = function (config) {
+    //All other stuff
+
+  // Passthrough copy
+    // All other passthroughs
+  config.addPassthroughCopy('src/_redirects');
+
+  return {
+    dir: {
+      input: 'src',
+      output: 'dist'
+    },
+    passthroughFileCopy: true
   };
+}; 
+
+  // social icons to root directory
+  eleventyConfig.addPassthroughCopy({
+    'src/assets/images/favicon/*': '/'
+  });  
   
   // 	--------------------- general config -----------------------
   return {
