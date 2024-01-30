@@ -24,3 +24,7 @@ package = "netlify-plugin-cache"
   to = "https://cybercultural.ricmac.org/p/audiobooks-deep-dive-latest-statistics/"
   status = 301
 
+[[redirects]]
+  from = "/p/introducing-cybercultural/"
+  to = "https://cybercultural.ricmac.org/p/introducing-cybercultural/"
+  status = 301

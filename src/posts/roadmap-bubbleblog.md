@@ -69,5 +69,12 @@ PART 1: 2004-06
 
 *   [017. Gnomedex 2006 and My Corporate Blogging Adventure](/p/017-gnomedex-2006-corporate-blogging)
     
+### 6\. Lou Reed
+
+*   [018\. The Birth of Cloud Computing and Team RWW](/p/018-birth-of-cloud-computing/)
+
+*   019\. Lou Reed and the Web 2.0 Summit
+
+*   020\. Poker Night and Person of the Year
 
 To be continued…

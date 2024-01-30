@@ -86,4 +86,4 @@ So, corporate blogging didn’t work out for me. Fortunately, though, Read/Write
 
 * * *
 
-Next up: 018. Lou Reed and the Web 2.0 Summit
+Next up: [018. The Birth of Cloud Computing and Team RWW](/p/018-birth-of-cloud-computing/)
