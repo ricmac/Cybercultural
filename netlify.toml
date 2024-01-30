@@ -20,8 +20,7 @@ package = "netlify-plugin-cache"
   publish = "dist"
 
 [[redirects]]
-  from = "/p/audiobooks-deep-dive-latest-statistics/"
+  from = "/p/audiobooks-deep-dive-latest-statistics"
   to = "https://cybercultural.ricmac.org/p/audiobooks-deep-dive-latest-statistics/"
   status = 301
 
-  
