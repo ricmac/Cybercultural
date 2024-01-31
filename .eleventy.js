@@ -93,6 +93,13 @@ module.exports = eleventyConfig => {
   eleventyConfig.addShortcode('include_raw', includeRaw);
   eleventyConfig.addShortcode('year', () => `${new Date().getFullYear()}`); // current year, stephanie eckles
   eleventyConfig.addShortcode('packageVersion', () => `v${packageVersion}`);
+  eleventyConfig.addShortcode("image", async function(src) {
+    let metadata = await Image(src, {
+      widths: [600] 
+    });
+    let data = metadata.jpeg[0];
+    return `${data.url}`;
+  });
 
   // 	--------------------- Custom transforms ---------------------
   eleventyConfig.addPlugin(require('./config/transforms/html-config.js'));
@@ -145,17 +152,3 @@ module.exports = eleventyConfig => {
     }
   };
 };
-
-const Image = require("@11ty/eleventy-img");
-
-module.exports = function(eleventyConfig) {
-
-  eleventyConfig.addShortcode("image", async function(src) {
-    let metadata = await Image(src, {
-      widths: [600] 
-    });
-    let data = metadata.jpeg[0];
-    return `${data.url}`;
-  });
-
-}
