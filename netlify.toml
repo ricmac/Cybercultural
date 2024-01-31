@@ -233,4 +233,138 @@ package = "netlify-plugin-cache"
   to = "https://cybercultural.ricmac.org/p/peak-tv-vevo-vs-spotify-bjrk-vr-ebook/"
   status = 301
 
-  
+[[redirects]]
+  from = "/p/exclusive-data-email-newsletters"
+  to = "https://cybercultural.ricmac.org/p/exclusive-data-email-newsletters/"  
+
+[[redirects]]
+  from = "/p/new-washington-post-ad-network-and"
+  to = "https://cybercultural.ricmac.org/p/new-washington-post-ad-network-and/"  
+
+[[redirects]]
+  from = "/p/weekly-wrap-up-14-20-sep-2019"
+  to = "https://cybercultural.ricmac.org/p/weekly-wrap-up-14-20-sep-2019/"  
+
+[[redirects]]
+  from = "/p/facebook-portal-pop-music-pressures"
+  to = "https://cybercultural.ricmac.org/p/facebook-portal-pop-music-pressures/"  
+
+[[redirects]]
+  from = "/p/spotify-upgrades-artist-app-espn"
+  to = "https://cybercultural.ricmac.org/p/spotify-upgrades-artist-app-espn/"  
+
+[[redirects]]
+  from = "/p/audio-vs-text-the-rise-of-podcasts"
+  to = "https://cybercultural.ricmac.org/p/audio-vs-text-the-rise-of-podcasts/"  
+
+[[redirects]]
+  from = "/p/weekly-wrap-up-21-27-sep-2019"
+  to = "https://cybercultural.ricmac.org/p/weekly-wrap-up-21-27-sep-2019/"  
+
+[[redirects]]
+  from = "/p/food52-ny-magazine-online-advertising"
+  to = "https://cybercultural.ricmac.org/p/food52-ny-magazine-online-advertising/"  
+
+[[redirects]]
+  from = "/p/fortnite-revenue-dip-comics-in-streaming"
+  to = "https://cybercultural.ricmac.org/p/fortnite-revenue-dip-comics-in-streaming/"  
+
+[[redirects]]
+  from = "/p/weekly-wrap-up-28-sep-4-oct-19"
+  to = "https://cybercultural.ricmac.org/p/weekly-wrap-up-28-sep-4-oct-19/"  
+
+[[redirects]]
+  from = "/p/sports-illustrated-debacle-reading"
+  to = "https://cybercultural.ricmac.org/p/sports-illustrated-debacle-reading/"  
+
+[[redirects]]
+  from = "/p/the-state-of-podcasting"
+  to = "https://cybercultural.ricmac.org/p/the-state-of-podcasting/"  
+
+[[redirects]]
+  from = "/p/radio-tsl-spotify-daily-drive-remembering"
+  to = "https://cybercultural.ricmac.org/p/radio-tsl-spotify-daily-drive-remembering/"  
+
+[[redirects]]
+  from = "/p/netflix-for-kids-spotify-canvas-audius"
+  to = "https://cybercultural.ricmac.org/p/netflix-for-kids-spotify-canvas-audius/"  
+
+[[redirects]]
+  from = "/p/change-to-cybercultural-subscriptions"
+  to = "https://cybercultural.ricmac.org/p/change-to-cybercultural-subscriptions/"  
+
+[[redirects]]
+  from = "/p/why-the-next-wave-of-digital-media"
+  to = "https://cybercultural.ricmac.org/p/why-the-next-wave-of-digital-media/"  
+
+[[redirects]]
+  from = "/p/how-the-internet-is-changing-cultural"
+  to = "https://cybercultural.ricmac.org/p/how-the-internet-is-changing-cultural/"  
+
+[[redirects]]
+  from = "/p/re-inventing-20th-century-culture"
+  to = "https://cybercultural.ricmac.org/p/re-inventing-20th-century-culture/"  
+
+[[redirects]]
+  from = "/p/when-digital-is-blended-with-reality"
+  to = "https://cybercultural.ricmac.org/p/when-digital-is-blended-with-reality/"  
+
+[[redirects]]
+  from = "/p/the-long-tail-has-failed-the-cultural"
+  to = "https://cybercultural.ricmac.org/p/the-long-tail-has-failed-the-cultural/"  
+
+[[redirects]]
+  from = "/p/top-5-culture-tech-trends-of-2019"
+  to = "https://cybercultural.ricmac.org/p/top-5-culture-tech-trends-of-2019/"  
+
+[[redirects]]
+  from = "/p/the-decade-in-culture-tech-streaming"
+  to = "https://cybercultural.ricmac.org/p/the-decade-in-culture-tech-streaming/"  
+
+[[redirects]]
+  from = "/p/culture-tech-notes-2020-book-project"
+  to = "https://cybercultural.ricmac.org/p/culture-tech-notes-2020-book-project/"  
+
+[[redirects]]
+  from = "/p/from-internet-amnesia-to-holographic"
+  to = "https://cybercultural.ricmac.org/p/from-internet-amnesia-to-holographic/"  
+
+[[redirects]]
+  from = "/p/resurrecting-cybercultural"
+  to = "https://cybercultural.ricmac.org/p/resurrecting-cybercultural/"  
+
+[[redirects]]
+  from = "/p/metaverse-hype-or-reality"
+  to = "https://cybercultural.ricmac.org/p/metaverse-hype-or-reality/"  
+
+[[redirects]]
+  from = "/p/my-top-internet-tech-of-2021"
+  to = "https://cybercultural.ricmac.org/p/my-top-internet-tech-of-2021/"    
+
+[[redirects]]
+  from = "/p/top-internet-tech-stories-of-2021"
+  to = "https://cybercultural.ricmac.org/p/top-internet-tech-stories-of-2021/"  
+
+[[redirects]]
+  from = "/p/social-networking-past-present-and"
+  to = "https://cybercultural.ricmac.org/p/social-networking-past-present-and/"    
+
+[[redirects]]
+  from = "/p/nft-iphonelaunch-bowie"
+  to = "https://cybercultural.ricmac.org/p/nft-iphonelaunch-bowie/"  
+
+[[redirects]]
+  from = "/p/twitter-nft-microsoft-activision"
+  to = "https://cybercultural.ricmac.org/p/twitter-nft-microsoft-activision/"    
+
+[[redirects]]
+  from = "/p/looking-at-web3-through-a-cultural"
+  to = "https://cybercultural.ricmac.org/p/looking-at-web3-through-a-cultural/"  
+
+[[redirects]]
+  from = "/p/loneliness"
+  to = "https://cybercultural.ricmac.org/p/loneliness/"    
+
+[[redirects]]
+  from = "/p/mobile-internet"
+  to = "https://cybercultural.ricmac.org/p/mobile-internet/"  
