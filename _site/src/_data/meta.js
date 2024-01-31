@@ -1,5 +1,5 @@
 module.exports = {
-  url: process.env.URL || 'http://localhost:8080',
+  url: process.env.URL || 'https://cybercultural.com',
   siteName: 'Cybercultural',
   siteDescription:
     'Tech history and its impact on our culture.',
