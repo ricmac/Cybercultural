@@ -24,7 +24,170 @@ package = "netlify-plugin-cache"
   to = "https://cybercultural.ricmac.org/p/audiobooks-deep-dive-latest-statistics/"
   status = 301
 
-[[redirects]]
-  from = "/p/introducing-cybercultural/"
+  from = "/p/introducing-cybercultural"
   to = "https://cybercultural.ricmac.org/p/introducing-cybercultural/"
+  status = 301
+
+  from = "p/spotify-and-google-make-moves-in"
+  to = "https://cybercultural.ricmac.org/p/spotify-and-google-make-moves-in/"
+  status = 301
+
+  from = "/p/whats-new-in-online-ticketing-cybercultural"
+  to = "https://cybercultural.ricmac.org/p/whats-new-in-online-ticketing-cybercultural/"
+  status = 301
+
+  from = "/p/wattpads-hollywood-formula-cybercultural"
+  to = "https://cybercultural.ricmac.org/p/wattpads-hollywood-formula-cybercultural/"
+  status = 301
+
+  from = "/p/beyond-music-distribution-cybercultural"
+  to = "https://cybercultural.ricmac.org/p/beyond-music-distribution-cybercultural/"
+  status = 301
+
+  from = "/p/audiobooks-continue-strong-growth"
+  to = "https://cybercultural.ricmac.org/p/audiobooks-continue-strong-growth/"
+  status = 301
+
+  from = "/p/espn-airballs-its-nba-live-stream"
+  to = "https://cybercultural.ricmac.org/p/espn-airballs-its-nba-live-stream/"
+  status = 301
+
+  from = "/p/digital-first-instagram-first-for"
+  to = "https://cybercultural.ricmac.org/p/digital-first-instagram-first-for/"
+  status = 301
+
+  from = "/p/is-crowdfunding-really-a-viable-business"
+  to = "https://cybercultural.ricmac.org/p/is-crowdfunding-really-a-viable-business/"
+  status = 301
+
+  from = "/p/the-marketing-upside-of-streaming"
+  to = "https://cybercultural.ricmac.org/p/the-marketing-upside-of-streaming/"
+  status = 301
+
+  from = "/p/the-chernobyl-podcast-and-the-value"
+  to = "https://cybercultural.ricmac.org/p/the-chernobyl-podcast-and-the-value/"
+  status = 301
+
+  from = "/p/interview-with-believe-cco-jonathan"
+  to = "https://cybercultural.ricmac.org/p/interview-with-believe-cco-jonathan/"
+  status = 301
+
+  from = "/p/how-photo-sharing-is-impacting-the"
+  to = "https://cybercultural.ricmac.org/p/how-photo-sharing-is-impacting-the/"
+  status = 301
+
+  from = "/p/what-facebooks-libra-means-for-spotify"
+  to = "https://cybercultural.ricmac.org/p/what-facebooks-libra-means-for-spotify/"
+  status = 301
+
+  from = "/p/ai-in-the-cultural-industries-uses"
+  to = "https://cybercultural.ricmac.org/p/ai-in-the-cultural-industries-uses/"
+  status = 301
+
+  from = "/p/quick-reader-survey"
+  to = "https://cybercultural.ricmac.org/p/quick-reader-survey/"
+  status = 301
+
+  from = "/p/cybercultural-update-survey-results"
+  to = "hhttps://cybercultural.ricmac.org/p/cybercultural-update-survey-results/"
+  status = 301
+
+  from = "/p/what-youtube-originals-pivot-tells"
+  to = "https://cybercultural.ricmac.org/p/what-youtube-originals-pivot-tells/"
+  status = 301
+
+  from = "/p/the-micropayments-market"
+  to = "https://cybercultural.ricmac.org/p/the-micropayments-market/"
+  status = 301
+
+  from = "/p/taking-on-internet-platform-bullies"
+  to = "https://cybercultural.ricmac.org/p/taking-on-internet-platform-bullies/"
+  status = 301
+
+  from = "/p/adapting-to-the-post-print-world"
+  to = "https://cybercultural.ricmac.org/p/adapting-to-the-post-print-world/"
+  status = 301
+
+  from = "/p/exclusive-data-online-gaming-habits"
+  to = "https://cybercultural.ricmac.org/p/exclusive-data-online-gaming-habits/"
+  status = 301
+
+  from = "/p/nearly-extinct-pop-culture-activities"
+  to = "https://cybercultural.ricmac.org/p/nearly-extinct-pop-culture-activities/"
+  status = 301
+
+  from = "/p/cybercultural-update-launching-paid"
+  to = "https://cybercultural.ricmac.org/p/cybercultural-update-launching-paid/"
+  status = 301
+
+  from = "/p/facebook-svod-google-podcast-search"
+  to = "https://cybercultural.ricmac.org/p/facebook-svod-google-podcast-search/"
+  status = 301
+
+  from = "/p/amazon-publishing-muscle-netflix"
+  to = "https://cybercultural.ricmac.org/p/amazon-publishing-muscle-netflix/"
+  status = 301
+
+  from = "/p/are-we-doing-enough-to-archive-digital"
+  to = "https://cybercultural.ricmac.org/p/are-we-doing-enough-to-archive-digital/"
+  status = 301
+
+  from = "/p/tumblr-thoughts-the-future-of-social"
+  to = "https://cybercultural.ricmac.org/p/tumblr-thoughts-the-future-of-social/"
+  status = 301
+
+  from = "/p/ai-in-magazines-youtube-copyright"
+  to = "https://cybercultural.ricmac.org/p/ai-in-magazines-youtube-copyright/"
+  status = 301
+
+  from = "/p/how-interactive-media-fits-into-the"
+  to = "https://cybercultural.ricmac.org/p/how-interactive-media-fits-into-the/"
+  status = 301
+
+  from = "/p/immersive-music-future-of-movie-making"
+  to = "https://cybercultural.ricmac.org/p/immersive-music-future-of-movie-making/"
+  status = 301
+
+  from = "/p/hasbro-tupac-netflix-human-curators"
+  to = "https://cybercultural.ricmac.org/p/hasbro-tupac-netflix-human-curators/"
+  status = 301
+
+  from = "/p/revenue-challenges-in-subscription"
+  to = "https://cybercultural.ricmac.org/p/revenue-challenges-in-subscription/"
+  status = 301
+
+  from = "/p/alternatives-to-spotify-for-x-subscription"
+  to = "https://cybercultural.ricmac.org/p/alternatives-to-spotify-for-x-subscription/"
+  status = 301
+
+  from = "/p/virtual-beings-cyberpunk-keanu-ai"
+  to = "https://cybercultural.ricmac.org/p/virtual-beings-cyberpunk-keanu-ai/"
+  status = 301
+
+  from = "/p/how-blogs-newsletters-and-tumblr"
+  to = "https://cybercultural.ricmac.org/p/how-blogs-newsletters-and-tumblr/"
+  status = 301
+
+  from = "/p/media-paywalls-and-micropayments"
+  to = "https://cybercultural.ricmac.org/p/media-paywalls-and-micropayments/"
+  status = 301
+
+  from = "/p/4-cultural-products-in-various-stages"
+  to = "https://cybercultural.ricmac.org/p/4-cultural-products-in-various-stages/"
+  status = 301
+
+  from = "/p/bowie-houdini-and-other-reasons-i"
+  to = "https://cybercultural.ricmac.org/p/bowie-houdini-and-other-reasons-i/"
+  status = 301
+
+  from = "/p/apple-culture-tech-news-the-rise"
+  to = "https://cybercultural.ricmac.org/p/apple-culture-tech-news-the-rise/"
+  status = 301
+
+  from = "/p/weekly-wrap-up-7-13-sep-19"
+  to = "https://cybercultural.ricmac.org/p/weekly-wrap-up-7-13-sep-19/"
+  status = 301
+
+  from = "/p/peak-tv-vevo-vs-spotify-bjrk-vr-ebook"
+  to = "https://cybercultural.ricmac.org/p/peak-tv-vevo-vs-spotify-bjrk-vr-ebook/"
   status = 301
