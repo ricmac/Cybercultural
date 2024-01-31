@@ -1,7 +1,8 @@
 module.exports = {
   url: process.env.URL || 'https://cybercultural.com',
   siteName: 'Cybercultural',
-  siteDescription: 'Tech history and its impact on our culture.',
+  siteDescription:
+    'Tech history and its impact on our culture.',
   siteType: 'Person', // schema
   locale: 'en_EN',
   lang: 'en',
@@ -13,7 +14,8 @@ module.exports = {
   themeBgColor: '#F3F3F3', // Manifest: defines a placeholder background color for the application page to display before its stylesheet is loaded
   meta_data: {
     opengraph_default: '/assets/images/33d48ded-f999-4173-8440-9d752446428b_3400x2134.jpg', // fallback/default meta image
-    opengraph_default_alt: 'Tech history and its impact on our culture. Currently serializing my book, Bubble Blog', // alt text for default meta image
+    opengraph_default_alt:
+      'Tech history and its impact on our culture. Currently serializing my book, Bubble Blog', // alt text for default meta image
     twitterSite: '', // i.e. @site - twitter profile of the site
     twitterCreator: '', // i.e. @author -  twitter profile of the site
     mastodonProfile: 'https://mastodon.social/@ricmac' // i.e. https://front-end.social/@lene - url to your mastodon instance/profile
@@ -21,10 +23,11 @@ module.exports = {
   blog: {
     // this is for the rss feed
     name: 'Cybercultural',
-    description: 'Tech history and its impact on our culture.'
+    description:
+      'Tech history and its impact on our culture.'
   },
   pagination: {
-    itemsPerPage: 10
+    itemsPerPage: 20
   },
   address: {
     // edit all presets or leave empty. They are being used in the pages for privacy.md and imprint.md

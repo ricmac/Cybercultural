@@ -145,3 +145,17 @@ module.exports = eleventyConfig => {
     }
   };
 };
+
+const Image = require("@11ty/eleventy-img");
+
+module.exports = function(eleventyConfig) {
+
+  eleventyConfig.addShortcode("image", async function(src) {
+    let metadata = await Image(src, {
+      widths: [600] 
+    });
+    let data = metadata.jpeg[0];
+    return `${data.url}`;
+  });
+
+}
