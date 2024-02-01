@@ -374,3 +374,19 @@ package = "netlify-plugin-cache"
 [[redirects]]
   from = "/p/mobile-internet"
   to = "https://cybercultural.ricmac.org/p/mobile-internet/"  
+
+[[redirects]]
+  from = "/s/memoir"
+  to = "/memoir"  
+
+[[redirects]]
+  from = "/s/culture-tech"
+  to = "/articles"  
+
+[[redirects]]
+  from = "/s/tech-history"
+  to = "/" 
+
+[[redirects]]
+  from = "/archive"
+  to = "/"
