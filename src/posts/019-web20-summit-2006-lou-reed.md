@@ -83,7 +83,7 @@ Lou glared at O’Reilly and his retinue, perhaps thinking about how much he hat
 ![Tim O’Reilly gets the dance floor going](/assets/images/timoreilly_lou.jpeg)
 *Sally can't dance, but Tim O’Reilly can. Photo [by Renee Blodgett](https://encounters.typepad.com/photos/web_20_2006/oreilly_dancing_to_lou_reedjpg.jpg)*
 
-Almost as snarky as Lou was the internet industry critic Nicholas Carr in his [summary post](https://www.roughtype.com/?p=577) about the Web 2.0 Summit. My own blog comments were cited by Carr as among “the tepid reviews of the third annual 2.0 boondoggle.” It was a fair cop, but overall I had enjoyed the event; to quote another Lou Reed song, I was “beginning to see the light” about the business opportunities Web 2.0 was presenting to me. Similar to Lou Reed, I was more than happy to pocket money from sponsors in return for my content.
+Almost as snarky as Lou was the internet industry critic Nicholas Carr in his [summary post](https://www.roughtype.com/?p=577) about the Web 2.0 Summit. My own blog comments were cited by Carr as among “the tepid reviews of the third annual 2.0 boondoggle.” It was a fair cop, but overall I had enjoyed the event; to quote another Lou Reed song, I was “beginning to see the light” about the business opportunities Web 2.0 was presenting to me. Similar to Lou, I was more than happy to pocket money from sponsors in return for my content.
 
 * * *
 
