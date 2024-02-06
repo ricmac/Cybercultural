@@ -73,7 +73,7 @@ PART 1: 2004-06
 
 *   [018\. The Birth of Cloud Computing and Team RWW](/p/018-birth-of-cloud-computing/)
 
-*   019\. Lou Reed and the Web 2.0 Summit
+*   [019\. Lou Reed and the Web 2.0 Summit](/p/019-web20-summit-2006-lou-reed/)
 
 *   020\. Poker Night and Person of the Year
 

@@ -67,4 +67,4 @@ RWW had several other regular contributors [by the end of 2006](https://web.arch
 
 * * *
 
-Next up: 019. Lou Reed and the Web 2.0 Summit
+Next up: [019. Lou Reed and the Web 2.0 Summit](/p/019-web20-summit-2006-lou-reed/)
