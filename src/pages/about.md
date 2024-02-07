@@ -36,4 +36,6 @@ My most recent online project was [Web Development History](https://webdevelopme
 ![](/assets/images/f1847b86-51c6-4483-9d7b-84ddfec05c85_1176x728.png)
 ([link](https://twitter.com/NerdyAndQuirky/status/1596256679473315841))
 
+## Cybercultural Archives 2019-2022
 
+This is v2 of Cybercultural, which started in 2023 and focuses on tech history. The first version of Cybercultural ran from 2019-2022 and focused on the intersection of technology and the cultural industries. If you're curious, v1 is archived here: [cybercultural.ricmac.org](https://cybercultural.ricmac.org/).
