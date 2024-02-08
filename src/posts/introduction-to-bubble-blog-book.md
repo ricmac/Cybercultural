@@ -19,8 +19,6 @@ My Silicon Valley story began in September 2005, when I took my first trip to th
 
 Like anyone who works in tech but has never been to Silicon Valley, I had illusions about the place before I arrived. Some were formed by the books I’d read. I had thought all startup founders were crazy, monomaniacal and heroic; like the Netscape co-founder Jim Clark, as portrayed by Michael Lewis in his book, _The New New Thing_. But the founders I eventually met on the ground were strivers, like me. Many had been humbled by the Dot Com boom and bust, so they were willing to listen to new ideas and new people — even ones from the other side of the world.
 
-Subscribe for free to the serialization of my new book, Bubble Blog.
-
 Some of my illusions ended up correct on the surface, but ignorant of the deeper nuances. I’d imagined Palo Alto as an idyllic, tree-lined town with a main road full of cafes and burger joints — just like on the tv show _Happy Days_. That one turned out to be largely true, but what I hadn’t conceived of was the long and bumpy, busy and dirty highways you must travel along to get to Palo Alto, and which separate the rich and the poor of California.
 
 I had also imagined Silicon Valley to be populated by a mix of rich old hippies and preppy MBA types. Again, this was true in broad strokes, but I had no conception of both how friendly these people would turn out to be (much friendlier than New Zealanders, I thought, or at least much more open), and how desperately much they wanted something from me. I didn’t yet understand _what_ it was they wanted from me; I just knew it had something to do with my blog.
