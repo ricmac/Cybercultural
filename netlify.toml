@@ -16,7 +16,7 @@ package = "netlify-plugin-cache"
 
 
 [build]
-  command = "npm run build ls -al dist"
+  command = "npm run build"
   publish = "dist"
 
 [[redirects]]
