@@ -90,7 +90,7 @@ module.exports = eleventyConfig => {
 
   module.exports = function(eleventyConfig) {
     eleventyConfig.on('eleventy.after', () => {
-      execSync(`npx pagefind --source dist --glob \"**/*.html\"`, { encoding: 'utf-8' })
+      execSync(`npx pagefind --site dist --glob \"**/*.html\"`, { encoding: 'utf-8' })
     })
   }
 
