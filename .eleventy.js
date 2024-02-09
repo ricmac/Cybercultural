@@ -52,7 +52,6 @@ const syntaxHighlight = require('@11ty/eleventy-plugin-syntaxhighlight');
 const {slugifyString} = require('./config/utils');
 const {escape} = require('lodash');
 const pluginRss = require('@11ty/eleventy-plugin-rss');
-const inclusiveLangPlugin = require('@11ty/eleventy-plugin-inclusive-language');
 const bundlerPlugin = require('@11ty/eleventy-plugin-bundle');
 
 module.exports = eleventyConfig => {
@@ -87,6 +86,14 @@ module.exports = eleventyConfig => {
   eleventyConfig.addFilter('values', Object.values);
   eleventyConfig.addFilter('entries', Object.entries);
 
+  const { execSync } = require('child_process')
+
+  module.exports = function(eleventyConfig) {
+    eleventyConfig.on('eleventy.after', () => {
+      execSync(`npx pagefind --source dist --glob \"**/*.html\"`, { encoding: 'utf-8' })
+    })
+  }
+
   // 	--------------------- Custom shortcodes ---------------------
   eleventyConfig.addNunjucksAsyncShortcode('imagePlaceholder', imageShortcodePlaceholder);
   eleventyConfig.addShortcode('youtube', liteYoutube);
@@ -120,7 +127,6 @@ module.exports = eleventyConfig => {
   eleventyConfig.addPlugin(syntaxHighlight);
   eleventyConfig.setLibrary('md', markdownLib);
   eleventyConfig.addPlugin(pluginRss);
-  eleventyConfig.addPlugin(inclusiveLangPlugin);
   eleventyConfig.addPlugin(bundlerPlugin);
 
   // 	--------------------- Passthrough File Copy -----------------------
