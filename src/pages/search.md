@@ -5,7 +5,7 @@ description: Search Cybercultural
 layout: page
 ---
 
-Search Cybercultural
+Want to check if your name pops up in my Web 2.0 memoir? Or see what I've written about Ajax or Flickr? Search Cybercultural here:
 
 <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
 <script src="/pagefind/pagefind-ui.js"></script>
