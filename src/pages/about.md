@@ -3,8 +3,8 @@ title: About
 permalink: /about/index.html
 description: About Cybercultural
 layout: page
-
 ---
+
 I’m Richard MacManus (@ricmac), a pioneering tech blogger and author. Cybercultural is my newsletter about **tech history and its impact on our culture**. I’m currently serializing my latest book, "Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution". It chronicles the rise of the modern internet during the first decade of this century.
 
 <h2>Subscribe</h2>

@@ -3,7 +3,6 @@ title: Search
 permalink: /search/index.html
 description: Search Cybercultural
 layout: page
-
 ---
 
 <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
