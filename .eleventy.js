@@ -54,7 +54,14 @@ const {escape} = require('lodash');
 const pluginRss = require('@11ty/eleventy-plugin-rss');
 const bundlerPlugin = require('@11ty/eleventy-plugin-bundle');
 
+// -------- Pagefind ----------
+const { execSync } = require('child_process')
+
 module.exports = eleventyConfig => {
+  // ------ Pagefind ---------
+  eleventyConfig.on('eleventy.after', () => {
+    execSync(`npx pagefind --site dist --glob \"**/*.html\"`, { encoding: 'utf-8' })
+  })
   // 	--------------------- Custom Watch Targets -----------------------
   eleventyConfig.addWatchTarget('./src/assets');
   eleventyConfig.addWatchTarget('./utils/*.js');
@@ -85,14 +92,6 @@ module.exports = eleventyConfig => {
   eleventyConfig.addFilter('keys', Object.keys);
   eleventyConfig.addFilter('values', Object.values);
   eleventyConfig.addFilter('entries', Object.entries);
-
-  const { execSync } = require('child_process')
-
-  module.exports = function(eleventyConfig) {
-    eleventyConfig.on('eleventy.after', () => {
-      execSync(`npx pagefind --site dist --glob \"**/*.html\"`, { encoding: 'utf-8' })
-    })
-  }
 
   // 	--------------------- Custom shortcodes ---------------------
   eleventyConfig.addNunjucksAsyncShortcode('imagePlaceholder', imageShortcodePlaceholder);
