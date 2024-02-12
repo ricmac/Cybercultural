@@ -21,7 +21,7 @@ package = "netlify-plugin-cache"
 
 [[redirects]]
   from = "/subscribe"
-  to = "https://cybercultural.com/about/"
+  to = "https://cybercultural.com/donate/"
   status = 301
 
 [[redirects]]

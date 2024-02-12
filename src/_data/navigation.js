@@ -16,6 +16,10 @@ module.exports = {
       text: 'Search',
       url: '/search/'
     },
+    {
+      text: 'Donate',
+      url: '/donate/'
+    },
   ],
   bottom: [
   ]
