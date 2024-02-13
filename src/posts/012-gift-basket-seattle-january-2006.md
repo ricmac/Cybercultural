@@ -21,8 +21,8 @@ It’d also be my first trip to the grunge city of Seattle. Kurt Cobain had died
 
 Search Champs was being hosted by the MSN Search group, which had invited over 50 bloggers, academics and technologists. Microsoft had [selected](http://emilychang.com/2006/01/microsoft-search-champs-v4/) the group “based on who we are reading and we think would provide us great insight.” I’d been recommended by Alex Barnett, a British expat about my age who worked for Microsoft in Redmond, and who I’d gotten to know virtually as part of the tech blogger fraternity. Mike Arrington, Fred Oliviera and Josh Porter had all been invited too, so I was looking forward to catching up with them.
 
-![ReadWriteWeb in Jan 2006](/assets/images/da727c61-a2ba-48a7-9188-492dfff7b73a_1280x769.jpg "ReadWriteWeb in Jan 2006")
-*ReadWriteWeb in Jan 2006; I’d begun to introduce more red elements in the design, but in hindsight the dark grey and orange header leaves a bit to be desired. Also, the Feedburner badge number is wrong in [this Wayback Machine screenshot](https://web.archive.org/web/20060114152207if_/http://www.readwriteweb.com:80/) (it was actually below 10,000 at the time).*
+![Read/WriteWeb in Jan 2006](/assets/images/da727c61-a2ba-48a7-9188-492dfff7b73a_1280x769.jpg "Read/WriteWeb in Jan 2006")
+*Read/WriteWeb in Jan 2006; I’d begun to introduce more red elements in the design, but in hindsight the dark grey and orange header leaves a bit to be desired. Also, the Feedburner badge number is wrong in [this Wayback Machine screenshot](https://web.archive.org/web/20060114152207if_/http://www.readwriteweb.com:80/) (it was actually below 10,000 at the time).*
 
 The event would be kicked off on Tuesday evening, with a reception at the Chapel Bar in downtown Seattle, near the W Hotel where we were all staying. I arrived in Seattle late on Monday evening, after a long series of flights from New Zealand. Fred had arrived earlier in the day and had emailed to let me know.
 

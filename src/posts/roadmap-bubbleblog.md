@@ -71,10 +71,14 @@ PART 1: 2004-06
     
 ### 6\. Lou Reed
 
-*   [018\. The Birth of Cloud Computing and Team RWW](/p/018-birth-of-cloud-computing/)
+*   [018\. The Birth of Cloud Computing and Team Read/WriteWeb](/p/018-birth-of-cloud-computing/)
 
 *   [019\. Lou Reed and the Web 2.0 Summit](/p/019-web20-summit-2006-lou-reed/)
 
-*   020\. Poker Night and Person of the Year
+*   [020\. Betting on Web 2.0: High Stakes Blogging](/p/020-betting-on-web20/)
+
+### 7\. Rapid Growth
+
+*   021\. iPhone Launch and Read/WriteWeb Ramps Up
 
 To be continued…

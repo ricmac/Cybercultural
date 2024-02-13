@@ -87,4 +87,4 @@ Almost as snarky as Lou was the internet industry critic Nicholas Carr in his [s
 
 * * *
 
-Next up: 020. Poker Night and Person of the Year
+Next up: [20. Betting on Web 2.0: High Stakes Blogging](/p/020-betting-on-web20/)

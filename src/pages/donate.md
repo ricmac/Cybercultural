@@ -7,7 +7,7 @@ layout: page
 
 <p>Cybercultural is a free newsletter. If you enjoy it 
 and would like to help cover costs, please consider 
-a one-time or loyal donation. Your support will be much appreciated.</p>
+a one-time or loyal donation. Your support means a lot.</p>
 
 <h2>Regular Donation</h2>
 <ul>

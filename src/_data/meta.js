@@ -2,7 +2,7 @@ module.exports = {
   url: process.env.URL || 'https://cybercultural.com',
   siteName: 'Cybercultural',
   siteDescription:
-    'Tech history and its impact on our culture.',
+    'Internet history and its impact on our culture.',
   siteType: 'Person', // schema
   locale: 'en_EN',
   lang: 'en',
@@ -15,7 +15,7 @@ module.exports = {
   meta_data: {
     opengraph_default: '/assets/images/33d48ded-f999-4173-8440-9d752446428b_3400x2134.jpg', // fallback/default meta image
     opengraph_default_alt:
-      'Tech history and its impact on our culture. Currently serializing my book, Bubble Blog', // alt text for default meta image
+      'Internet history and its impact on our culture. Currently serializing my book, Bubble Blog', // alt text for default meta image
     twitterSite: '', // i.e. @site - twitter profile of the site
     twitterCreator: '', // i.e. @author -  twitter profile of the site
     mastodonProfile: 'https://mastodon.social/@ricmac' // i.e. https://front-end.social/@lene - url to your mastodon instance/profile
@@ -24,7 +24,7 @@ module.exports = {
     // this is for the rss feed
     name: 'Cybercultural',
     description:
-      'Tech history and its impact on our culture.'
+      'Internet history and its impact on our culture.'
   },
   pagination: {
     itemsPerPage: 20

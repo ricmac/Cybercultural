@@ -15,7 +15,7 @@ Back to [010\. Spicy Noodles](/p/010-spicy-noodles)
 
 * * *
 
-By October 2005, I was making a reasonable living from the web as a freelancer. I’d quit my New Zealand day job in August and was now earning income from various web consulting gigs, as well as from my ZDNet blog (and a small portion from ReadWriteWeb itself). But if I did move to Silicon Valley, I knew I’d have to get a full-time job — I would need it in order to get a working visa.
+By October 2005, I was making a reasonable living from the web as a freelancer. I’d quit my New Zealand day job in August and was now earning income from various web consulting gigs, as well as from my ZDNet blog (and a small portion from Read/WriteWeb itself). But if I did move to Silicon Valley, I knew I’d have to get a full-time job — I would need it in order to get a working visa.
 
 There were seemingly plenty of job opportunities at Yahoo and at some of the startups I’d met. So for the final days of my trip, I arranged some meetings with people who were currently employing me as a freelancer. I decided I would broach the topic of a full-time job with them.
 
@@ -59,7 +59,7 @@ I jotted down in my notebook that I needed to expand where I placed advertising 
 
 It would take time to ramp up revenue on RWW, though, so in the meantime I would continue to get by on freelance income. I had my ZDNet blog, for one. I also had freelance contract work lined up with Marc Canter’s company, as well as a media consultancy called 5ive (run by Susan Mernit, a Dot Com veteran who I’d had coffee with during my trip). There were other leads for me to pursue when I got home, including the RSS work that Chris Alden had spoken to me about. Plus, I had the O’Reilly Media book — although this only promised a $10,000 royalty advance, to be paid over several installments, which I was splitting 50/50 with Josh Porter.
 
-I was feeling optimistic about my ability to earn a living from Silicon Valley, and hopefully in time from ReadWriteWeb itself. But I also knew I’d have to continue doing everything from a distance, for now.
+I was feeling optimistic about my ability to earn a living from Silicon Valley, and hopefully in time from Read/WriteWeb itself. But I also knew I’d have to continue doing everything from a distance, for now.
 
 * * *
 
