@@ -2,7 +2,7 @@
 title: "BowieNet: The Inside Story of its Creation"
 description: "I interviewed one of the creators of David Bowie's 1998 web portal, BowieNet."
 date: 2023-01-10
-permalink: "p/bowienet-the-inside-story-of-its/"
+permalink: "p/bowienet-the-inside-story/"
 tags: ['Article']
 featureImage: "/assets/images/4885bea4-9610-427e-a9d3-c16c984c48bd_1966x1415.jpg"
 ---
