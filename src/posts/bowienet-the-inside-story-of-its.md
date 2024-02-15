@@ -1,6 +1,6 @@
 ---
 title: "BowieNet: The Inside Story of its Creation"
-description: "I interviewed one of the creators of David Bowie's 1998 web portal, BowieNet."
+description: "An interview with one of the creators of David Bowie's 1998 web portal, BowieNet."
 date: 2023-01-10
 permalink: "p/bowienet-the-inside-story/"
 tags: ['Article']
@@ -8,12 +8,6 @@ featureImage: "/assets/images/4885bea4-9610-427e-a9d3-c16c984c48bd_1966x1415.jpg
 ---
 
 ![](/assets/images/4885bea4-9610-427e-a9d3-c16c984c48bd_1966x1415.jpg)
-
-Hallo spaceboys and spacegirls! Today I’m re-launching Cybercultural as a newsletter about internet history and its impact on our culture. I’ve been busy writing a book about my experiences during Web 2.0 (I’m calling it my Web 2.0 memoir), which I intend to serialize here on Cybercultural later this year. I’m nearly 50,000 words into that project. While I finish the first draft over the coming months, I’ll also be doing regular posts here about internet history — starting with this article about David Bowie’s late-90s ISP and web portal, BowieNet.
-
-If you’re a big Bowie fan like me, you’ll know that today is the 7th anniversary of his untimely death in 2016 — he’d released his final album, Blackstar, just a couple of days prior, on his 69th birthday. I originally wrote the following article in early 2020, just before the pandemic hit. It features an interview with one of the creators of BowieNet, Ron Roy, so there will be details here that haven’t been revealed online before. And here we go…
-
-* * *
 
 In late 1996, just before his 50th birthday concert at Madison Square Garden and before his latest album ‘Earthling’ was released, David Bowie had quietly approved the development of what was to become his biggest internet legacy: BowieNet. It was to be more than Bowie’s official website; it would also do business as an Internet Service Provider (ISP), meaning it would provide internet access and an email address to users. Most importantly, it would be an officially endorsed online community for his fans.
 
