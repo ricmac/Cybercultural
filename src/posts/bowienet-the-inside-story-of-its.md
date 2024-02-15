@@ -190,4 +190,4 @@ On the big day, he posts a final message at 5pm a couple of hours before go-live
 
 He thanks his website designers, Nettmedia, “for putting up with my constant fidgeting and last minute changes and additions and moans,” and ends with “...and here we go.”
 
-_Image credits: [YouTube video](https://www.youtube.com/watch?v=utRNomjKytk) of David Bowie interview on ZDTV's Internet Tonight, June 1999.
+*Image credits: [YouTube video](https://www.youtube.com/watch?v=utRNomjKytk) of David Bowie interview on ZDTV's Internet Tonight, June 1999.*
