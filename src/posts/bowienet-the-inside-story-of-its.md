@@ -13,8 +13,6 @@ Hallo spaceboys and spacegirls! Today I’m re-launching Cybercultural as a news
 
 If you’re a big Bowie fan like me, you’ll know that today is the 7th anniversary of his untimely death in 2016 — he’d released his final album, Blackstar, just a couple of days prior, on his 69th birthday. I originally wrote the following article in early 2020, just before the pandemic hit. It features an interview with one of the creators of BowieNet, Ron Roy, so there will be details here that haven’t been revealed online before. And here we go…
 
-Thanks for reading Cybercultural! Subscribe for free to receive new posts and support my work.
-
 * * *
 
 In late 1996, just before his 50th birthday concert at Madison Square Garden and before his latest album ‘Earthling’ was released, David Bowie had quietly approved the development of what was to become his biggest internet legacy: BowieNet. It was to be more than Bowie’s official website; it would also do business as an Internet Service Provider (ISP), meaning it would provide internet access and an email address to users. Most importantly, it would be an officially endorsed online community for his fans.
@@ -197,7 +195,5 @@ On the big day, he posts a final message at 5pm a couple of hours before go-live
 > “THIS IS IT THEN. I have to submit this journal right now or I'll miss the deadline for tonight”
 
 He thanks his website designers, Nettmedia, “for putting up with my constant fidgeting and last minute changes and additions and moans,” and ends with “...and here we go.”
-
-If you enjoyed this post, please share it on social media. Also, subscribe for free to receive future Cybercultural posts.
 
 _Image credits: [YouTube video](https://www.youtube.com/watch?v=utRNomjKytk) of David Bowie interview on ZDTV's Internet Tonight, June 1999.
