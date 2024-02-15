@@ -394,3 +394,7 @@ package = "netlify-plugin-cache"
 [[redirects]]
   from = "/p/bowienet-the-inside-story-of-its/"
   to = "/p/bowienet-the-inside-story/"
+
+[[redirects]]
+  from = "/p/020-poker-night-in-atherton/"
+  to = "/p/020-betting-on-web20/"
