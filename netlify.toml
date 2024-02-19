@@ -398,3 +398,19 @@ package = "netlify-plugin-cache"
 [[redirects]]
   from = "/p/020-poker-night-in-atherton/"
   to = "/p/020-betting-on-web20/"
+
+[[redirects]]
+  from = "/p/006-revving-up-2005-web-/"
+  to = "/p/006-revving-up-2005-web-20-conference/"
+
+  [[redirects]]
+  from = "/p/007-2005-web-20-/"
+  to = "/p/007-2005-web-20-conference-day-2/"
+
+  [[redirects]]
+  from = "/people/232063-richard-macmanus"
+  to = "/about/"
+
+  [[redirects]]
+  from = "/s/web-history"
+  to = "/articles/"
