@@ -73,4 +73,4 @@ Reading the article now, with the benefit of hindsight, it did a great job of ca
 
 * * *
 
-Next up: 021. iPhone Launch and Read/WriteWeb Ramps Up
+Next up: [021. Read/WriteWeb Network Launches Amid iPhone Debut](/p/021-iphone-debut-2007-rww-network/)
