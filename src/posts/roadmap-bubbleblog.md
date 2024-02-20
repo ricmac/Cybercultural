@@ -21,7 +21,7 @@ Each chapter is a series of posts, usually about three to four. The links will b
 *   [001\. Introduction to Bubble Blog](/p/introduction-to-bubble-blog-book)
     
 
-PART 1: 2004-06
+PART 1: 2004-2006
 ---------------
 
 ### 1\. Amateur Journo
@@ -76,6 +76,9 @@ PART 1: 2004-06
 *   [019\. Lou Reed and the Web 2.0 Summit](/p/019-web20-summit-2006-lou-reed/)
 
 *   [020\. Betting on Web 2.0: High Stakes Blogging](/p/020-betting-on-web20/)
+
+PART 2: 2007-2009
+---------------
 
 ### 7\. Rapid Growth
 
