@@ -129,6 +129,13 @@ module.exports = eleventyConfig => {
   eleventyConfig.addPlugin(pluginRss);
   eleventyConfig.addPlugin(bundlerPlugin);
 
+  //  -------------------- Webmentions ---------------
+  const Webmentions = require("eleventy-plugin-webmentions");
+  eleventyConfig.addPlugin(Webmentions, {
+    domain: "cybercultural.com",
+    token: "kE8ev3PcB79ZlHC-I2hL8A",
+  });
+
   // 	--------------------- Passthrough File Copy -----------------------
   // same path
   ['src/assets/fonts/', 'src/assets/images/'].forEach(path =>
