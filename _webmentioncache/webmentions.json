@@ -1,4 +1,138 @@
 {
-  "lastFetched": "2024-02-21T16:22:47.191Z",
-  "children": []
+  "lastFetched": "2024-02-21T17:32:07.295Z",
+  "children": [
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Richard MacManus",
+        "photo": "https://webmention.io/avatar/files.mastodon.social/ab221a8d7145151faa4499cc3a190863728697ec4fe3094965bfd451cd78cdcd.jpg",
+        "url": "https://mastodon.social/@ricmac"
+      },
+      "url": "https://mastodon.social/@ricmac/111970595899480966",
+      "published": "2024-02-21T17:15:04+00:00",
+      "wm-received": "2024-02-21T17:25:43Z",
+      "wm-id": 1783842,
+      "wm-source": "https://brid.gy/comment/mastodon/@ricmac@mastodon.social/111970499282223254/111970595899480966",
+      "wm-target": "https://cybercultural.com/p/021-iphone-debut-2007-rww-network/",
+      "wm-protocol": "webmention",
+      "content": {
+        "html": "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@Gargron\" class=\"u-url\">@<span>Gargron</span></a></span> I thought I had set up brid.gy to be the go-between, but I must've done something wrong somewhere... thanks for your reply.</p>",
+        "text": "@Gargron I thought I had set up brid.gy to be the go-between, but I must've done something wrong somewhere... thanks for your reply."
+      },
+      "in-reply-to": "https://cybercultural.com/p/021-iphone-debut-2007-rww-network/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Gottfried Szing",
+        "photo": "https://webmention.io/avatar/files.mastodon.social/a768a7800d6934fdf620563a2ef10bc68649579b46e6d1f2da8dc8f0dfe60ea0.png",
+        "url": "https://hachyderm.io/@kjoo"
+      },
+      "url": "https://mastodon.social/@ricmac/111970010855352333#favorited-by-110571131680762503",
+      "published": null,
+      "wm-received": "2024-02-21T17:25:19Z",
+      "wm-id": 1783841,
+      "wm-source": "https://brid.gy/like/mastodon/@ricmac@mastodon.social/111970010855352333/110571131680762503",
+      "wm-target": "https://cybercultural.com/p/021-iphone-debut-2007-rww-network/",
+      "wm-protocol": "webmention",
+      "like-of": "https://cybercultural.com/p/021-iphone-debut-2007-rww-network/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Mike",
+        "photo": "https://webmention.io/avatar/files.mastodon.social/514fa8eb2fccf36820be101f53551269917cf88028975d3796560236b1387be3.png",
+        "url": "https://mastodon.social/@sass"
+      },
+      "url": "https://mastodon.social/@ricmac/111970499282223254#favorited-by-504181",
+      "published": null,
+      "wm-received": "2024-02-21T17:25:17Z",
+      "wm-id": 1783839,
+      "wm-source": "https://brid.gy/like/mastodon/@ricmac@mastodon.social/111970499282223254/504181",
+      "wm-target": "https://cybercultural.com/p/021-iphone-debut-2007-rww-network/",
+      "wm-protocol": "webmention",
+      "like-of": "https://cybercultural.com/p/021-iphone-debut-2007-rww-network/",
+      "wm-property": "like-of",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Gottfried Szing",
+        "photo": "https://webmention.io/avatar/files.mastodon.social/a768a7800d6934fdf620563a2ef10bc68649579b46e6d1f2da8dc8f0dfe60ea0.png",
+        "url": "https://hachyderm.io/@kjoo"
+      },
+      "url": "https://hachyderm.io/@kjoo/111970586999554424",
+      "published": "2024-02-21T17:12:48+00:00",
+      "wm-received": "2024-02-21T17:25:17Z",
+      "wm-id": 1783840,
+      "wm-source": "https://brid.gy/comment/mastodon/@ricmac@mastodon.social/111970010855352333/111970587028070739",
+      "wm-target": "https://cybercultural.com/p/021-iphone-debut-2007-rww-network/",
+      "wm-protocol": "webmention",
+      "content": {
+        "html": "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@ricmac\" class=\"u-url\">@<span>ricmac</span></a></span> reminds to the competitor setting up vending machines. I think this didn't work out that well for redbox.</p><p><a href=\"https://www.audioholics.com/news/redbox-threatens-netflix-in-video-rental-iii-rise-of-the-vending-machines\"><span>https://www.</span><span>audioholics.com/news/redbox-th</span><span>reatens-netflix-in-video-rental-iii-rise-of-the-vending-machines</span></a></p>\n<a href=\"https://www.audioholics.com/news/redbox-threatens-netflix-in-video-rental-iii-rise-of-the-vending-machines\">Redbox Threatens Netflix in Video-Rental III: Rise of the Vending Machines!</a>",
+        "text": "@ricmac reminds to the competitor setting up vending machines. I think this didn't work out that well for redbox.\n\nhttps://www.audioholics.com/news/redbox-threatens-netflix-in-video-rental-iii-rise-of-the-vending-machines\nRedbox Threatens Netflix in Video-Rental III: Rise of the Vending Machines!"
+      },
+      "in-reply-to": "https://cybercultural.com/p/021-iphone-debut-2007-rww-network/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Richard MacManus",
+        "photo": "https://webmention.io/avatar/files.mastodon.social/ab221a8d7145151faa4499cc3a190863728697ec4fe3094965bfd451cd78cdcd.jpg",
+        "url": "https://mastodon.social/@ricmac"
+      },
+      "url": "https://mastodon.social/@ricmac/111970578311477483",
+      "published": "2024-02-21T17:10:35+00:00",
+      "wm-received": "2024-02-21T17:25:14Z",
+      "wm-id": 1783838,
+      "wm-source": "https://brid.gy/comment/mastodon/@ricmac@mastodon.social/111970499282223254/111970578311477483",
+      "wm-target": "https://cybercultural.com/p/021-iphone-debut-2007-rww-network/",
+      "wm-protocol": "webmention",
+      "photo": [
+        "https://files.mastodon.social/media_attachments/files/111/970/577/175/527/311/original/68ead8069cbcdbe7.png"
+      ],
+      "content": {
+        "html": "<p>Webmention.io isn't recognizing my link from Mastodon -- anyone know why?</p><p><a href=\"https://webmention.io/cybercultural.com/webmention/Lca1cUHelb7YZ9g5bw8U\"><span>https://</span><span>webmention.io/cybercultural.co</span><span>m/webmention/Lca1cUHelb7YZ9g5bw8U</span></a></p>\n<a href=\"https://webmention.io/cybercultural.com/webmention/Lca1cUHelb7YZ9g5bw8U\">Webmention.io</a>",
+        "text": "Webmention.io isn't recognizing my link from Mastodon -- anyone know why?\n\nhttps://webmention.io/cybercultural.com/webmention/Lca1cUHelb7YZ9g5bw8U\nWebmention.io"
+      },
+      "in-reply-to": "https://cybercultural.com/p/021-iphone-debut-2007-rww-network/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    },
+    {
+      "type": "entry",
+      "author": {
+        "type": "card",
+        "name": "Eugen Rochko",
+        "photo": "https://webmention.io/avatar/files.mastodon.social/ebea4aea0c03ef9a9e6cf9e8e6c9c83cf005aa26ed21b98699c86e924b27859a.png",
+        "url": "https://mastodon.social/@Gargron"
+      },
+      "url": "https://mastodon.social/@Gargron/111970588185111033",
+      "published": "2024-02-21T17:13:06+00:00",
+      "wm-received": "2024-02-21T17:25:13Z",
+      "wm-id": 1783837,
+      "wm-source": "https://brid.gy/comment/mastodon/@ricmac@mastodon.social/111970499282223254/111970588185111033",
+      "wm-target": "https://cybercultural.com/p/021-iphone-debut-2007-rww-network/",
+      "wm-protocol": "webmention",
+      "content": {
+        "html": "<p><span class=\"h-card\"><a href=\"https://mastodon.social/@ricmac\" class=\"u-url\">@<span>ricmac</span></a></span> Because there's no server-side rendering, and the tool likely doesn't execute JavaScript. But Mastodon doesn't send webmentions anyway.</p>",
+        "text": "@ricmac Because there's no server-side rendering, and the tool likely doesn't execute JavaScript. But Mastodon doesn't send webmentions anyway."
+      },
+      "in-reply-to": "https://cybercultural.com/p/021-iphone-debut-2007-rww-network/",
+      "wm-property": "in-reply-to",
+      "wm-private": false
+    }
+  ]
 }
