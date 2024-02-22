@@ -130,22 +130,59 @@ module.exports = eleventyConfig => {
   eleventyConfig.addPlugin(bundlerPlugin);
 
   //  -------------------- Webmentions -----------------
-  const fetch = require('node-fetch');
+// Require fetch
+const fetch = require('node-fetch');  
 
-  async function fetchWebmentions(siteUrl) {
-    const api = `https://webmention.io/api/mentions.jf2?target=${encodeURIComponent(siteUrl)}`;
-    const response = await fetch(api);
-    if (response.ok) {
-      const {children: webmentions} = await response.json();
-      return webmentions || [];
-    }
-    return [];
-  }  
+// Webmention.io settings
+const API_TOKEN = 'kE8ev3PcB79ZlHC-I2hL8A'; 
+const SITE_URL = 'https://cybercultural.com';
 
-eleventyConfig.addGlobalData('webmentions', async () => {
-  const siteUrl = 'https://cybercultural.com';
-  return fetchWebmentions(siteUrl);
-});
+// Fetch webmentions 
+async function fetchWebmentions() {
+
+  const endpoint = `https://webmention.io/api/mentions.jf2?per-page=100&target=${SITE_URL}`;
+
+  try {
+    const response = await fetch(endpoint, {
+      headers: {
+        'Authorization': `Bearer ${API_TOKEN}`
+      }
+    });
+    
+    const json = await response.json();
+
+    // Save webmentions to file
+    require('fs').writeFileSync('./webmentions.json', JSON.stringify(json));
+
+  } catch(e) {
+    console.log('Error fetching webmentions', e); 
+  }
+
+}
+// Require fs
+const fs = require('fs');
+
+// Fetch webmentions
+async function fetchWebmentions() {
+  // same as before 
+}
+
+// Eleventy config
+module.exports = function(eleventyConfig) {
+
+  // Fetch webmentions
+  fetchWebmentions();
+
+  // Get saved webmentions
+  let webmentions = [];
+  
+  if(fs.existsSync('./webmentions.json')) {
+    webmentions = JSON.parse(fs.readFileSync('./webmentions.json'));
+  }
+  
+  eleventyConfig.addGlobalData('webmentions', webmentions);
+
+};
 
   // 	--------------------- Passthrough File Copy -----------------------
   // same path

@@ -17,12 +17,32 @@ preloads:
     <p>{{ description | safe }}</p>
     {{ content | safe }}
 
-{% for mention in webmentions %}
-  <div class="webmention">
-    <p>{{ mention.content.text }}</p>
-    <p>By: <a href="{{ mention.author.url }}">{{ mention.author.name }}</a></p>
+<!-- In your Eleventy template -->
+
+{% if webmentions %}
+<h2>Responses</h2>
+
+<div id="responses">
+{% for webmention in webmentions %}
+
+  <div class="response">
+
+    <p>{{ webmention.content | safe }}</p>
+
+    <footer>
+      Posted by 
+      <img src="{{ webmention.author.photo }}" alt="">
+      <a href="{{ webmention.author.url }}">
+        {{ webmention.author.name }}  
+      </a>
+    </footer>
+
   </div>
+
 {% endfor %}
+</div>
+
+{% endif %}
 
 <form
   action="https://buttondown.email/api/emails/embed-subscribe/ricmac"
