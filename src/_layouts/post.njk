@@ -17,11 +17,6 @@ preloads:
     <p>{{ description | safe }}</p>
     {{ content | safe }}
 
-{% for webmention in webmentions %}
-	<!-- Loop through all webmentions on a given page -->
-	{{ webmention.author.name }} sent this page a {{ webmention | getType }}
-{% endfor %}
-
 <form
   action="https://buttondown.email/api/emails/embed-subscribe/ricmac"
   method="post"
