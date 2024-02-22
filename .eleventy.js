@@ -129,6 +129,24 @@ module.exports = eleventyConfig => {
   eleventyConfig.addPlugin(pluginRss);
   eleventyConfig.addPlugin(bundlerPlugin);
 
+  //  -------------------- Webmentions -----------------
+  const fetch = require('node-fetch');
+
+  async function fetchWebmentions(siteUrl) {
+  const api = `https://webmention.io/api/mentions.jf2?target=cybercultural.com`;
+  const response = await fetch(api);
+  if (response.ok) {
+    const {children: webmentions} = await response.json();
+    return webmentions || [];
+  }
+  return [];
+}
+
+eleventyConfig.addGlobalData('webmentions', async () => {
+  const siteUrl = 'https://cybercultural.com/';
+  return fetchWebmentions(siteUrl);
+});
+
   // 	--------------------- Passthrough File Copy -----------------------
   // same path
   ['src/assets/fonts/', 'src/assets/images/'].forEach(path =>

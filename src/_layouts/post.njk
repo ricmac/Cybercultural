@@ -17,6 +17,13 @@ preloads:
     <p>{{ description | safe }}</p>
     {{ content | safe }}
 
+{% for mention in webmentions %}
+  <div class="webmention">
+    <p>{{ mention.content.text }}</p>
+    <p>By: <a href="{{ mention.author.url }}">{{ mention.author.name }}</a></p>
+  </div>
+{% endfor %}
+
 <form
   action="https://buttondown.email/api/emails/embed-subscribe/ricmac"
   method="post"
