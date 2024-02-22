@@ -1,5 +1,5 @@
 const { getWebmentions } = require("@chrisburnell/eleventy-cache-webmentions")
-const configWebmentions = require("./src/_data/webmentions.js")
+const configWebmentions = require("./webmentions.js")
 
 module.exports = {
 	eleventyComputed: {

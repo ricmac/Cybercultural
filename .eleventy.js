@@ -131,7 +131,7 @@ module.exports = eleventyConfig => {
 
   // ------------------- Webmentions -------------------
   const pluginWebmentions = require("@chrisburnell/eleventy-cache-webmentions")
-  const configWebmentions = require("./src/_data/webmentions.js")
+  const configWebmentions = require("./webmentions.js")
 	eleventyConfig.addPlugin(pluginWebmentions, configWebmentions);
 
   // 	--------------------- Passthrough File Copy -----------------------
