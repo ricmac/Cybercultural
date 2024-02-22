@@ -17,33 +17,6 @@ preloads:
     <p>{{ description | safe }}</p>
     {{ content | safe }}
 
-<!-- In your Eleventy template -->
-
-{% if webmentions %}
-<h2>Responses</h2>
-
-<div id="responses">
-{% for webmention in webmentions %}
-
-  <div class="response">
-
-    <p>{{ webmention.content | safe }}</p>
-
-    <footer>
-      Posted by 
-      <img src="{{ webmention.author.photo }}" alt="">
-      <a href="{{ webmention.author.url }}">
-        {{ webmention.author.name }}  
-      </a>
-    </footer>
-
-  </div>
-
-{% endfor %}
-</div>
-
-{% endif %}
-
 <form
   action="https://buttondown.email/api/emails/embed-subscribe/ricmac"
   method="post"
