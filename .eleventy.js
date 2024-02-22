@@ -129,6 +129,11 @@ module.exports = eleventyConfig => {
   eleventyConfig.addPlugin(pluginRss);
   eleventyConfig.addPlugin(bundlerPlugin);
 
+  // ------------------- Webmentions -------------------
+  const pluginWebmentions = require("@chrisburnell/eleventy-cache-webmentions")
+  const configWebmentions = require("./src/_data/webmentions.js")
+	eleventyConfig.addPlugin(pluginWebmentions, configWebmentions);
+
   // 	--------------------- Passthrough File Copy -----------------------
   // same path
   ['src/assets/fonts/', 'src/assets/images/'].forEach(path =>
