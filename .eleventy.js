@@ -133,17 +133,17 @@ module.exports = eleventyConfig => {
   const fetch = require('node-fetch');
 
   async function fetchWebmentions(siteUrl) {
-  const api = `https://webmention.io/api/mentions.jf2?target=cybercultural.com`;
-  const response = await fetch(api);
-  if (response.ok) {
-    const {children: webmentions} = await response.json();
-    return webmentions || [];
-  }
-  return [];
-}
+    const api = `https://webmention.io/api/mentions.jf2?target=${siteUrl}`;
+    const response = await fetch(api);
+    if (response.ok) {
+      const {children: webmentions} = await response.json();
+      return webmentions || [];
+    }
+    return [];
+  }  
 
 eleventyConfig.addGlobalData('webmentions', async () => {
-  const siteUrl = 'https://cybercultural.com/';
+  const siteUrl = 'cybercultural.com';
   return fetchWebmentions(siteUrl);
 });
 
