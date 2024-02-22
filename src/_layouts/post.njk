@@ -17,18 +17,6 @@ preloads:
     <p>{{ description | safe }}</p>
     {{ content | safe }}
 
-{# Get the webmentions for the current page #}
-{%- set currentPostMentions = webmentions | webmentionsForPage -%}
-
-{# Get the webmentions for a specific page #}
-{%- set postMentions = webmentions | webmentionsForPage(post.url) -%}
-
-{# Get the webmention count for the current page #}
-{%- set currentPostMentionCount = webmentions | webmentionCountForPage -%}
-
-{# Get the webmention count for a page #}
-{%- set postMentionCount = webmentions | webmentionCountForPage(post.url) -%}
-
 <form
   action="https://buttondown.email/api/emails/embed-subscribe/ricmac"
   method="post"
