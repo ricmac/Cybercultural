@@ -5,10 +5,6 @@ description: About Cybercultural
 layout: page
 ---
 
-I’m Richard MacManus (@ricmac), a pioneering tech blogger and author. Cybercultural is my newsletter about **internet history and its impact on our culture**. I’m currently serializing my latest book, "Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution". It chronicles the rise of the modern internet during the first decade of this century.
-
-<h2>Subscribe</h2>
-
 <form
   action="https://buttondown.email/api/emails/embed-subscribe/ricmac"
   method="post"
@@ -16,16 +12,22 @@ I’m Richard MacManus (@ricmac), a pioneering tech blogger and author. Cybercul
   onsubmit="window.open('https://buttondown.email/ricmac', 'popupwindow')"
   class="embeddable-buttondown-form"
 >
-  <label for="bd-email">Enter your email</label>
+  <label for="bd-email">Enter your email:</label>
   <input type="email" name="email" id="bd-email" />
   
   <input type="submit" value="Subscribe" />
 </form>
 
-## More Info
+I’m Richard MacManus (@ricmac), a pioneering tech blogger and author. Cybercultural is my newsletter about **internet history and its impact on our culture**. I’m currently serializing my latest book, "Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution". It chronicles the rise of the modern internet during the first decade of this century.
+
 I was the founder and Editor-in-Chief of [ReadWriteWeb](https://ricmac.org/career-archive/readwriteweb/) (RWW) from 2003-2012. RWW was ranked among the top 10 blogs in the world, according to Technorati. It was syndicated by The New York Times and eventually acquired by SAY Media.
 
-My most recent online project was [Web Development History](https://webdevelopmenthistory.com/) (2020-21), a blog that chronicled the early years of the web from a developer perspective. Here are some nice things people said about that project:
+I also authored [Web Development History](https://webdevelopmenthistory.com/) (2020-21), a blog that chronicled the early years of the web from a developer perspective.
+
+## Testimonials
+
+"Richard MacManus’ memoir of his experiences running his tech blog, ReadWriteWeb, during the first decade of the 2000s, is a great read. Richard was smart and engaged back then–and still is–so this memoir offers both wonderful retellings about key moments and key people, and an honest look back and appraisal."
+[Susan Mernit's newsletter](https://susanmernit.substack.com/p/41-cyb-ai-web-memoirs-and-wintery), February 2024
 
 ![](/assets/images/c38fbe37-9903-4529-8dc4-ae14403d7c9b_1178x616.png)
 ([link](https://twitter.com/vboykis/status/1427778555153354756))
