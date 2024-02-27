@@ -11,7 +11,7 @@ featureImage: "/assets/images/rww_iphone_debut_jan07.jpg"
 ![Read/WriteWeb blog post after the iPhone was announced in January 2007.](/assets/images/rww_iphone_debut_jan07.jpg "Read/WriteWeb blog post after the iPhone was announced in January 2007.")
 *[My article on](https://web.archive.org/web/20070113015248/http://www.readwriteweb.com/archives/iphone_macworld07_keynote.php) the iPhone announcement in January 2007.*
 
-This post begins Chapter 7 of my serialized book, ****Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution****. To view the table of contents, check [the Roadmap](/p/roadmap-bubbleblog/).
+This post begins Chapter 7 of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. To view the table of contents, check [the Roadmap](/p/roadmap-bubbleblog/).
 
 Back to [020. Betting on Web 2.0: High Stakes Blogging](/p/020-betting-on-web20/)
 
@@ -78,4 +78,4 @@ Last100 was harder to monetize—we had just [two or three sponsors](https://web
 
 * * *
 
-Next up: 022. Web 2.0 Expo 2007
+Next up: [022. Web 2.0 Expo 2007](/p/022-web20-expo-2007/)
