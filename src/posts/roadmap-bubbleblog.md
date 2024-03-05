@@ -84,5 +84,6 @@ PART 2: 2007-2009
 
 *   [021\. Read/WriteWeb Network Launches Amid iPhone Debut](/p/021-iphone-debut-2007-rww-network/)
 *   [022\. Web 2.0 Expo 2007](/p/022-web20-expo-2007/)
+*   [023\. Las Vegas and the MIX Conference 2007](/p/023-microsoft-mix-2007/)
 
 To be continued…
