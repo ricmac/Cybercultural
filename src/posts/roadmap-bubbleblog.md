@@ -86,4 +86,10 @@ PART 2: 2007-2009
 *   [022\. Web 2.0 Expo 2007](/p/022-web20-expo-2007/)
 *   [023\. Las Vegas and the MIX Conference 2007](/p/023-microsoft-mix-2007/)
 
+### 8\. New Design
+
+*   024\. Marshall Kirkpatrick Joins Read/WriteWeb
+*   025\. Health Problems — Both Me and the RWW Server
+*   026\. The Crunchies and the Canonical RWW Design Launches
+
 To be continued…

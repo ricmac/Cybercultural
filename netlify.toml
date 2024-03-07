@@ -20,8 +20,8 @@ package = "netlify-plugin-cache"
   publish = "dist"
 
 [[redirects]]
-  from = "/subscribe"
-  to = "https://cybercultural.com/donate/"
+  from = "/donate"
+  to = "https://cybercultural.com/subscribe/"
   status = 301
 
 [[redirects]]

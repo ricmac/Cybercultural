@@ -17,8 +17,8 @@ module.exports = {
       url: '/search/'
     },
     {
-      text: 'Donate',
-      url: '/donate/'
+      text: 'Subscribe',
+      url: '/subscribe/'
     },
   ],
   bottom: [
