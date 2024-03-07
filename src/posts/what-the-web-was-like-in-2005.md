@@ -11,7 +11,7 @@ featureImage: "/assets/images/346c4a1a-89b1-437a-b730-16b6f9921b60_2048x1365.jpg
 
 Earlier this week I [began chapter 4](/p/012-gift-basket-seattle-january-2006) of my serialized memoir, _Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution_. There are twenty chapters in total, plus an introduction and epilogue. So there is a long way to go yet. Much of what I’ve published so far ([parts 5-11](/p/roadmap-bubbleblog)) has focused on 2005, a key year in Web 2.0. That was when Web 2.0 became the driving trend of Silicon Valley, and Read/WriteWeb got swept up in a new tech bubble. But what was the web like back then? It’s now 18 years ago, which in internet years means a couple of generations!
 
-In this post I’ll reflect back on 2005 on the web, and what it meant to me and my generation. This post is for paid subscribers to Cybercultural, but you aren’t already [you can become one](/donate) for just £5 per month. Your support is much appreciated and will help fund even more internet history. I’m currently working on a ‘prequel’ about Web 1.0, which will be the next serialized book to be published on Cybercultural.
+In this post I’ll reflect back on 2005 on the web, and what it meant to me and my generation.
 
 As I noted in [a previous bonus post](/p/2005-growth-of-web-20-and-rww), the first three quarters of 2005 were full of startup launches (e.g. YouTube, Reddit), acquisitions (e.g. Flickr, MySpace), and technological advancements (e.g. Ajax). Over that time, I’d also found my groove with Read/WriteWeb — especially after my [revelatory first trip to Silicon Valley](/p/005-arriving-at-the-techcrunch-ranch) in September/October 2005.
 
