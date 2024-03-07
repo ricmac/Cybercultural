@@ -55,7 +55,7 @@ const pluginRss = require('@11ty/eleventy-plugin-rss');
 const bundlerPlugin = require('@11ty/eleventy-plugin-bundle');
 
 // --------------------- Pagefind search const -------------------------
-const { execSync } = require('child_process')
+const { execSync } = require('child_process');
 
 module.exports = eleventyConfig => {
 
