@@ -93,6 +93,10 @@ module.exports = eleventyConfig => {
   eleventyConfig.addFilter('keys', Object.keys);
   eleventyConfig.addFilter('values', Object.values);
   eleventyConfig.addFilter('entries', Object.entries);
+  eleventyConfig.addFilter("filterMentionsByTarget", function(mentions, targetUrl) {
+    return mentions.filter(mention => mention['wm-target'] === targetUrl);
+  });
+  
 
   // 	--------------------- Custom shortcodes ---------------------
   eleventyConfig.addNunjucksAsyncShortcode('imagePlaceholder', imageShortcodePlaceholder);

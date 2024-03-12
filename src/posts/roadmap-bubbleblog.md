@@ -88,7 +88,7 @@ PART 2: 2007-2009
 
 ### 8\. New Design
 
-*   024\. Marshall Kirkpatrick Joins Read/WriteWeb
+*   [024\. Read/WriteWeb Makes Key Hire & I Meet Hustle Culture](/p/024-readwriteweb-key-hire-hustle-culture/)
 *   025\. Health Problems — Both Me and the RWW Server
 *   026\. The Crunchies and the Canonical RWW Design Launches
 

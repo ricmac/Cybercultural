@@ -91,4 +91,4 @@ When I calculated my monthly revenue for August, it added up to nearly $34,000â€
 
 * * *
 
-Next up: 024.  Marshall Kirkpatrick Joins Read/WriteWeb
+Next up: [024. Read/WriteWeb Makes Key Hire & I Meet Hustle Culture](/p/024-readwriteweb-key-hire-hustle-culture/)

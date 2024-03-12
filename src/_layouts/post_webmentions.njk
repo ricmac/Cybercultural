@@ -1,0 +1,100 @@
+---
+layout: base
+schema: blog
+preloads:
+  href: '/assets/fonts/robotomono/robotomono-variablefont_wght-webfont.woff2'
+  as: 'font'
+  type: 'font/woff2'
+  crossorigin: true
+---
+
+<article class="region blog" data-pagefind-body>
+  <div class="wrapper flow prose">
+    <h1 class="red-text">{{ title }}</h1>
+
+    <em>{% set definedDate = date %} {% include "partials/date.njk" %}</em>
+
+    <p>{{ description | safe }}</p>
+    {{ content | safe }}
+
+{% set currentPostUrl = 'https://cybercultural.com' + page.url %}
+<!-- Temporarily add this to your template for debugging -->
+<pre>Current Post URL: {{ currentPostUrl }}</pre>
+
+{% if webmentions %}
+  <div class="webmentions">
+    {% for type, mentions in webmentions %}
+      {% set filteredMentions = mentions | filterMentionsByTarget(currentPostUrl) %}
+      {% if filteredMentions | length %}
+        <section>
+          <h3>{{ type }}</h3>
+          {% if type === 'like-of' or type === 'repost-of' %}
+            <p>
+              {% for mention in filteredMentions %}
+                {% if mention.author and mention.author.photo and mention['wm-source'] %}
+                  <a href="{{ mention['wm-source'] }}" target="_blank" rel="noopener noreferrer">
+                    <img src="{{ mention.author.photo }}" alt="{{ mention.author.name }}" width="32" height="32">
+                  </a>
+                {% endif %}
+              {% endfor %}
+            </p>
+          {% else %}
+            <ul>
+              {% for mention in filteredMentions %}
+                <li>
+                  {% if type === 'mention-of' %}
+                    {% if mention['wm-source'] %}
+                      <a href="{{ mention['wm-source'] }}" target="_blank" rel="noopener noreferrer">{{ mention['wm-source'] }}</a>
+                    {% endif %}
+                  {% else %}
+                    <!-- Content for other mention types -->
+                    {% if mention.author %}
+                      <div class="mention-author">
+                        {% if mention.author.photo %}
+                          <img src="{{ mention.author.photo }}" alt="{{ mention.author.name }}" class="mention-photo">
+                        {% endif %}
+                        <a href="{{ mention.author.url }}" target="_blank" rel="noopener noreferrer">{{ mention.author.name }}</a>
+                      </div>
+                    {% endif %}
+                    {% if mention.content and mention.content.text %}
+                      <div class="mention-content">{{ mention.content.text | safe }}</div>
+                    {% elif mention['wm-source'] %}
+                      <div class="mention-source">
+                        <a href="{{ mention['wm-source'] }}" target="_blank" rel="noopener noreferrer">Read more</a>
+                      </div>
+                    {% endif %}
+                  {% endif %}
+                </li>
+              {% endfor %}
+            </ul>
+          {% endif %}
+        </section>
+      {% endif %}
+    {% endfor %}
+  </div>
+{% endif %}
+
+<form
+  action="https://buttondown.email/api/emails/embed-subscribe/ricmac"
+  method="post"
+  target="popupwindow"
+  onsubmit="window.open('https://buttondown.email/ricmac', 'popupwindow')"
+  class="embeddable-buttondown-form"
+>
+  <label for="bd-email">Enter your email</label>
+  <input type="email" name="email" id="bd-email" />
+  
+  <input type="submit" value="Subscribe" />
+</form>
+
+<h2>Support Cybercultural</h2>
+
+<p>Cybercultural is a free newsletter, but you can also become a premium subscriber 
+for <a href="https://buy.stripe.com/9AQeXn2eDcRk0126op">£5 per month</a> 
+or <a href="https://buy.stripe.com/aEU6qRf1p8B46pq002">£48 per year</a>.</p> 
+
+<p>Paid subscribers will receive the occasional bonus post, plus a thank-you mention in the 
+paperbook book version of “Bubble Blog: From Outsider to Insider in Silicon Valley’s Web 2.0 Revolution."</p>
+
+  </div>
+</article>
