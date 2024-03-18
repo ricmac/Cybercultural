@@ -71,5 +71,5 @@ In fairness, FM was still a new business and so was busy ironing out its own sca
 
 * * *
 
-Next up: 015. Power Laws and Digg
+Next up: [015. Power Laws and Digg](/p/015-digg-power-laws-of-silicon-valley/)
 

@@ -1,5 +1,5 @@
 ---
-title: 'Bonus: What the Web Was Like in 2005'
+title: 'What the Web Was Like in 2005'
 description: "I look back on web technology in 2005 — a world before social media, smartphones and the cloud!"
 date: 2023-12-15
 permalink: "p/what-the-web-was-like-in-2005/"

@@ -1,6 +1,6 @@
 ---
-title: 'Bonus: Why Marc Andreessen is a Key Character in My Book'
-description: "A bonus post for paid subscribers: I explain how Marc Andreessen was a much bigger part of my original outline, and show you an 'outtake' I wrote about his 2004 activities."
+title: 'Why Marc Andreessen is a Key Character in My Book'
+description: "I explain how Marc Andreessen was a much bigger part of my original outline, and show you an 'outtake' I wrote about his 2004 activities."
 date: 2023-11-10
 permalink: "p/marc-andreessen-2004/"
 tags: ['Memoir']

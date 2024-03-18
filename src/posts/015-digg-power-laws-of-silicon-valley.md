@@ -89,4 +89,4 @@ Needless to say, Digg’s relationship with its top users continued to fluctuate
 
 * * *
 
-Next up: 016. Supernova / BloggerCon
+Next up: [016. The Core Values of Blogging](/p/016-the-core-values-of-blogging/)
