@@ -104,4 +104,4 @@ In any case, I was about to learn that there were more important things in life 
 
 * * *
 
-Next up: 025. Health Problems — Both Me and the RWW Server
+Next up: [025. Stress 2.0: Health Problems & Web Server Issues](/p/025-health-problems-server-issues/)
