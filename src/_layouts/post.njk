@@ -39,7 +39,6 @@ preloads:
 {% set currentPostUrl = 'https://cybercultural.com' + page.url %}
 
 {% if webmentions %}
-  <div class="webmentions">
     {% for type, mentions in webmentions %}
       {% if type !== 'bookmark-of' and type !== 'mention-of' %}
         {% set filteredMentions = mentions | filterMentionsByTarget(currentPostUrl) %}
