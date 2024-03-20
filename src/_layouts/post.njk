@@ -71,7 +71,7 @@ preloads:
 
             <!-- Replies -->
             {% elif type === 'in-reply-to' %}
-              {% set sortedMentions = filteredMentions | sort(true, false, 'published') %}
+              {% set sortedMentions = filteredMentions | sort(false, false, 'published') %}
               {% for mention in sortedMentions %}
                 <p class="mention-reply">
                   <a href="{{ mention['wm-source'] }}" target="_blank" rel="noopener noreferrer">
