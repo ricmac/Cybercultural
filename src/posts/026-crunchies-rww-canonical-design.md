@@ -97,4 +97,4 @@ Despite the continuing site management strain, RWW was in a great place heading 
 
 * * *
 
-Next up: 027. M&A: ReadWriteWeb Has Suitors
+Next up: 027. ReadWriteWeb Has Suitors
