@@ -94,6 +94,6 @@ PART 2: 2007-2009
 
 ### 9\. M&A
 
-*   027\. ReadWriteWeb Has Suiters
+*   027\. ReadWriteWeb Has Suitors
 
 To be continued…
