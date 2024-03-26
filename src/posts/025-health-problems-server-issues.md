@@ -98,4 +98,4 @@ Finally, after several stressful days, the tech issues were resolved. But it had
 
 * * *
 
-Next up: 026. The Crunchies and the Launch of Read/WriteWeb's Canonical Design
+Next up: [026. ReadWriteWeb’s Big Redesign & The Inaugural Crunchies](/p/026-rww-redesign-2007-crunchies/)

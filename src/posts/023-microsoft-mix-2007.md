@@ -4,7 +4,7 @@ description: "I travel to Vegas for a Microsoft web conference. Meanwhile, Read/
 date: 2024-03-05
 permalink: "p/023-microsoft-mix-2007/"
 tags: ['Memoir']
-featureImage: "/assets/images/facebookweek_july2007.jpg"
+featureImage: "/assets/images/ricmac_vegas_2007.jpg"
 ---
 
 ![Facebook Week on RWW, July 2007](/assets/images/facebookweek_july2007.jpg)

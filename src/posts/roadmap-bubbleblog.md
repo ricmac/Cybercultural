@@ -90,6 +90,10 @@ PART 2: 2007-2009
 
 *   [024\. Read/WriteWeb Makes Key Hire & I Meet Hustle Culture](/p/024-readwriteweb-key-hire-hustle-culture/)
 *   [025\. Stress 2.0: Health Problems & Web Server Issues](/p/025-health-problems-server-issues/)
-*   026\. The Crunchies and the Canonical RWW Design Launches
+*   [026\. ReadWriteWeb's Big Redesign & The Inaugural Crunchies](/p/026-rww-redesign-2007-crunchies/)
+
+### 9\. M&A
+
+*   027\. ReadWriteWeb Has Suiters
 
 To be continued…
