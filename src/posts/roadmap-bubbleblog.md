@@ -94,6 +94,7 @@ PART 2: 2007-2009
 
 ### 9\. M&A
 
-*   027\. ReadWriteWeb Has Suitors
+*   [027\. Acquisition Talks: Two Suitors For ReadWriteWeb](/p/027-acquisition-talks-rww-2008/)
+*   028\. 2008 Web 2.0 Expo, Where M&A Talks Continue
 
 To be continued…

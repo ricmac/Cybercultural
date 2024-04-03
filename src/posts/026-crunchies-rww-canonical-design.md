@@ -4,10 +4,10 @@ description: "At the end of 2007, ReadWriteWeb unveils our new design — featur
 date: 2024-03-26
 permalink: "p/026-rww-redesign-2007-crunchies/"
 tags: ['Memoir']
-featureImage: "/assets/images/2215898724_c84672de53_o.jpg"
+featureImage: "/assets/images/crunchies_4founders.jpg"
 ---
 
-![The Crunchies](/assets/images/2215898724_c84672de53_o.jpg "The Crunchies")
+![The Crunchies](/assets/images/crunchies_4founders.jpg "The Crunchies")
 *The Crunchies, co-hosted by (from left to right) GigaOm, ReadWriteWeb, VentureBeat, and TechCrunch; photo [by Garrett Gee](https://www.flickr.com/photos/ggee/2215898724/).*
 
 This post concludes Chapter 8 of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. To view the table of contents, check [the Roadmap](/p/roadmap-bubbleblog/).
@@ -97,4 +97,4 @@ Despite the continuing site management strain, RWW was in a great place heading 
 
 * * *
 
-Next up: 027. ReadWriteWeb Has Suitors
+Next up: [027. Acquisition Talks: Two Suitors For ReadWriteWeb](/p/027-acquisition-talks-rww-2008/)
