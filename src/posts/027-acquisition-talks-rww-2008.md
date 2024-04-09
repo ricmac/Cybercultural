@@ -74,4 +74,4 @@ I was about to jump on a plane to San Francisco for the Web 2.0 Expo, so I sugge
 
 * * *
 
-Next up: 028. 2008 Web 2.0 Expo, Where M&A Talks Continue
+Next up: [028. 2008 Web 2.0 Expo, Where M&A Talks Continue](/p/028-web2-expo-2008/)
