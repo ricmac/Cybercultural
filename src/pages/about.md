@@ -29,6 +29,9 @@ I also authored [Web Development History](https://webdevelopmenthistory.com/) (2
 "Richard MacManus’ memoir of his experiences running his tech blog, ReadWriteWeb, during the first decade of the 2000s, is a great read. Richard was smart and engaged back then–and still is–so this memoir offers both wonderful retellings about key moments and key people, and an honest look back and appraisal."
 [Susan Mernit's newsletter](https://susanmernit.substack.com/p/41-cyb-ai-web-memoirs-and-wintery), February 2024
 
+"I’m greatly enjoying Richard’s look back on those strangely heady days of the post-mortgage-crisis tech bubble that was took full advantage of gradients, APIs, and that still somewhat new Cloud architecture thing."
+[Rick Turoczy, Silicon Florist](https://siliconflorist.com/2024/04/09/web-2-0-nostalgia-remembering-marshall-kirkpatricks-early-days-at-readwriteweb/), April 2024
+
 ![](/assets/images/c38fbe37-9903-4529-8dc4-ae14403d7c9b_1178x616.png)
 ([link](https://twitter.com/vboykis/status/1427778555153354756))
 
