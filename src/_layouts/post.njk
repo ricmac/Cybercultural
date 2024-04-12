@@ -12,7 +12,7 @@ preloads:
   <div class="wrapper flow prose">
     <h1 class="red-text">{{ title }}</h1>
     
-    <em>{% set definedDate = date %} {% include "partials/date.njk" %}</em> by <a href="/about/">Richard MacManus</a>
+    {% set definedDate = date %} {% include "partials/date.njk" %} by <a href="/about/">Richard MacManus</a>
 
     <p>{{ description | safe }}</p>
     {{ content | safe }}
