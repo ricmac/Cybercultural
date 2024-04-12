@@ -419,3 +419,7 @@ package = "netlify-plugin-cache"
   [[redirects]]
   from = "/s/web-history"
   to = "/articles/"
+
+  [[redirects]]
+  from = "/p/026-crunchies-rww-canonical-design/"
+  to = "/p/026-rww-redesign-2007-crunchies/"
