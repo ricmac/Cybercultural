@@ -7,13 +7,6 @@ tags: ['Memoir']
 featureImage: "/assets/images/fc79d690-3a0c-43d3-bbe9-92799b4cfda7_799x533.jpg"
 ---
 ![Josh Porter and I at the Seattle Central Library](/assets/images/fc79d690-3a0c-43d3-bbe9-92799b4cfda7_799x533.jpg "Josh Porter and I at the Seattle Central Library")
-*Josh Porter and I at the Seattle Central Library; photo [by Fred Oliveira](https://www.flickr.com/photos/webreakstuff/95892538).*
-
-This post begins Chapter 4 of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. To catch up on previous posts or to view the table of contents, check [the Roadmap](/p/roadmap-bubbleblog).
-
-Back to [011\. The Web 2.0 Illuminati](/p/011-the-web-20-illuminati)
-
-* * *
 
 In the second week of January 2006, I got married to my partner of nine years, Maria. We had a 4-year old daughter, Rosabelle, who was one of the flower girls at the ceremony. The following week, I was on a plane to the United States again — but not on my honeymoon. I’d been offered a place in Microsoft Search Champs, an invitation-only event to be held at Microsoft’s headquarters in Redmond. Microsoft was paying for my travel and accommodation, so it was too good an opportunity to pass up. What web geek wouldn’t want to visit the setting of _Microserfs_, Douglas Coupland’s famous 1990s novel about Microsoft developers?
 
@@ -73,7 +66,11 @@ Upstairs in The Robot Co-op office, we met the other members of the team, includ
 
 Before we left, I promised to try and make it to the Andy Warhol-themed party Erik was holding the following evening at [The Hideout](https://web.archive.org/web/20060201050430/http://ricmac.43people.com/). In the meantime, Fred and I needed to get back to the hotel to prepare for the Search Champs welcome party, being held at the nearby Chapel Bar.
 
+*Lead image: Josh Porter and I at the Seattle Central Library; photo [by Fred Oliveira](https://www.flickr.com/photos/webreakstuff/95892538).*
+
 * * *
+
+This post is part of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. View [table of contents](/p/roadmap-bubbleblog/).
 
 Next up: [013\. Visiting the Microsoft Campus](/p/013-visiting-the-microsoft-campus)
 

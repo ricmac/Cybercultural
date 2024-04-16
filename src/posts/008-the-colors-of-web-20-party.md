@@ -7,13 +7,6 @@ tags: ['Memoir']
 featureImage: "/assets/images/70a2272f-baa4-4971-a3ed-6de5b29856f4_2048x1365.jpg"
 ---
 ![Web 2.0 cool kids](/assets/images/70a2272f-baa4-4971-a3ed-6de5b29856f4_2048x1365.jpg "Web 2.0 cool kids")
-*Me leading my posse into the party… no, just kidding, this was someone much cooler than me. Photo [by Kris Krug](https://www.flickr.com/photos/kk/50159142/in/album-1111108/).*
-
-This post completes Chapter 2 of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. To catch up on previous posts or to view the table of contents, check [the Roadmap](/p/roadmap-bubbleblog).
-
-Back to [007\. Day 2 of the 2005 Web 2.0 Conference](/p/007-2005-web-20-conference-day-2)
-
-* * *
 
 The Colors of Web 2.0 Party was held on Thursday, October 6, 2005, at Swig — a modern bar spread over two floors in Geary St, a few blocks up from Union Square. The [event notice](https://web.archive.org/web/20060428031257/http://upcoming.org/event/33096/) on Upcoming.org read, “While the big guys are giving away stress balls and business card holders, Flock, del.icio.us, Flickr, Odeo, Technorati, wink, and WordPress will be tending bar all night (read: free drinks!), tossing out t-shirts that were not made in sweatshops (seriously).”
 
@@ -70,7 +63,11 @@ Finally, I saw the Caltrain station and ran into it, nearly out on my feet by no
 
 The overwhelming feeling I had as I slumped into my seat, wheezing for breath and soaked in sweat, was of relief. I wouldn’t be left behind — I wasn’t alone.
 
+*Lead image: Me leading my posse into the party… no, just kidding, this was someone much cooler than me; photo [by Kris Krug](https://www.flickr.com/photos/kk/50159142/in/album-1111108/).*
+
 * * *
+
+This post is part of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. View [table of contents](/p/roadmap-bubbleblog/).
 
 Next up: [009\. Richard Goes to Yahoo!](/p/009-richard-goes-to-yahoo)
 

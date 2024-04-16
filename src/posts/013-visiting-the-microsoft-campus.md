@@ -7,13 +7,6 @@ tags: ['Memoir']
 featureImage: "/assets/images/315d4eb2-a0cb-45d9-be9f-e8a5e55b2fb6_1637x1228.jpg"
 ---
 ![Welcome to Microsoft Search Champs](/assets/images/315d4eb2-a0cb-45d9-be9f-e8a5e55b2fb6_1637x1228.jpg "Welcome to Microsoft Search Champs")
-*Welcome to Microsoft Search Champs; photo by me.*
-
-This post continues Chapter 4 of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. To catch up on previous posts or to view the table of contents, check [the Roadmap](/p/roadmap-bubbleblog).
-
-Back to [012\. The Gift Basket](/p/012-gift-basket-seattle-january-2006)
-
-* * *
 
 It was a cold but sunny Wednesday morning and a Microsoft charter bus pulled into a complex of red brick office buildings, all no more than three stories high. This was Microsoft’s headquarters in Redmond, located about twenty minutes’ drive from downtown Seattle.
 
@@ -93,6 +86,8 @@ Looking back on it now, the book project back and forth encapsulated something a
 As for Microsoft, it simply wanted to latch onto the new, new thing — whatever it was at any one time — and assimilate it into their Windows world. As part of this strategy, Microsoft had correctly identified tech bloggers like John, Josh, Mike and I as the carriers of the latest technocultural meme. We were happy to oblige, because we understood that infecting Microsoft with our meme would help bring our niche blogs to a newer, more mainstream, audience.
 
 * * *
+
+This post is part of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. View [table of contents](/p/roadmap-bubbleblog/).
 
 Next up: [014\. Reluctant Salesman](/p/014-the-sponsor-ads-era-2006)
 

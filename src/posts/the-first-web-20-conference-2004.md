@@ -7,13 +7,6 @@ tags: ['Memoir']
 featureImage: "/assets/images/c374b60f-7b0f-4b94-a4f3-c4ca0498f5e0_2320x1596.png"
 ---
 ![Read/Write Web, 25 March 2004](/assets/images/c374b60f-7b0f-4b94-a4f3-c4ca0498f5e0_2320x1596.png "Read/Write Web, 25 March 2004")
-*Read/Write Web, [25 March 2004](https://web.archive.org/web/20040325005810/http://readwriteweb.com/) (just before Marc Canter interview)*
-
-This post continues Chapter 1 of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. To view the table of contents, check [the Roadmap](/p/roadmap-bubbleblog).
-
-Back to [002\. The Early Years of ReadWriteWeb](/p/the-early-years-of-readwriteweb)
-
-* * *
 
 In-between trying to get linked to by an A-Lister in the blogosphere, I inadvertently turned myself into a journalist. In March 2004, I interviewed Marc Canter, a Silicon Valley resident who was internet famous in the 1980s. Twenty years prior, he’d co-founded MacroMind — a company that created multimedia software for the Apple Macintosh. Through a series of corporate maneuvers I didn’t understand at the time of the interview, by 1992 MacroMind had morphed into Macromedia. By that point, Canter had departed the company, but he’d be forever linked to Macromedia’s subsequent Dot Com success.
 
@@ -101,7 +94,11 @@ He also sounded a warning that many people forgot about in the years to come, bu
 
 Andreessen’s final comment in the Web 2.0 panel was to answer a question from the audience, from none other than Marc Canter, my new blog buddy. He wanted to know if Andreessen would put his financial support behind open data standards like [FOAF](https://twobithistory.org/2020/01/05/foaf.html) (the “Friend of a Friend” protocol). It’s not about the money, replied Andreessen. “The day the major social networking sites actually start to support it,” he said, referring to FOAF, “it'll have some relevance.” But, he added ominously, “there's nothing that can be done to coerce those companies into supporting it, other than end-user demand.”
 
+*Lead image: Read/Write Web, [25 March 2004](https://web.archive.org/web/20040325005810/http://readwriteweb.com/) (just before Marc Canter interview).*
+
 * * *
+
+This post is part of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. View [table of contents](/p/roadmap-bubbleblog/).
 
 Next up: [004\. A Call With Tim O'Reilly](/p/call-with-tim-oreilly-2004)
 

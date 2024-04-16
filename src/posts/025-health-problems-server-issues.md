@@ -8,13 +8,6 @@ featureImage: "/assets/images/diabetes_post_nov07.jpg"
 ---
 
 ![My blog post after getting the type 1 diabetes diagnosis](/assets/images/diabetes_post_nov07.jpg)
-*RWW blog post after getting my type 1 diabetes diagnosis.*
-
-This post continues Chapter 8 of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. To view the table of contents, check [the Roadmap](/p/roadmap-bubbleblog/).
-
-Back to [024. Read/WriteWeb Makes Key Hire & I Meet Hustle Culture](/p/024-readwriteweb-key-hire-hustle-culture/)
-
-* * *
 
 The first sign of health problems came before I went to the 2007 Web 2.0 Summit. Late that September, I was traveling by car to Kaikoura, a scenic coastal town near the top of the South Island of New Zealand. My wife and six-year-old daughter were with me; we intended to spend a few nights there and then visit my nana in Blenheim on the way back. But during that car trip I felt unwell and was frequently stopping to urinate. After we arrived in Kaikoura, my wife and I began arguing—partly due to my workload, but due also to my physical discomfort.
 
@@ -97,5 +90,7 @@ On Friday I got Six Apart involved again, now basically begging them to help. �
 Finally, after several stressful days, the tech issues were resolved. But it hadn’t done my blood pressure any good—or my blood-glucose issues, for that matter.
 
 * * *
+
+This post is part of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. View [table of contents](/p/roadmap-bubbleblog/).
 
 Next up: [026. ReadWriteWeb’s Big Redesign & The Inaugural Crunchies](/p/026-rww-redesign-2007-crunchies/)

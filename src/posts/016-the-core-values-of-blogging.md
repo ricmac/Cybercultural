@@ -8,13 +8,6 @@ featureImage: "/assets/images/f93a892c-5e78-4050-961e-9cd4c2092040_2048x1365.jpg
 ---
 
 ![Me and Greg Narain at BloggerCon IV, June 2006](/assets/images/f93a892c-5e78-4050-961e-9cd4c2092040_2048x1365.jpg "Me and Greg Narain at BloggerCon IV, June 2006")
-*Me and Greg Narain at BloggerCon IV, June 2006; photo [by Chris Heuer](https://www.flickr.com/photos/chrisheuer/173971067)*
-
-This post continues Chapter 5 of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. To catch up on previous posts or to view the table of contents, check [the Roadmap](/p/roadmap-bubbleblog).
-
-Back to [015\. Digg and the Power Laws of Silicon Valley](/p/015-digg-power-laws-of-silicon-valley)
-
-* * *
 
 For the rest of the week after the [Digg podcast call](/p/015-digg-power-laws-of-silicon-valley), I attended the 2006 Supernova conference, run by a business academic named Kevin Werbach. It wasn’t as good as the Web 2.0 Conference. In too many cases, panelists and speakers just talked about their own products or companies, and the event was targeted at businesspeople, not developers (the [tagline](https://web.archive.org/web/20060519102608/http://www.supernova2006.com/) was “Because technology is everyone’s business”). That was true of the Web 2.0 Conference as well, but developers were at least hanging around the hallways there—which wasn’t the case at Supernova.
 
@@ -101,6 +94,10 @@ The prevailing wisdom of the BloggerCon attendees was that bloggers should be ve
 
 As RWW began turning into a media business over the rest of 2006, those words from “proper journalists” (a phrase I used a fair bit back then) were my guiding star. Integrity was the key—whether it was how you communicated on your blog and via comments on other blogs or how you dealt with conflicts of interest. We could talk about core values at an unconference until the cows came home, but ultimately a blogger only had one person to answer to: themself.
 
+*Lead image: Me and Greg Narain at BloggerCon IV, June 2006; photo [by Chris Heuer](https://www.flickr.com/photos/chrisheuer/173971067)*
+
 * * *
+
+This post is part of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. View [table of contents](/p/roadmap-bubbleblog/).
 
 Next up: [017. Gnomedex 2006 and My Corporate Blogging Adventure](/p/017-gnomedex-2006-corporate-blogging/)

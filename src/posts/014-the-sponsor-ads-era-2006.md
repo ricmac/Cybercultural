@@ -7,13 +7,6 @@ tags: ['Memoir']
 featureImage: "/assets/images/59d474d4-5497-4bb7-a6b1-6d95eac0233b_1001x572.jpg"
 ---
 ![](/assets/images/59d474d4-5497-4bb7-a6b1-6d95eac0233b_1001x572.jpg)
-*Read/WriteWeb homepage in August 2006, soon after I began to run sponsor ads.*
-
-This post completes Chapter 4 of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. To catch up on previous posts or to view the table of contents, check [the Roadmap](/p/roadmap-bubbleblog).
-
-Back to [013\. Visiting the Microsoft Campus in Redmond](/p/013-visiting-the-microsoft-campus)
-
-* * *
 
 After Microsoft Search Champs in Redmond had finished, I began my journey back to New Zealand. My first layover was twelve hours at the San Francisco airport, so I’d arranged for Marc Canter to pick me up. I was helping him with a couple of reports as part of my ongoing work for his company, Broadband Mechanics, so he drove me to his house in Walnut Creek. There I met his wife, Lisa, and their two small daughters, and Marc and I discussed his latest project. It was for AOL, the dot-com company that was now trying to reinvent itself as a Web 2.0 company. Marc had been hired to spec out a new product, AIMSpace, which—like everything he did at that time—he envisioned as a “digital lifestyle aggregator,” his term for a multimedia-laden social network.
 
@@ -70,6 +63,8 @@ In fairness, FM was still a new business and so was busy ironing out its own sca
 *By the end of 2006, Read/WriteWeb was doing thriving business in sponsor ads.*
 
 * * *
+
+This post is part of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. View [table of contents](/p/roadmap-bubbleblog/).
 
 Next up: [015. Power Laws and Digg](/p/015-digg-power-laws-of-silicon-valley/)
 

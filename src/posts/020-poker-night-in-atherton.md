@@ -8,13 +8,6 @@ featureImage: "/assets/images/pokernight_edit1.jpg"
 ---
 
 ![Poker night in Silicon Valley](/assets/images/pokernight_edit1.jpg "Poker night in Silicon Valley")
-*Poker night at Mike Arrington's house, November 2006: Mike Cannon-Brookes, Cameron Reilly, me; photo [by Chris Saad](https://www.flickr.com/photos/chrissaad/299537563/in/dateposted/).*
-
-This post completes Chapter 6 of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. To view the table of contents, check [the Roadmap](/p/roadmap-bubbleblog/).
-
-Back to [019. Lou Reed and the Web 2.0 Summit](/p/019-web20-summit-2006-lou-reed/)
-
-* * *
 
 On Friday I made my way from San Francisco to the TechCrunch ranch in Atherton, about forty-five minutes south down the 101. Mike was as busy as usual. I brought up the RWW Research idea that I’d [chatted to my friend Fergus about](/p/019-web20-summit-2006-lou-reed/), but he was too absorbed in his own expansion plans to care. Simply put, he was on a different level now. He was at the epicenter of the Silicon Valley startup scene, rather than skirting the periphery like me. A recent [Wall Street Journal article](https://web.archive.org/web/20061119160347/http://online.wsj.com/public/article/SB116244521605611149-xEEW_Dh1mMLLs0dtYRdw492SQYE_20061109.html?mod=blogs) had called Mike a “power broker” in the industry and quoted him as saying, “I want more page views than CNET in two years.”
 
@@ -66,11 +59,15 @@ For all the problems in my personal life, things were looking ever more promisin
 
 Reading the article now, with the benefit of hindsight, it did a great job of capturing both the hope and the concerns of the Web 2.0 era. Grossman acknowledged that tools such as blogs, YouTube, and social networks were “a massive social experiment” and perceptively noted that “Web 2.0 harnesses the stupidity of crowds as well as its wisdom.” But he ended on a note of rose-tinted optimism common to that era: “This is an opportunity to build a new kind of international understanding, not politician to politician, great man to great man, but citizen to citizen, person to person.”
 
-*Time*’s front-page coverage validated Web 2.0 as a cultural movement, which helped to bring RWW to the attention of even more mainstream people as the new year began.
-
 ![Time Magazine: Your web, your way](/assets/images/yourweb_yourway.jpg)
 *The web landscape at the end of 2006, according to Time Magazine.*
 
+*Time*’s front-page coverage validated Web 2.0 as a cultural movement, which helped to bring RWW to the attention of even more mainstream people as the new year began.
+
+*Lead image: Poker night at Mike Arrington's house, November 2006: Mike Cannon-Brookes, Cameron Reilly, me; photo [by Chris Saad](https://www.flickr.com/photos/chrissaad/299537563/in/dateposted/).*
+
 * * *
+
+This post is part of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. View [table of contents](/p/roadmap-bubbleblog/).
 
 Next up: [021. Read/WriteWeb Network Launches Amid iPhone Debut](/p/021-iphone-debut-2007-rww-network/)

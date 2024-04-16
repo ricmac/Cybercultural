@@ -9,12 +9,6 @@ featureImage: "/assets/images/8702d00f-1066-4581-a67d-e494497a4473_1822x1338.jpg
 
 ![Richard MacManus = Illuminati (according to Supr.c.ilio.us in 2005)](/assets/images/8702d00f-1066-4581-a67d-e494497a4473_1822x1338.jpg "Richard MacManus = Illuminati (according to Supr.c.ilio.us in 2005)")
 
-This post concludes Chapter 3 of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. To catch up on previous posts or to view the table of contents, check [the Roadmap](/p/roadmap-bubbleblog).
-
-Back to [010\. Spicy Noodles](/p/010-spicy-noodles)
-
-* * *
-
 By October 2005, I was making a reasonable living from the web as a freelancer. I’d quit my New Zealand day job in August and was now earning income from various web consulting gigs, as well as from my ZDNet blog (and a small portion from Read/WriteWeb itself). But if I did move to Silicon Valley, I knew I’d have to get a full-time job — I would need it in order to get a working visa.
 
 There were seemingly plenty of job opportunities at Yahoo and at some of the startups I’d met. So for the final days of my trip, I arranged some meetings with people who were currently employing me as a freelancer. I decided I would broach the topic of a full-time job with them.
@@ -93,6 +87,8 @@ And why wouldn’t I? The bubble was only just getting started ;)
 *From the business section of the San Francisco Chronicle, Friday, October 7, 2005*
 
 * * *
+
+This post is part of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. View [table of contents](/p/roadmap-bubbleblog/).
 
 Next up: [012\. The Gift Basket; Seattle, January 2006](/p/012-gift-basket-seattle-january-2006)
 

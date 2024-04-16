@@ -24,78 +24,18 @@ preloads:
   onsubmit="window.open('https://buttondown.email/ricmac', 'popupwindow')"
   class="embeddable-buttondown-form"
 >
-  <label for="bd-email">Enter your email</label>
+  <label for="bd-email">Follow via email:</label>
   <input type="email" name="email" id="bd-email" />
   
   <input type="submit" value="Subscribe" />
 </form>
 
-<h2>Fediverse</h2>
-<div class="webmentions">
-
-<p class="mastodon-link"><a href="https://mastodon.social/@ricmac" target="_blank"><img src="/assets/images/Mastodon_Logo.svg" width="32" height="32" alt="Mastodon" /></a> 
-<a href="https://mastodon.social/@ricmac" target="_blank">Follow on Mastodon</a></p>
-
-{% set currentPostUrl = 'https://cybercultural.com' + page.url %}
-
-{% if webmentions %}
-    {% for type, mentions in webmentions %}
-      {% if type !== 'bookmark-of' and type !== 'mention-of' %}
-        {% set filteredMentions = mentions | filterMentionsByTarget(currentPostUrl) %}
-        {% if filteredMentions | length %}
-          <section>
-            <h3>
-              {% if type === 'repost-of' %}
-                Reposts
-              {% elif type === 'like-of' %}
-                Likes
-              {% elif type === 'in-reply-to' %}
-                Comments
-              {% else %}
-                {{ type }}
-              {% endif %}
-            </h3>
-
-            <!-- Reposts and Likes -->
-            {% if type === 'repost-of' or type === 'like-of' %}
-              <p class="mention-reply">
-                {% for mention in filteredMentions %} 
-                  {% if mention.author and mention.author.photo and mention['wm-source'] %} 
-                    <a href="{{ mention.author.url }}" target="_blank" rel="noopener noreferrer"> 
-                      <img src="{{ mention.author.photo }}" alt="{{ mention.author.name }}" width="32" height="32">
-                    </a> 
-                  {% endif %} 
-                  {% if not loop.last %}&nbsp;{% endif %} 
-                {% endfor %} 
-              </p>
-
-            <!-- Replies -->
-            {% elif type === 'in-reply-to' %}
-              {% set sortedMentions = filteredMentions | sort(false, false, 'published') %}
-              {% for mention in sortedMentions %}
-                <p class="mention-reply">
-                  <a href="{{ mention['wm-source'] }}" target="_blank" rel="noopener noreferrer">
-                    <img src="{{ mention.author.photo }}" alt="{{ mention.author.name }}" width="32" height="32">
-                  </a>
-                  <span>{{ mention.content.html | striptags | safe }}</span>
-                </p>
-              {% endfor %}
-
-            {% endif %}
-          </section>
-        {% endif %}
-      {% endif %}
-    {% endfor %}
-  </div>
-{% endif %}
-
 <h2>Support Cybercultural</h2>
 
 <p>Cybercultural is a free newsletter, but you can also become a premium subscriber 
-for <a href="https://buy.stripe.com/9AQeXn2eDcRk0126op">£5 per month</a> or <a href="https://buy.stripe.com/aEU6qRf1p8B46pq002">£48 per year</a>.</p> 
-
-<p>Paid subscribers will receive the occasional bonus post, plus a thank-you mention in the 
-paperbook book version of “Bubble Blog: From Outsider to Insider in Silicon Valley’s Web 2.0 Revolution."</p>
+for <a href="https://buy.stripe.com/9AQeXn2eDcRk0126op">£5 per month</a> or <a href="https://buy.stripe.com/aEU6qRf1p8B46pq002">£48 per year</a>. 
+Paid subscribers will receive the occasional bonus post, plus a thank-you mention in the 
+paperbook book version of <i>Bubble Blog</i>.</p>
 
   </div>
 </article>

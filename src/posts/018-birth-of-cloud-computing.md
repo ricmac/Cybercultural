@@ -8,13 +8,6 @@ featureImage: "/assets/images/rwwric_alex_2009.jpg"
 ---          
 
 ![Me and Alex Iskold, a few years after he began writing for Read/WriteWeb](/assets/images/rwwric_alex_2009.jpg "Me and Alex Iskold, a few years after he began writing for Read/WriteWeb")
-*Me and Alex Iskold, a few years after he began writing for Read/WriteWeb; [photo by Mike Dunn](https://www.flickr.com/photos/glemak/3636458820/)*
-
-This post begins Chapter 6 of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. To catch up on previous posts or to view the table of contents, check [the Roadmap](/p/roadmap-bubbleblog/).
-
-Back to [017. Gnomedex 2006 and My Corporate Blogging Adventure](/p/017-gnomedex-2006-corporate-blogging/)
-
-* * *
 
 During the second half of 2006, more and more of my focus was on building up Read/WriteWeb. In July 2006 I announced [a major redesign](https://web.archive.org/web/20061017004558/http://www.readwriteweb.com/archives/new_readwritewe.php) of the site. The [previous design](https://web.archive.org/web/20060507135504/http://readwriteweb.com/) had been a thin two-column layout on a white background, with red font for the headers and links. It featured a circular logo with the letters *R* and *W* inside, which I’d created in Photoshop using the yin-yang symbol as inspiration. Up till this point, I had done all the web design and development myself. This work was serviceable, but I needed a bit more design flair to keep up with TechCrunch, GigaOm, Mashable, and other Web 2.0 blogs. Also, the layout needed opening up to accommodate more advertisers and sponsors.
 
@@ -60,11 +53,15 @@ This was the birth of what we now know as Amazon Web Services, which eventually 
 
 [Alex’s next post](https://web.archive.org/web/20060903122252/http://www.readwriteweb.com/archives/survey_of_web_platform_client_apps.php) was a survey of the client apps using the new web platform, which gave him a chance to mention Blueorganizer and its use of the S3 storage service. I was okay with this type of subtle self-promotion, which became a common tactic used by future contributors to RWW. As long as it was disclosed in the post and didn’t detract from the analysis of web technology—RWW’s core focus—I didn’t mind if a contributor slipped in the odd mention of their product.
 
-RWW had several other regular contributors [by the end of 2006](https://web.archive.org/web/20070314000845/http://www.readwriteweb.com/about.php), but the other one to have a significant impact in the years to come was Emre Sokullu, a young Turkish entrepreneur. Like Alex, Emre was a clever software engineer, and I valued his technical expertise when writing posts such as “GoogleOS: What To Expect” and “Search 2.0—What’s Next?” Those posts generated a lot of discussion on the site, along with page views, and helped solidify RWW’s growing reputation as the “thinking person’s tech blog.”
-
 ![GoogleOS post](/assets/images/googleos_nov06c.png "GoogleOS post")
 *Emre's [GoogleOS post](https://web.archive.org/web/20061214105139/http://www.readwriteweb.com/archives/googleos_what_to_expect.php) was one of the most popular of the year. Note also the new and improved RWW logo!*
 
+RWW had several other regular contributors [by the end of 2006](https://web.archive.org/web/20070314000845/http://www.readwriteweb.com/about.php), but the other one to have a significant impact in the years to come was Emre Sokullu, a young Turkish entrepreneur. Like Alex, Emre was a clever software engineer, and I valued his technical expertise when writing posts such as “GoogleOS: What To Expect” and “Search 2.0—What’s Next?” Those posts generated a lot of discussion on the site, along with page views, and helped solidify RWW’s growing reputation as the “thinking person’s tech blog.”
+
+*Lead image: Me and Alex Iskold, a few years after he began writing for Read/WriteWeb; [photo by Mike Dunn](https://www.flickr.com/photos/glemak/3636458820/)*
+
 * * *
+
+This post is part of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. View [table of contents](/p/roadmap-bubbleblog/).
 
 Next up: [019. Lou Reed and the Web 2.0 Summit](/p/019-web20-summit-2006-lou-reed/)

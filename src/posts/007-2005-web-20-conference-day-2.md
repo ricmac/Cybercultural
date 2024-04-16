@@ -7,13 +7,6 @@ tags: ['Memoir']
 featureImage: "/assets/images/d1f5d47b-1e9d-458e-bbfa-5256ab205153_562x705.jpg"
 ---
 ![A cartoon drawn of me at the Web 2.0 Conference, October 2005](/assets/images/d1f5d47b-1e9d-458e-bbfa-5256ab205153_562x705.jpg "A cartoon drawn of me at the Web 2.0 Conference, October 2005")
-*A cartoon drawn of me at the Web 2.0 Conference, October 2005.*
-
-This post continues Chapter 2 of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. To catch up on previous posts or to view the table of contents, check [the Roadmap](/p/roadmap-bubbleblog).
-
-Back to [006\. Revving Up at the Web 2.0 Conference](/p/006-revving-up-2005-web-20-conference)
-
-* * *
 
 When I walked into the Web 2.0 Conference at the Argent the next morning, a Thursday, I poured myself a cup of hotel coffee and wandered over to one of the round high tables in the foyer, where I’d spotted a couple of people I recognized. It was two of a small Irish contingent of entrepreneurs, Fergus Burns and Jonathan Hill, who I’d gotten to know. Fergus ran an RSS startup called Nooked, which I had recently begun to provide advisory services to, and Jonathan ran an email and SMS marketing company called Infacta.
 
@@ -90,7 +83,11 @@ Unbeknownst to me, a few months before the Web 2.0 Conference, Google had acquir
 
 All of that was in the future, as I supped my beer at the House of Shields and waited for my friends to arrive — phoneless and lost in my own thought.
 
+*Lead image: A cartoon drawn of me at the Web 2.0 Conference, October 2005.*
+
 * * *
+
+This post is part of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. View [table of contents](/p/roadmap-bubbleblog/).
 
 Next up: [008\. The Colors of Web 2.0 Party](/p/008-the-colors-of-web-20-party)
 

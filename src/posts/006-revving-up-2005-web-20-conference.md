@@ -7,13 +7,6 @@ tags: ['Memoir']
 featureImage: "/assets/images/29881ba3-77b3-47a3-90d5-a4d81521ed5b_800x600.jpg"
 ---
 ![My press badge for the Web 2.0 Conference, October 2005](/assets/images/29881ba3-77b3-47a3-90d5-a4d81521ed5b_800x600.jpg "My press badge for the Web 2.0 Conference, October 2005")
-*My press badge for the Web 2.0 Conference, October 2005*
-
-This post continues Chapter 2 of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. To catch up on previous posts or to view the table of contents, check [the Roadmap](/p/roadmap-bubbleblog).
-
-Back to [005\. Arriving at the TechCrunch Ranch](/p/005-arriving-at-the-techcrunch-ranch)
-
-* * *
 
 The Web 2.0 Conference kicked off on Wednesday, October 5, 2005, at The Argent Hotel on Third Street in San Francisco. I’d gone into the city on the Caltrain earlier in the week, to take in the sights of Haight St and familiarize myself with the Union Square area. But today would be my first experience of a tech event in America.
 
@@ -75,7 +68,11 @@ It was all heady stuff and Tim clearly had set ideas on what Web 2.0 should mean
 
 Before we knew it, Josh and I had been shuffled out the door so that Tim could prepare for the next talk he’d be giving on-stage. Back outside, amidst the hubbub of the conference hall, we looked at each other quizzically. If anything, we were now even less sure about what our book was about, but there was plenty of time to sort through the details when we got back to our respective homes. For now, we each had a workshop we wanted to attend, so we parted ways.
 
+*Lead image: My press badge for the Web 2.0 Conference, October 2005.*
+
 * * *
+
+This post is part of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. View [table of contents](/p/roadmap-bubbleblog/).
 
 Next up: [007\. Day 2 of the 2005 Web 2.0 Conference](/p/007-2005-web-20-conference-day-2)
 

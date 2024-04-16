@@ -8,13 +8,6 @@ featureImage: "/assets/images/lou_reed_web2summit.jpg"
 ---
 
 ![Lou Reed at the Web 2.0 Summit, November 2006](/assets/images/lou_reed_web2summit.jpg "Lou Reed at the Web 2.0 Summit, November 2006")
-*Lou Reed at the Web 2.0 Summit, November 2006; photo [by ptufts](https://www.flickr.com/photos/zippy/293079679/in/dateposted/)*
-
-This post continues Chapter 6 of my serialized book, ****Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution****. To catch up on previous posts or to view the table of contents, check [the Roadmap](/p/roadmap-bubbleblog/).
-
-Back to [018. The Birth of Cloud Computing and Team RWW](/p/018-birth-of-cloud-computing/)
-
-* * *
 
 In early November I was back in Silicon Valley to attend the annual Web 2.0 Conference, now renamed [Web 2.0 Summit](https://web.archive.org/web/20061117001926/http://www.web2summit.com/), and with the [theme](https://en.wikipedia.org/wiki/Web_2.0_Summit) of “Disruption & Opportunity.” The name change was because the organizers, O’Reilly Media and John Battelle, were [expanding](https://web.archive.org/web/20070101172635/http://www.prnewswire.com/cgi-bin/stories.pl?ACCT=104&STORY=/www/story/11-07-2006/0004468818&EDATE=) and had added a companion trade show, Web 2.0 Expo, that was to launch the following year. It was a sign of the times: by November 2006 lots of business opportunities were opening up in the Web 2.0 ecosystem. 
 
@@ -85,6 +78,10 @@ Lou glared at O’Reilly and his retinue, perhaps thinking about how much he hat
 
 Almost as snarky as Lou was the internet industry critic Nicholas Carr in his [summary post](https://www.roughtype.com/?p=577) about the Web 2.0 Summit. My own blog comments were cited by Carr as among “the tepid reviews of the third annual 2.0 boondoggle.” It was a fair cop, but overall I had enjoyed the event; to quote another Lou Reed song, I was “beginning to see the light” about the business opportunities Web 2.0 was presenting to me. Similar to Lou, I was more than happy to pocket money from sponsors in return for my content.
 
+*Lead image: Lou Reed at the Web 2.0 Summit, November 2006; photo [by ptufts](https://www.flickr.com/photos/zippy/293079679/in/dateposted/)*
+
 * * *
+
+This post is part of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. View [table of contents](/p/roadmap-bubbleblog/).
 
 Next up: [20. Betting on Web 2.0: High Stakes Blogging](/p/020-betting-on-web20/)

@@ -8,13 +8,6 @@ featureImage: "/assets/images/a75d9528-09fb-4a81-9ffc-4f8127ccab34_1200x800.jpg"
 ---
 
 ![Digg CEO Kevin Rose at the Digg 3.0 launch party, June 2006](/assets/images/a75d9528-09fb-4a81-9ffc-4f8127ccab34_1200x800.jpg "Digg CEO Kevin Rose at the Digg 3.0 launch party, June 2006")
-*Digg CEO Kevin Rose at the Digg 3.0 launch party, June 2006; [photo](https://www.flickr.com/photos/laughingsquid/173085670) by Scott Beale / [Laughing Squid](http://laughingsquid.com/)*
-
-This post begins Chapter 5 of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. To catch up on previous posts or to view the table of contents, check [the Roadmap](/p/roadmap-bubbleblog).
-
-Back to [014\. Reluctant Salesman: The Sponsor Ads Era](/p/014-the-sponsor-ads-era-2006)
-
-* * *
 
 In June 2006 I flew to San Francisco for my third US trip. I arrived at SFO just after midday on Monday, June 19, after another sleepless twelve-hour flight from New Zealand. Mike Arrington was hosting me at his place in Atherton again, for which I was grateful. I’d also asked if he could pick me up from the airport, and he’d asked an assistant to calendar it. But when the time came, he wasn’t there to greet me. I waited around with my luggage for about an hour and a half, every now and then ringing Mike’s phone from an airport payphone. I kept getting his voice mail.
 
@@ -87,6 +80,10 @@ I followed up by email with Kevin later that week, wishing him well for the rest
 
 Needless to say, Digg’s relationship with its top users continued to fluctuate wildly. Eventually, after a disastrous 4.0 upgrade in August 2010, its power users migrated once and for all to Reddit.
 
+*Lead image: Digg CEO Kevin Rose at the Digg 3.0 launch party, June 2006; [photo](https://www.flickr.com/photos/laughingsquid/173085670) by Scott Beale / [Laughing Squid](http://laughingsquid.com/)*
+
 * * *
+
+This post is part of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. View [table of contents](/p/roadmap-bubbleblog/).
 
 Next up: [016. The Core Values of Blogging](/p/016-the-core-values-of-blogging/)

@@ -8,13 +8,6 @@ featureImage: "/assets/images/crunchies_4founders.jpg"
 ---
 
 ![The Crunchies](/assets/images/crunchies_4founders.jpg "The Crunchies")
-*The Crunchies, co-hosted by (from left to right) GigaOm, ReadWriteWeb, VentureBeat, and TechCrunch; photo [by Garrett Gee](https://www.flickr.com/photos/ggee/2215898724/).*
-
-This post concludes Chapter 8 of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. To view the table of contents, check [the Roadmap](/p/roadmap-bubbleblog/).
-
-Back to [025. Stress 2.0: Health Problems & Web Server Issues](/p/025-health-problems-server-issues/)
-
-* * *
 
 In early November 2007 Mike Arrington and his TechCrunch CEO Heather Harde approached me about participating in a new awards competition they’d come up with, “the Crunchies.” The idea (as far as I could tell) was to replicate the Webby Awards, which had been running since 1996. The Crunchies would focus specifically on Web 2.0 companies. TechCrunch would produce the show, with Read/WriteWeb, GigaOm, and VentureBeat as cohosts.
 
@@ -95,6 +88,10 @@ To make matters worse, at the end of December our site experienced outages [once
 
 Despite the continuing site management strain, RWW was in a great place heading into the new year. We’d exceeded one million page views for the first time in December 2007, and we were growing strongly month over month. We’d risen to [number 18](http://web.archive.org/web/20071228100921/http://www.technorati.com/pop/blogs/) in the Technorati list of the world’s most popular blogs, and our Feedburner RSS subscriber widget had now ticked over 200,000. As we entered the new year, I was feeling very positive about where RWW was headed.
 
+*Lead image: The Crunchies, co-hosted by (from left to right) GigaOm, ReadWriteWeb, VentureBeat, and TechCrunch; photo [by Garrett Gee](https://www.flickr.com/photos/ggee/2215898724/).*
+
 * * *
+
+This post is part of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. View [table of contents](/p/roadmap-bubbleblog/).
 
 Next up: [027. Acquisition Talks: Two Suitors For ReadWriteWeb](/p/027-acquisition-talks-rww-2008/)

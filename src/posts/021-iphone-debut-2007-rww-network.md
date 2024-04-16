@@ -9,13 +9,6 @@ featureImage: "/assets/images/rww_iphone_debut_jan07.jpg"
 ---
 
 ![Read/WriteWeb blog post after the iPhone was announced in January 2007.](/assets/images/rww_iphone_debut_jan07.jpg "Read/WriteWeb blog post after the iPhone was announced in January 2007.")
-*[My article on](https://web.archive.org/web/20070113015248/http://www.readwriteweb.com/archives/iphone_macworld07_keynote.php) the iPhone announcement in January 2007.*
-
-This post begins Chapter 7 of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. To view the table of contents, check [the Roadmap](/p/roadmap-bubbleblog/).
-
-Back to [020. Betting on Web 2.0: High Stakes Blogging](/p/020-betting-on-web20/)
-
-* * *
 
 There had been rumors of a combined phone and iPod device coming from Apple, but what Steve Jobs [announced](https://www.youtube.com/watch?v=wGoM_wVrwng) at Macworld on January 9, 2007, blasted away all expectations. Using his trademark showmanship, Jobs calmly announced that Apple was “introducing three revolutionary products,” which he described as an iPod, a mobile phone, and an internet communicator. He repeated these three ingredients several times, slowly building the anticipation and eliciting whoops and anxious laughter from the audience. Then he delivered the punchline: “These are not three separate devices; this is one device—and we are calling it iPhone.”
 
@@ -77,5 +70,7 @@ The key difference between the two sites was that ASE very quickly found its aud
 Last100 was harder to monetize—we had just [two or three sponsors](https://web.archive.org/web/20070703144700/http://www.last100.com/) at any one time during the first few months. Steve was writing excellent posts, and the content was more similar in style to RWW than what Charles wrote. In theory, it was a good idea to launch a RWW-style analysis blog about the early days of online streaming, but in practice it wasn’t easy to rally a community behind this content in 2007. What people liked about RWW—that it explained the Web 2.0 revolution and put the technology in the context of societal shifts—didn’t seem to translate to “digital lifestyle” products. In hindsight, it was probably just too early for last100: the streaming revolution wouldn’t kick into gear until several years later.
 
 * * *
+
+This post is part of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. View [table of contents](/p/roadmap-bubbleblog/).
 
 Next up: [022. Web 2.0 Expo 2007](/p/022-web20-expo-2007/)

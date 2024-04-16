@@ -31,3 +31,4 @@ Perhaps current tech entrepreneurs and media “creators” (to use the modern l
 
 I hope you’ll join me for this journey into the heart of Web 2.0. The first serialized post will be released later this week!
 
+Next up: [001. Introduction to Bubble Blog](/p/introduction-to-bubble-blog-book/)

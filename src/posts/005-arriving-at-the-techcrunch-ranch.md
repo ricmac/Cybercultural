@@ -7,13 +7,6 @@ tags: ['Memoir']
 featureImage: "/assets/images/17177e5f-92c2-4622-a0c3-e20be441a46f_1637x1228.jpg"
 ---
 ![](/assets/images/17177e5f-92c2-4622-a0c3-e20be441a46f_1637x1228.jpg)
-*For two weeks in October 2005, this room was where TechCrunch, Read/Write Web, WeBreakStuff and tech.memeorandum were published.*
-
-This post begins Chapter 2 of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. To view the table of contents, check [the Roadmap](/p/roadmap-bubbleblog).
-
-Back to [004\. A Call With Tim O'Reilly](/p/call-with-tim-oreilly-2004)
-
-* * *
 
 On a Friday afternoon at the end of September 2005, I stepped foot on American soil for the first time. I was greeted at San Francisco Airport by a big guy with tousled light brown hair, wearing a short-sleeved blue button up shirt hanging loose over a pair of cargo shorts. He was tall — about 6 foot 3, I guessed — so he towered over my 5 foot 8 frame. I remembered that Marc Andreessen was 6’3’ too, with the same large frame as this man, so I briefly wondered whether all Americans were this massive.
 
@@ -68,7 +61,11 @@ In person, Mike was also frank in his opinions — he wasn’t one of those tall
 
 As for me, I was enjoying my new surroundings, but I still felt overwhelmed with newness and unsure of my status in Silicon Valley. One evening, while we were chatting alone in the back yard, Mike told me that he too was an introvert — it may not look like it, he said, but he often had to retreat to his bedroom to recharge his energy. I appreciated him telling me this, because it looked to me like he was already the alpha tech blogger, even if Technorati’s top 100 didn’t yet recognize it.
 
+*Lead image: For two weeks in October 2005, this room was where TechCrunch, Read/Write Web, WeBreakStuff and tech.memeorandum were published.*
+
 * * *
+
+This post is part of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. View [table of contents](/p/roadmap-bubbleblog/).
 
 Next up: [006\. Revving Up at the Web 2.0 Conference](/p/006-revving-up-2005-web-20-conference)
 

@@ -10,12 +10,6 @@ featureImage: "/assets/images/rww_presentation_march2008.jpg"
 ![RWW presentation, March 2008](/assets/images/rww_presentation_march2008.jpg)
 *'Intro to RWW' slide from a March 2008 presentation.*
 
-This post begins Chapter 9 of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. To view the table of contents, check [the Roadmap](/p/roadmap-bubbleblog/).
-
-Back to [026. ReadWriteWeb's Big Redesign & The Inaugural Crunchies](/p/026-rww-redesign-2007-crunchies/)
-
-* * *
-
 I hadn’t seriously thought of selling ReadWriteWeb before 2008, but I knew I needed help to expand the business. Early in the new year Sean Ammirati put me in touch with Bob Evans, a senior executive at CMP Technology, a media company and coproducer of the Web 2.0 conferences. On a phone call while I was in San Francisco in January, Bob floated a potential acquisition. I didn’t know what to think at this point, but I was curious to see where the discussions would lead. 
 
 CMP’s main tech-media property was *Information Week*, which had been one of the leading industry magazines during the 1980s and 1990s. *Information Week* was still a print magazine in early 2008, and its [accompanying website](https://web.archive.org/web/20080110160310/http://www.informationweek.com/) was part of something called the TechWeb Network. [TechWeb.com](https://web.archive.org/web/20080110130430/http://www.techweb.com/) itself was an IT news website, but it didn’t have any of the personality that RWW, TechCrunch, and Mashable had. So I saw that RWW would be an attractive candidate for CMP’s lineup of tech publications.
@@ -73,5 +67,7 @@ My main concern with both deals was how much control I would have in achieving t
 I was about to jump on a plane to San Francisco for the Web 2.0 Expo, so I suggested to Fritz, Bob, and Tony Uphoff (who I hadn’t yet heard from) that we meet at the event.
 
 * * *
+
+This post is part of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. View [table of contents](/p/roadmap-bubbleblog/).
 
 Next up: [028. 2008 Web 2.0 Expo, Where M&A Talks Continue](/p/028-web2-expo-2008/)

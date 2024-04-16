@@ -8,13 +8,6 @@ featureImage: "/assets/images/ricmac_vegas_2007.jpg"
 ---
 
 ![Facebook Week on RWW, July 2007](/assets/images/facebookweek_july2007.jpg)
-*By July 2007, Facebook was growing so fast that we ran a [Facebook Week](https://web.archive.org/web/20070808134258/http://www.readwriteweb.com/archives/facebook_week_july2007.php) on Read/WriteWeb.*
-
-This post concludes Chapter 7 of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. To view the table of contents, check [the Roadmap](/p/roadmap-bubbleblog/).
-
-Back to [022. Web 2.0 Expo 2007](/p/022-web20-expo-2007/)
-
-* * *
 
 After the Web 2.0 Expo, it was off to Las Vegas for Microsoft’s MIX conference, an event to promote the company’s web technologies. My travel, including accommodations at the Venetian on the Strip, was being paid for by Microsoft New Zealand. My wife flew over from NZ to join me for the Vegas trip, which I was able to pay for thanks to Read/WriteWeb's current profitability.
 
@@ -90,5 +83,7 @@ I [announced Read/WriteTalk](https://web.archive.org/web/20111211140847/http://w
 When I calculated my monthly revenue for August, it added up to nearly $34,000—a new record for RWW. FM Publishing had really come to the party that month, as $15,000 of it was from their CPM adverts. Given these increasingly big paydays and the still relatively low expense base for RWW, I knew it was high time to invest in more writer talent.
 
 * * *
+
+This post is part of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. View [table of contents](/p/roadmap-bubbleblog/).
 
 Next up: [024. Read/WriteWeb Makes Key Hire & I Meet Hustle Culture](/p/024-readwriteweb-key-hire-hustle-culture/)

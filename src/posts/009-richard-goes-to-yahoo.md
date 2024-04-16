@@ -7,13 +7,6 @@ tags: ['Memoir']
 featureImage: "/assets/images/cdbb72de-7f87-4153-b670-94087d30c792_640x480.jpg"
 ---
 ![Me at the Yahoo! campus, 10 October 2005](/assets/images/cdbb72de-7f87-4153-b670-94087d30c792_640x480.jpg "Me at the Yahoo! campus, 10 October 2005")
-*Me at the Yahoo! campus, 10 October 2005; photo [by Jeremy Zawodny](https://www.flickr.com/photos/jzawodn/51348982/).*
-
-This post begins Chapter 3 of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. To catch up on previous posts or to view the table of contents, check [the Roadmap](/p/roadmap-bubbleblog).
-
-Back to [008\. The Colors of Web 2.0 Party](/p/008-the-colors-of-web-20-party)
-
-* * *
 
 Earlier in 2005, I had made some contacts inside of Yahoo! and had begun to think about trying for a job there. One of my contacts was a search engine executive named Elizabeth Osder, and I’d told her my dream gig on the internet would be web strategist / blogger, with input into product design. She replied that I “might find a gig in strategy for a web company” and promised to ask around inside Yahoo. She also wanted to know about my experiences running ads in my RSS feeds, so there was some quid pro quo going on in these early emails.
 
@@ -78,7 +71,11 @@ We also talked that morning about blogs becoming mainstream, which was part of Y
 
 In hindsight, he was only partially right — blogs and RSS eventually gave way to social media and feeds. And of course Yahoo was soon eclipsed as a platform for those things by both Google and Microsoft (as well as Apple, Facebook and Amazon). But it was also true that, in 2005, bloggers were the flag-bearers of the new social web. We were, as Jeremy put it in the same post (albeit in sarcastic air quotes), “special.” The fact I’d been invited to the Yahoo campus at all signaled that I was at the forefront of a movement — and perhaps on my way becoming a Silicon Valley insider.
 
+*Lead image: Me at the Yahoo! campus, 10 October 2005; photo [by Jeremy Zawodny](https://www.flickr.com/photos/jzawodn/51348982/).*
+
 * * *
+
+This post is part of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. View [table of contents](/p/roadmap-bubbleblog/).
 
 Next up: [010\. Spicy Noodles](/p/010-spicy-noodles)
 

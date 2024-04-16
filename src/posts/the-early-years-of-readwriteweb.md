@@ -7,13 +7,6 @@ tags: ['Memoir']
 featureImage: "/assets/images/5fa25a2e-ef88-4fd7-9866-bf939acc998b_640x480.jpg"
 ---
 ![My weblog avatar in January 2004](/assets/images/5fa25a2e-ef88-4fd7-9866-bf939acc998b_640x480.jpg "My weblog avatar in January 2004")
-*My weblog avatar in January 2004, age 32.*
-
-This is the opening section of Chapter 1 of my book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. To view the table of contents, check [the Roadmap](/p/roadmap-bubbleblog).
-
-Back to [001\. Introduction to Bubble Blog](/p/introduction-to-bubble-blog-book)
-
-* * *
 
 I was a long way from Silicon Valley at the beginning of 2004, both geographically and in frame of mind. I’d recently turned 32, had fine strawberry blond hair that I obsessively brushed to keep neat, innocent-looking blue eyes covered by a pair of rectangular, semi-rimless glasses, and a ginger goatee with neatly trimmed sideburns. For my blogger profile photo, I chose to use a selfie taken slightly from the side and with the photo cropped at my eyebrows, so that the top of my head was cut off. It accentuated my goatee and sideburns, and gave me a kind of Max Headroom look. This was several years before selfies became a trend, so in this photo I was not looking directly into the camera. I was too awkwardly shy to do that anyway. Instead, I’m self-consciously staring into the distance, as if I’m dreaming about what life must be like in California.
 
@@ -69,6 +62,10 @@ Already, though, I had noticed a dark underside to the nascent social web. For a
 
 These were early warning signs of what social media would turn into in the 2010s, on a mass scale. But I put these premonitions of a darker side to Silicon Valley out of my mind. In 2004, as far as I was concerned, I was off to the races with my blog.
 
+*Lead image: My weblog avatar in January 2004, age 32.*
+
 * * *
 
-On to [003\. The First Web 2.0 Conference](/p/the-first-web-20-conference-2004)
+This post is part of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. View [table of contents](/p/roadmap-bubbleblog/).
+
+Next up: [003\. The First Web 2.0 Conference](/p/the-first-web-20-conference-2004)

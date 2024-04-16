@@ -8,13 +8,6 @@ featureImage: "/assets/images/1622036248_c02d6f9068_o.jpg"
 ---
 
 ![MySpace party at Web 2.0 Summit](/assets/images/1622036248_c02d6f9068_o.jpg)
-*The MySpace party during the 2007 Web 2.0 Summit; from left to right: Prashant Agarwal, me, Sean Ammirati; photo [by Brian Solis](https://www.flickr.com/photos/briansolis/1622036248).*
-
-This post begins Chapter 8 of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. To view the table of contents, check [the Roadmap](/p/roadmap-bubbleblog/).
-
-Back to [023. Las Vegas and the MIX Conference 2007](/p/023-microsoft-mix-2007/)
-
-* * *
 
 In August 2007, I began discussions with Marshall Kirkpatrick, a former TechCrunch lead blogger who was now working for a marketing company. Marshall was from Portland and working for a local company called SplashCast when I reached out to him by email. I asked if he knew of any freelance bloggers who might like to work for Read/WriteWeb for around twenty hours per week. He emailed back, suggesting himself. It turned out he was thinking of leaving SplashCast to do consulting work, so he was open to another blogging gig. “If it’s not me in particular that you’re looking for, I’ve got a list of more than 30 bloggers now looking for blogging gigs, some of them very accomplished,” he added.
 
@@ -102,6 +95,10 @@ I never managed to convince Gary to resume his sponsorship of RWW, but not for l
 
 In any case, I was about to learn that there were more important things in life than money and power.
 
+*Lead image: The MySpace party during the 2007 Web 2.0 Summit; from left to right: Prashant Agarwal, me, Sean Ammirati; photo [by Brian Solis](https://www.flickr.com/photos/briansolis/1622036248).*
+
 * * *
+
+This post is part of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. View [table of contents](/p/roadmap-bubbleblog/).
 
 Next up: [025. Stress 2.0: Health Problems & Web Server Issues](/p/025-health-problems-server-issues/)

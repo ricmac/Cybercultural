@@ -7,13 +7,6 @@ tags: ['Memoir']
 featureImage: "/assets/images/b355a7e0-ccf7-4464-83c0-2c3251ea3a0b_1514x1126.jpg"
 ---
 ![My Tim O’Reilly interview after the first Web 2.0 Conference, Nov 2004.](/assets/images/b355a7e0-ccf7-4464-83c0-2c3251ea3a0b_1514x1126.jpg "My Tim O’Reilly interview after the first Web 2.0 Conference, Nov 2004.")
-*My Tim O’Reilly interview after the first Web 2.0 Conference, Nov 2004.*
-
-This post completes Chapter 1 of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. To view the table of contents, check [the Roadmap](/p/roadmap-bubbleblog).
-
-Back to [003\. The First Web 2.0 Conference](/p/the-first-web-20-conference-2004)
-
-* * *
 
 I hadn’t gone to the first Web 2.0 Conference in October 2004, but I monitored it from afar. I was intrigued by the potential start of a new movement on the web, so I reached out to Tim O’Reilly and asked to [interview him for my blog](https://web.archive.org/web/20041116101331/http://www.readwriteweb.com/archives/002434.php). He agreed and in November 2004, we did a Skype call.
 
@@ -84,6 +77,8 @@ By this point, it was clear what the focus of my blog would be going forward: We
 *By [the end of 2004](https://web.archive.org/web/20041229152041/http://www.readwriteweb.com/archives/002574.php), most of my subscribers used browser-based Bloglines as their RSS Reader, with NetNewsWire (a desktop app) a distant second.*
 
 * * *
+
+This post is part of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. View [table of contents](/p/roadmap-bubbleblog/).
 
 Next up: [005\. Arriving at the TechCrunch Ranch](/p/005-arriving-at-the-techcrunch-ranch)
 

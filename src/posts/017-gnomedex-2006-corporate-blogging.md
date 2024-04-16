@@ -8,13 +8,6 @@ featureImage: "/assets/images/21988a7d-3e79-40a3-8a6c-784b4fc8df8a_2048x1536.jpg
 ---          
 
 ![At Gnomedex, 2 July 2006](/assets/images/21988a7d-3e79-40a3-8a6c-784b4fc8df8a_2048x1536.jpg "At Gnomedex, 2 July 2006")
-*At Gnomedex, 2 July 2006. From left to right: Alex Barnett, Chris Messina, Scott Beale, Tara Hunt, me, Ben Metcalfe (in front). Photo [by Ben Metcalfe](https://www.flickr.com/photos/dotben/181336828).*
-
-This post completes Chapter 5 of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. To catch up on previous posts or to view the table of contents, check [the Roadmap](/p/roadmap-bubbleblog).
-
-Back to [016\. The Core Values of Blogging](/p/016-the-core-values-of-blogging)
-
-* * *
 
 At the end of June, 2006, I boarded a flight to Seattle for Chris Pirillo’s Gnomedex conference. For the [second time](/p/012-gift-basket-seattle-january-2006), I got lucky with the weather in Seattle—it was the middle of summer and gloriously sunny. The event was being held at the Bell Harbor Convention Center, right on the waterfront, and I was staying at a nearby hotel.
 
@@ -84,6 +77,10 @@ BT’s contract came up for renewal in March 2007, and so Micro Media Corp peter
 
 So, corporate blogging didn’t work out for me. Fortunately, though, Read/WriteWeb was going from strength to strength.
 
+*Lead image: At Gnomedex, 2 July 2006. From left to right: Alex Barnett, Chris Messina, Scott Beale, Tara Hunt, me, Ben Metcalfe (in front). Photo [by Ben Metcalfe](https://www.flickr.com/photos/dotben/181336828).*
+
 * * *
+
+This post is part of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. View [table of contents](/p/roadmap-bubbleblog/).
 
 Next up: [018. The Birth of Cloud Computing and Team RWW](/p/018-birth-of-cloud-computing/)
