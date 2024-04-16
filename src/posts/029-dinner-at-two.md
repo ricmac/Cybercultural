@@ -78,4 +78,4 @@ By the end of the night, I’d resolved to send an email to CMP first thing tomo
 
 This post is part of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. View [table of contents](/p/roadmap-bubbleblog/).
 
-Next up: 030. The Deal is Done
+Next up: 030. A Deal is Done
