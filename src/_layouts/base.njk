@@ -63,6 +63,10 @@
   </head>
 
   <body>
+    <div itemscope itemtype="https://schema.org/WebSite">
+    <meta itemprop="url" content="https://cybercultural.com/"/>
+    <meta itemprop="name" content="Cybercultural"/>
+
     {% include "partials/header.njk" %}
 
     <main id="main" class="flow">{{ content | safe }}</main>
