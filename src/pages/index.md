@@ -15,8 +15,7 @@ A newsletter about internet history and its impact on our culture, by [Richard M
   method="post"
   target="popupwindow"
   onsubmit="window.open('https://buttondown.email/ricmac', 'popupwindow')"
-  class="embeddable-buttondown-form"
->
+  class="embeddable-buttondown-form">
   <label for="bd-email">Enter your email</label>
   <input type="email" name="email" id="bd-email" />
   
