@@ -3,22 +3,11 @@
 <footer class="site-foot">
   <div class="wrapper">
     <div class="site-foot__inner">
-      <nav id="footernav" class="site-foot__inner text-step-0" aria-label="Footer">
-
-        &copy; {% year %} <a href="/" {% if activePage === '/' %} aria-current="page" {% endif %}>{{ meta.siteName }}</a>
+      <nav id="footernav" class="site-foot__inner text-step-0" aria-label="Footer">&copy; {% year %} <a href="/" {% if activePage === '/' %} aria-current="page" {% endif %}>{{ meta.siteName }}</a>
 
         {% for item in navigation.bottom %}
 
-        <a
-          href="{{ item.url }}"
-          {{
-          helpers.getLinkActiveState(item.url,
-          page.url)
-          |
-          safe
-          }}
-          >{{ item.text }}</a
-        >
+<a href="{{ item.url }}" {{ helpers.getLinkActiveState(item.url, page.url) | safe }}>{{ item.text }}</a>
 
         {% endfor %}
       </nav>
@@ -33,8 +22,7 @@
           {% endif %}
           <span class="sr-only">{{ item.platform }}</span>
           <div aria-hidden="true">{% include 'icons/social-' + item.icon %}</div>
-          </a
-          >
+          </a>
         {% endfor %}
 
 
