@@ -97,6 +97,10 @@ PART 2: 2007-2009
 *   [027\. Acquisition Talks: Two Suitors For ReadWriteWeb](/p/027-acquisition-talks-rww-2008/)
 *   [028\. 2008 Web 2.0 Expo, Where M&A Talks Continue](/p/028-web2-expo-2008/)
 *   [029\. Dinner at Two, But With Which Acquirer?](/p/029-dinner-at-two/)
-*    030\. A Deal is Done
+*   [030\. A Deal Is Done; Trippy Web 2.0 Party at Temple](/p/030-rww-acquisition-deal-2008/)
+
+### 10\. Due Diligence
+
+*    031\. Due Diligence Begins; and RWW Gets a Media Award
 
 To be continued…
