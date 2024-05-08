@@ -82,4 +82,4 @@ The deal was done.
 
 This post is part of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. View [table of contents](/p/roadmap-bubbleblog/).
 
-Next up: 031. Due Diligence Begins; and RWW Gets a Media Award
+Next up: [031. Due Diligence Begins in NYC; RWW Gets a Media Award](/p/031-zde-due-diligence-begins/)
