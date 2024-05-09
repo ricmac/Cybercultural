@@ -11,6 +11,15 @@
     <!-- title -->
     <title>{% if seo.title %}{{ seo.title }}{% elif title %}{{ title }}{% else %}{{ meta.siteName }}{% endif %}</title>
 
+<script type="application/ld+json">
+    {
+      "@context" : "https://schema.org",
+      "@type" : "WebSite",
+      "name" : "Cybercultural",
+      "url" : "https://cybercultural.com/"
+    }
+  </script>
+
     <link rel="stylesheet" href="/assets/css/global.css?{{ assetHash }}" />
 
     <!-- preloads -->
@@ -56,10 +65,6 @@
   </head>
 
   <body>
-    <div itemscope itemtype="https://schema.org/WebSite">
-    <meta itemprop="url" content="https://cybercultural.com/"/>
-    <meta itemprop="name" content="Cybercultural"/>
-
     {% include "partials/header.njk" %}
 
     <main id="main" class="flow">{{ content | safe }}</main>
