@@ -2,7 +2,7 @@
   display: flex;
   flex-wrap: wrap;
   align-items: center;
-  justify-content: space-between;
+  justify-content: center;
   background-color: #b80103;
   width: 100vw; /* Set the width to 100% of the viewport width */
   margin-left: calc(-50vw + 50%); /* Shift the element to the left by half of its own width */
