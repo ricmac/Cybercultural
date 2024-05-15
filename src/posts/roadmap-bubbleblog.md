@@ -102,7 +102,7 @@ PART 2: 2007-2009
 ### 10\. Due Diligence
 
 *    [031\. Due Diligence Begins in NYC; RWW Gets a Media Award](/p/031-zde-due-diligence-begins/)
-*    032\. I’m Waiting For The EBITDA: Visiting the ZDE Office
+*    [032\. I’m Waiting For The EBITDA: Visiting the ZDE Office](/p/032-zde-discussions-ebitda/)
 *    033\. Spreadsheet Blues; My Night at The Jazz Standard
 *    034\. Checking In With Team RWW; Meat Sweats at Carnegie Deli
 

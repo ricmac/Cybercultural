@@ -80,4 +80,4 @@ I planned to keep daily tabs on the site while I was in New York, but I hoped it
 
 This post is part of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. View [table of contents](/p/roadmap-bubbleblog/).
 
-Next up: 032. I’m Waiting For The EBITDA: Visiting the ZDE Office
+Next up: [032. I’m Waiting For The EBITDA: Visiting the ZDE Office](/p/032-zde-discussions-ebitda/)
