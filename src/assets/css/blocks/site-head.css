@@ -7,6 +7,6 @@
   width: 100vw; /* Set the width to 100% of the viewport width */
   margin-left: calc(-50vw + 50%); /* Shift the element to the left by half of its own width */
   margin-right: calc(-50vw + 50%); /* Shift the element to the right by half of its own width */
-  padding: 0 50px; /* Add padding to the left and right sides */
+  padding: 0 20px; /* Add padding to the left and right sides */
   color: white;
 }
