@@ -8,7 +8,7 @@
     --nav-list-background: transparent;
     --nav-list-layout: row;
     --nav-list-position: static;
-    --nav-list-padding: 0;
+    --nav-list-padding: 0 1rem; /* Add right padding */
     --nav-list-height: auto;
     --nav-list-width: 100%;
     --nav-list-shadow: none;

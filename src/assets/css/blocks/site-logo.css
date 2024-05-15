@@ -5,7 +5,7 @@
   align-items: center;
   gap: var(--space-2xs);
   letter-spacing: var(--tracking-s);
-  padding: var(--space-xs) 0;
+  padding: var(--space-xs) 1rem; /* Add left and right padding */
   font-size: var(--size-step-1);
 }
 .site-head__brand.no-underline {
