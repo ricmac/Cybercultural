@@ -8,3 +8,13 @@
   padding: var(--space-xs) 0;
   font-size: var(--size-step-1);
 }
+.site-head__brand.no-underline {
+  color: inherit;
+  text-decoration: none;
+}
+
+.site-head__brand.no-underline:hover,
+.site-head__brand.no-underline[aria-current="page"] {
+  color: white !important;
+  text-decoration: none !important;
+}

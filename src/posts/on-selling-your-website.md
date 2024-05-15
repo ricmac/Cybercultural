@@ -47,4 +47,4 @@ But if there is a lesson here for other entrepreneurs or media operators, I woul
 
 ***
 
-Next up: back to my Web 2.0 memoir, with Part 031.
+Next up: back to my Web 2.0 memoir, with [Part 031](/p/031-zde-due-diligence-begins/).
