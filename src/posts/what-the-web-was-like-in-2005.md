@@ -1,17 +1,16 @@
 ---
-title: 'What the Web Was Like in 2005'
-description: "I look back on web technology in 2005 — a world before social media, smartphones and the cloud!"
+title: 'What the Internet Was Like in 2005'
+description: "A look back at internet technology in 2005 — a world before social media, smartphones and the cloud."
 date: 2023-12-15
 permalink: "p/what-the-web-was-like-in-2005/"
 tags: ['Memoir']
 featureImage: "/assets/images/346c4a1a-89b1-437a-b730-16b6f9921b60_2048x1365.jpg"
 ---
-![Browse. Search. Subscribe.](/assets/images/346c4a1a-89b1-437a-b730-16b6f9921b60_2048x1365.jpg "Browse. Search. Subscribe.")
-*Browse. Search. Subscribe. That’s what it was all about in 2005. [Photo by Kris Krug](https://www.flickr.com/photos/kk/21367593/), at Gnomedex 5, June 2005.*
+![Browse. Search. Subscribe.](/assets/images/346c4a1a-89b1-437a-b730-16b6f9921b60_2048x1365.jpg)
 
 Earlier this week I [began chapter 4](/p/012-gift-basket-seattle-january-2006) of my serialized memoir, _Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution_. There are twenty chapters in total, plus an introduction and epilogue. So there is a long way to go yet. Much of what I’ve published so far ([parts 5-11](/p/roadmap-bubbleblog)) has focused on 2005, a key year in Web 2.0. That was when Web 2.0 became the driving trend of Silicon Valley, and Read/WriteWeb got swept up in a new tech bubble. But what was the web like back then? It’s now 18 years ago, which in internet years means a couple of generations!
 
-In this post I’ll reflect back on 2005 on the web, and what it meant to me and my generation.
+In this post I’ll reflect back on 2005 on the internet, and what it meant to me and my generation.
 
 As I noted in [a previous bonus post](/p/2005-growth-of-web-20-and-rww), the first three quarters of 2005 were full of startup launches (e.g. YouTube, Reddit), acquisitions (e.g. Flickr, MySpace), and technological advancements (e.g. Ajax). Over that time, I’d also found my groove with Read/WriteWeb — especially after my [revelatory first trip to Silicon Valley](/p/005-arriving-at-the-techcrunch-ranch) in September/October 2005.
 
@@ -52,4 +51,4 @@ It was a time of _web creativity_, before the one-size-fits-all of social media 
 
 Ah, the web in 2005… I do miss it, although I’m pleased to see [the fediverse](https://mastodon.social/@ricmac) is showing great promise as we head into 2024. Open networks are always better and more fun.
 
-Stay tuned for 2006 memories as I continue Bubble Blog next week :)
+*Lead image: "Browse. Search. Subscribe." That’s what it was all about in 2005. [Photo by Kris Krug](https://www.flickr.com/photos/kk/21367593/), at Gnomedex 5, June 2005.*

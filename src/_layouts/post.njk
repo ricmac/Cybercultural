@@ -10,11 +10,10 @@ preloads:
 
 <article class="region blog" data-pagefind-body>
   <div class="wrapper flow prose">
-    <h1>{{ title }}</h1>
-    
-    {% set definedDate = date %} {% include "partials/date.njk" %} by <a href="/about/">Richard MacManus</a>
-
+    <h1>{{ title }}</h1>    
     <p>{{ description | safe }}</p>
+    <span class="author">By <a href="/about/">Richard MacManus</a> | {% set definedDate = date %} {% include "partials/date.njk" %}</span>
+
     {{ content | safe }}
 
 <form

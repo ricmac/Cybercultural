@@ -103,6 +103,10 @@ main:focus {
   outline: none;
 }
 
+.author {
+  font-size: 75%;
+}
+
 .webmentions p {
   margin-bottom: 1em; /* Adjust the value as needed */
   margin-top: 0.5em;
