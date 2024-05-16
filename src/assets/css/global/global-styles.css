@@ -13,6 +13,7 @@ body {
   letter-spacing: var(--tracking);
   display: flex;
   flex-direction: column;
+  overflow-x: hidden;
 }
 
 main {
