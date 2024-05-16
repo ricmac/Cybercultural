@@ -1,6 +1,6 @@
 ---
 title: "032. I’m Waiting For The EBITDA: Visiting the ZDE Office"
-description: "It's May 2008 and I have a meeting at Ziff Davis Enterprise headquarters, at Lexington and 28th. I bet The Velvet Underground never wrote a song about accounting terms."
+description: "It's May 2008 and due diligence kicks off at Ziff Davis Enterprise headquarters on 28th St. Before that, I meet my RWW colleague Bernard Lunn for the first time."
 date: 2024-05-15
 permalink: "p/032-zde-discussions-ebitda/"
 tags: ['Memoir']
@@ -28,7 +28,7 @@ After coffee with Bernard, I went back to my hotel room to mull over my tactics 
 
 ***
 
-The ZDE office was located at 28 East 28th Street, in the Midtown South area of Manhattan. I’d quickly learned that the best way to get to an address in New York City was to note the connecting streets, and I was amused to see that one of them was Lexington Avenue. I knew this name from “I’m Waiting for the Man,” a Velvet Underground song about buying heroin at the intersection of Lexington and 125—way uptown. ZDE was at Lexington and 28th, and judging by all the grey and brown high-rise buildings in this area, there wasn’t much rock ’n’ roll romanticism at this location.
+The ZDE office was located at 28 East 28th Street, in the Midtown South area of Manhattan. I’d quickly learned that the best way to get to an address in New York City was to note the connecting streets, and I was amused to see that one of them was Lexington Avenue. I knew this name from “I’m Waiting for the Man,” a Velvet Underground song about buying heroin at the intersection of Lexington and 125—way uptown. ZDE was a block from Lexington, but downtown. And judging by all the grey and brown high-rise buildings, there wasn’t much rock ’n’ roll romanticism at this location.
 
 I entered the nondescript fifteen-story building that ZDE occupied and asked for Mike Azzara at reception. He came down to greet me, and we rode the elevator to ZDE’s office, which was on one of the middle floors. If I was expecting a modern office like [Yahoo in Silicon Valley](/p/009-richard-goes-to-yahoo) (or, for that matter, [ZDNet in San Francisco](/p/011-the-web-20-illuminati/)), I was disappointed. ZDE’s office looked like it was from the 1980s, with its beige walls and tatty brown carpet. 
 
