@@ -34,7 +34,7 @@ At one such conference, a few years after he’d sold Weblogs, Inc., a colleague
 
 Anyway, back to 2005. I turned to Fergus and Jonathan and asked if they were going to the Web 2.0 party tonight, at the Swig bar on Geary St?
 
-“Wouldn’t miss it,” Fergus replied. I felt stupid asking, as of course both these foreign entrepreneurs would want to be at the biggest networking party of the conference. Not only were there sure to be VCs and other moneyed people there, but the party was being sponsored by several of the hottest Silicon Valley startups and projects: Flock, del.icio.us, Flickr, Odeo, Technorati, wink, and WordPress. Even better, as I’d been informed in an email from a PR person a few days ago, it would be “free open bar and grub.”
+“Wouldn’t miss it,” Fergus replied. I felt stupid asking, as of course both these foreign entrepreneurs would want to be at the biggest networking party of the conference. Not only were there sure to be VCs and other moneyed people there, but the party was being sponsored by several of the hottest Silicon Valley startups and projects: Flock, del&#46;icio&#46;us, Flickr, Odeo, Technorati, wink, and WordPress. Even better, as I’d been informed in an email from a PR person a few days ago, it would be “free open bar and grub.”
 
 * * *
 

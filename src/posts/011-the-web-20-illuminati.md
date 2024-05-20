@@ -7,7 +7,7 @@ tags: ['Memoir']
 featureImage: "/assets/images/8702d00f-1066-4581-a67d-e494497a4473_1822x1338.jpg"
 ---
 
-![Richard MacManus = Illuminati (according to Supr.c.ilio.us in 2005)](/assets/images/8702d00f-1066-4581-a67d-e494497a4473_1822x1338.jpg "Richard MacManus = Illuminati (according to Supr.c.ilio.us in 2005)")
+![Richard MacManus = Illuminati (according to Supr.c.ilio.us in 2005)](/assets/images/8702d00f-1066-4581-a67d-e494497a4473_1822x1338.jpg)
 
 By October 2005, I was making a reasonable living from the web as a freelancer. I’d quit my New Zealand day job in August and was now earning income from various web consulting gigs, as well as from my ZDNet blog (and a small portion from Read/WriteWeb itself). But if I did move to Silicon Valley, I knew I’d have to get a full-time job — I would need it in order to get a working visa.
 
@@ -64,7 +64,7 @@ Then, a record scratch. “But regardless of all this déjà vu, we are not in a
 ![John Battelle’s “not a bubble” op-ed, Nov 05](/assets/images/04048252-db0b-4506-bb64-33432973b288_1986x1300.png "John Battelle’s “not a bubble” op-ed, Nov 05")
 *John Battelle’s “not a bubble” op-ed, Nov 05 ([screenshot](https://web.archive.org/web/20060220110402/http://www.nytimes.com/2005/11/18/opinion/18battelle.html?ex=1289970000&en=24386e654b2c02ed&ei=5088&partner=rssnyt&emc=rss) Feb 06)*
 
-The month before, two young engineers, Eran Globen and Ryan King, had started a satiric blog called Supr.c.ilio.us — the name inspired by the popular social bookmarking site, del.icio.us. The day after Battelle’s article, Globen linked to it and noted that it was published on the same day as the latest TechCrunch BBQ, which he had attended. “Some 400 geeks munching on pizza and drinking free (as in beer) beer? I don’t see no bubble here.”
+The month before, two young engineers, Eran Globen and Ryan King, had started a satiric blog called Supr&#46;c&#46;ilio&#46;us — the name inspired by the popular social bookmarking site, del&#46;icio&#46;us. The day after Battelle’s article, Globen linked to it and noted that it was published on the same day as the latest TechCrunch BBQ, which he had attended. “Some 400 geeks munching on pizza and drinking free (as in beer) beer? I don’t see no bubble here.”
 
 I was already aware of Eran and Ryan’s mock blog, as I’d become one of the targets of its good-natured but anarchic humor. The week before, the pair had been [interviewed](https://web.archive.org/web/20060816170321/http://blip.tv/file/4324) by Irina Slutsky, a Silicon Valley reporter who was launching her own YouTube channel, called Geek Entertainment TV. Slutsky introduced her [debut show](https://web.archive.org/web/20060210143846/http://www.geekentertainment.tv/2005/11/15/web-20-is-taking-over-the-nation/) by saying she was “reporting from inside the bubble.” She then asked Globen, what is Web 2.0?
 
@@ -77,7 +77,7 @@ I was already aware of Eran and Ryan’s mock blog, as I’d become one of the t
 
 It was funny and I immediately wrote [a blog post](https://web.archive.org/web/20060508060925/http://www.readwriteweb.com/archives/the_web_20_cons.php) in response, accepting and even encouraging the joke. But there was a serious side. Almost all the critics of Web 2.0 — including actual journalists like Nicholas Carr, Andrew Keen, and every writer at The Register — objected to the trend because they thought it was a market bubble. But I sided with John Battelle on this — I didn’t think Web 2.0 was a bubble, because real value was being built in this era of the web. The startups I was reporting on weren’t Pets.com 2.0.
 
-However, I did think the term itself (Web 2.0) was increasingly problematic. The same week I’d been outed by Supr.c.ilio.us, I reported in my [weekly wrap-up](https://web.archive.org/web/20060315001559/http://www.readwriteweb.com/archives/web_20_weekly_w_42.php) that staff from the open source browser Flock had banned the term from its office, and that del.icio.us creator Joshua Schachter was rebelling against being “the Web 2.0 poster child.”
+However, I did think the term itself (Web 2.0) was increasingly problematic. The same week I’d been outed by Supr&#46;c&#46;ilio&#46;us, I reported in my [weekly wrap-up](https://web.archive.org/web/20060315001559/http://www.readwriteweb.com/archives/web_20_weekly_w_42.php) that staff from the open source browser Flock had banned the term from its office, and that del&#46;icio&#46;us creator Joshua Schachter was rebelling against being “the Web 2.0 poster child.”
 
 By the end of 2005, even I was tired of all the arguments about the terminology. I wrote a regrettable [post](https://web.archive.org/web/20051220074741/http://www.readwriteweb.com/archives/web_20_is_dead.php) entitled “Web 2.0 is dead. R.I.P.” Talk about biting the hand that fed me! A few days later, I tried to [explain myself](https://web.archive.org/web/20060102114509/http://www.readwriteweb.com/archives/phonethrowing_k.php). “The term has become too overblown and nebulous — and is holding us all back.” However, I promised that I would “continue to write about the technologies and impact of this current era of the Web.”
 
