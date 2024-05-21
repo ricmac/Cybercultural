@@ -423,3 +423,15 @@ package = "netlify-plugin-cache"
   [[redirects]]
   from = "/p/026-crunchies-rww-canonical-design/"
   to = "/p/026-rww-redesign-2007-crunchies/"
+
+  [[redirects]]
+  from = "/p/023-microsoft-/"
+  to = "/p/023-microsoft-mix-2007/"
+
+  [[redirects]]
+  from = "/p/roadmap/"
+  to = "/p/roadmap-bubbleblog/"
+
+  [[redirects]]
+  from = "/p/roadmap-/"
+  to = "/p/roadmap-bubbleblog/"
