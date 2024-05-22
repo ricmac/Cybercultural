@@ -56,4 +56,4 @@ After the dinner I went back to my hotel to look again at the spreadsheets. I ma
 
 This post is part of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. View [table of contents](/p/roadmap-bubbleblog/).
 
-Next up: 033. Spreadsheet Blues; My Night at The Jazz Standard
+Next up: [033. Alien in New York: ReadWriteWeb & the American Dream](/p/033-rww-american-dream-2008/)

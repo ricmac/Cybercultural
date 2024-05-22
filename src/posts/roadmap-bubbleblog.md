@@ -103,7 +103,7 @@ PART 2: 2007-2009
 
 *    [031\. Due Diligence Begins in NYC; RWW Gets a Media Award](/p/031-zde-due-diligence-begins/)
 *    [032\. I’m Waiting For The EBITDA: Visiting the ZDE Office](/p/032-zde-discussions-ebitda/)
-*    033\. Spreadsheet Blues; My Night at The Jazz Standard
-*    034\. Checking In With Team RWW; Meat Sweats at Carnegie Deli
+*    [033\. Alien in New York: ReadWriteWeb & the American Dream](/p/033-rww-american-dream-2008/)
+*    034\. Back to Business
 
 To be continued…
