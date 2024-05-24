@@ -1,6 +1,6 @@
 ---
-title: 'Why Marc Andreessen is a Key Character in My Book'
-description: "I explain how Marc Andreessen was a much bigger part of my original outline, and show you an 'outtake' I wrote about his 2004 activities."
+title: 'Marc Andreessen in 2004: Adapting to a New Web Era'
+description: "How Netscape founder Marc Andreessen moved from enterprise software to the emerging social software market over 2004, with a new startup called Ning."
 date: 2023-11-10
 permalink: "p/marc-andreessen-2004/"
 tags: ['Memoir']
@@ -9,20 +9,7 @@ featureImage: "/assets/images/fd1d4179-2029-4f19-80ef-29a90033148b_973x1280.jpg"
 ![Marc Andreessen on the cover of TIME magazine in Feb 1996](/assets/images/fd1d4179-2029-4f19-80ef-29a90033148b_973x1280.jpg "Marc Andreessen on the cover of TIME magazine in Feb 1996")
 *Marc Andreessen, bare feet and all, on the cover of TIME magazine in Feb 1996.*
 
-When I was planning the book that turned into [Bubble Blog](/p/bubble-blog-web20-memoir), Marc Andreessen was to be one of the main characters. He and I are [the same age](/p/introduction-to-bubble-blog-book), so I thought it’d be a neat idea to track my career alongside his. How cool would it be to have the Ultimate Insider’s narrative threaded through my own Outsider narrative? I even had a book title lined up: “Eating the World” (in reference to Andreessen’s influential 2011 essay, [Why Software Is Eating the World](https://a16z.com/why-software-is-eating-the-world/)).
-
-I began writing the book with this plan in mind, but I soon discovered that actually _my own story_ was enough to propel the narrative — that the book should be a straight memoir plus internet history. I labeled the revised book plan a “Web 2.0 memoir”, a term I continue to use today to describe Bubble Blog. So I largely abandoned the Andreessen narrative, although I did fold bits of it more subtly into my own story (since I still think he’s the perfect insider foil to my outsider main character).
-
-Anyway, I thought a good bonus post for paid subscribers would be to show you part of what I originally wrote, when Andreessen was a bigger part of my outline.
-
-A bit of context… The following extract originally came after the section in which I described my interview with Marc Canter in 2004 (which you can read in [003\. The First Web 2.0 Conference](/p/the-first-web-20-conference-2004).) It basically describes what Andreessen was doing in 2004 and it includes a short history of his career up till that point. You may also notice that I re-used pieces for what became Bubble Blog, so apologies in advance for any repitition. Also, the extract below is very _draft 1_ material, so it’s not as polished as the final book!
-
-* * *
-
-Marc Andreessen in 2004
------------------------
-
-The other Marc, Andreessen, was doing just fine financially and had no shortage of attention, but he too was trying to adapt to the new era. He began 2004 as Chairman of [Opsware](https://web.archive.org/web/20040131024546/http://www.opsware.com/), the business software company he’d co-founded with Ben Horowitz (who he eventually went into the VC world with). In an interview he did with the San Francisco Chronicle at the end of 2003, he talked about the recession caused by the Dot Com bust — which at the time was still playing out. “History suggests that recessions are good times for the next big things to emerge,” he said, “although they're never viewed as such at the time.”
+At the beginning of 2004, Netscape founder Marc Andreessen was doing just fine financially and had no shortage of attention. But he was trying to adapt to a new Web era. At the time he was Chairman of [Opsware](https://web.archive.org/web/20040131024546/http://www.opsware.com/), the business software company he’d co-founded with Ben Horowitz (who he eventually went into the VC world with). In an interview he did with the San Francisco Chronicle at the end of 2003, he talked about the recession caused by the Dot Com bust — which at the time was still playing out. “History suggests that recessions are good times for the next big things to emerge,” he said, “although they're never viewed as such at the time.”
 
 ![Andreessen in November 2003](/assets/images/1906cfc0-9876-4912-88cb-52981beeefd0_960x630.jpg "Andreessen in November 2003")
 *Andreessen in November 2003; photo credit: [The Chronicle](https://www.sfgate.com/business/ontherecord/article/OPSWARE-INC-On-the-record-Marc-Andreessen-2525822.php)*
@@ -66,3 +53,5 @@ So what was the inspiration? Facebook had started the same year as Ning, but it 
 In a Wired interview in 2012, Andreessen said that at the time he started Ning, he was fascinated with Reed's Law. It’s a form of network effects, stating that a network becomes more valuable when people can easily form subgroups to collaborate. “For any group of size n, the number of subgroups that can be assembled is 2n,” said Andreessen. So the initial idea of Ning was to allow users to create “social apps” for groups. “Friendster hadn't worked, MySpace was just getting a little bit of traction, and Facebook was still at Harvard,” he explained. “What we knew worked were focused applications: Craigslist, eBay, Monster. So our idea was to bring social into these domains, in the form of apps that groups could run for themselves: their own job boards, their own selling marketplaces, and so on.” 
 
 It was only later on that this idea of social apps for groups was turned into the larger idea of “building your own social network.” But first, Andreessen and Bianchini had to build the platform.
+
+*Read more about Marc Andreessen in 2004 in my article about [the first Web 2.0 Conference](/p/the-first-web-20-conference-2004/).*
