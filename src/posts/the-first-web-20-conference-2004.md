@@ -1,5 +1,5 @@
 ---
-title: '003. The First Web 2.0 Conference'
+title: 'The First Web 2.0 Conference in 2004'
 description: "I tune into the 2004 Web 2.0 Conference and learn about network effects and data sharecroppers. Meanwhile, I conduct my first major interview as a tech blogger."
 date: 2023-11-08
 permalink: "p/the-first-web-20-conference-2004/"

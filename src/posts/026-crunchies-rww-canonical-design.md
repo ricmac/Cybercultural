@@ -1,5 +1,5 @@
 ---
-title: "026. ReadWriteWeb's Big Redesign & The Inaugural Crunchies"
+title: "ReadWriteWeb's Big Redesign & The Inaugural Crunchies"
 description: "At the end of 2007, ReadWriteWeb unveils our new design — featuring a slash of vibrant red in the header! Also, we co-host the first Crunchies and I meet Mashable’s founder."
 date: 2024-03-26
 permalink: "p/026-rww-redesign-2007-crunchies/"

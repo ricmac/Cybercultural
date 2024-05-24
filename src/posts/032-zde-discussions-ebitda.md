@@ -1,5 +1,5 @@
 ---
-title: "032. I’m Waiting For The EBITDA: Visiting the ZDE Office"
+title: "I’m Waiting For The EBITDA: Visiting the ZDE Office"
 description: "It's May 2008 and due diligence kicks off at Ziff Davis Enterprise headquarters on 28th St. Before that, I meet my RWW colleague Bernard Lunn for the first time."
 date: 2024-05-15
 permalink: "p/032-zde-discussions-ebitda/"

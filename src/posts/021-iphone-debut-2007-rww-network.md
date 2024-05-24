@@ -1,5 +1,5 @@
 ---
-title: "021. Read/WriteWeb Network Launches Amid iPhone Debut"
+title: "Read/WriteWeb Network Launches Amid iPhone Debut"
 description: "Soon after Steve Jobs announces the iPhone in January 2007, I hire my first paid writer 
 for Read/WriteWeb and launch a blog network."
 date: 2024-02-20

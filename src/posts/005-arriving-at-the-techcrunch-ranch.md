@@ -1,5 +1,5 @@
 ---
-title: '005. Arriving at the TechCrunch Ranch'
+title: 'Arriving at the TechCrunch Ranch As Web 2.0 Hype Begins'
 description: "My first trip to America in 2005, where I get to know the founder of a new blog called TechCrunch and the founder of a new aggregator called Techmeme."
 date: 2023-11-15
 permalink: "p/005-arriving-at-the-techcrunch-ranch/"

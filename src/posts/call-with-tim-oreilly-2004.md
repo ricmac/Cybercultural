@@ -1,5 +1,5 @@
 ---
-title: "004. A Call With Tim O'Reilly"
+title: "A Call With Tim O’Reilly After the First Web 2.0 Conference"
 description: "I interview the man who coined Web 2.0 and wonder if he thinks my questions suck; also, I begin experimenting with earning money from blogging."
 date: 2023-11-12
 permalink: "p/call-with-tim-oreilly-2004/"

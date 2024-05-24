@@ -1,5 +1,5 @@
 ---
-title: '010. Spicy Noodles'
+title: 'Spicy Noodles: Dave Winer and the Web 2.0 Workgroup'
 description: "The Web 2.0 Workgroup forms, and I meet one of my web heroes: Dave Winer. Also, Techmeme's Gabe Rivera and I talk about our nascent web businesses."
 date: 2023-12-04
 permalink: "p/010-spicy-noodles/"

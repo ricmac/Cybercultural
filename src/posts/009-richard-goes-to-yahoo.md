@@ -1,5 +1,5 @@
 ---
-title: '009. Richard Goes to Yahoo!'
+title: 'Richard Goes to Yahoo! Talking RSS and Blogging in 2005'
 description: "On a sunny, cloudless day in October 2005, I visit the gleaming yellow and purple Yahoo! campus to talk RSS and blogging with the company's resident bloggers."
 date: 2023-11-29
 permalink: "p/009-richard-goes-to-yahoo/"

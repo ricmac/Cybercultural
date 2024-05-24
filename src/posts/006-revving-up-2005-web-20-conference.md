@@ -1,5 +1,5 @@
 ---
-title: '006. Revving Up at the Web 2.0 Conference'
+title: 'Revving Up at the 2005 Web 2.0 Conference'
 description: "Day one of the 2005 Web 2.0 Conference, held at the Argent Hotel in San Francisco; including a meeting with the man himself, Tim O'Reilly."
 date: 2023-11-20
 permalink: "p/006-revving-up-2005-web-20-conference/"

@@ -1,5 +1,5 @@
 ---
-title: "029. Dinner at TWO, But With Which Acquirer?"
+title: "Dinner at TWO, But With Which Acquirer?"
 description: "I continue negotiations with two potential acquirers of ReadWriteWeb: CMP and Ziff Davis Enterprise. One invites me to dinner, but it turns out three's a crowd."
 date: 2024-04-16
 permalink: "p/029-dinner-at-two/"

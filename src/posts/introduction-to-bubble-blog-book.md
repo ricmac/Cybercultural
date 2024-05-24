@@ -1,6 +1,6 @@
 ---
-title: '001. Introduction to Bubble Blog'
-description: "The introductory chapter of my serialized Web 2.0 memoir, Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution."
+title: 'Introduction to Bubble Blog, a Memoir of Web 2.0 (2004-2011)'
+description: "The introductory chapter of my serialized memoir and internet history book, 'Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution.'"
 date: 2023-11-02
 permalink: "p/introduction-to-bubble-blog-book/"
 tags: ['Memoir']

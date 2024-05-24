@@ -1,5 +1,5 @@
 ---
-title: "019. Lou Reed and the Web 2.0 Summit"
+title: "Lou Reed and the 2006 Web 2.0 Summit"
 description: "At the Web 2.0 Summit in November 2006, I get advice about my growing blog business, miss a breakfast meeting with a VC, and get my ears blown out by Lou Reed."
 date: 2024-02-06
 permalink: "p/019-web20-summit-2006-lou-reed/"

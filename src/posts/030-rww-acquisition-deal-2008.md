@@ -1,5 +1,5 @@
 ---
-title: "030. A Deal Is Done; Trippy Web 2.0 Party at Temple"
+title: "A Deal Is Done; Trippy Web 2.0 Party at Temple"
 description: "In late April 2008, I sign a Letter of Intent to sell ReadWriteWeb. Also, I attend a Web 2.0 party in San Francisco where everyone seems high but me."
 date: 2024-04-23
 permalink: "p/030-rww-acquisition-deal-2008/"

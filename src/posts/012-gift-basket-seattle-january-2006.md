@@ -1,5 +1,5 @@
 ---
-title: '012. The Gift Basket; Seattle, January 2006'
+title: 'Microsoft Search Champs and the Gift Basket; January 2006'
 description: "I fly to Seattle for Microsoft Search Champs and to meet up again with my blog buddies. But there's a problem: no gift basket..."
 date: 2023-12-13
 permalink: "p/012-gift-basket-seattle-january-2006/"

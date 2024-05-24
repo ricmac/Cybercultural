@@ -1,5 +1,5 @@
 ---
-title: '008. The Colors of Web 2.0 Party'
+title: 'The Colors of Web 2.0 Party; October 2005'
 description: "I attend a hyped Web 2.0 party; later in the night, I desparately try to catch the last train back to Silicon Valley."
 date: 2023-11-27
 permalink: "p/008-the-colors-of-web-20-party/"

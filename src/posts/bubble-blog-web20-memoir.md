@@ -1,5 +1,5 @@
 ---
-title: 'Welcome to Bubble Blog, My Web 2.0 Memoir'
+title: "Announcing Bubble Blog, My Web 2.0 Memoir"
 description: "Announcing my latest book, a memoir and internet history to be serialized on Cybercultural."
 date: 2023-10-30
 permalink: "p/bubble-blog-web20-memoir/"
