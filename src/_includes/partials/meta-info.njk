@@ -3,8 +3,7 @@
 <meta name="description" content="{% if seo.description %}{{ seo.description | trim }}{% elif description %}{{ description | trim }}{% else %}{{ meta.siteDescription | trim }}{% endif %}" />
 
 <meta name="theme-color" content="{{ meta.themeColor }}" />
-<meta name="robots" content="index,follow" /><!-- All Search Engines -->
-<meta name="googlebot" content="index,follow" /><!-- Google Specific -->
+<meta name="robots" content="index, follow, max-image-preview:large" /><!-- All Search Engines -->
 <meta name="generator" content="{{ eleventy.generator }}" /><!-- thank you, Zach -->
 <!-- Disable automatic detection and formatting of possible phone numbers -->
 <meta name="format-detection" content="telephone=no" />
