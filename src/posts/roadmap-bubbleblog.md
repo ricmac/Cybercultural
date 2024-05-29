@@ -104,6 +104,11 @@ PART 2: 2007-2009
 *    [031\. Due Diligence Begins in NYC; RWW Gets a Media Award](/p/031-zde-due-diligence-begins/)
 *    [032\. I’m Waiting For The EBITDA: Visiting the ZDE Office](/p/032-zde-discussions-ebitda/)
 *    [033\. Alien in New York: ReadWriteWeb & the American Dream](/p/033-rww-american-dream-2008/)
-*    034\. Back to Business
+
+### 11\. Back to Business
+
+*    [034\. Unacquired: ReadWriteWeb Pulls Out of the ZDE Deal](/p/034-rww-withdraws-from-zde-deal/)
+*    035\. Indie Media Business 2.0
+*    036\. Web 2.0 Summit 2008
 
 To be continued…

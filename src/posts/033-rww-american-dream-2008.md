@@ -94,4 +94,4 @@ Suddenly I felt exhausted, so I made my way back to the elevators. I just wanted
 
 This post is part of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. View [table of contents](/p/roadmap-bubbleblog/).
 
-Next up: 034. Back to Business
+Next up: [034. Unacquired: ReadWriteWeb Pulls Out of the ZDE Deal](/p/034-rww-withdraws-from-zde-deal/)
