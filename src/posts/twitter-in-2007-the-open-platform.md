@@ -7,7 +7,7 @@ tags: ['Article']
 featureImage: "/assets/images/c364af08-a78d-4d11-a532-a9c316233380_3200x1894.jpg"
 ---
 
-![](/assets/images/c364af08-a78d-4d11-a532-a9c316233380_3200x1894.jpg)
+![Twitter in 2007](/assets/images/c364af08-a78d-4d11-a532-a9c316233380_3200x1894.jpg)
 
 The first wave of people to join Twitter was in March 2007, when it became the trendy app at the annual SXSW conference in Austin, Texas. I hadn’t gone to SXSW that year, but I arrived in San Francisco the month after for Web 2.0 Expo. I don’t recall who told me about Twitter (it may’ve been mentioned in a ReadWriteWeb Skype room), but I signed up on Saturday, April 14th, the day before the conference started.
 
@@ -18,15 +18,15 @@ The first wave of people to join Twitter was in March 2007, when it became the t
 
 My first two tweets tell you all you need to know about Twitter in those days: you were either complaining about something, or telling the world what you were eating. Twitter was so new back then, neither the technologists nor the Web 2.0 early adopters had any idea how to use it — or what its purpose was.
 
-![](/assets/images/0b892802-1050-4c7e-8ee5-e982553e1580_1910x1544.png)
-“What are you doing?” Twitter at the time I joined, [April 2007](https://web.archive.org/web/20070416205745/http://twitter.com:80/).
+![What are you doing?](/assets/images/0b892802-1050-4c7e-8ee5-e982553e1580_1910x1544.png)
+*“What are you doing?” Twitter at the time I joined, [April 2007](https://web.archive.org/web/20070416205745/http://twitter.com:80/).*
 
 More than any other internet product before or since, with the possible exception of TikTok about a decade later, Twitter was massively genre-busting in 2007. In a post about a month and a half after I joined, I [described it](https://web.archive.org/web/20070606210555/http://www.readwriteweb.com/archives/amazon_comes_to_twitter.php) as an “IM/blogging hybrid.” In another RWW post around that time, Alex Iskold [called Twitter](https://web.archive.org/web/20070601173750/http://www.readwriteweb.com/archives/evolution_of_communication.php) “a new form of communication that is both a natural step from blogging and a weird experiment normally found in neuroscience labs.”
 
 At the time I signed up, Twitter wasn’t even its own company — it was a project of Obvious Corp, a kind of [holding company](https://web.archive.org/web/20070703203049/http://evhead.com/2006/10/birth-of-obvious-corp_25.asp) run by Ev Williams. However, the Monday after I joined, Williams [announced Twitter, Inc](https://web.archive.org/web/20070702151612/http://blog.obvious.com/2007/04/twitter-inc.html) and appointed Jack Dorsey as Twitter’s first CEO. Williams called Dorsey “the genius behind the Twitter idea.” As proof, he linked to [a Flickr photo](https://flickr.com/photos/jackdorsey/182613360) Dorsey had uploaded in July 2006, which showed a rough sketch of a product tentatively named “Stat.us.” Dorsey himself described the idea as “a more ‘live’ LiveJournal,” so I wasn’t far off calling it an IM/blog hybrid.
 
-![](/assets/images/250961ed-7936-4e9f-99d1-fa2388301223_1536x2048.jpg)
-Jack Dorsey’s notebook sketch of his stat.us idea in 2006.
+![Jack Dorsey’s notebook sketch of Twitter in 2006](/assets/images/250961ed-7936-4e9f-99d1-fa2388301223_1536x2048.jpg)
+*Jack Dorsey’s notebook sketch of his stat.us idea in 2006.*
 
 An “Open” Platform
 ------------------
@@ -43,8 +43,8 @@ Neither Stone nor any of Twitter’s other founders ever claimed (to my knowledg
 
 While “open” was stretching it, it is fair to say that the Twitter API was emergent at that time, since plenty of developers were using it. The API had first been mentioned on the Twitter blog as far back as [October 2006](https://web.archive.org/web/20070211083814/http://twitter.com/blog/2006/10/twitter-updates.html), at which point there were already several third-party apps. By July 2007, there were enough apps for RWW to compile [a top 10 list](https://web.archive.org/web/20070810012330/http://www.readwriteweb.com/archives/top_10_twitter_apps.php). Among the apps we highlighted: Squawk, Twitticious, Twapper, Twit Bin, TwittyTunes, Twitterment, and Flotzam. None of them went on to achieve future glory. But the main point is: developers at the time felt that Twitter **was an open enough platform that they could justify building apps on it.**
 
-![](/assets/images/a52e0ae2-fd9c-4bcb-ada2-f330552ec7da_1536x2048.jpg)
-Twapper, a mashup of Twitter and the online calendar, 30Boxes; [via Narendra](https://www.flickr.com/photos/narendra/417794800).
+![Twapper, a mashup of Twitter and the online calendar, 30Boxes](/assets/images/a52e0ae2-fd9c-4bcb-ada2-f330552ec7da_1536x2048.jpg)
+*Twapper, a mashup of Twitter and the online calendar, 30Boxes; [via Narendra](https://www.flickr.com/photos/narendra/417794800).*
 
 Will the Real Open Platforms Please Stand Up
 --------------------------------------------
@@ -57,8 +57,8 @@ Bluesky was soon turned into an independent company — but one that was depende
 
 Regardless, Bluesky continued its work and this year completed its open protocol (which it named the AT Protocol) and launched a private beta of a product built on top of it. The product is a direct clone of Twitter and I was fortunate to get an invitation to test it out.
 
-![](/assets/images/feaa805c-320d-4f31-a1c5-c7b4708abb53_1692x1396.jpg)
-Bluesky’s “What’s hot” tab is where trending skeets and cat pics go to thrive.
+![Bluesky](/assets/images/feaa805c-320d-4f31-a1c5-c7b4708abb53_1692x1396.jpg)
+*Bluesky’s “What’s hot” tab is where trending skeets and cat pics go to thrive.*
 
 The nascent Bluesky community, which numbers around 70,000-80,000 users in its current invite-only status, is trying hard to coalesce around the idea that Twitter was best when it was fun and a bit anarchic. There’s a sense that the majority of these early Bluesky users want to go back to a version of Twitter as it was in the 2008-11 range — just after Twitter users had figured out what the product was (remember, in 2007 nobody had any clue), and just before the First API Betrayal in 2012.
 
@@ -68,8 +68,8 @@ Frankly, I don’t really care what the cool crowd is skeeting about. I’m most
 
 I haven’t even mentioned Mastodon yet. After Musk took over Twitter late last year, Mastodon emerged as the most-likely decentralized Twitter clone to take over the public conversation. That didn’t happen for a variety of reasons (a poor UX being the primary one), but the protocol Mastodon is built on — ActivityPub — still holds promise for the type of customizable Twitter clone I'm dreaming of.
 
-![](/assets/images/fe53b3ca-4b2b-4981-acb0-7624ceb2e544_828x1792.jpg)
-Screenshot of Ivory, a nice Mastodon app that improves the default UX.
+![Ivory, a Mastodon app](/assets/images/fe53b3ca-4b2b-4981-acb0-7624ceb2e544_828x1792.jpg)
+*Screenshot of Ivory, a nice Mastodon app that improves the default UX.*
 
 Open Sesame!
 ------------
@@ -80,5 +80,5 @@ That said, you will still need broad community buy-in for what you build — jus
 
 For now, I’ll leave you with some of my Twitter bangers from 2007…the good old days when my feed was full of All Blacks and Radiohead references. If you were around too in the early days of Twitter, leave a comment or email me your memories.
 
-![](/assets/images/dc8a0c42-b5a4-4f94-89b8-c520f9593621_1782x1810.png)
-My Twitter feed, October 2007
+![My Twitter feed, October 2007](/assets/images/dc8a0c42-b5a4-4f94-89b8-c520f9593621_1782x1810.png)
+*My Twitter feed, October 2007.*

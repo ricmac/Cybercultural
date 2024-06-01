@@ -8,7 +8,7 @@ blog:
   intro: ""
 ---
 
-A newsletter about internet history and its impact on our culture, by [Richard MacManus](/about/). Currently serializing [my latest book](/memoir/).
+A website and newsletter about internet history and its impact on our culture, by [Richard MacManus](/about/). Currently serializing [my latest book](/memoir/).
 
 <form
   action="https://buttondown.email/api/emails/embed-subscribe/ricmac"
