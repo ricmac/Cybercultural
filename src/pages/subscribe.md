@@ -5,7 +5,7 @@ description: Subscribe to Cybercultural
 layout: page
 ---
 
-<p>Cybercultural is a free newsletter and you can subscribe here:</p> 
+<p>You can subscribe for free here:</p> 
 
 <form
   action="https://buttondown.email/api/emails/embed-subscribe/ricmac"
