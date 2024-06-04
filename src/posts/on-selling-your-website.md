@@ -11,7 +11,7 @@ featureImage: "/assets/images/Whataitai.jpeg"
 
 Instead of the latest installment of my serialized Web 2.0 memoir, this week I want to talk about the experience of selling a tech blogging business — and the after-life this can have, which sometimes (maybe most of the time?) can be more hell than heaven.
 
-Of course, I am referencing [the blog post I put up yesterday](https://ricmac.org/2024/04/29/why-clickout-media-a-gambling-pr-company-bought-readwrite/) about ReadWrite having been sold yet again — this time to a super-dubious gambling marketing company called ClickOut Media. This discovery comes at an awkward time in the chronology of my [memoir project](/memoir/), because I’m midway through telling the story of how I _nearly_ sold ReadWriteWeb in early 2008 to Ziff Davis Enterprise. The next installment, part 31, tells of my travel to New York in May 2008 to undergo due diligence with ZDE and its owner, the private equity firm Insight Partners.
+I found out this week that ReadWrite, the current version of the blog I founded, has been sold yet again. This discovery comes at an awkward time in the chronology of my [memoir project](/memoir/), because I’m midway through telling the story of how I _nearly_ sold ReadWriteWeb in early 2008 to Ziff Davis Enterprise. The next installment, part 31, tells of my travel to New York in May 2008 to undergo due diligence with ZDE and its owner, the private equity firm Insight Partners.
 
 Spoiler alert: I pulled out of that deal in mid-July for reasons I will get into in the next few installments. After that, I continued to run ReadWriteWeb as an indie company for a few more years. Successfully, too; so in hindsight I was very relieved I turned down the ZDE deal.
 
@@ -19,9 +19,9 @@ That said, post-July 2008 I also continued to struggle with scaling RWW, due to 
 
 Again, I will explain all of this in the remainder of my memoir. But in short, I felt that selling my company at the end of 2011, to SAY Media, was the right decision at that time. I was confident — or maybe just hopeful? — that SAY Media would follow through on their promises and help me scale RWW.
 
-Well, there’s a saying: “history will be the judge of that.” And the past 11-12 years of RWW’s history has not been good. You can read [my post about ClickOut](https://ricmac.org/2024/04/29/why-clickout-media-a-gambling-pr-company-bought-readwrite/) for a summary of what I think of the various owners RWW has had during that time. But maybe you’re more interested in my answer to this question: **do I regret selling RWW?**
+Well, there’s a saying: “history will be the judge of that.” And the past 11-12 years of ReadWrite’s history has not been good. But maybe you’re more interested in my answer to this question: **do I regret selling RWW?**
 
-The honest answer is that as every year passes, the more I regret letting go of the tech blog I started in 2003 and grew into a thriving small business. The thing I most regret is not giving more consideration to turning RWW into a lifestyle business. I wish I hadn’t been drawn into the Silicon Valley mindset of ‘scale at all costs’. I address this in chapter 15 of my book; but we’re currently only in chapter 10, and I think I need to reveal my thoughts on it now, given this current ClickOut drama.
+The honest answer is that as every year passes, the more I regret letting go of the tech blog I started in 2003 and grew into a thriving small business. The thing I most regret is not giving more consideration to turning RWW into a lifestyle business. I wish I hadn’t been drawn into the Silicon Valley mindset of ‘scale at all costs’. I address this in chapter 15 of my book; but we’re currently only in chapter 10, and I think I need to reveal my thoughts on it now.
 
 Here’s what I wrote in chapter 15, which is set in April 2010. At this point, RWW was still growing strongly.
 
