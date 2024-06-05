@@ -108,7 +108,7 @@ PART 2: 2007-2009
 ### 11\. Back to Business
 
 *    [034\. Unacquired: ReadWriteWeb Pulls Out of the ZDE Deal](/p/034-rww-withdraws-from-zde-deal/)
-*    035\. Indie Media Business 2.0
+*    [035\. Indie Media Business 2.0: RWW Adds Structure and Writers](/p/035-indie-media-business-20/)
 *    036\. Web 2.0 Summit 2008
 
 To be continued…

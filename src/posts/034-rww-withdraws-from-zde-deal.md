@@ -75,4 +75,4 @@ But my heart wasn’t in the negotiations anymore, and I knew it wasn’t going 
 
 This post is part of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. View [table of contents](/p/roadmap-bubbleblog/).
 
-Next up: 035. Indie Media Business 2.0
+Next up: [035. Indie Media Business 2.0: RWW Adds Structure and Writers](/p/035-indie-media-business-20/)
