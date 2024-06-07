@@ -84,5 +84,3 @@ Finally, I shouted out Feedburner, the RSS feed management startup which “burs
 * * *
 
 Read next: [What the Internet Was Like in 2005](/p/what-the-web-was-like-in-2005/)
-
-If you're interested in learning more about the Web 2.0 era, check out [my memoir](/p/roadmap-bubbleblog/), **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**.

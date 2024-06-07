@@ -77,3 +77,5 @@ Final Thoughts
 I must emphasize here that I LOVE the Wayback Machine and am very thankful it exists. Without it, I would’ve lost all but a few rare screenshots of ReadWriteWeb from that era, the early-to-mid 2000s. (Incidentally, if you’re reading this and by some miracle you have screenshots of RWW from its early days, please let me know!)
 
 One more thing: it’s occurred to me that I might still be able to re-construct RWW from 24 September 2005, since I think I have the version of styles-site.css from that time, somewhere in my hard drive backups. So perhaps I can **bring it back to life** on my own web server. But that’s a project for another day, since I am currently busy preparing to serialize my Web 2.0 memoir.
+
+* * *

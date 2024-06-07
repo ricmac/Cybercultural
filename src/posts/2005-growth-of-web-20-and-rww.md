@@ -78,3 +78,5 @@ Lastly, I have to mention a very influential essay that was published in Februar
 After noting that Google was using the Ajax approach in all of its recent web products — including Gmail and Maps — Garrett wrote that “many of the features that people love in Flickr depend on Ajax, and Amazon’s A9.com search engine applies similar techniques.” Along with RSS, APIs and Ruby on Rails, Ajax was among the most talked about technologies in the early part of Web 2.0.
 
 So there you have it: the first 3/4 of 2005 were busy for both Read/WriteWeb and the trend I was focused on during that time: Web 2.0. Stay tuned for part 6 of my book on Monday, which resumes at the October 2005 Web 2.0 Conference in San Francisco.
+
+* * *

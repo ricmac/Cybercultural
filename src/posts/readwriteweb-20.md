@@ -110,4 +110,4 @@ In the final analysis, I think RWW was defined by its era — Web 2.0 — and th
 ![](/assets/images/6917e23b-a5ce-4d4e-881d-4c3b08d48a23_1638x1170.jpg)
 *RWW, April 2005*
 
-Thanks for reading Cybercultural! Subscribe for free to receive new posts and support my work.
+* * *

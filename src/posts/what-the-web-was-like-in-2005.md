@@ -52,3 +52,7 @@ It was a time of _web creativity_, before the one-size-fits-all of social media 
 Ah, the web in 2005… I do miss it, although I’m pleased to see [the fediverse](https://mastodon.social/@ricmac) is showing great promise as we head into 2024. Open networks are always better and more fun.
 
 *Lead image: "Browse. Search. Subscribe." That’s what it was all about in 2005. [Photo by Kris Krug](https://www.flickr.com/photos/kk/21367593/), at Gnomedex 5, June 2005.*
+
+* * *
+
+Read next: [What the Internet Was Like in 2004](/p/internet-2004/)

@@ -63,3 +63,5 @@ Hashtags were first proposed on Twitter on August 23, 2007, by Chris Messina, a 
 As Messina tells it, Twitter initially rejected hashtags (later [confirmed by Biz Stone](https://blog.x.com/official/en_us/topics/product/2017/the-hashtag-at-ten-years-young.html?ref=onemanandhisblog.com)), but over the next year or two the feature slowly gained traction thanks to Messina and his online friends. Twitter formally adopted hashtags as a clickable feature a couple of years later.
 
 *Lead image: Twitter being used in March 2007 at SXSW; [photo](https://www.flickr.com/photos/laughingsquid/420074166/) by [Scott Beale / Laughing Squid](http://laughingsquid.com/)*
+
+* * *

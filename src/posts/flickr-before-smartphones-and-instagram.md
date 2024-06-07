@@ -66,3 +66,5 @@ Got any memories of Flickr — or Web 2.0 photo-sharing in general — that you�
 [1](#footnote-anchor-1)
 
 Eagle-eyed reader Mark Gardner pointed out that the computers “are PowerBooks G4, not MacBooks. Apple did not begin shipping the first MacBooks Pro until the following month, and the original MacBooks released later that year were clad in plastic, not aluminum, to match the PowerPC-based iBooks they were replacing.”
+
+* * *
