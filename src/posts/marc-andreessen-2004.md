@@ -3,10 +3,10 @@ title: 'Marc Andreessen in 2004: Adapting to a New Web Era'
 description: "How Netscape founder Marc Andreessen moved from enterprise software to the emerging social software market over 2004, with a new startup called Ning."
 date: 2023-11-10
 permalink: "p/marc-andreessen-2004/"
-tags: ['Memoir']
-featureImage: "/assets/images/fd1d4179-2029-4f19-80ef-29a90033148b_973x1280.jpg"
+tags: ['Article']
+featureImage: "/assets/images/marc-andreessen-time-cover-1996.jpg"
 ---
-![Marc Andreessen on the cover of TIME magazine in Feb 1996](/assets/images/fd1d4179-2029-4f19-80ef-29a90033148b_973x1280.jpg "Marc Andreessen on the cover of TIME magazine in Feb 1996")
+![Marc Andreessen on the cover of TIME magazine in Feb 1996](/assets/images/marc-andreessen-time-cover-1996.jpg)
 *Marc Andreessen, bare feet and all, on the cover of TIME magazine in Feb 1996.*
 
 At the beginning of 2004, Netscape founder Marc Andreessen was doing just fine financially and had no shortage of attention. But he was trying to adapt to a new Web era. At the time he was Chairman of [Opsware](https://web.archive.org/web/20040131024546/http://www.opsware.com/), the business software company he’d co-founded with Ben Horowitz (who he eventually went into the VC world with). In an interview he did with the San Francisco Chronicle at the end of 2003, he talked about the recession caused by the Dot Com bust — which at the time was still playing out. “History suggests that recessions are good times for the next big things to emerge,” he said, “although they're never viewed as such at the time.”
