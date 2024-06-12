@@ -104,4 +104,4 @@ That validation also made my decision to withdraw from the ZDE deal much more pa
 
 This post is part of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. View [table of contents](/p/roadmap-bubbleblog/).
 
-Next up: 036. Web 2.0 Summit 2008
+Next up: [036. Web 2.0 Summit 2008 and Tech Media's Pivot to Business News](/p/036-web20-summit-2008/)
