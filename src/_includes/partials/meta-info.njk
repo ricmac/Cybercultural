@@ -29,8 +29,8 @@
 <meta property="og:url" content="{{ meta.url }}{{ page.url }}" />
 <meta property="og:type" content="website" />
 <meta property="og:title" content="{% if title %}{{ title }}{% else %}{{ meta.siteName }}{% endif %}" />
-<meta property="og:image" content="{{ meta.url }}{{ featureImage }}" />
-<meta property="og:image:alt" content="{{ title }} image" />
+<meta property="og:image" content="{% if featureImage %}{{ meta.url }}{{ featureImage }}{% else %}{{ meta.url }}{{ meta.defaultimage }}{% endif %}" />
+<meta property="og:image:alt" content="{% if title %}{{ title }}{% else %}{{ meta.siteName }}{% endif %} image" />
 <meta property="og:description" content="{%- if description %}{{ description | trim }}{%- else %}{{ meta.siteDescription | trim }}{%- endif %}" />
 <meta property="og:site_name" content="{{ meta.siteName }}" />
 <meta property="og:locale" content="{{ meta.locale }}" />

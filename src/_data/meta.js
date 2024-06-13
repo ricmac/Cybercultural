@@ -3,7 +3,8 @@ module.exports = {
   siteName: 'Cybercultural',
   siteDescription:
     'Internet history and its impact on our culture.',
-  siteType: 'Person', // schema
+   defaultimage: '/assets/images/33d48ded-f999-4173-8440-9d752446428b_3400x2134.jpg',
+    siteType: 'Person', // schema
   locale: 'en_EN',
   lang: 'en',
   skipContent: 'Skip to content',
