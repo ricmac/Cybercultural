@@ -112,5 +112,6 @@ PART 2: 2007-2009
 *    [036\. Web 2.0 Summit 2008 and Tech Media's Pivot to Business News](/p/036-web20-summit-2008/)
 
 ### 12\. Separation
+*    [037\. My 2009 Googleplex Visit and RWW Launches Channels](/p/037-googleplex-2009-rww-channels/)
 
 To be continued…
