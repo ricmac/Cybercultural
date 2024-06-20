@@ -3,9 +3,6 @@ permalink: /index.html
 title: 'Cybercultural'
 description: 'Internet history and its impact on our culture.'
 layout: 'home'
-blog:
-  title: ""
-  intro: ""
 ---
 
 A website and newsletter about internet history and its impact on our culture, by [Richard MacManus](/about/). Currently serializing [my latest book](/memoir/).
