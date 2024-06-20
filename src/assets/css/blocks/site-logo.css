@@ -13,10 +13,14 @@
   text-decoration: none;
 }
 
-.site-head__brand.no-underline:hover,
 .site-head__brand.no-underline[aria-current="page"] {
   color: white !important;
   text-decoration: none !important;
+}
+
+.site-head__brand.no-underline:hover {
+  color: white !important;
+  text-decoration: underline !important;
 }
 
 /* Add this to remove the focus outline */
