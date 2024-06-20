@@ -18,3 +18,8 @@
   color: white !important;
   text-decoration: none !important;
 }
+
+/* Add this to remove the focus outline */
+.site-head__brand.no-underline:focus {
+  outline: none;
+}
