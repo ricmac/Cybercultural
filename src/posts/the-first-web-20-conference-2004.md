@@ -12,8 +12,6 @@ In-between trying to get linked to by an A-Lister in the blogosphere, I inadvert
 
 During our phone call, I was won over by Canter’s loquacious charm and you can tell from [my writeup](https://web.archive.org/web/20040624214129/http://www.readwriteweb.com/archives/001818.php) that I was under his spell. I badly wanted to believe his tales of multimedia rock n’ roll parties in the 1980s — the blaring music, huge video projectors, beer in the bathtub, smoke-filled hotel suites, and rented Cadillacs. His constant name-dropping and preposterous comparisons (he likened early MacroMind to the 1962 Beatles in Hamburg) only served to fire up my imagination even more about Silicon Valley.
 
-
-
 I was also attracted to his talk about bootstrapping a cool startup and what it took to get such a company off the ground. “Every time I'd go do a demo or a speech somewhere,” he told me about the first years of MacroMind, “I’d bring a couple of cases of software and I'd sell it at the back of the room.”
 
 I was a nobody living in a small country on the opposite side of the world, who was just interested in learning what was next in internet technology. Yet here I was talking to a Silicon Valley pioneer who had created and sold software products in the 1980s. I was a little starstruck, but also my fragile ego had just gotten a boost by this man’s interest in me and my blog.
@@ -88,7 +86,7 @@ Even in 2004, many years before cancel culture, the plantation owner analogy was
 ![One of the very few diverse panels at the 2004 Web 2.0 Conference, the “teen panel”](/assets/images/d590aa3f-88dd-4649-8b70-80afe67f7722_2879x1160.jpg "One of the very few diverse panels at the 2004 Web 2.0 Conference, the “teen panel”")
 *One of the very few diverse panels at the 2004 Web 2.0 Conference, the “teen panel”; [photo by ptufts](https://www.flickr.com/photos/zippy/50537455/in/dateposted/)*
 
-Dodgy analogies aside, it was clear Andreessen aspired to become a data sharecropper for this new era. “It makes total sense from a business standpoint,” he said, before conceding that “it is a form of proprietary lock-in that is at least as strong as the form of lock-in that people used to have at the software layer.”
+Dodgy analogies aside, it was clear Andreessen aspired to become a data plantation owner for this new era. “It makes total sense from a business standpoint,” he said, before conceding that “it is a form of proprietary lock-in that is at least as strong as the form of lock-in that people used to have at the software layer.”
 
 He also sounded a warning that many people forgot about in the years to come, but would prove fatefully accurate. He pointed out that even a small startup that had an open policy on data now — as an example, he mentioned the trendy bookmarking service del&#46;icio&#46;us — could easily change its terms and conditions later, or implement technical restrictions that make it difficult to move your data. So even a company founded on the idea of open data could lock it down at any time (and indeed, this is basically what happened with Twitter in the early 2010s).
 

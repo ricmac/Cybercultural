@@ -75,4 +75,4 @@ However, the bet that both Apple and Google made—that smartphone operating sys
 
 This post is part of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. View [table of contents](/p/roadmap-bubbleblog/).
 
-Next up: 038. More from ReadWriteWeb and my life in 2009
+Next up: [038. RWW Makes Twitter Suggested User List and Grows Team](/p/038-twitter-sul-2009-rww/)

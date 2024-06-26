@@ -52,7 +52,7 @@ I also did not want to drop the ball with RWW, which had real momentum now; I wa
 
 All that said, I was well aware that my work and life were completely unbalanced, with most of my time and energy going into work. I had a lot to figure out.
 
-For all the problems in my personal life, things were looking ever more promising in the internet industry. In its December 25, 2006, issue, the venerable publication *Time* named the web-powered “You” as its [Person of the Year](https://web.archive.org/web/20061218205259/http://www.time.com/time/magazine/article/0%2C9171%2C1569514%2C00.html?aid=434&from=o&to=http://www.time.com/time/magazine/article/0,9171,1569514,00.html). the accompanying article, written by Lev Grossman, used the term *Web 2.0* a few times (attributed to “Silicon Valley consultants”), and there was talk of an internet “revolution.” 
+For all the problems in my personal life, things were looking ever more promising in the internet industry. In its December 25, 2006, issue, the venerable publication *Time* named the web-powered “You” as its [Person of the Year](https://web.archive.org/web/20061218205259/http://www.time.com/time/magazine/article/0%2C9171%2C1569514%2C00.html?aid=434&from=o&to=http://www.time.com/time/magazine/article/0,9171,1569514,00.html). The accompanying article, written by Lev Grossman, used the term *Web 2.0* a few times (attributed to “Silicon Valley consultants”), and there was talk of an internet “revolution.” 
 
 ![Time Magazine's year-end issue](/assets/images/timemag_dec06.jpg)
 *My copy of Time Magazine's year-end issue, 2006.*
