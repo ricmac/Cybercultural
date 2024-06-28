@@ -55,4 +55,6 @@ Ah, the web in 2005… I do miss it, although I’m pleased to see [the fedivers
 
 * * *
 
-Read next: [What the Internet Was Like in 2004](/p/internet-2004/)
+Read next: 
+- [What the Internet Was Like in 2004](/p/internet-2004/)
+- [What the Internet Was Like in 2006](/p/internet-2006/)
