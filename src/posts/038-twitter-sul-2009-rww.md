@@ -87,4 +87,4 @@ When it came to the business of running a professional blog, I tended to be the 
 
 This post is part of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. View [table of contents](/p/roadmap-bubbleblog/).
 
-Next up: 039. Meeting My Hero, Tim Berners-Lee
+Next up: [039. Meeting My Hero, Tim Berners-Lee, at W3C Headquarters](/p/039-tim-berners-lee-2009/)
