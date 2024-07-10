@@ -78,4 +78,4 @@ That gave me the boost of adrenaline I sorely needed as I embarked on the long p
 
 This post is part of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. View [table of contents](/p/roadmap-bubbleblog/).
 
-Next up: 040. Firefox and FriendFeed
+Next up: [040. Why 2009 Was When Big Tech Began To Control Web 2.0](/p/040-web20-big-tech-control-2009/)
