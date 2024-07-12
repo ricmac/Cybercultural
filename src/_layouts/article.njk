@@ -18,13 +18,16 @@ layout: base
   <input type="submit" value="Subscribe" />
 </form>
 </div>
-  <ul class="grid mt-l-xl" role="list" data-rows="masonry" data-layout="50-50">
-    {% for post in collections.posts %}
-      {% if 'Article' in post.data.tags %}
+
+<ul class="grid mt-l-xl" role="list" data-rows="masonry" data-layout="50-50">
+  {% set count = 0 %}
+  {% for post in collections.posts %}
+    {% if post.data.tags and ('Article' in post.data.tags) %}
+      {% if count < 8 %}
         <li class="card flow overflow-hidden">
-      {% if post.data.featureImage %}
-      <img class="post-feature-image" src="{{ post.data.featureImage | url }}" alt="{{ post.data.title }}">
-      {% endif %}
+          {% if post.data.featureImage %}
+            <img class="post-feature-image" src="{{ post.data.featureImage | url }}" alt="{{ post.data.title }}">
+          {% endif %}
           <h2>
             <a href="{{ post.url | url }}">{{ post.data.title }}</a>
           </h2>
@@ -32,7 +35,25 @@ layout: base
           <p>{{ post.data.description }}</p>
         </li>
       {% endif %}
+      {% set count = count + 1 %}
+    {% endif %}
+  {% endfor %}
+</ul>
+
+{% if count > 8 %}
+  <h3>More Articles</h3>
+  <ul>
+    {% set additionalCount = 0 %}
+    {% for post in collections.posts %}
+      {% if post.data.tags and ('Article' in post.data.tags) %}
+        {% set additionalCount = additionalCount + 1 %}
+        {% if additionalCount > 8 %}
+          <li><a href="{{ post.url | url }}">{{ post.data.title }}</a></li>
+        {% endif %}
+      {% endif %}
     {% endfor %}
   </ul>
+{% endif %}
+
 </article>
 
