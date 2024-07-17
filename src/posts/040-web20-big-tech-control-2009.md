@@ -84,4 +84,4 @@ I don’t think that commenter meant it was the end of Web 2.0 entirely, but—t
 
 This post is part of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. View [table of contents](/p/roadmap-bubbleblog/).
 
-Next up: 041. Unconference Planning
+Next up: [041. Planning the First ReadWriteWeb Unconference](/p/041-readwriteweb-event-planning-2009/)
