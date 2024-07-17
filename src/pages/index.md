@@ -5,7 +5,7 @@ description: 'Internet history and its impact on our culture.'
 layout: 'home'
 ---
 
-A website and newsletter about internet history and its impact on our culture, by [Richard MacManus](/about/). Currently serializing [my latest book](/memoir/).
+A newsletter about internet history and its impact on our culture, by [Richard MacManus](/about/). Currently serializing [my latest book](/memoir/).
 
 <form
   action="https://buttondown.email/api/emails/embed-subscribe/ricmac"
