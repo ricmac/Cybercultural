@@ -1,6 +1,6 @@
 ---
 title: "What the Internet Was Like in 2007"
-description: "The iPhone and Android both launched in 2007. But it's still a desktop web, with social networking sites like Facebook, Twitter and Tumblr keeping people glued to their computer screens."
+description: "The iPhone and Android both launched in 2007. But it was still a desktop web, with social networking sites like Facebook, Twitter and Tumblr keeping people glued to their computer screens."
 date: 2024-07-19
 permalink: "p/internet-2007/"
 tags: ['Article']
