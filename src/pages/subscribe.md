@@ -5,7 +5,7 @@ description: Subscribe to Cybercultural
 layout: page
 ---
 
-<p>Cybercultural is an internet history newsletter by Richard MacManus. You can subscribe for free here:</p> 
+<p><a href="/">Cybercultural</a> is an internet history newsletter by Richard MacManus. You can subscribe for free here:</p> 
 
 <form
   action="https://buttondown.email/api/emails/embed-subscribe/ricmac"
