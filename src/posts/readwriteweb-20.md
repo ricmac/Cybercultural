@@ -88,7 +88,7 @@ I often wonder if I sold too early. A San Francisco company called SAY Media acq
 
 In hindsight, I don’t regret selling, as there were valid reasons to sell at that time. Some were personal, but also there were many complications to running an international business from New Zealand. I wanted RWW to scale, in order to continue competing with the likes of TechCrunch and Mashable, and I thought selling to a bigger, better funded US media company would enable RWW to do that.
 
-Of course, the problem with selling your company is that you lose control. SAY Media replaced me in October 2012 with the guy who wrote the “Fake Steve Jobs” blog. I thought it was an odd choice, but hey, they paid me to go away and also it wasn’t my decision anymore. (Fake Steve Jobs lasted less than five months and later wrote a satirical book about his next victim employer.)
+Of course, the problem with selling your company is that you lose control. SAY Media replaced me in October 2012 with the guy who wrote the “Fake Steve Jobs” blog. I thought it was an odd choice, but hey, they paid me to go away and also it wasn’t my decision anymore. (Fake Steve Jobs lasted less than five months and later wrote a satirical book about his next ~~victim~~ employer.)
 
 The next editor was Owen Thomas, who I liked and thought did a good job of trying to bring RWW back to its true values. He kept in touch with me and sought my feedback about the direction of the site, which I appreciated. But despite Owen’s hard work, SAY Media couldn’t re-gain RWW’s glory years (this effort wasn’t helped by the switch in domain name, which apparently caused crucial problems with SEO ranking).
 
