@@ -73,4 +73,4 @@ It wasn’t a great idea to start a relationship with an employee, but neverthel
 
 This post is part of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. View [table of contents](/p/roadmap-bubbleblog/).
 
-Next up: 042. The ReadWrite Real-Time Web Summit
+Next up: [042. The ReadWrite Real-Time Web Summit, October 2009](/p/042-readwrite-realtime-web-summit-2009/)
