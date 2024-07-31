@@ -98,4 +98,4 @@ Of course, as CEO of RWW, I couldn’t help but wonder if we’d made a profit o
 
 This post is part of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. View [table of contents](/p/roadmap-bubbleblog/).
 
-Next up: 043. Strategy Planning and One-on-Ones With the Team
+Next up: [043. Team RWW in Silicon Valley and a Tense Meeting With My COO](/p/043-team-rww-palo-alto-2009/)
