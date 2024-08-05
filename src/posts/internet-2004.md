@@ -84,6 +84,7 @@ Finally, I shouted out Feedburner, the RSS feed management startup which “burs
 * * *
 
 Read next: 
-- [What the Internet Was Like in 2005](/p/what-the-web-was-like-in-2005/)
-- [What the Internet Was Like in 2006](/p/internet-2006/)
-- [What the Internet Was Like in 2007](/p/internet-2007/)
+* [What the Internet Was Like in 2005](/p/what-the-web-was-like-in-2005/)
+* [What the Internet Was Like in 2006](/p/internet-2006/)
+* [What the Internet Was Like in 2007](/p/internet-2007/)
+* [What the Internet Was Like in 2008](/p/internet-2008/)
