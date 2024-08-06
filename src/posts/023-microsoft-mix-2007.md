@@ -4,16 +4,16 @@ description: "I travel to Vegas for a Microsoft web conference. Meanwhile, Read/
 date: 2024-03-05
 permalink: "p/023-microsoft-mix-2007/"
 tags: ['Memoir']
-featureImage: "/assets/.netlify/images/ricmac_vegas_2007.jpg"
+featureImage: "/.netlify/assets/images/ricmac_vegas_2007.jpg"
 ---
 
-![Facebook Week on RWW, July 2007](/assets/.netlify/images/facebookweek_july2007.jpg)
+![Facebook Week on RWW, July 2007](/.netlify/assets/images/facebookweek_july2007.jpg)
 
 After the Web 2.0 Expo, it was off to Las Vegas for Microsoft’s MIX conference, an event to promote the company’s web technologies. My travel, including accommodations at the Venetian on the Strip, was being paid for by Microsoft New Zealand. My wife flew over from NZ to join me for the Vegas trip, which I was able to pay for thanks to Read/WriteWeb's current profitability.
 
 When we arrived at the Venetian, I was at first impressed by its sense of grandeur. The hotel had only opened in 1999, so it felt brand new with its polished stone floors, gleaming white granite columns, and golden roof with copies of old Italian art. Of course, I soon gathered that everything in the complex was copied from Venice, including a version of St. Mark’s Square (with a large ice-cream shop at its center), replica sculptures, staff members dressed as statues, and gondola rides offered on canals within the walls of the hotel. At that time I had never visited Venice or anywhere else in continental Europe, so I had nothing to compare it to. Even so, it all felt like a giant fraud, which made my heart quietly sink during that first day. I realized that I wanted to see the real things, to feel what life was like in the real Venice. I resolved to make that happen one day.
 
-![Me in Vegas](/assets/.netlify/images/ricmac_vegas_2007.jpg)
+![Me in Vegas](/.netlify/assets/images/ricmac_vegas_2007.jpg)
 *Stranger in a strange land; me at The Venetian, 28 April, 2007.*
 
 The other thing that hit me about Las Vegas was the extreme heat. It wasn’t even summer yet, but walking outside during the day was almost unbearable. Fortunately, I’d be spending most of my days in the air-conditioned Venetian conference center.
