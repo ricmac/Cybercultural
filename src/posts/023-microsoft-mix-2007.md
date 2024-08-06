@@ -7,7 +7,7 @@ tags: ['Memoir']
 featureImage: "/assets/images/ricmac_vegas_2007.jpg"
 ---
 
-![Facebook Week on RWW, July 2007](/assets/images/facebookweek_july2007.jpg)
+![Facebook Week on ReadWriteWeb, July 2007](/assets/images/facebookweek_july2007.jpg)
 
 After the Web 2.0 Expo, it was off to Las Vegas for Microsoft’s MIX conference, an event to promote the company’s web technologies. My travel, including accommodations at the Venetian on the Strip, was being paid for by Microsoft New Zealand. My wife flew over from NZ to join me for the Vegas trip, which I was able to pay for thanks to Read/WriteWeb's current profitability.
 
