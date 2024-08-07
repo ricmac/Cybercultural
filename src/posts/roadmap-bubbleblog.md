@@ -121,5 +121,6 @@ PART 2: 2007-2009
 *    [041. Planning the First ReadWriteWeb Unconference](/p/041-readwriteweb-event-planning-2009/)
 *    [042. The ReadWrite Real-Time Web Summit, October 2009](/p/042-readwrite-realtime-web-summit-2009/)
 *    [043. Team RWW in Silicon Valley and a Tense Meeting With My COO](/p/043-team-rww-palo-alto-2009/)
+*    [044. Web 2.0 Summit 2009 and ReadWriteWeb Hires New COO](/p/044-web20-summit-2009/)
 
 To be continued…

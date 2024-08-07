@@ -68,4 +68,4 @@ I emailed Elyssa later that day. “I honestly think the next step is a ‘take 
 
 This post is part of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. View [table of contents](/p/roadmap-bubbleblog/).
 
-Next up: 044. 2009 Wrapup
+Next up: [044. Web 2.0 Summit 2009 and ReadWriteWeb Hires New COO](/p/044-web20-summit-2009/)
