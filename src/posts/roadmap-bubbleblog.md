@@ -123,4 +123,11 @@ PART 2: 2007-2009
 *    [043. Team RWW in Silicon Valley and a Tense Meeting With My COO](/p/043-team-rww-palo-alto-2009/)
 *    [044. Web 2.0 Summit 2009 and ReadWriteWeb Hires New COO](/p/044-web20-summit-2009/)
 
+PART 3: 2010–2011
+---------------
+
+### 14\. Meeting Weiwei
+*    [045. SXSW 2010 and RWW Co-Hosts a Party at Austin City Limits](/p/045-sxsw-2010/)
+
+
 To be continued…
