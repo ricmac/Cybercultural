@@ -94,3 +94,4 @@ Read next:
 * [What the Internet Was Like in 2005](/p/what-the-web-was-like-in-2005/)
 * [What the Internet Was Like in 2006](/p/internet-2006/)
 * [What the Internet Was Like in 2007](/p/internet-2007/)
+* [What the Internet Was Like in 2009](/p/internet-2009/)

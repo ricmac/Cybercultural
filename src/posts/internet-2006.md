@@ -72,7 +72,8 @@ Vive la révolution, I guess — although in later years it became clear that th
 * * *
 
 Read next: 
-- [What the Internet Was Like in 2004](/p/internet-2004/)
-- [What the Internet Was Like in 2005](/p/what-the-web-was-like-in-2005/)
-- [What the Internet Was Like in 2007](/p/internet-2007/)
+* [What the Internet Was Like in 2004](/p/internet-2004/)
+* [What the Internet Was Like in 2005](/p/what-the-web-was-like-in-2005/)
+* [What the Internet Was Like in 2007](/p/internet-2007/)
 * [What the Internet Was Like in 2008](/p/internet-2008/)
+* [What the Internet Was Like in 2009](/p/internet-2009/)
