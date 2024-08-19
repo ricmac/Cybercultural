@@ -55,7 +55,7 @@ There was a distinct shift in behavior with smartphones in 2009. As ReadWriteWeb
 
 Imagine that, smartphone apps that are used *daily*! But that was still new in 2009, as Sarah's laptop analogy shows. And iOS was the leading platform for smartphone developers, although Android was also highly promising at this time.
 
-![Flurry smartphone chart, April 2009](/assets/images/iphone_flurry_2009.png)
+![Flurry smartphone chart, April 2009](/assets/images/iphone_flurry_2009.jpg)
 *A 2009 report from mobile analytics firm Flurry showed that Apple had most of the developers and apps, but Android was also growing.*
 
 As RWW's Frederic Lardinois wrote [in December](https://web.archive.org/web/20091217174141/http://www.readwriteweb.com/archives/top_10_web_platforms_of_2009.php), "Android came of age in 2009." There was a large increase in developer activity in Android, along with strong interest in new Android phones like the Motorola Droid. It also tended to encourage more experimental apps. As Frederic noted, "Thanks to the open-source nature of the project, Android made it easy for developers of augmented reality applications to test their ideas long before Apple offered the necessary APIs on its platform."
