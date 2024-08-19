@@ -46,7 +46,7 @@ Incidentally, 2009 was also the year that Facebook, finally, became the leading 
 
 By the end of 2009, the iPhone was the leading smartphone in the market and the App Store had over 100,000 applications in it. It was now a key developer platform, especially after Apple extended its iOS software development kit (SDK) with better support for 3D gaming, augmented reality apps, easier access to maps, in-app purchases and support for push notifications.
 
-![iPhone apps, May 2009](/assets/images/3514635962_11e2bca04a_o.png)
+![iPhone apps, May 2009](/assets/images/3514635962_11e2bca04a_o.jpg)
 *Lee Bennett shows his iPhone home screens [from May 8, 2009](https://www.flickr.com/photos/leebennett/3514635962/). Notably, Facebook and a Twitter client are both dock apps for him.*
 
 There was a distinct shift in behavior with smartphones in 2009. As ReadWriteWeb's Sarah Perez put it in [an April 2009 post](https://web.archive.org/web/20091228075625/http://www.readwriteweb.com/archives/the_state_of_the_smartphone_iphone_is_way_way_ahea.php):
@@ -55,7 +55,7 @@ There was a distinct shift in behavior with smartphones in 2009. As ReadWriteWeb
 
 Imagine that, smartphone apps that are used *daily*! But that was still new in 2009, as Sarah's laptop analogy shows. And iOS was the leading platform for smartphone developers, although Android was also highly promising at this time.
 
-![Flurry smartphone chart, April 2009](/assets/images/iphone_flurry_2009.jpg)
+![Flurry smartphone chart, April 2009](/assets/images/iphone_flurry_2009.png)
 *A 2009 report from mobile analytics firm Flurry showed that Apple had most of the developers and apps, but Android was also growing.*
 
 As RWW's Frederic Lardinois wrote [in December](https://web.archive.org/web/20091217174141/http://www.readwriteweb.com/archives/top_10_web_platforms_of_2009.php), "Android came of age in 2009." There was a large increase in developer activity in Android, along with strong interest in new Android phones like the Motorola Droid. It also tended to encourage more experimental apps. As Frederic noted, "Thanks to the open-source nature of the project, Android made it easy for developers of augmented reality applications to test their ideas long before Apple offered the necessary APIs on its platform."
