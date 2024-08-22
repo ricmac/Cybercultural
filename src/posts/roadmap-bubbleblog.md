@@ -128,6 +128,7 @@ PART 3: 2010–2011
 
 ### 14\. Meeting Weiwei
 *    [045. SXSW 2010 and RWW Co-Hosts a Party at Austin City Limits](/p/045-sxsw-2010/)
+*    [046. Democracy on the Net: On Stage With Ai Weiwei and @Jack](/p/046-ai-weiwei-event-march-2010/)
 
 
 To be continued…
