@@ -1,5 +1,5 @@
 ---
-title: "Democracy on the Net: On Stage With Ai Weiwei and @Jack"
+title: "Democracy on the Net: Onstage With Ai Weiwei and @Jack"
 description: "It's March 2010 and the Paley Center hosts an event in NYC starring Chinese artist and activist Ai Weiwei, Twitter CEO Jack Dorsey, and your humble RWW editor. We're discussing the future of democracy."
 date: 2024-08-21
 permalink: "p/046-ai-weiwei-event-march-2010/"
@@ -7,7 +7,7 @@ tags: ['Memoir']
 featureImage: "/assets/images/paley-center-march2010-ricmac-weiwei-jack.jpg"
 ---
 
-![Richard MacManus on stage with Ai Weiwei and Jack Dorsey, March 2010](/assets/images/paley-center-march2010-ricmac-weiwei-jack.jpg)
+![Richard MacManus onstage with Ai Weiwei and Jack Dorsey, March 2010](/assets/images/paley-center-march2010-ricmac-weiwei-jack.jpg)
 
 I didn’t know much about the Paley Center for Media before I entered its impressive white stone building on Fifty-Second Street. But I knew it was about as “old media” as it could get in New York City—and I mean that in a good way. Formerly the Museum of Television and Radio, it was a cultural institution, but also one that aspired to lead “today’s media conversation” (as the [website tagline](https://web.archive.org/web/20100310155015/http://paleycenter.org/about) put it). The organization’s bread and butter were television and radio—two mediums that America helped define in the twentieth century—but it was also interested in what it termed “emerging platforms.” This is why a little-known tech blogger from New Zealand was [invited onstage with Ai Weiwei](/p/045-sxsw-2010/) and Jack Dorsey.
 
