@@ -77,4 +77,4 @@ So was this an “historic conversation” about the future of democracy on the 
 
 This post is part of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. View [table of contents](/p/roadmap-bubbleblog/).
 
-Next up: 047. Back to Austin for SXSW Music
+Next up: [047. SXSW Music Blues and RWW Community Manager Departs](/p/047-sxsw-music-2010/)
