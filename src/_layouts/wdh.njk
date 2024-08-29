@@ -1,0 +1,58 @@
+---
+layout: base
+---
+
+<article class="wrapper region">
+<div class="wrapper flow prose">
+<h1>{{ title }}</h1>
+<p>Articles that chronicle the history of the web from a developer perspective.</p>
+<form
+  action="https://buttondown.email/api/emails/embed-subscribe/ricmac"
+  method="post"
+  target="popupwindow"
+  onsubmit="window.open('https://buttondown.email/ricmac', 'popupwindow')"
+  class="embeddable-buttondown-form">
+  <label for="bd-email">Enter your email</label>
+  <input type="email" name="email" id="bd-email" />
+  
+  <input type="submit" value="Subscribe" />
+</form>
+</div>
+
+<ul class="grid mt-l-xl" role="list" data-rows="masonry" data-layout="50-50">
+  {% set count = 0 %}
+  {% for post in collections.posts %}
+    {% if post.data.tags and ('WDH' in post.data.tags) %}
+      {% if count < 8 %}
+        <li class="card flow overflow-hidden">
+          {% if post.data.featureImage %}
+            <img class="post-feature-image" src="{{ post.data.featureImage | url }}" alt="{{ post.data.title }}">
+          {% endif %}
+          <h2>
+            <a href="{{ post.url | url }}">{{ post.data.title }}</a>
+          </h2>
+          {% set definedDate = post.date %} {% include "partials/date.njk" %}
+          <p>{{ post.data.description }}</p>
+        </li>
+      {% endif %}
+      {% set count = count + 1 %}
+    {% endif %}
+  {% endfor %}
+</ul>
+
+{% if count > 8 %}
+  <h3>More Articles</h3>
+  <ul>
+    {% set additionalCount = 0 %}
+    {% for post in collections.posts %}
+      {% if post.data.tags and ('WDH' in post.data.tags) %}
+        {% set additionalCount = additionalCount + 1 %}
+        {% if additionalCount > 8 %}
+          <li><a href="{{ post.url | url }}">{{ post.data.title }}</a></li>
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+  </ul>
+{% endif %}
+
+</article>

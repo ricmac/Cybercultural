@@ -13,6 +13,10 @@ module.exports = {
       url: '/articles/'
     },
     {
+      text: 'WDH',
+      url: '/wdh/'
+    },
+    {
       text: 'Search',
       url: '/search/'
     },
