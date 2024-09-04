@@ -10,11 +10,7 @@ featureImage: "/assets/images/73ba0b8a-0364-47f9-9b0d-a7a3cca2a00c_3400x2134.jpg
 
 If you are looking for a good overview of my book project, see [my launch post](/p/bubble-blog-web20-memoir).
 
-The following is a chronological table of contents for my book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. Each post will link to what came before and what comes next (once that post is out) or you can come here at any time and read the stories in order. You can also use this page as a quick way to find what you’re looking for if you want to share a post with a friend or colleague.
-
-Each chapter is a series of posts, usually about three to four. The links will be filled in as posts are mailed out.
-
-
+The following is a chronological table of contents for my book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. Each chapter is a series of posts, usually about three to four. The TOC will be filled in as posts are mailed out.
 
 ### Introduction
 
@@ -131,5 +127,7 @@ PART 3: 2010–2011
 *    [046. Democracy on the Net: Onstage With Ai Weiwei and @Jack](/p/046-ai-weiwei-event-march-2010/)
 *    [047. SXSW Music Blues and RWW Community Manager Departs](/p/047-sxsw-music-2010/)
 
+### 15\. Coeditors
+*    [048: ReadWriteWeb Mistaken for Facebook Login — Hilarity Ensues](/p/048-readwriteweb-facebook-login/)
 
 To be continued…
