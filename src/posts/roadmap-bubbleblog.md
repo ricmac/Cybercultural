@@ -131,5 +131,7 @@ PART 3: 2010–2011
 *    [046. Democracy on the Net: Onstage With Ai Weiwei and @Jack](/p/046-ai-weiwei-event-march-2010/)
 *    [047. SXSW Music Blues and RWW Community Manager Departs](/p/047-sxsw-music-2010/)
 
+### 15\. Coeditors
+*    [048: ReadWriteWeb Mistaken for Facebook Login — Hilarity Ensues](/p/048-readwriteweb-facebook-login/)
 
 To be continued…
