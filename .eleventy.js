@@ -144,6 +144,8 @@ module.exports = eleventyConfig => {
     'src/assets/images/favicon/*': '/'
   });
   
+  eleventyConfig.addPassthroughCopy("_redirects");
+
   // 	--------------------- general config -----------------------
   return {
     // Pre-process *.md, *.html and global data files files with: (default: `liquid`)
