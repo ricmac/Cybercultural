@@ -1,9 +1,9 @@
 // .eleventy.config
 
-import { version as packageVersion } from './package.json';
+import { version as packageVersion } from './package.json' with { type: "json" };
 
 // module import filters
-import { limit, toHtml, where, toISOString, formatDate, toAbsoluteUrl, stripHtml, minifyCss, minifyJs, mdInline, splitlines } from './config/filters/index.js';
+import { limit, toHtml, where, toISOString, toAbsoluteUrl, stripHtml, minifyCss, minifyJs, mdInline, splitlines } from './config/filters/index.js';
 
 // module import shortcodes
 import { imageShortcodePlaceholder, includeRaw, liteYoutube } from './config/shortcodes/index.js';
@@ -18,8 +18,8 @@ import { svgToJpeg } from './config/events/index.js';
 import markdownLib from './config/plugins/markdown.js';
 import { EleventyRenderPlugin } from '@11ty/eleventy';
 import syntaxHighlight from '@11ty/eleventy-plugin-syntaxhighlight';
-import { slugifyString } from './config/utils.js';
-import { escape } from 'lodash';
+import { slugifyString } from './config/utils/index.js';
+import _ from 'lodash';
 import pluginRss from '@11ty/eleventy-plugin-rss';
 import bundlerPlugin from '@11ty/eleventy-plugin-bundle';
 import { execSync } from 'child_process';
@@ -44,10 +44,9 @@ export default function(eleventyConfig) {
   // Custom filters
   eleventyConfig.addFilter('limit', limit);
   eleventyConfig.addFilter('where', where);
-  eleventyConfig.addFilter('escape', escape);
+  eleventyConfig.addFilter('escape', _.escape);
   eleventyConfig.addFilter('toHtml', toHtml);
   eleventyConfig.addFilter('toIsoString', toISOString);
-  eleventyConfig.addFilter('formatDate', formatDate);
   eleventyConfig.addFilter('toAbsoluteUrl', toAbsoluteUrl);
   eleventyConfig.addFilter('stripHtml', stripHtml);
   eleventyConfig.addFilter('slugify', slugifyString);
