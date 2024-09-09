@@ -1,4 +1,4 @@
-// .eleventy.config.mjs
+// .eleventy.config
 
 import { version as packageVersion } from './package.json';
 

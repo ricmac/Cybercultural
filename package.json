@@ -5,6 +5,7 @@
   "author": "Lene Saile",
   "license": "ISC",
   "main": ".eleventy.js",
+  "type": "module",
   "engines": {
     "node": ">=16.x.x"
   },
