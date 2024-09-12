@@ -1,13 +1,15 @@
-const lodash = require('lodash');
-const dayjs = require('dayjs');
-const CleanCSS = require('clean-css');
-const markdownLib = require('../plugins/markdown');
-const site = require('../../src/_data/meta');
-const {throwIfNotType} = require('../utils');
-const md = require('markdown-it')();
+import lodash from 'lodash';
+import dayjs from 'dayjs';
+import CleanCSS from 'clean-css';
+import markdownLib from '../plugins/markdown.js';
+import { meta } from '../../src/_data/meta.js';
+import { throwIfNotType } from '../utils/index.js';
+import MarkdownIt from 'markdown-it';
 
-/** Returns the first `limit` elements of the the given array. */
-const limit = (array, limit) => {
+const md = new MarkdownIt();
+
+/** Returns the first `limit` elements of the given array. */
+export const limit = (array, limit) => {
   if (limit < 0) {
     throw new Error(`Negative limits are not allowed: ${limit}.`);
   }
@@ -15,22 +17,22 @@ const limit = (array, limit) => {
 };
 
 /** Returns all entries from the given array that match the specified key:value pair. */
-const where = (arrayOfObjects, keyPath, value) =>
+export const where = (arrayOfObjects, keyPath, value) =>
   arrayOfObjects.filter(object => lodash.get(object, keyPath) === value);
 
 /** Converts the given markdown string to HTML, returning it as a string. */
-const toHtml = markdownString => {
+export const toHtml = markdownString => {
   return markdownLib.renderInline(markdownString);
 };
 
 /** Removes all tags from an HTML string. */
-const stripHtml = str => {
+export const stripHtml = str => {
   throwIfNotType(str, 'string');
   return str.replace(/<[^>]+>/g, '');
 };
 
 /** Formats the given string as an absolute url. */
-const toAbsoluteUrl = url => {
+export const toAbsoluteUrl = url => {
   throwIfNotType(url, 'string');
   // Replace trailing slash, e.g., site.com/ => site.com
   const siteUrl = site.url.replace(/\/$/, '');
@@ -40,15 +42,15 @@ const toAbsoluteUrl = url => {
   return `${siteUrl}/${relativeUrl}`;
 };
 
-/** Converts the given date string to ISO8610 format. */
-const toISOString = dateString => dayjs(dateString).toISOString();
+/** Converts the given date string to ISO8601 format. */
+export const toISOString = dateString => dayjs(dateString).toISOString();
 
 /** Formats a date using dayjs's conventions: https://day.js.org/docs/en/display/format */
-const formatDate = (date, format) => dayjs(date).format(format);
+export const formatDate = (date, format) => dayjs(date).format(format);
 
-const minifyCss = code => new CleanCSS({}).minify(code).styles;
+export const minifyCss = code => new CleanCSS({}).minify(code).styles;
 
-const minifyJs = async (code, ...rest) => {
+export const minifyJs = async (code, ...rest) => {
   const callback = rest.pop();
   const cacheKey = rest.length > 0 ? rest[0] : null;
 
@@ -78,8 +80,7 @@ const minifyJs = async (code, ...rest) => {
  * @param {import('markdown-it').Options} [opts]
  * @return {string|undefined}
  */
-
-const mdInline = (content, opts) => {
+export const mdInline = (content, opts) => {
   if (!content) {
     return;
   }
@@ -100,7 +101,7 @@ const mdInline = (content, opts) => {
 };
 
 // source: https://github.com/bnijenhuis/bnijenhuis-nl/blob/main/.eleventy.js
-const splitlines = (input, maxCharLength) => {
+export const splitlines = (input, maxCharLength) => {
   const parts = input.split(' ');
   const lines = parts.reduce(function (acc, cur) {
     if (!acc.length) {
@@ -119,18 +120,4 @@ const splitlines = (input, maxCharLength) => {
   }, []);
 
   return lines;
-};
-
-module.exports = {
-  limit,
-  toHtml,
-  where,
-  toISOString,
-  formatDate,
-  toAbsoluteUrl,
-  stripHtml,
-  minifyCss,
-  minifyJs,
-  mdInline,
-  splitlines
 };

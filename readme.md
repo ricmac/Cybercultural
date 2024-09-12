@@ -133,7 +133,7 @@ Extended the "Images" blog post with an example with custom `sizes` attribute an
 **22-12-13**
 
 - added JS and CSS as as first-class citizens in Eleventy, out of the npm scripts.
-- imported htmlmin transform, css and js processing with `eleventyConfig.addPlugin(require("other-config-file.js"))`, see https://front-end.social/@eleventy@fosstodon.org/109501433721579265
+- imported htmlmin transform, css and js processing with `eleventyConfig.addPlugin(import other-config-file.js from 'other-config-file.js')`, see https://front-end.social/@eleventy@fosstodon.org/109501433721579265
 
 **22-12-12**
 

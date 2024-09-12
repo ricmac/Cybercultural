@@ -1,6 +1,6 @@
-const Image = require('@11ty/eleventy-img');
-const path = require('path');
-const htmlmin = require('html-minifier-terser');
+import Image from '@11ty/eleventy-img';
+import path from 'path';
+import htmlmin from 'html-minifier-terser';
 
 const imageShortcodePlaceholder = async (
   src,
@@ -56,8 +56,8 @@ const imageShortcodePlaceholder = async (
       </picture>
     ${caption ? `<figcaption>${caption}</figcaption>` : ``}
     </figure>`,
-    {collapseWhitespace: true}
+    { collapseWhitespace: true }
   );
 };
 
-module.exports = imageShortcodePlaceholder;
+export default imageShortcodePlaceholder;

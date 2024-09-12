@@ -1,14 +1,16 @@
-const fs = require('fs');
-const path = require('path');
-const EleventyFetch = require("@11ty/eleventy-fetch");
+import fs from 'fs';
+import path from 'path';
+import EleventyFetch from '@11ty/eleventy-fetch';
 
 const CACHE_FILE = '.cache/webmentions.json';
 
-module.exports = async function () {
+export default async function () {
   const url = `https://webmention.io/api/mentions.jf2?token=${'cCg7j-muiYR80tkDpZZY3w'}&per-page=1000`;
+
+  // Fetch webmentions data
   let webmentions = await EleventyFetch(url, {
-    duration: "1h",
-    type: "json",
+    duration: "1h",  // Cache duration (1 hour)
+    type: "json"     // Expecting JSON response
   });
 
   // Read the existing webmentions from the cache file
@@ -17,7 +19,7 @@ module.exports = async function () {
     existingWebmentions = JSON.parse(fs.readFileSync(CACHE_FILE, 'utf8'));
   }
 
-  // Filter out the new webmentions by comparing with the existing ones
+  // Filter out new webmentions by comparing with existing ones
   const newWebmentions = webmentions.children.filter(mention => {
     return !existingWebmentions.some(existingMention => existingMention['wm-id'] === mention['wm-id']);
   });
@@ -42,4 +44,3 @@ module.exports = async function () {
 
   return groupedByType;
 };
-

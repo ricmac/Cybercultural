@@ -1,20 +1,19 @@
-// .eleventy.config
+import pkg from './package.json' assert { type: 'json' };
+const packageVersion = pkg.version;
 
-import { version as packageVersion } from './package.json' with { type: "json" };
-
-// module import filters
+// Module import filters
 import { limit, toHtml, where, toISOString, toAbsoluteUrl, stripHtml, minifyCss, minifyJs, mdInline, splitlines } from './config/filters/index.js';
 
-// module import shortcodes
+// Module import shortcodes
 import { imageShortcodePlaceholder, includeRaw, liteYoutube } from './config/shortcodes/index.js';
 
-// module import collections
+// Module import collections
 import { getAllPosts, onlyMarkdown } from './config/collections/index.js';
 
-// module import events
+// Module import events
 import { svgToJpeg } from './config/events/index.js';
 
-// plugins
+// Plugins
 import markdownLib from './config/plugins/markdown.js';
 import { EleventyRenderPlugin } from '@11ty/eleventy';
 import syntaxHighlight from '@11ty/eleventy-plugin-syntaxhighlight';
@@ -23,6 +22,13 @@ import _ from 'lodash';
 import pluginRss from '@11ty/eleventy-plugin-rss';
 import bundlerPlugin from '@11ty/eleventy-plugin-bundle';
 import { execSync } from 'child_process';
+import htmlConfigPlugin from './config/transforms/html-config.js';
+import cssConfigPlugin from './config/template-languages/css-config.js';
+import jsConfigPlugin from './config/template-languages/js-config.js';
+import dayjs from 'dayjs';
+
+// Format Date Function
+export const formatDate = (date, format) => dayjs(date).format(format);
 
 export default function(eleventyConfig) {
   // Pagefind search
@@ -60,6 +66,9 @@ export default function(eleventyConfig) {
   eleventyConfig.addFilter('values', Object.values);
   eleventyConfig.addFilter('entries', Object.entries);
 
+  // Register formatDate filter
+  eleventyConfig.addFilter('formatDate', formatDate);
+
   // Custom shortcodes
   eleventyConfig.addNunjucksAsyncShortcode('imagePlaceholder', imageShortcodePlaceholder);
   eleventyConfig.addShortcode('youtube', liteYoutube);
@@ -73,11 +82,11 @@ export default function(eleventyConfig) {
     return `${data.url}`;
   });
 
-  // Custom transforms and template languages
-  eleventyConfig.addPlugin(require('./config/transforms/html-config.js'));
-  eleventyConfig.addPlugin(require('./config/template-languages/css-config.js'));
-  eleventyConfig.addPlugin(require('./config/template-languages/js-config.js'));
-
+  // Apply transforms and template configurations
+  htmlConfigPlugin(eleventyConfig);
+  cssConfigPlugin(eleventyConfig);
+  jsConfigPlugin(eleventyConfig);
+  
   // Custom collections
   eleventyConfig.addCollection('posts', getAllPosts);
   eleventyConfig.addCollection('onlyMarkdown', onlyMarkdown);

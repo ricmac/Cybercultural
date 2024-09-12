@@ -1,9 +1,9 @@
 /** © Andy Bell - https://buildexcellentwebsit.es/ */
 
-const viewports = require('../design-tokens/viewports.json');
+import viewports from '../design-tokens/viewports.json';
 
 /**
- * Takes an array of tokens and sends back and array of name
+ * Takes an array of tokens and sends back an array of name
  * and clamp pairs for CSS fluid values.
  *
  * @param {array} tokens array of {name: string, min: number, max: number}
@@ -12,7 +12,7 @@ const viewports = require('../design-tokens/viewports.json');
 const clampGenerator = tokens => {
   const rootSize = 16;
 
-  return tokens.map(({name, min, max}) => {
+  return tokens.map(({ name, min, max }) => {
     if (min === max) {
       return `${min / rootSize}rem`;
     }
@@ -38,4 +38,4 @@ const clampGenerator = tokens => {
   });
 };
 
-module.exports = clampGenerator;
+export default clampGenerator;
