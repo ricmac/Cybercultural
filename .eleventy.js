@@ -1,4 +1,6 @@
-import pkg from './package.json' assert { type: 'json' };
+import { createRequire } from "node:module";
+const require = createRequire(import.meta.url);
+const pkg = require('./package.json');
 const packageVersion = pkg.version;
 
 // Module import filters
