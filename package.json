@@ -5,6 +5,7 @@
   "author": "Lene Saile",
   "license": "ISC",
   "main": ".eleventy.js",
+  "type": "module",
   "engines": {
     "node": ">=16.x.x"
   },
@@ -21,7 +22,7 @@
     "url": "https://github.com/madrilene/eleventy-excellent.git"
   },
   "dependencies": {
-    "@11ty/eleventy": "^2.0.1",
+    "@11ty/eleventy": "^3.0.0-beta.1",
     "@11ty/eleventy-fetch": "^4.0.0",
     "@11ty/eleventy-img": "^3.1.8",
     "@11ty/eleventy-plugin-bundle": "^1.0.4",
