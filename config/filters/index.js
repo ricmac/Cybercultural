@@ -2,7 +2,7 @@ import lodash from 'lodash';
 import dayjs from 'dayjs';
 import CleanCSS from 'clean-css';
 import markdownLib from '../plugins/markdown.js';
-import { meta } from '../../src/_data/meta.js';
+import meta from '../../src/_data/meta.js';
 import { throwIfNotType } from '../utils/index.js';
 import MarkdownIt from 'markdown-it';
 

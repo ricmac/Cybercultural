@@ -1,4 +1,4 @@
-export const meta = {
+const meta = {
   url: process.env.URL || 'https://cybercultural.com',
   siteName: 'Cybercultural',
   siteDescription: 'Internet history and its impact on our culture.',
@@ -43,3 +43,5 @@ export const meta = {
     closedText: 'Menu'
   }
 };
+
+export default meta;

@@ -7,19 +7,20 @@ layout: base
     {{ content | safe }}
   </div>
   
-  <ul class="wrapper grid mt-l-xl" role="list" data-rows="masonry" data-layout="50-50">
-    {% set postslist = collections.posts %} {% for post in postslist.slice(0, 8) %}
+ <ul class="wrapper grid mt-l-xl" role="list" data-rows="masonry" data-layout="50-50">
+  {% set postslist = collections.posts | reverse %} 
+  {% for post in postslist.slice(0, 8) %}
 
-    <li class="card flow overflow-hidden">
-      {% if post.data.featureImage %}
-      <img class="post-feature-image" src="{{ post.data.featureImage | url }}" alt="{{ post.data.title }}">
-      {% endif %}
-      <h2>
-        <a href="{{ post.url | url }}">{{ post.data.title }}</a>
-      </h2>
-      {% set definedDate = post.date %} {% include "partials/date.njk" %}
-      <p>{{ post.data.description }}</p>
-    </li>
+  <li class="card flow overflow-hidden">
+    {% if post.data.featureImage %}
+    <img class="post-feature-image" src="{{ post.data.featureImage | url }}" alt="{{ post.data.title }}">
+    {% endif %}
+    <h2>
+      <a href="{{ post.url | url }}">{{ post.data.title }}</a>
+    </h2>
+    {% set definedDate = post.date %} {% include "partials/date.njk" %}
+    <p>{{ post.data.description }}</p>
+  </li>
 
     {% endfor %}
   </ul>
