@@ -7,9 +7,9 @@ const meta = {
   locale: 'en_EN',
   lang: 'en',
   skipContent: 'Skip to content',
-  author: 'Richard MacManus', // i.e. Lene Saile - author's name. Must be set.
-  authorEmail: 'cybercultural@ricmac.org', // i.e. hola@lenesaile.com - email of the author
-  authorWebsite: 'https://ricmac.org/', // i.e. https.://www.lenesaile.com - the personal site of the author
+  author: 'Richard MacManus', // author's name. Must be set.
+  authorEmail: 'cybercultural@ricmac.org', // email of the author
+  authorWebsite: 'https://ricmac.org/', // the personal site of the author
   themeColor: '#B80103', //  Manifest: defines the default theme color for the application
   themeBgColor: '#F3F3F3', // Manifest: defines a placeholder background color for the application page to display before its stylesheet is loaded
   meta_data: {
@@ -17,7 +17,7 @@ const meta = {
     opengraph_default_alt: 'Internet history and its impact on our culture. Currently serializing my book, Bubble Blog', // alt text for default meta image
     twitterSite: '', // i.e. @site - twitter profile of the site
     twitterCreator: '', // i.e. @author -  twitter profile of the site
-    mastodonProfile: 'https://mastodon.social/@ricmac' // i.e. https://front-end.social/@lene - url to your mastodon instance/profile
+    mastodonProfile: 'https://mastodon.social/@ricmac' // url to your mastodon instance/profile
   },
   blog: {
     // this is for the rss feed

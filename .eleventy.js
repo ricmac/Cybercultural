@@ -12,9 +12,6 @@ import { imageShortcodePlaceholder, includeRaw, liteYoutube } from './config/sho
 // Module import collections
 import { getAllPosts, onlyMarkdown } from './config/collections/index.js';
 
-// Module import events
-import { svgToJpeg } from './config/events/index.js';
-
 // Plugins
 import markdownLib from './config/plugins/markdown.js';
 import { EleventyRenderPlugin } from '@11ty/eleventy';
@@ -92,9 +89,6 @@ export default function(eleventyConfig) {
   // Custom collections
   eleventyConfig.addCollection('posts', getAllPosts);
   eleventyConfig.addCollection('onlyMarkdown', onlyMarkdown);
-
-  // Events
-  eleventyConfig.on('afterBuild', svgToJpeg);
 
   // Plugins
   eleventyConfig.addPlugin(EleventyRenderPlugin);
