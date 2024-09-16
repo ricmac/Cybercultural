@@ -7,7 +7,7 @@ const packageVersion = pkg.version;
 import { limit, toHtml, where, toISOString, toAbsoluteUrl, stripHtml, minifyCss, minifyJs, mdInline, splitlines } from './config/filters/index.js';
 
 // Module import shortcodes
-import { imageShortcodePlaceholder, includeRaw, liteYoutube } from './config/shortcodes/index.js';
+import { includeRaw, liteYoutube } from './config/shortcodes/index.js';
 
 // Module import collections
 import { getAllPosts, onlyMarkdown } from './config/collections/index.js';
@@ -72,17 +72,10 @@ export default function(eleventyConfig) {
   eleventyConfig.addFilter('formatDate', formatDate);
 
   // Custom shortcodes
-  eleventyConfig.addNunjucksAsyncShortcode('imagePlaceholder', imageShortcodePlaceholder);
   eleventyConfig.addShortcode('youtube', liteYoutube);
   eleventyConfig.addShortcode('include_raw', includeRaw);
   eleventyConfig.addShortcode('year', () => `${new Date().getFullYear()}`);
   eleventyConfig.addShortcode('packageVersion', () => `v${packageVersion}`);
-  
-  eleventyConfig.addShortcode("image", async function(src) {
-    let metadata = await Image(src, { widths: [600] });
-    let data = metadata.jpeg[0];
-    return `${data.url}`;
-  });
 
   // Add Eleventy Image Plugin
   eleventyConfig.addPlugin(eleventyImageTransformPlugin, {
