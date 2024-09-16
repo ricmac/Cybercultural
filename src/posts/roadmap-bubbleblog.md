@@ -129,5 +129,6 @@ PART 3: 2010–2011
 
 ### 15\. Coeditors
 *    [048: ReadWriteWeb Mistaken for Facebook Login — Hilarity Ensues](/p/048-readwriteweb-facebook-login/)
+*    [049. Burbn to Instagram: The ReadWriteWeb Mobile Summit, May 2010](/p/049-rww-mobile-summit-may2010/)
 
 To be continued…

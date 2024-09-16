@@ -1,8 +1,2 @@
-const imageShortcodePlaceholder = require('./imagePlaceholder');
-const includeRaw = require('./includeRaw');
-const liteYoutube = require('./youtube-lite');
-module.exports = {
-  imageShortcodePlaceholder,
-  includeRaw,
-  liteYoutube
-};
+export { default as includeRaw } from './includeRaw/index.js';
+export { default as liteYoutube } from './youtube-lite/index.js';

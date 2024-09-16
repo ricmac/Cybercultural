@@ -1,18 +1,18 @@
-<base href="{{ page.url }}" />
+<base href="{{ page.url | default('') }}" />
 
-<meta name="description" content="{% if seo.description %}{{ seo.description | trim }}{% elif description %}{{ description | trim }}{% else %}{{ meta.siteDescription | trim }}{% endif %}" />
+<meta name="description" content="{% if seo.description %}{{ seo.description | default('') }}{% elif description %}{{ description | default('') }}{% else %}{{ meta.siteDescription | default('') }}{% endif %}" />
 
-<meta name="theme-color" content="{{ meta.themeColor }}" />
+<meta name="theme-color" content="{{ meta.themeColor | default('#ffffff') }}" />
 <meta name="robots" content="index, follow, max-image-preview:large" /><!-- All Search Engines -->
-<meta name="generator" content="{{ eleventy.generator }}" /><!-- thank you, Zach -->
+<meta name="generator" content="{{ eleventy.generator | default('Eleventy') }}" /><!-- thank you, Zach -->
 <!-- Disable automatic detection and formatting of possible phone numbers -->
 <meta name="format-detection" content="telephone=no" />
 <!-- Helps prevent duplicate content issues -->
-<link rel="canonical" href="{{ meta.url }}{{ page.url }}" />
+<link rel="canonical" href="{{ (meta.url | default('')) ~ (page.url | default('')) }}" />
 
 {% if meta.meta_data.mastodonProfile %}
 <!-- Mastodon verified site -->
-<link rel="me" href="{{ meta.meta_data.mastodonProfile }}" />
+<link rel="me" href="{{ meta.meta_data.mastodonProfile | default('') }}" />
 {% endif %}
 
 <!-- Google tag (gtag.js) -->
@@ -26,22 +26,23 @@
 </script>
 
 <!-- Open Graph meta  -->
-<meta property="og:url" content="{{ meta.url }}{{ page.url }}" />
+<meta property="og:url" content="{{ (meta.url | default('')) ~ (page.url | default('')) }}" />
 <meta property="og:type" content="website" />
-<meta property="og:title" content="{% if title %}{{ title }}{% else %}{{ meta.siteName }}{% endif %}" />
-<meta property="og:image" content="{% if featureImage %}{{ meta.url }}{{ featureImage }}{% else %}{{ meta.url }}{{ meta.defaultimage }}{% endif %}" />
-<meta property="og:image:alt" content="{% if title %}{{ title }}{% else %}{{ meta.siteName }}{% endif %} image" />
-<meta property="og:description" content="{%- if description %}{{ description | trim }}{%- else %}{{ meta.siteDescription | trim }}{%- endif %}" />
-<meta property="og:site_name" content="{{ meta.siteName }}" />
-<meta property="og:locale" content="{{ meta.locale }}" />
-<meta property="article:author" content="{{ meta.author }}" />
+<meta property="og:title" content="{% if title %}{{ title | default('') }}{% else %}{{ meta.siteName | default('') }}{% endif %}" />
+<meta property="og:image" content="{% if featureImage %}{{ (meta.url | default('')) ~ (featureImage | default('')) }}{% else %}{{ (meta.url | default('')) ~ (meta.defaultimage | default('')) }}{% endif %}" />
+<meta property="og:image:alt" content="{% if title %}{{ title | default('') }}{% else %}{{ meta.siteName | default('') }}{% endif %} image" />
+<meta property="og:description" content="{% if description %}{{ description | default('') }}{% else %}{{ meta.siteDescription | default('') }}{% endif %}" />
+<meta property="og:site_name" content="{{ meta.siteName | default('') }}" />
+<meta property="og:locale" content="{{ meta.locale | default('en_US') }}" />
+<meta property="article:author" content="{{ meta.author | default('') }}" />
 
 <!-- Twitter meta -->
 <meta name="twitter:card" content="summary_large_image" />
 {% if meta.meta_data.twitterSite %}
-<meta name="twitter:site" content="{{ meta.meta_data.twitterSite }}" />
-{% endif %} {% if meta.meta_data.twitterCreator %}
-<meta name="twitter:creator" content="{{ meta.meta_data.twitterCreator }}" />
+<meta name="twitter:site" content="{{ meta.meta_data.twitterSite | default('') }}" />
+{% endif %}
+{% if meta.meta_data.twitterCreator %}
+<meta name="twitter:creator" content="{{ meta.meta_data.twitterCreator | default('') }}" />
 {% endif %}
 <meta name="twitter:dnt" content="on" />
 

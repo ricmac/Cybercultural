@@ -1,86 +1,60 @@
-/**
- * I strive to keep the `.eleventy.js` file clean and uncluttered. Most adjustments must be made in:
- *  - `./config/collections/index.js`
- *  - `./config/filters/index.js`
- *  - `./config/plugins/index.js`
- *  - `./config/shortcodes/index.js`
- *  - `./config/transforms/index.js`
- */
+import { createRequire } from "node:module";
+const require = createRequire(import.meta.url);
+const pkg = require('./package.json');
+const packageVersion = pkg.version;
 
-// JSDoc comment: Hint VS Code for eleventyConfig autocompletion. © Henry Desroches - https://gist.github.com/xdesro/69583b25d281d055cd12b144381123bf
+// Module import filters
+import { limit, toHtml, where, toISOString, toAbsoluteUrl, stripHtml, minifyCss, minifyJs, mdInline, splitlines } from './config/filters/index.js';
 
-/**
- *  @param {import("@11ty/eleventy/src/UserConfig")} eleventyConfig
- */
+// Module import shortcodes
+import { includeRaw, liteYoutube } from './config/shortcodes/index.js';
 
-// get package.json
-const packageVersion = require('./package.json').version;
+// Module import collections
+import { getAllPosts, onlyMarkdown } from './config/collections/index.js';
 
-// module import filters
-const {
-  limit,
-  toHtml,
-  where,
-  toISOString,
-  formatDate,
-  toAbsoluteUrl,
-  stripHtml,
-  minifyCss,
-  minifyJs,
-  mdInline,
-  splitlines
-} = require('./config/filters/index.js');
+// Plugins
+import markdownLib from './config/plugins/markdown.js';
+import { EleventyRenderPlugin } from '@11ty/eleventy';
+import syntaxHighlight from '@11ty/eleventy-plugin-syntaxhighlight';
+import { slugifyString } from './config/utils/index.js';
+import _ from 'lodash';
+import pluginRss from '@11ty/eleventy-plugin-rss';
+import bundlerPlugin from '@11ty/eleventy-plugin-bundle';
+import { execSync } from 'child_process';
+import htmlConfigPlugin from './config/transforms/html-config.js';
+import cssConfigPlugin from './config/template-languages/css-config.js';
+import jsConfigPlugin from './config/template-languages/js-config.js';
+import dayjs from 'dayjs';
 
-// module import shortcodes
-const {
-  imageShortcodePlaceholder,
-  includeRaw,
-  liteYoutube
-} = require('./config/shortcodes/index.js');
+// Import Eleventy Image Plugin
+import { eleventyImageTransformPlugin } from "@11ty/eleventy-img";
 
-// module import collections
-const {getAllPosts} = require('./config/collections/index.js');
-const {onlyMarkdown} = require('./config/collections/index.js');
+// Format Date Function
+export const formatDate = (date, format) => dayjs(date).format(format);
 
-// module import events
-const {svgToJpeg} = require('./config/events/index.js');
-
-// plugins
-const markdownLib = require('./config/plugins/markdown.js');
-const {EleventyRenderPlugin} = require('@11ty/eleventy');
-const syntaxHighlight = require('@11ty/eleventy-plugin-syntaxhighlight');
-const {slugifyString} = require('./config/utils');
-const {escape} = require('lodash');
-const pluginRss = require('@11ty/eleventy-plugin-rss');
-const bundlerPlugin = require('@11ty/eleventy-plugin-bundle');
-
-// --------------------- Pagefind search const -------------------------
-const { execSync } = require('child_process');
-
-module.exports = eleventyConfig => {
-
-// ---------------- Pagefind search main code ---------------------
+export default function(eleventyConfig) {
+  // Pagefind search
   eleventyConfig.on('eleventy.after', () => {
-    execSync(`npx pagefind --site dist --glob \"**/*.html\"`, { encoding: 'utf-8' })
+    execSync(`npx pagefind --site dist --glob "**/*.html"`, { encoding: 'utf-8' });
   });
-  // 	--------------------- Custom Watch Targets -----------------------
+
+  // Custom Watch Targets
   eleventyConfig.addWatchTarget('./src/assets');
   eleventyConfig.addWatchTarget('./utils/*.js');
 
-  // --------------------- layout aliases -----------------------
+  // Layout Aliases
   eleventyConfig.addLayoutAlias('base', 'base.njk');
   eleventyConfig.addLayoutAlias('page', 'page.njk');
   eleventyConfig.addLayoutAlias('home', 'home.njk');
   eleventyConfig.addLayoutAlias('blog', 'blog.njk');
   eleventyConfig.addLayoutAlias('post', 'post.njk');
 
-  // 	---------------------  Custom filters -----------------------
+  // Custom filters
   eleventyConfig.addFilter('limit', limit);
   eleventyConfig.addFilter('where', where);
-  eleventyConfig.addFilter('escape', escape);
+  eleventyConfig.addFilter('escape', _.escape);
   eleventyConfig.addFilter('toHtml', toHtml);
   eleventyConfig.addFilter('toIsoString', toISOString);
-  eleventyConfig.addFilter('formatDate', formatDate);
   eleventyConfig.addFilter('toAbsoluteUrl', toAbsoluteUrl);
   eleventyConfig.addFilter('stripHtml', stripHtml);
   eleventyConfig.addFilter('slugify', slugifyString);
@@ -93,67 +67,53 @@ module.exports = eleventyConfig => {
   eleventyConfig.addFilter('keys', Object.keys);
   eleventyConfig.addFilter('values', Object.values);
   eleventyConfig.addFilter('entries', Object.entries);
-  eleventyConfig.addFilter("filterMentionsByTarget", function(mentions, targetUrl) {
-    return mentions.filter(mention => mention['wm-target'] === targetUrl);
-  });
-  
 
-  // 	--------------------- Custom shortcodes ---------------------
-  eleventyConfig.addNunjucksAsyncShortcode('imagePlaceholder', imageShortcodePlaceholder);
+  // Register formatDate filter
+  eleventyConfig.addFilter('formatDate', formatDate);
+
+  // Custom shortcodes
   eleventyConfig.addShortcode('youtube', liteYoutube);
   eleventyConfig.addShortcode('include_raw', includeRaw);
-  eleventyConfig.addShortcode('year', () => `${new Date().getFullYear()}`); // current year, stephanie eckles
+  eleventyConfig.addShortcode('year', () => `${new Date().getFullYear()}`);
   eleventyConfig.addShortcode('packageVersion', () => `v${packageVersion}`);
-  eleventyConfig.addShortcode("image", async function(src) {
-    let metadata = await Image(src, {
-      widths: [600] 
-    });
-    let data = metadata.jpeg[0];
-    return `${data.url}`;
+
+  // Add Eleventy Image Plugin
+  eleventyConfig.addPlugin(eleventyImageTransformPlugin, {
+    extensions: "html",
+    formats: ["webp", "jpeg"],
+    defaultAttributes: {
+      loading: "lazy",
+      decoding: "async",
+    },
   });
 
-  // 	--------------------- Custom transforms ---------------------
-  eleventyConfig.addPlugin(require('./config/transforms/html-config.js'));
-
-  // 	--------------------- Custom Template Languages ---------------------
-  eleventyConfig.addPlugin(require('./config/template-languages/css-config.js'));
-  eleventyConfig.addPlugin(require('./config/template-languages/js-config.js'));
-
-  // 	--------------------- Custom collections -----------------------
+  // Apply transforms and template configurations
+  htmlConfigPlugin(eleventyConfig);
+  cssConfigPlugin(eleventyConfig);
+  jsConfigPlugin(eleventyConfig);
+  
+  // Custom collections
   eleventyConfig.addCollection('posts', getAllPosts);
   eleventyConfig.addCollection('onlyMarkdown', onlyMarkdown);
 
-  // 	--------------------- Events ---------------------
-  eleventyConfig.on('afterBuild', svgToJpeg);
-
-  // 	--------------------- Plugins ---------------------
+  // Plugins
   eleventyConfig.addPlugin(EleventyRenderPlugin);
   eleventyConfig.addPlugin(syntaxHighlight);
   eleventyConfig.setLibrary('md', markdownLib);
   eleventyConfig.addPlugin(pluginRss);
   eleventyConfig.addPlugin(bundlerPlugin);
 
-  // 	--------------------- Passthrough File Copy -----------------------
-  // same path
-  ['src/assets/fonts/', 'src/assets/images/'].forEach(path =>
-    eleventyConfig.addPassthroughCopy(path)
-  );
+  // Passthrough File Copy
+  ['src/assets/fonts/', 'src/assets/images/'].forEach(path => eleventyConfig.addPassthroughCopy(path));
+  eleventyConfig.addPassthroughCopy({ 'src/assets/images/favicon/*': '/' });
+  eleventyConfig.addPassthroughCopy("_redirects");
 
-  // social icons to root directory
-  eleventyConfig.addPassthroughCopy({
-    'src/assets/images/favicon/*': '/'
-  });
-  
-  // 	--------------------- general config -----------------------
+  // General Config
   return {
-    // Pre-process *.md, *.html and global data files files with: (default: `liquid`)
     markdownTemplateEngine: 'njk',
     htmlTemplateEngine: 'njk',
     dataTemplateEngine: 'njk',
-
-    // Optional (default is set): If your site deploys to a subdirectory, change `pathPrefix`, for example with with GitHub pages
     pathPrefix: '/',
-
     dir: {
       output: 'dist',
       input: 'src',
@@ -161,4 +121,4 @@ module.exports = eleventyConfig => {
       layouts: '_layouts'
     }
   };
-};
+}
