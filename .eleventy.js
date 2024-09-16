@@ -26,6 +26,9 @@ import cssConfigPlugin from './config/template-languages/css-config.js';
 import jsConfigPlugin from './config/template-languages/js-config.js';
 import dayjs from 'dayjs';
 
+// Import Eleventy Image Plugin
+import { eleventyImageTransformPlugin } from "@11ty/eleventy-img";
+
 // Format Date Function
 export const formatDate = (date, format) => dayjs(date).format(format);
 
@@ -79,6 +82,16 @@ export default function(eleventyConfig) {
     let metadata = await Image(src, { widths: [600] });
     let data = metadata.jpeg[0];
     return `${data.url}`;
+  });
+
+  // Add Eleventy Image Plugin
+  eleventyConfig.addPlugin(eleventyImageTransformPlugin, {
+    extensions: "html",
+    formats: ["webp", "jpeg"],
+    defaultAttributes: {
+      loading: "lazy",
+      decoding: "async",
+    },
   });
 
   // Apply transforms and template configurations
