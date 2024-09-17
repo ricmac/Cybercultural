@@ -21,47 +21,47 @@ A quick note about what Yahoo was, as a product, during the year 1994. It was a 
 Thanks to some [Twitter sluething](https://twitter.com/waxpancake/status/1381343951022555137) by [Andy Baio](https://twitter.com/waxpancake/) and [Joe Crawford](https://twitter.com/artlung) earlier this year, the May 1994 Perl script that generated an early version of the Yahoo directory is available to view [on GitHub](https://gist.github.com/artlung/74184de3c381966a14f97a8605d17572). Here’s a slice of that Perl code, which in this case served to create the directories:
 
 ```perl
-        #
-        # big for loop to make appropriate directories
-        #
-        foreach $j (split (/\003/, $Key[$i])) {
-          #
-          #
-          # print ("($j, $Topic{$j}) \n");
-          #
-          #
-          if ($i != 0) {
-    	#
-    	# make sure this is same as below for references
-    	#
-    	@_ = split(/\000/, &canon_path($j));
-    	shift(@_);		# get rid of top_
-    	$curdir = join("/",@_);	# form directory path
-    	$curdir =~ s/[\000\s]+$//g; # remove any trailing whitespace
-    	$curdir =~  s/[\000\s]+/_/g;	# sub white spaces with _
-    	$curdir = $hotdir."/".$curdir;
-    	if (!(-e $curdir)) {
-    	  $dirlist .= " ".$curdir;
-    	  $dircnt++;
-    	  if ($dircnt > 15) {	# some random number i made up...
-    #	    
-    	    print "mkdir -m g+w $dirlist<br>\n";
-    #	    
-    	    system "mkdir -m g+w $dirlist";
-    	    $dirlist ="";
-    	    $dircnt=0;	    
-    	  }
-    	}
-          }
-        }
-        if ($dircnt > 0) {
-    #      
-          print "mkdir -m g+w $dirlist<br>\n";
-    #      
-          system "mkdir -m g+w $dirlist";
-          $dirlist ="";
-          $dircnt=0;
-        }
+    #
+    # big for loop to make appropriate directories
+    #
+    foreach $j (split (/\003/, $Key[$i])) {
+      #
+      #
+      # print ("($j, $Topic{$j}) \n");
+      #
+      #
+      if ($i != 0) {
+	#
+	# make sure this is same as below for references
+	#
+	@_ = split(/\000/, &canon_path($j));
+	shift(@_);		# get rid of top_
+	$curdir = join("/",@_);	# form directory path
+	$curdir =~ s/[\000\s]+$//g; # remove any trailing whitespace
+	$curdir =~  s/[\000\s]+/_/g;	# sub white spaces with _
+	$curdir = $hotdir."/".$curdir;
+	if (!(-e $curdir)) {
+	  $dirlist .= " ".$curdir;
+	  $dircnt++;
+	  if ($dircnt > 15) {	# some random number i made up...
+#	    
+	    print "mkdir -m g+w $dirlist<br>\n";
+#	    
+	    system "mkdir -m g+w $dirlist";
+	    $dirlist ="";
+	    $dircnt=0;	    
+	  }
+	}
+      }
+    }
+    if ($dircnt > 0) {
+#      
+      print "mkdir -m g+w $dirlist<br>\n";
+#      
+      system "mkdir -m g+w $dirlist";
+      $dirlist ="";
+      $dircnt=0;
+    }
 ```
 
 Even though the Perl scripts helped automate part of the process of creating the Yahoo directory — in particular the generation of the web pages — the groundwork of filtering and categorizing websites was a manual process. As explained in [a Stanford case study](https://hugepdf.com/download/yahoo-1995-first-round-financing-stanford-technology-ventures-stvp-1998-005-prog_pdf#):
