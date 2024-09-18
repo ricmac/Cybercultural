@@ -87,4 +87,4 @@ Current was the type of creative technology solution that I hoped to see more of
 
 This post is part of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. View [table of contents](/p/roadmap-bubbleblog/).
 
-Next up: 050. Visiting the New York Times and Attending Creative Week NYC
+Next up: [050. New York Times HQ Visit and Emergence of Influencer Culture](/p/meeting-new-york-times-may2010/)
