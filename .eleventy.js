@@ -46,9 +46,11 @@ export default function(eleventyConfig) {
   eleventyConfig.addLayoutAlias('base', 'base.njk');
   eleventyConfig.addLayoutAlias('page', 'page.njk');
   eleventyConfig.addLayoutAlias('home', 'home.njk');
-  eleventyConfig.addLayoutAlias('memoir', 'memoir.njk');
   eleventyConfig.addLayoutAlias('post', 'post.njk');
   eleventyConfig.addLayoutAlias('dotcom', 'dotcom.njk');
+  eleventyConfig.addLayoutAlias('web20', 'web20.njk');
+  eleventyConfig.addLayoutAlias('prehistory', 'prehistory.njk');
+  eleventyConfig.addLayoutAlias('personal', 'personal.njk');
 
   // Custom filters
   eleventyConfig.addFilter('limit', limit);
