@@ -5,24 +5,24 @@ export default {
       url: '/about/'
     },
     {
-      text: 'Memoir',
-      url: '/memoir/'
+      text: 'Pre-History',
+      url: '/prehistory/'
     },
     {
-      text: 'Articles',
-      url: '/articles/'
+      text: 'Dot Com',
+      url: '/dotcom/'
     },
     {
-      text: 'WDH',
-      url: '/wdh/'
+      text: 'Web 2.0',
+      url: '/web20/'
+    },
+    {
+      text: 'Personal',
+      url: '/personal/'
     },
     {
       text: 'Search',
       url: '/search/'
-    },
-    {
-      text: 'Subscribe',
-      url: '/subscribe/'
     },
   ],
   bottom: [

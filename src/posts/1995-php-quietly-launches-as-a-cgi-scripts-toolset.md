@@ -3,7 +3,7 @@ title: "1995: PHP Quietly Launches as a CGI Scripts Toolset"
 description: "If CGI scripts were the start of interactive programming on the web, then Personal Home Page Tools (PHP Tools) was the natural next step — at least on the server-side."
 date: 2021-04-13
 permalink: "p/1995-php-quietly-launches-as-a-cgi-scripts-toolset/"
-tags: ['WDH']
+tags: ['dotcom']
 featureImage: "/assets/images/wdh/php_elephant_wdh.jpg"
 ---
 ![PHP elephant logo](/assets/images/wdh/php_elephant_wdh.jpg)

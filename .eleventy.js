@@ -48,7 +48,7 @@ export default function(eleventyConfig) {
   eleventyConfig.addLayoutAlias('home', 'home.njk');
   eleventyConfig.addLayoutAlias('memoir', 'memoir.njk');
   eleventyConfig.addLayoutAlias('post', 'post.njk');
-  eleventyConfig.addLayoutAlias('wdh', 'wdh.njk');
+  eleventyConfig.addLayoutAlias('dotcom', 'dotcom.njk');
 
   // Custom filters
   eleventyConfig.addFilter('limit', limit);

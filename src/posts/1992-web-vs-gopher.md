@@ -3,7 +3,7 @@ title: "1992: The Web vs Gopher, and the First External Browsers"
 description: "Three new, non-CERN web browsers were released over 1992, at a time when there were less than twenty websites in the world. It was a turning point for the young Web."
 date: 2021-11-18
 permalink: "p/1992-web-vs-gopher/"
-tags: ['WDH']
+tags: ['dotcom']
 featureImage: "/assets/images/wdh/viola_erwise_880.jpg"
 ---
 ![1992 web browsers](/assets/images/wdh/viola_erwise_880.jpg)

@@ -3,7 +3,7 @@ title: "1994: How Perl Became the Foundation of Yahoo"
 description: "The founding of Yahoo is one of the iconic Silicon Valley business stories. What’s lesser known is the web development story of Yahoo throughout 1994, based on a scripting language called Perl."
 date: 2021-08-10
 permalink: "p/1994-perl-yahoo/"
-tags: ['WDH']
+tags: ['dotcom']
 featureImage: "/assets/images/wdh/yahoo_94_feature.jpg"
 ---
 ![1994: How Perl Became the Foundation of Yahoo](/assets/images/wdh/yahoo_94_feature.jpg)

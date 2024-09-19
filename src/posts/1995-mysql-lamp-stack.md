@@ -3,7 +3,7 @@ title: "1995: MySQL Arrives, Completing the LAMP Stack"
 description: "By the end of 1995, the foundational pieces of the open source LAMP stack for web development (Linux, Apache, MySQL, PHP/Perl/Python) were in place. However, MySQL was not initially open source."
 date: 2021-09-15
 permalink: "p/1995-mysql-lamp-stack/"
-tags: ['WDH']
+tags: ['dotcom']
 featureImage: "/assets/images/wdh/mysql_logo_1280.jpg"
 ---
 ![MySql logo](/assets/images/wdh/mysql_logo_1280.jpg)

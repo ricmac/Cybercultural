@@ -3,7 +3,7 @@ title: "1996: Netscape Lays the Groundwork For Web Applications"
 description: "Netscape Navigator 3.0 was a 'universal client' to help expand what HTML could do. But Netscape was also looking to broaden its product offering with a suite of tools it called Netscape Communicator."
 date: 2021-01-21
 permalink: "p/1996-netscape-lays-the-groundwork-for-web-applications/"
-tags: ['WDH']
+tags: ['dotcom']
 featureImage: "/assets/images/wdh/netscape_oct96.jpg"
 ---
 ![Third wave of the Net](/assets/images/wdh/netscape_oct96.jpg)

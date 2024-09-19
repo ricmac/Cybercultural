@@ -3,7 +3,7 @@ title: "1968: The Mother of All Demos"
 description: "It's December 9, 1968, and Douglas Engelbart is about to showcase the world’s first personal, networked, computer — as a live demo. It’s the computing equivalent of a high-wire trapeze act with no net."
 date: 2021-01-13
 permalink: "p/1968-the-mother-of-all-demos/"
-tags: ['WDH']
+tags: ['prehistory']
 featureImage: "/assets/images/wdh/doug_engelbart_1968demo1-1.jpg"
 ---
 ![Doug Engelbart](/assets/images/wdh/doug_engelbart_1968demo1-1.jpg)
