@@ -5,7 +5,7 @@ layout: base
 <article class="wrapper region">
 <div class="wrapper flow prose">
 <h1>{{ title }}</h1>
-<p>Articles about computing history before the internet.</p>
+<p>Internet history before the web was born.</p>
 <form
   action="https://buttondown.email/api/emails/embed-subscribe/ricmac"
   method="post"
@@ -23,7 +23,7 @@ layout: base
   {% set count = 0 %}
   {% set postslist = collections.posts | reverse %}
   {% for post in postslist %}
-    {% if post.data.tags and ('prehistory' in post.data.tags) %}
+    {% if post.data.tags and ('preweb' in post.data.tags) %}
       {% if count < 8 %}
         <li class="card flow overflow-hidden">
           {% if post.data.featureImage %}
@@ -46,7 +46,7 @@ layout: base
   <ul>
     {% set additionalCount = 0 %}
     {% for post in postslist %}
-      {% if post.data.tags and ('prehistory' in post.data.tags) %}
+      {% if post.data.tags and ('preweb' in post.data.tags) %}
         {% set additionalCount = additionalCount + 1 %}
         {% if additionalCount > 8 %}
           <li><a href="{{ post.url | url }}">{{ post.data.title }}</a></li>

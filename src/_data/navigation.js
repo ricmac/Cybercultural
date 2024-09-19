@@ -5,11 +5,11 @@ export default {
       url: '/about/'
     },
     {
-      text: 'Pre-History',
-      url: '/prehistory/'
+      text: 'Pre-web',
+      url: '/preweb/'
     },
     {
-      text: 'Dot Com',
+      text: 'Dot-com',
       url: '/dotcom/'
     },
     {

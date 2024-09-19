@@ -49,7 +49,7 @@ export default function(eleventyConfig) {
   eleventyConfig.addLayoutAlias('post', 'post.njk');
   eleventyConfig.addLayoutAlias('dotcom', 'dotcom.njk');
   eleventyConfig.addLayoutAlias('web20', 'web20.njk');
-  eleventyConfig.addLayoutAlias('prehistory', 'prehistory.njk');
+  eleventyConfig.addLayoutAlias('preweb', 'preweb.njk');
   eleventyConfig.addLayoutAlias('personal', 'personal.njk');
 
   // Custom filters

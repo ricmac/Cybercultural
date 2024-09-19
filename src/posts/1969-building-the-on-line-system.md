@@ -3,7 +3,7 @@ title: "1969: Building the oN-Line System"
 description: "On October 1, 1969, ten months after the historic Mother Of All Demos, Doug Engelbart from the Augmentation Research Center gave a second demonstration of the pioneering oN-Line System (NLS)."
 date: 2021-02-02
 permalink: "p/1969-building-the-on-line-system/"
-tags: ['prehistory']
+tags: ['preweb']
 featureImage: "/assets/images/wdh/de_1969_nls.jpg"
 ---
 ![Doug Engelbart](/assets/images/wdh/de_1969_nls.jpg)
