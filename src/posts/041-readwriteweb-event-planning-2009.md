@@ -3,7 +3,7 @@ title: "Planning the First ReadWriteWeb Unconference"
 description: "In July 2009, we begin planning our first in-person event: the ReadWrite Real-Time Web Summit. Also, my personal life receives a boost — but, it’s complicated."
 date: 2024-07-17
 permalink: "p/041-readwriteweb-event-planning-2009/"
-tags: ['Memoir']
+tags: ['web20']
 featureImage: "/assets/images/3889924218_aa5c3d16cd_o.png"
 ---
 

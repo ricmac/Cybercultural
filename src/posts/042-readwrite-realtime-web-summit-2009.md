@@ -3,7 +3,7 @@ title: "The ReadWrite Real-Time Web Summit, October 2009"
 description: "ReadWriteWeb holds its first ever event, a one-day 'unconference' at the beautiful Computer History Museum in Mountain View, on a sunny fall day in 2009."
 date: 2024-07-24
 permalink: "p/042-readwrite-realtime-web-summit-2009/"
-tags: ['Memoir']
+tags: ['web20']
 featureImage: "/assets/images/ricmac_rwsummit_oct09.JPG"
 ---
 

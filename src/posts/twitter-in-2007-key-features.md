@@ -3,7 +3,7 @@ title: "Curious About Early Twitter? Discover 5 Key Facts From 2007"
 description: "Here are five things you might not have known about Twitter in 2007, the year it broke out as a leading social media tool. For starters, it was termed microblogging and the word 'tweet' wasn't yet common."
 date: 2024-06-07
 permalink: "p/twitter-in-2007-key-facts/"
-tags: ['Article']
+tags: ['web20']
 featureImage: "/assets/images/twitter-sxsw07.jpg"
 ---
 

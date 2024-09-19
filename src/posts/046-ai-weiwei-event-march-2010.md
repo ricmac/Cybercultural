@@ -3,7 +3,7 @@ title: "Democracy on the Net: Onstage With Ai Weiwei and @Jack"
 description: "It's March 2010 and the Paley Center hosts an event in NYC starring Chinese artist and activist Ai Weiwei, Twitter CEO Jack Dorsey, and your humble RWW editor. We're discussing the future of democracy."
 date: 2024-08-21
 permalink: "p/046-ai-weiwei-event-march-2010/"
-tags: ['Memoir']
+tags: ['web20']
 featureImage: "/assets/images/paley-center-march2010-ricmac-weiwei-jack.jpg"
 ---
 

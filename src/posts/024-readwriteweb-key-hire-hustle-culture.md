@@ -3,7 +3,7 @@ title: "Read/WriteWeb Makes Key Hire & I Meet Hustle Culture"
 description: "Marshall Kirkpatrick joins Read/WriteWeb in September 2007. The following month, I attend the Web 2.0 Summit and experience the start of hustle culture."
 date: 2024-03-12
 permalink: "p/024-readwriteweb-key-hire-hustle-culture/"
-tags: ['Memoir']
+tags: ['web20']
 featureImage: "/assets/images/1622036248_c02d6f9068_o.jpg"
 ---
 

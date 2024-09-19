@@ -3,7 +3,7 @@ title: 'Growth of Web 2.0 & RWW in 2005, Before My US Trip'
 description: "I first visited the US in late September 2005. But what happened in Web 2.0 and for Read/WriteWeb in the 9 months prior?"
 date: 2023-11-17
 permalink: "p/2005-growth-of-web-20-and-rww/"
-tags: ['Memoir']
+tags: ['web20']
 featureImage: "/assets/images/b811ca8a-7408-4f06-81a8-53f101bf82a0_829x622.png"
 ---
 ![](/assets/images/b811ca8a-7408-4f06-81a8-53f101bf82a0_829x622.png)

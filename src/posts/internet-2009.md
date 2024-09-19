@@ -3,7 +3,7 @@ title: "What the Internet Was Like in 2009"
 description: "The social web went mainstream in 2009, with everyone from Oprah Winfrey to Ashton Kutcher on Twitter — including via iPhone or Android apps. But Web 2.0 capitalism was also ramping up."
 date: 2024-08-16
 permalink: "p/internet-2009/"
-tags: ['Article']
+tags: ['web20']
 featureImage: "/assets/images/twitter_oprah_2009.jpg"
 ---
 

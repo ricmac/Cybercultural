@@ -3,7 +3,7 @@ title: 'Roadmap (Table of Contents)'
 description: "A chronological table of contents for my book, Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution."
 date: 2023-11-02
 permalink: "p/roadmap-bubbleblog/"
-tags: ['Memoir']
+tags: ['web20']
 featureImage: "/assets/images/73ba0b8a-0364-47f9-9b0d-a7a3cca2a00c_3400x2134.jpg"
 ---
 ![Bubble Blog book cover](/assets/images/73ba0b8a-0364-47f9-9b0d-a7a3cca2a00c_3400x2134.jpg "Bubble Blog book cover")

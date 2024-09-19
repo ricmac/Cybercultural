@@ -3,7 +3,7 @@ title: "Meeting My Hero, Tim Berners-Lee, at W3C Headquarters"
 description: "At the end of another oversea trip in mid-2009, I visit MIT in Cambridge to meet the man who created the World Wide Web. Also, I delve deeper into the Semantic Web and Internet of Things."
 date: 2024-07-03
 permalink: "p/039-tim-berners-lee-2009/"
-tags: ['Memoir']
+tags: ['web20']
 featureImage: "/assets/images/tbl-ricmac-june09.jpeg"
 ---
 
