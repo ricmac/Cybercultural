@@ -1,13 +1,12 @@
 ---
-title: "WDH Timeline"
-description: "Timeline of 1990s web development history."
-date: 2021-01-05
-permalink: "p/wdh-timeline/"
-tags: ['WDH']
+title: WDH Timeline
+permalink: /wdh/timeline.html
+description: Timeline of 1990s web development history
+layout: page
 ---
 This page is a straight chronology of web development history. Almost every post published on WDH was focused on a specific year, so you can read through them year-by-year if you wish.
 
-There is also a [topical index](/p/wdh-index/), if you prefer that approach.
+There is also a [topical index](/wdh/topics.html), if you prefer that approach.
 
 Pre-History
 -----------
@@ -67,5 +66,3 @@ Pre-History
 ### 1999
 
 *   [The Fall of Netscape and the Rise of Mozilla](/p/1999-the-fall-of-netscape-and-the-rise-of-mozilla/)
-
-***

@@ -1,11 +1,10 @@
 ---
-title: "WDH Index"
-description: "Index of 1990s web development history."
-date: 2021-01-05
-permalink: "p/wdh-index/"
-tags: ['WDH']
+title: WDH Topics
+permalink: /wdh/topics.html
+description: Timeline of 1990s web development history
+layout: page
 ---
-This page is a topical index of WDH posts. There is also a [chronological timeline](/p/wdh-timeline/), if you prefer that approach.
+This page is a topical index of WDH posts. There is also a [chronological timeline](/wdh/timeline.html), if you prefer that approach.
 
 WWW Beginnings
 --------------
@@ -48,5 +47,3 @@ Pre-History
 *   [1968: The Mother of All Demos](/p/1968-the-mother-of-all-demos/)
 *   [1969: Building the oN-Line System](/p/1969-building-the-on-line-system/)
 *   [The Time I Met Bill English](/p/the-first-web-developer/)
-
-***
