@@ -96,8 +96,22 @@ export default function(eleventyConfig) {
   jsConfigPlugin(eleventyConfig);
   
   // Custom collections
-  eleventyConfig.addCollection('posts', getAllPosts);
-  eleventyConfig.addCollection('onlyMarkdown', onlyMarkdown);
+eleventyConfig.addCollection('posts', getAllPosts);
+eleventyConfig.addCollection('onlyMarkdown', onlyMarkdown);
+
+// Add a collection for specified categories
+eleventyConfig.addCollection("categorizedPosts", function(collectionApi) {
+  return collectionApi.getFilteredByTag("posts")
+    .filter(post => {
+      return post.data.tags && (
+        post.data.tags.includes("web20") ||
+        post.data.tags.includes("dotcom") ||
+        post.data.tags.includes("personal") ||
+        post.data.tags.includes("preweb")
+      );
+    })
+    .sort((a, b) => b.date - a.date); // Sort explicitly to ensure reverse order
+});
 
   // Plugins
   eleventyConfig.addPlugin(EleventyRenderPlugin);

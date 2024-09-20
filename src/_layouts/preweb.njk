@@ -19,42 +19,33 @@ layout: base
 </form>
 </div>
 
-<ul class="grid mt-l-xl" role="list" data-rows="masonry" data-layout="50-50">
-  {% set count = 0 %}
-  {% set postslist = collections.posts | reverse %}
-  {% for post in postslist %}
-    {% if post.data.tags and ('preweb' in post.data.tags) %}
-      {% if count < 8 %}
-        <li class="card flow overflow-hidden">
-          {% if post.data.featureImage %}
-            <img class="post-feature-image" src="{{ post.data.featureImage | url }}" alt="{{ post.data.title }}">
-          {% endif %}
-          <h2>
-            <a href="{{ post.url | url }}">{{ post.data.title }}</a>
-          </h2>
-          {% set definedDate = post.date %} {% include "partials/date.njk" %}
-          <p>{{ post.data.description }}</p>
-        </li>
-      {% endif %}
-      {% set count = count + 1 %}
-    {% endif %}
-  {% endfor %}
-</ul>
-
-{% if count > 8 %}
-  <h3>More Articles</h3>
-  <ul>
-    {% set additionalCount = 0 %}
-    {% for post in postslist %}
-      {% if post.data.tags and ('preweb' in post.data.tags) %}
-        {% set additionalCount = additionalCount + 1 %}
-        {% if additionalCount > 8 %}
-          <li><a href="{{ post.url | url }}">{{ post.data.title }}</a></li>
+  <ul class="grid mt-l-xl" role="list" data-rows="masonry" data-layout="50-50">
+    {% for post in pagedPosts %}
+      <li class="card flow overflow-hidden">
+        {% if post.data.featureImage %}
+          <img class="post-feature-image" src="{{ post.data.featureImage | url }}" alt="{{ post.data.title }}">
         {% endif %}
-      {% endif %}
+        <h2><a href="{{ post.url | url }}">{{ post.data.title }}</a></h2>
+        {% set definedDate = post.date %} {% include "partials/date.njk" %}
+        <p>{{ post.data.description }}</p>
+      </li>
     {% endfor %}
   </ul>
-{% endif %}
+
+<div class="pagination">
+  {% if pagination.pageNumber > 0 and pagination.href.next %}
+    <a href="{{ pagination.href.previous }}" class="pagination-prev">Previous Page</a> | 
+    <a href="{{ pagination.href.next }}" class="pagination-next">Next Page</a>
+  {% else %}
+    {% if pagination.pageNumber > 0 %}
+      <a href="{{ pagination.href.previous }}" class="pagination-prev">Previous Page</a>
+    {% endif %}
+  
+    {% if pagination.href.next %}
+      <a href="{{ pagination.href.next }}" class="pagination-next">Next Page</a>
+    {% endif %}
+  {% endif %}
+</div>
 
 </article>
 
