@@ -1,5 +1,5 @@
 ---
-title: 'Roadmap (Table of Contents)'
+title: 'My Web 2.0 Memoir: Table of Contents'
 description: "A chronological table of contents for my book, Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution."
 date: 2023-11-02
 permalink: "p/roadmap-bubbleblog/"

@@ -8,4 +8,5 @@ pagination:
   size: 8
   alias: pagedPosts
   addAllPagesToCollections: true
+  reverse: true
 ---
