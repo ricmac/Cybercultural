@@ -3,7 +3,7 @@ title: "What the Internet Was Like in 2006"
 description: "In 2006, social networks like Facebook and YouTube ramped up, Twitter was born, Amazon invented cloud computing, web geeks obsessed over RSS, and User Generated Content was king."
 date: 2024-06-28
 permalink: "p/internet-2006/"
-tags: ['web20']
+tags: ['web20', 'year']
 featureImage: "/assets/images/105122805_a5475e6b45_k.jpg"
 ---
 

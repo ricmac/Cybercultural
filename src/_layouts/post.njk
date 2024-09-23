@@ -16,6 +16,16 @@ preloads:
 
     {{ content | safe }}
 
+{% if tags %}
+  <p>Tags: 
+    {% for tag in tags %}
+      {% if tag != 'posts' %}
+        <a href="/{{ tag | slug }}">{{ tag }}</a>{% if not loop.last %}, {% endif %}
+      {% endif %}
+    {% endfor %}
+  </p>
+{% endif %}
+
 <form
   action="https://buttondown.email/api/emails/embed-subscribe/ricmac"
   method="post"
