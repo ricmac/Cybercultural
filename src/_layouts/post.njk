@@ -31,7 +31,9 @@ preloads:
         {% elif tag == 'year' %}
           {% set tagTitle = "Yearly Reviews" %}
         {% endif %}
-        <a href="/{{ tag | slug }}">{{ tagTitle }}</a>{% if not loop.last %}, {% endif %}
+        
+        {# Use tagTitle if defined, otherwise fall back to tag #}
+        <a href="/{{ tag | slug }}">{{ tagTitle or tag }}</a>{% if not loop.last %}, {% endif %}
       {% endif %}
     {% endfor %}
     </span>

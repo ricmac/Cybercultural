@@ -109,7 +109,8 @@ eleventyConfig.addCollection("categorizedPosts", function(collectionApi) {
         post.data.tags.includes("personal") ||
         post.data.tags.includes("preweb") ||
         post.data.tags.includes("memoir") ||
-        post.data.tags.includes("year")
+        post.data.tags.includes("year") ||
+        post.data.tags.includes("2004")
       );
     })
     .sort((a, b) => b.date - a.date); // Sort explicitly to ensure reverse order
