@@ -44,7 +44,9 @@ This was a highly attractive idea to web geeks like me. Unfortunately though, RS
 
 As Marc Andreessen had articulated at the Web 2.0 Conference, the fate of open standards ultimately depends on whether big tech companies adopt them. As it grew popular, Facebook could’ve adopted RSS. But it didn’t, because supporting an open standard for feeds would not provide data lock-in.
 
-Like almost everyone else, I failed to see the downsides of network effects in 2004.[1](#footnote-1) Perhaps because I was too distracted watching my RSS subscriber numbers going up.
+Like almost everyone else, I failed to see the downsides of network effects in 2004. Perhaps because I was too distracted watching my RSS subscriber numbers going up.
+
+(So what happened to RSS? For a time, Google adopted it and released its own browser-based RSS Reader in October 2005. Perhaps Bloglines had seen the writing on the wall, because by then it had sold to the wannabe Google competitor, Ask&#46;com. By 2007, Google Reader had caught up with Bloglines in users, and by 2008 Google Reader was the dominant RSS Reader product on the market. Google continued to vanquish competitors over the next five years, but during this time period social media began to displace blogging as the water cooler of the internet. Then, in 2013, Google suddenly discontinued Reader. It was the death-knell for the entire product category, because now none of the leading internet companies supported RSS in a meaningful way. I tell this quick story to illustrate the vagaries of network effects for end-users, which weren’t yet obvious in 2004.)
 
 The feedback I got from the Tim O’Reilly interview, which I published in three separate posts over a one-week period in November 2004, was really encouraging. For the first time, it seemed to me, it wasn’t just fellow bloggers leaving comments on my blog, but people in the internet industry who were grateful for the insights.
 
@@ -81,9 +83,3 @@ By this point, it was clear what the focus of my blog would be going forward: We
 This post is part of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. View [table of contents](/p/roadmap-bubbleblog/).
 
 Next up: [005\. Arriving at the TechCrunch Ranch](/p/005-arriving-at-the-techcrunch-ranch)
-
-
-
-[1](#footnote-anchor-1)
-
-So what happened to RSS? For a time, Google adopted it and released its own browser-based RSS Reader in October 2005. Perhaps Bloglines had seen the writing on the wall, because by then it had sold to the wannabe Google competitor, Ask.com. By 2007, Google Reader had caught up with Bloglines in users, and by 2008 Google Reader was the dominant RSS Reader product on the market. Google continued to vanquish competitors over the next five years, but during this time period social media began to displace blogging as the water cooler of the internet. Then, in 2013, Google suddenly discontinued Reader. It was the death-knell for the entire product category, because now none of the leading internet companies supported RSS in a meaningful way. I tell this quick story to illustrate the vagaries of network effects for end-users, which weren’t yet obvious in 2004.

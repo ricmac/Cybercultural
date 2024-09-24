@@ -109,4 +109,4 @@ I felt like I’d just joined the ranks of Silicon Valley’s insiders. And, as 
 
 This post is part of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. View [table of contents](/p/roadmap-bubbleblog/).
 
-Next up: [002\. The Early Years of ReadWriteWeb](/p/the-early-years-of-readwriteweb)
+Next up: [002\. The Early Years of ReadWriteWeb](/p/002-the-early-years-of-readwriteweb)

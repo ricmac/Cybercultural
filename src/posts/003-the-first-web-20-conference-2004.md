@@ -98,5 +98,5 @@ Andreessen’s final comment in the Web 2.0 panel was to answer a question from 
 
 This post is part of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. View [table of contents](/p/roadmap-bubbleblog/).
 
-Next up: [004\. A Call With Tim O'Reilly](/p/call-with-tim-oreilly-2004)
+Next up: [004\. A Call With Tim O'Reilly](/p/004-call-with-tim-oreilly-2004)
 

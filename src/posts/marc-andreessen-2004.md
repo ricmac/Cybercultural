@@ -54,6 +54,6 @@ In a Wired interview in 2012, Andreessen said that at the time he started Ning, 
 
 It was only later on that this idea of social apps for groups was turned into the larger idea of “building your own social network.” But first, Andreessen and Bianchini had to build the platform.
 
-*Read more about Marc Andreessen in 2004 in my article about [the first Web 2.0 Conference](/p/the-first-web-20-conference-2004/).*
+*Read more about Marc Andreessen in 2004 in my article about [the first Web 2.0 Conference](/p/003-the-first-web-20-conference-2004/).*
 
 * * *

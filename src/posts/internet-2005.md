@@ -2,7 +2,7 @@
 title: 'What the Internet Was Like in 2005'
 description: "A look back at internet technology in 2005 — a world before social media, smartphones and the cloud."
 date: 2023-12-15
-permalink: "p/what-the-web-was-like-in-2005/"
+permalink: "p/internet-2005/"
 tags: ['web20', 'year']
 featureImage: "/assets/images/346c4a1a-89b1-437a-b730-16b6f9921b60_2048x1365.jpg"
 ---

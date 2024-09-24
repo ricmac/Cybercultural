@@ -68,4 +68,4 @@ These were early warning signs of what social media would turn into in the 2010s
 
 This post is part of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. View [table of contents](/p/roadmap-bubbleblog/).
 
-Next up: [003\. The First Web 2.0 Conference](/p/the-first-web-20-conference-2004)
+Next up: [003\. The First Web 2.0 Conference](/p/003-the-first-web-20-conference-2004)

@@ -14,7 +14,7 @@ The following is a chronological table of contents for my book, **Bubble Blog: F
 
 ### Introduction
 
-*   [001\. Introduction to Bubble Blog](/p/introduction-to-bubble-blog-book)
+*   [001\. Introduction to Bubble Blog](/p/001-introduction-to-bubble-blog-book)
     
 
 PART 1: 2004-2006
@@ -22,11 +22,11 @@ PART 1: 2004-2006
 
 ### 1\. Amateur Journo
 
-*   [002\. The Early Years of ReadWriteWeb](/p/the-early-years-of-readwriteweb)
+*   [002\. The Early Years of ReadWriteWeb](/p/002-the-early-years-of-readwriteweb)
     
-*   [003\. The First Web 2.0 Conference](/p/the-first-web-20-conference-2004)
+*   [003\. The First Web 2.0 Conference](/p/003-the-first-web-20-conference-2004)
     
-*   [004\. A Call With Tim O'Reilly](/p/call-with-tim-oreilly-2004)
+*   [004\. A Call With Tim O'Reilly](/p/004-call-with-tim-oreilly-2004)
     
 
 ### 2\. Coming to America

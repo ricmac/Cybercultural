@@ -15,7 +15,7 @@ featureImage: "/assets/images/105122805_a5475e6b45_k.jpg"
 ![An early version of Twitter in 2006](/assets/images/twttr_2006.jpeg)
 *Screenshot of Twttr in 2006; via [Josh Sowin](https://twitter.com/joshsowin/status/1050790921128697856/photo/1).*
 
-If [2005](/p/what-the-web-was-like-in-2005/) was about the [decentralised blogosphere](/p/2005-growth-of-web-20-and-rww/) and early “social software” products like [Flickr](/p/flickr-before-smartphones-and-instagram/) and del&#46;icio&#46;us, then 2006 was when big tech companies began to assert themselves. It was the first signs of centralization, which at the time was seen as the internet “maturing.”
+If [2005](/p/internet-2005/) was about the [decentralised blogosphere](/p/2005-growth-of-web-20-and-rww/) and early “social software” products like [Flickr](/p/flickr-before-smartphones-and-instagram/) and del&#46;icio&#46;us, then 2006 was when big tech companies began to assert themselves. It was the first signs of centralization, which at the time was seen as the internet “maturing.”
 
 ## Cloud Computing &#38; Web Office
 
@@ -31,7 +31,7 @@ Google, which had started out in the late-90s as a simple search engine, was now
 
 ## UGC &#38; Power Laws
 
-“User generated content” (UGC) was a term that started to fly around a lot during 2006. One popular theory of the still emerging Web 2.0 era was that if you could build a company off the back of [free content contributed by users](/p/the-first-web-20-conference-2004/) and then somehow gain “[network effects](/p/006-revving-up-2005-web-20-conference/)” — where the more people who contributed content, the more attractive the site became — then you stood a good chance at striking it rich. Easier said than done, but YouTube, Flickr and (increasingly) Facebook were proving that it was the path to success in 2006.
+“User generated content” (UGC) was a term that started to fly around a lot during 2006. One popular theory of the still emerging Web 2.0 era was that if you could build a company off the back of [free content contributed by users](/p/003-the-first-web-20-conference-2004/) and then somehow gain “[network effects](/p/006-revving-up-2005-web-20-conference/)” — where the more people who contributed content, the more attractive the site became — then you stood a good chance at striking it rich. Easier said than done, but YouTube, Flickr and (increasingly) Facebook were proving that it was the path to success in 2006.
 
 Perhaps the definitive UGC site of 2006 was Digg, a tech news aggregator that had recently [surpassed Slashdot](https://www.theguardian.com/technology/blog/2006/mar/20/diggovertakes) in popularity. Digg had grand ambitions — it wanted to expand well beyond tech news and into mainstream topics like science, sports and music. Reddit also had similar ambitions, but it was much less popular than Digg in 2006. It was Digg’s game to win.
 
@@ -59,7 +59,7 @@ Most people didn’t even know what RSS was at that time. However, the internet 
 ![Time Magazine's year-end issue](/assets/images/timemag_dec06.jpg)
 *My copy of Time Magazine's year-end issue, 2006.*
 
-Grossman acknowledged that tools such as [blogs](/p/the-early-years-of-readwriteweb/), YouTube, and social networks were “a massive social experiment” and perceptively noted that “Web 2.0 harnesses the stupidity of crowds as well as its wisdom.” But he ended on a note of rose-tinted optimism common to that era: “This is an opportunity to build a new kind of international understanding, not politician to politician, great man to great man, but citizen to citizen, person to person.”
+Grossman acknowledged that tools such as [blogs](/p/002-the-early-years-of-readwriteweb/), YouTube, and social networks were “a massive social experiment” and perceptively noted that “Web 2.0 harnesses the stupidity of crowds as well as its wisdom.” But he ended on a note of rose-tinted optimism common to that era: “This is an opportunity to build a new kind of international understanding, not politician to politician, great man to great man, but citizen to citizen, person to person.”
 
 ## Platform Power Emerges
 
@@ -73,7 +73,7 @@ Vive la révolution, I guess — although in later years it became clear that th
 
 Read next: 
 * [What the Internet Was Like in 2004](/p/internet-2004/)
-* [What the Internet Was Like in 2005](/p/what-the-web-was-like-in-2005/)
+* [What the Internet Was Like in 2005](/p/internet-2005/)
 * [What the Internet Was Like in 2007](/p/internet-2007/)
 * [What the Internet Was Like in 2008](/p/internet-2008/)
 * [What the Internet Was Like in 2009](/p/internet-2009/)

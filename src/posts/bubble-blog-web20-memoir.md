@@ -27,6 +27,6 @@ Perhaps current tech entrepreneurs and media “creators” (to use the modern l
 
 I hope you’ll join me for this journey into the heart of Web 2.0.
 
-Next up: [001. Introduction to Bubble Blog](/p/introduction-to-bubble-blog-book/)
+Next up: [001. Introduction to Bubble Blog](/p/001-introduction-to-bubble-blog-book/)
 
 * * *
