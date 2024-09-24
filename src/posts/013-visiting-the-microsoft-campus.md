@@ -3,7 +3,7 @@ title: 'Visiting the Microsoft Campus in Redmond; January 2006'
 description: "It's January 2006 and I attend Microsoft Search Champs to discuss Live.com, the company's start page. I also catch up with a fellow Web 2.0 Workgroup member."
 date: 2023-12-20
 permalink: "p/013-visiting-the-microsoft-campus/"
-tags: ['web20']
+tags: ['web20', 'memoir']
 featureImage: "/assets/images/315d4eb2-a0cb-45d9-be9f-e8a5e55b2fb6_1637x1228.jpg"
 ---
 ![Welcome to Microsoft Search Champs](/assets/images/315d4eb2-a0cb-45d9-be9f-e8a5e55b2fb6_1637x1228.jpg "Welcome to Microsoft Search Champs")

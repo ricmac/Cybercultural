@@ -3,7 +3,7 @@ title: 'The Birth of Cloud Computing and Team Read/WriteWeb'
 description: "In 2006, Read/WriteWeb gets a redesign and I begin to grow the team, starting with a couple of engineers who help me explain Amazon Web Services and GoogleOS."
 date: 2024-01-30
 permalink: "p/018-birth-of-cloud-computing/"
-tags: ['web20']
+tags: ['web20', 'memoir']
 featureImage: "/assets/images/rwwric_alex_2009.jpg"
 ---          
 

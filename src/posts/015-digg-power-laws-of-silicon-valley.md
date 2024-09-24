@@ -3,7 +3,7 @@ title: 'Digg and the Power Laws of Silicon Valley in 2006'
 description: "It's 2006 and there is a lot of controversy about the power wielded at 'user generated content' aggregators like Digg, Reddit and Netscape 2.0."
 date: 2024-01-09
 permalink: "p/015-digg-power-laws-of-silicon-valley/"
-tags: ['web20']
+tags: ['web20', 'memoir']
 featureImage: "/assets/images/a75d9528-09fb-4a81-9ffc-4f8127ccab34_1200x800.jpg"
 ---
 

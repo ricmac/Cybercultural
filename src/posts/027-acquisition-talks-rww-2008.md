@@ -3,7 +3,7 @@ title: "Acquisition Talks: Two Suitors For ReadWriteWeb"
 description: "In early 2008, I find myself with two media company wooers: CMP and Ziff Davis Enterprise. The deals look good, but the earn-out targets concern me."
 date: 2024-04-03
 permalink: "p/027-acquisition-talks-rww-2008/"
-tags: ['web20']
+tags: ['web20', 'memoir']
 featureImage: "/assets/images/rww_presentation_march2008.jpg"
 ---
 

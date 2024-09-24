@@ -3,7 +3,7 @@ title: 'The Core Values of Blogging: Attending BloggerCon 2006'
 description: "In June 2006, I interview Yahoo at Supernova about its so-called open platform and then struggle to get a word in edgeways at BloggerCon."
 date: 2024-01-16
 permalink: "p/016-the-core-values-of-blogging/"
-tags: ['web20']
+tags: ['web20', 'memoir']
 featureImage: "/assets/images/f93a892c-5e78-4050-961e-9cd4c2092040_2048x1365.jpg"
 ---
 

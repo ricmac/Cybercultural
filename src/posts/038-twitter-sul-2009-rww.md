@@ -3,7 +3,7 @@ title: "RWW Makes Twitter Suggested User List and Grows Team"
 description: "Troubles in my personal life impact the ReadWriteWeb business in the first half of 2009, but traffic continues to grow. We also add several new writers and operations people to our team."
 date: 2024-06-26
 permalink: "p/038-twitter-sul-2009-rww/"
-tags: ['web20']
+tags: ['web20', 'memoir']
 featureImage: "/assets/images/rww_1july2009.jpg"
 ---
 

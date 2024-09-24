@@ -3,7 +3,7 @@ title: 'Reluctant Salesman: The Sponsor Ads Era of the Blogosphere'
 description: "Over 2006, I ramp up Read/WriteWeb's advertising business, by first partnering with John Battelle's FM Publishing and then copying TechCrunch's sidebar ad format."
 date: 2023-12-27
 permalink: "p/014-the-sponsor-ads-era-2006/"
-tags: ['web20']
+tags: ['web20', 'memoir']
 featureImage: "/assets/images/59d474d4-5497-4bb7-a6b1-6d95eac0233b_1001x572.jpg"
 ---
 ![](/assets/images/59d474d4-5497-4bb7-a6b1-6d95eac0233b_1001x572.jpg)

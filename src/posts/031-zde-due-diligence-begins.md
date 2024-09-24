@@ -3,7 +3,7 @@ title: "Due Diligence Begins in NYC; RWW Gets a Media Award"
 description: "Just as ReadWriteWeb becomes one of the 10 most popular blogs in the world, I travel to New York to meet with Ziff Davis Enterprise about its proposed acquisition."
 date: 2024-05-08
 permalink: "p/031-zde-due-diligence-begins/"
-tags: ['web20']
+tags: ['web20', 'memoir']
 featureImage: "/assets/images/nyc2_may2008.jpeg"
 ---
 

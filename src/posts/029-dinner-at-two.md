@@ -3,7 +3,7 @@ title: "Dinner at TWO, But With Which Acquirer?"
 description: "I continue negotiations with two potential acquirers of ReadWriteWeb: CMP and Ziff Davis Enterprise. One invites me to dinner, but it turns out three's a crowd."
 date: 2024-04-16
 permalink: "p/029-dinner-at-two/"
-tags: ['web20']
+tags: ['web20', 'memoir']
 featureImage: "/assets/images/two_sf_2007.jpeg"
 ---
 

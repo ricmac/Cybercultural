@@ -2,8 +2,8 @@
 title: "A Call With Tim O’Reilly After the First Web 2.0 Conference"
 description: "I interview the man who coined Web 2.0 and wonder if he thinks my questions suck; also, I begin experimenting with earning money from blogging."
 date: 2023-11-12
-permalink: "p/call-with-tim-oreilly-2004/"
-tags: ['web20']
+permalink: "p/004-call-with-tim-oreilly-2004/"
+tags: ['web20', 'memoir']
 featureImage: "/assets/images/b355a7e0-ccf7-4464-83c0-2c3251ea3a0b_1514x1126.jpg"
 ---
 ![My Tim O’Reilly interview after the first Web 2.0 Conference, Nov 2004.](/assets/images/b355a7e0-ccf7-4464-83c0-2c3251ea3a0b_1514x1126.jpg "My Tim O’Reilly interview after the first Web 2.0 Conference, Nov 2004.")

@@ -3,7 +3,7 @@ title: "My 2009 Googleplex Visit and RWW Launches Channels"
 description: "ReadWriteWeb begins 2009 by adding several vertical subsites, including ReadWriteStart. Meanwhile, I travel back to Silicon Valley for ETech and a visit to the Googleplex."
 date: 2024-06-19
 permalink: "p/037-googleplex-2009-rww-channels/"
-tags: ['web20']
+tags: ['web20', 'memoir']
 featureImage: "/assets/images/webtrendsmap4_2009.jpg"
 ---
 
