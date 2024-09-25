@@ -3,7 +3,7 @@ title: "1990: Programming the World Wide Web"
 description: "In the final few months of 1990, Tim Berners-Lee and his colleague Robert Cailliau developed the world’s first browser, created HTML, wrote the first web server, and invented HTTP."
 date: 2021-11-01
 permalink: "p/1990-programming-the-world-wide-web/"
-tags: ['dotcom']
+tags: ['dotcom', '1990']
 featureImage: "/assets/images/wdh/tbl_code.jpg"
 ---
 ![Tim Berners-Lee invents the web](/assets/images/wdh/tbl_code.jpg)

@@ -3,7 +3,7 @@ title: "1995: Apache and Microsoft IIS Shake Up the Web Server Market"
 description: "The Apache project was publicly announced in April 1995. It was followed soon after by Microsoft's first web server software, Internet Information Server (IIS)."
 date: 2021-08-31
 permalink: "p/1995-apache-microsoft-iis-web-server-market/"
-tags: ['dotcom']
+tags: ['dotcom', '1995']
 featureImage: "/assets/images/wdh/1995_apache_iis_feature.jpg"
 ---
 ![Apache and IIS](/assets/images/wdh/1995_apache_iis_feature.jpg)

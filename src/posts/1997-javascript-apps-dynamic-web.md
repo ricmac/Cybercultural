@@ -3,7 +3,7 @@ title: "1997: JavaScript Grows Up and Developers Push the Boundaries"
 description: "Pointy-headed technical analysis of JavaScript was not what was required in 1997. Developers of that era needed practical guidance and code samples."
 date: 2021-05-04
 permalink: "p/1997-javascript-apps-dynamic-web/"
-tags: ['dotcom']
+tags: ['dotcom', '1997']
 featureImage: "/assets/images/wdh/javascript_1997_lead.jpg"
 ---
 ![JavaScript in 1997](/assets/images/wdh/javascript_1997_lead.jpg)

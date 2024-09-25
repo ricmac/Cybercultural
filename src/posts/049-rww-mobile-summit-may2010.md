@@ -3,7 +3,7 @@ title: "Burbn to Instagram: The ReadWriteWeb Mobile Summit, May 2010"
 description: "We hold our second Silicon Valley unconference, this time about the mobile internet. One of our presenters shows off their HTML5 website, but shortly after pivots to an app called Instagram."
 date: 2024-09-11
 permalink: "p/049-rww-mobile-summit-may2010/"
-tags: ['web20', 'memoir']
+tags: ['web20', 'memoir', '2010']
 featureImage: "/assets/images/rww-mobile-summit-teamrww-may2010b.jpg"
 ---
 

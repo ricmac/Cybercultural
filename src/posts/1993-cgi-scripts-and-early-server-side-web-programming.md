@@ -3,7 +3,7 @@ title: "1993: CGI Scripts and Early Server-Side Web Programming"
 description: "A couple of years before JavaScript was invented, a specification called the Common Gateway Interface (CGI) enabled an early form of interactivity for web pages."
 date: 2021-03-24
 permalink: "p/1993-cgi-scripts-and-early-server-side-web-programming/"
-tags: ['dotcom']
+tags: ['dotcom', '1993']
 featureImage: "/assets/images/wdh/1993_cgi_mosaic.jpg"
 ---
 ![CGI Mosaic](/assets/images/wdh/1993_cgi_mosaic.jpg)

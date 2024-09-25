@@ -3,7 +3,7 @@ title: "Betting on Web 2.0: High Stakes Blogging"
 description: "My trip to Silicon Valley for the Web 2.0 Summit in November 2006 ends with a poker game in Atherton. Meanwhile, Time Magazine names us all 'Person of the Year.'"
 date: 2024-02-13
 permalink: "p/020-betting-on-web20/"
-tags: ['web20', 'memoir']
+tags: ['web20', 'memoir', '2006']
 featureImage: "/assets/images/pokernight_edit1.jpg"
 ---
 

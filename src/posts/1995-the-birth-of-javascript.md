@@ -3,7 +3,7 @@ title: "1995: The Birth of JavaScript"
 description: "JavaScript was invented in a two-week flurry in May 1995 by Brendan Eich, a newly hired developer at browser company Netscape. The idea was to extend the early Web beyond the limits of HTML."
 date: 2020-12-22
 permalink: "p/1995-the-birth-of-javascript/"
-tags: ['dotcom']
+tags: ['dotcom', '1995']
 featureImage: "/assets/images/wdh/netscape_browser_1995.jpg"
 ---
 ![Netscape browser 1995](/assets/images/wdh/netscape_browser_1995.jpg)

@@ -101,6 +101,10 @@ eleventyConfig.addCollection('onlyMarkdown', onlyMarkdown);
 
 // Add a collection for specified categories
 eleventyConfig.addCollection("categorizedPosts", function(collectionApi) {
+  const yearTags = ["1968", "1969", "1990", "1991", "1992", "1993", "1994", "1995", "1996", "1997", "1998", "1999", 
+    "2000", "2001", "2002", "2003", "2004", "2005", "2006", "2007", "2008", "2009", 
+    "2010", "2011", "2012"];
+  
   return collectionApi.getFilteredByTag("posts")
     .filter(post => {
       return post.data.tags && (
@@ -110,7 +114,7 @@ eleventyConfig.addCollection("categorizedPosts", function(collectionApi) {
         post.data.tags.includes("preweb") ||
         post.data.tags.includes("memoir") ||
         post.data.tags.includes("year") ||
-        post.data.tags.includes("2004")
+        post.data.tags.some(tag => yearTags.includes(tag)) // Check for any year tags
       );
     })
     .sort((a, b) => b.date - a.date); // Sort explicitly to ensure reverse order

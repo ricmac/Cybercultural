@@ -3,7 +3,7 @@ title: "1991: Tim Berners-Lee Tries to Convert the Hypertext Faithful"
 description: "After a year and a half of stalling from CERN management, Tim Berners-Lee must’ve hoped the momentum he’d gathered at the end of 1990 would continue into the new year. He was sadly mistaken."
 date: 2021-11-10
 permalink: "p/1991-tim-berners-lee-trys-to-convert-the-hypertext-faithful/"
-tags: ['dotcom']
+tags: ['dotcom', '1991']
 featureImage: "/assets/images/wdh/9112021_01.jpg"
 ---
 ![Tim Berners-Lee demonstrates the World Wide Web to delegates at the Hypertext 1991 conference in San Antonio, Texas](/assets/images/wdh/9112021_01.jpg)

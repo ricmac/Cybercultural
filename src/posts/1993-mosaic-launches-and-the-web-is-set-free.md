@@ -3,7 +3,7 @@ title: "1993: Mosaic Launches and the Web is Set Free"
 description: "On 14 January 1993, Marc Andreessen put a call out on the WWW-Talk mailing list for people to test a new WWW browser in development: X Mosaic."
 date: 2021-12-08
 permalink: "p/1993-mosaic-launches-and-the-web-is-set-free/"
-tags: ['dotcom']
+tags: ['dotcom', '1993']
 featureImage: "/assets/images/wdh/mosaic_feature.jpg"
 ---
 ![Mosaic X](/assets/images/wdh/mosaic_feature.jpg)
