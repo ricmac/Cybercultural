@@ -13,7 +13,7 @@ A newsletter about internet history and its impact on our culture, by [Richard M
   target="popupwindow"
   onsubmit="window.open('https://buttondown.email/ricmac', 'popupwindow')"
   class="embeddable-buttondown-form">
-  <label for="bd-email">Enter your email</label>
+  <label for="bd-email">Get Cybercultural by email:</label>
   <input type="email" name="email" id="bd-email" />
   
   <input type="submit" value="Subscribe" />
