@@ -21,7 +21,7 @@ I’m [Richard MacManus](https://ricmac.org/) (@ricmac), a pioneering tech blogg
 
 I was the founder and Editor-in-Chief of [ReadWriteWeb](https://ricmac.org/career-archive/readwriteweb/) (RWW) from 2003-2012. RWW was ranked among the top 10 blogs in the world, according to Technorati. It was syndicated by The New York Times and eventually acquired by SAY Media.
 
-I also authored [Web Development History](https://webdevelopmenthistory.com/) (2020-21), a blog that chronicled the early years of the web from a developer perspective.
+I also authored **Web Development History** (2020-21), a blog that chronicled the early years of the web from a developer perspective. That site's content has since been [migrated to Cybercultural](/dotcom/).
 
 ## Testimonials
 
