@@ -3,7 +3,7 @@ title: "New York Times HQ Visit and Emergence of Influencer Culture"
 description: "On my latest trip to New York City, in May 2010, Sean and I attend Creative Week to scope out the venue for ReadWriteWeb's next event, we meet VC Fred Wilson, and visit the New York Times skyscraper."
 date: 2024-09-18
 permalink: "p/meeting-new-york-times-may2010/"
-tags: ['Memoir']
+tags: ['web20', 'memoir', '2010']
 featureImage: "/assets/images/ny-times-building-2009.jpg"
 ---
 
