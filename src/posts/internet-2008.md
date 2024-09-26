@@ -3,7 +3,7 @@ title: "What the Internet Was Like in 2008"
 description: "The launch of app stores by Apple and Google shook up the web ecosystem in 2008. Now there were potential gatekeepers. Although Google also launched its Chrome browser, so it covered all bases."
 date: 2024-08-02
 permalink: "p/internet-2008/"
-tags: ['Article']
+tags: ['web20', 'year', '2008']
 featureImage: "/assets/images/iphone_g1.jpg"
 ---
 
@@ -91,7 +91,7 @@ Of course, eventually Facebook won out. But by the end of 2008, many web geeks h
 
 Read next:
 * [What the Internet Was Like in 2004](/p/internet-2004/)
-* [What the Internet Was Like in 2005](/p/what-the-web-was-like-in-2005/)
+* [What the Internet Was Like in 2005](/p/internet-2005/)
 * [What the Internet Was Like in 2006](/p/internet-2006/)
 * [What the Internet Was Like in 2007](/p/internet-2007/)
 * [What the Internet Was Like in 2009](/p/internet-2009/)

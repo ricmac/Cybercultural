@@ -3,7 +3,7 @@ title: "Alien in New York: ReadWriteWeb & the American Dream"
 description: "I sit down with Insight Partners to discuss ReadWriteWeb's finances. Later, I get the meat sweats at Carnegie Deli and catch up on blog business before my flight home."
 date: 2024-05-22
 permalink: "p/033-rww-american-dream-2008/"
-tags: ['Memoir']
+tags: ['web20', 'memoir', '2008']
 featureImage: "/assets/images/nyc_view_empirestatebld_may08.jpeg"
 ---
 

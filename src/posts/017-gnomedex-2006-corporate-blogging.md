@@ -3,7 +3,7 @@ title: 'Gnomedex 2006 and My Corporate Blogging Adventure'
 description: "I visit Seattle for the second time in 2006, for Gnomedex; also, I co-found another workgroup and company, this time based on the term 'Media 2.0'."
 date: 2024-01-23
 permalink: "p/017-gnomedex-2006-corporate-blogging/"
-tags: ['Memoir']
+tags: ['web20', 'memoir', '2006']
 featureImage: "/assets/images/21988a7d-3e79-40a3-8a6c-784b4fc8df8a_2048x1536.jpg"
 ---          
 

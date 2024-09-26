@@ -5,20 +5,24 @@ export default {
       url: '/about/'
     },
     {
-      text: 'Memoir',
-      url: '/memoir/'
+      text: 'Pre-web',
+      url: '/preweb/'
     },
     {
-      text: 'Articles',
-      url: '/articles/'
+      text: 'Dot-com',
+      url: '/dotcom/'
+    },
+    {
+      text: 'Web 2.0',
+      url: '/web20/'
+    },
+    {
+      text: 'Personal',
+      url: '/personal/'
     },
     {
       text: 'Search',
       url: '/search/'
-    },
-    {
-      text: 'Subscribe',
-      url: '/subscribe/'
     },
   ],
   bottom: [

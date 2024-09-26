@@ -3,7 +3,7 @@ title: "Las Vegas and the MIX Conference 2007"
 description: "I travel to Vegas for a Microsoft web conference. Meanwhile, Read/WriteWeb doubles traffic and breaks into the Technorati top 30."
 date: 2024-03-05
 permalink: "p/023-microsoft-mix-2007/"
-tags: ['Memoir']
+tags: ['web20', 'memoir', '2007']
 featureImage: "/assets/images/ricmac_vegas_2007.jpg"
 ---
 

@@ -3,7 +3,7 @@ title: "Why 2009 Was When Big Tech Began To Control Web 2.0"
 description: "It's 2009 and Firefox is being challenged by Google’s new Chrome browser, as Microsoft IE continues its slow decline. Meanwhile, Facebook acquires trendy social software app FriendFeed."
 date: 2024-07-10
 permalink: "p/040-web20-big-tech-control-2009/"
-tags: ['Memoir']
+tags: ['web20', 'memoir', '2009']
 featureImage: "/assets/images/friendfeed-ricmac_aug09.png"
 ---
 

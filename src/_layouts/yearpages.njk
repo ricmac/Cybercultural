@@ -1,0 +1,49 @@
+---
+layout: base
+---
+
+<article class="wrapper region">
+  <div class="wrapper flow prose">
+    <h1>{{ title }}</h1>
+    <p>Articles tagged {{ title }}.</p> 
+        
+    <form
+      action="https://buttondown.email/api/emails/embed-subscribe/ricmac"
+      method="post"
+      target="popupwindow"
+      onsubmit="window.open('https://buttondown.email/ricmac', 'popupwindow')"
+      class="embeddable-buttondown-form">
+      <label for="bd-email">Get Cybercultural by email:</label>
+      <input type="email" name="email" id="bd-email" />
+      <input type="submit" value="Subscribe" />
+    </form>
+  </div>
+
+  <ul class="grid mt-l-xl" role="list" data-rows="masonry" data-layout="50-50">
+    {% for post in pagedPosts %}
+      <li class="card flow overflow-hidden">
+        {% if post.data.featureImage %}
+          <img class="post-feature-image" src="{{ post.data.featureImage | url }}" alt="{{ post.data.title }}">
+        {% endif %}
+        <h2><a href="{{ post.url | url }}">{{ post.data.title }}</a></h2>
+        {% set definedDate = post.date %} {% include "partials/date.njk" %}
+        <p>{{ post.data.description }}</p>
+      </li>
+    {% endfor %}
+  </ul>
+
+  <div class="pagination">
+    {% if pagination.pageNumber > 0 and pagination.href.next %}
+      <a href="{{ pagination.href.previous }}" class="pagination-prev">Previous Page</a> | 
+      <a href="{{ pagination.href.next }}" class="pagination-next">Next Page</a>
+    {% else %}
+      {% if pagination.pageNumber > 0 %}
+        <a href="{{ pagination.href.previous }}" class="pagination-prev">Previous Page</a>
+      {% endif %}
+  
+      {% if pagination.href.next %}
+        <a href="{{ pagination.href.next }}" class="pagination-next">Next Page</a>
+      {% endif %}
+    {% endif %}
+  </div>
+</article>

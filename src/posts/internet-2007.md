@@ -3,7 +3,7 @@ title: "What the Internet Was Like in 2007"
 description: "The iPhone and Android both launched in 2007. But it was still a desktop web, with social networking sites like Facebook, Twitter and Tumblr keeping people glued to their computer screens."
 date: 2024-07-19
 permalink: "p/internet-2007/"
-tags: ['Article']
+tags: ['web20', 'year', '2007']
 featureImage: "/assets/images/zuck_august2007.jpg"
 ---
 
@@ -79,7 +79,7 @@ Beacon wouldn’t be the first time Facebook tested the boundaries of user priva
 
 Read next:
 * [What the Internet Was Like in 2004](/p/internet-2004/)
-* [What the Internet Was Like in 2005](/p/what-the-web-was-like-in-2005/)
+* [What the Internet Was Like in 2005](/p/internet-2005/)
 * [What the Internet Was Like in 2006](/p/internet-2006/)
 * [What the Internet Was Like in 2008](/p/internet-2008/)
 * [What the Internet Was Like in 2009](/p/internet-2009/)

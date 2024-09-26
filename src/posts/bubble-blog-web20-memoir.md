@@ -3,7 +3,7 @@ title: "Announcing Bubble Blog, My Web 2.0 Memoir"
 description: "Announcing my latest book, a memoir and internet history to be serialized on Cybercultural."
 date: 2023-10-30
 permalink: "p/bubble-blog-web20-memoir/"
-tags: ['Memoir']
+tags: ['web20', 'memoir']
 featureImage: "/assets/images/33d48ded-f999-4173-8440-9d752446428b_3400x2134.jpg"
 ---
 ![Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution](/assets/images/33d48ded-f999-4173-8440-9d752446428b_3400x2134.jpg "Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution")
@@ -27,6 +27,6 @@ Perhaps current tech entrepreneurs and media “creators” (to use the modern l
 
 I hope you’ll join me for this journey into the heart of Web 2.0.
 
-Next up: [001. Introduction to Bubble Blog](/p/introduction-to-bubble-blog-book/)
+Next up: [001. Introduction to Bubble Blog](/p/001-introduction-to-bubble-blog-book/)
 
 * * *

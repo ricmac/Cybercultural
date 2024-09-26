@@ -46,8 +46,11 @@ export default function(eleventyConfig) {
   eleventyConfig.addLayoutAlias('base', 'base.njk');
   eleventyConfig.addLayoutAlias('page', 'page.njk');
   eleventyConfig.addLayoutAlias('home', 'home.njk');
-  eleventyConfig.addLayoutAlias('blog', 'blog.njk');
   eleventyConfig.addLayoutAlias('post', 'post.njk');
+  eleventyConfig.addLayoutAlias('dotcom', 'dotcom.njk');
+  eleventyConfig.addLayoutAlias('web20', 'web20.njk');
+  eleventyConfig.addLayoutAlias('preweb', 'preweb.njk');
+  eleventyConfig.addLayoutAlias('personal', 'personal.njk');
 
   // Custom filters
   eleventyConfig.addFilter('limit', limit);
@@ -93,8 +96,29 @@ export default function(eleventyConfig) {
   jsConfigPlugin(eleventyConfig);
   
   // Custom collections
-  eleventyConfig.addCollection('posts', getAllPosts);
-  eleventyConfig.addCollection('onlyMarkdown', onlyMarkdown);
+eleventyConfig.addCollection('posts', getAllPosts);
+eleventyConfig.addCollection('onlyMarkdown', onlyMarkdown);
+
+// Add a collection for specified categories
+eleventyConfig.addCollection("categorizedPosts", function(collectionApi) {
+  const yearTags = ["1968", "1969", "1990", "1991", "1992", "1993", "1994", "1995", "1996", "1997", "1998", "1999", 
+    "2000", "2001", "2002", "2003", "2004", "2005", "2006", "2007", "2008", "2009", 
+    "2010", "2011", "2012"];
+  
+  return collectionApi.getFilteredByTag("posts")
+    .filter(post => {
+      return post.data.tags && (
+        post.data.tags.includes("web20") ||
+        post.data.tags.includes("dotcom") ||
+        post.data.tags.includes("personal") ||
+        post.data.tags.includes("preweb") ||
+        post.data.tags.includes("memoir") ||
+        post.data.tags.includes("year") ||
+        post.data.tags.some(tag => yearTags.includes(tag)) // Check for any year tags
+      );
+    })
+    .sort((a, b) => b.date - a.date); // Sort explicitly to ensure reverse order
+});
 
   // Plugins
   eleventyConfig.addPlugin(EleventyRenderPlugin);

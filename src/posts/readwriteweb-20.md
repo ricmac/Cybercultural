@@ -3,7 +3,7 @@ title: "ReadWriteWeb Turns 20"
 description: "I look back on two decades of RWW, including the more than 10 years since I left! ☯️"
 date: 2023-04-20
 permalink: "p/readwriteweb-20/"
-tags: ['Article']
+tags: ['personal']
 featureImage: "/assets/images/faafce12-b7fb-4286-a0e8-a433eecd742e_2022x1384.png"
 ---
 

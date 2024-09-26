@@ -3,7 +3,7 @@ title: "Flickr Before Smartphones and Instagram"
 description: "What was it like using Flickr in early Web 2.0, in the age of digital cameras and before Instagram changed everything? 📸"
 date: 2023-01-26
 permalink: "p/flickr-before-smartphones-and-instagram/"
-tags: ['Article']
+tags: ['web20']
 featureImage: "/assets/images/afa564c2-3abd-4863-b538-f061085548e4_1200x800.jpg"
 ---
 ![](/assets/images/afa564c2-3abd-4863-b538-f061085548e4_1200x800.jpg)

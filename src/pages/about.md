@@ -11,7 +11,7 @@ layout: page
   target="popupwindow"
   onsubmit="window.open('https://buttondown.email/ricmac', 'popupwindow')"
   class="embeddable-buttondown-form">
-  <label for="bd-email">Enter your email:</label>
+  <label for="bd-email">Get Cybercultural by email:</label>
   <input type="email" name="email" id="bd-email" />
   
   <input type="submit" value="Subscribe" />
@@ -21,7 +21,7 @@ I’m [Richard MacManus](https://ricmac.org/) (@ricmac), a pioneering tech blogg
 
 I was the founder and Editor-in-Chief of [ReadWriteWeb](https://ricmac.org/career-archive/readwriteweb/) (RWW) from 2003-2012. RWW was ranked among the top 10 blogs in the world, according to Technorati. It was syndicated by The New York Times and eventually acquired by SAY Media.
 
-I also authored [Web Development History](https://webdevelopmenthistory.com/) (2020-21), a blog that chronicled the early years of the web from a developer perspective.
+I also authored **Web Development History** (2020-21), a blog that chronicled the early years of the web from a developer perspective. That site's content has since been [migrated to Cybercultural](/dotcom/).
 
 ## Testimonials
 
@@ -39,7 +39,3 @@ I also authored [Web Development History](https://webdevelopmenthistory.com/) (2
 
 ![](/assets/images/f1847b86-51c6-4483-9d7b-84ddfec05c85_1176x728.png)
 ([link](https://twitter.com/NerdyAndQuirky/status/1596256679473315841))
-
-## Cybercultural Archives 2019-2022
-
-This is v2 of Cybercultural, which started in 2023 and focuses on internet history. The first version of Cybercultural ran from 2019-2022 and focused on the intersection of technology and the cultural industries. If you're curious, v1 is archived here: [cybercultural.ricmac.org](https://cybercultural.ricmac.org/).

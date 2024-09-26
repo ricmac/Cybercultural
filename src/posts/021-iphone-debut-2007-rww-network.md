@@ -4,7 +4,7 @@ description: "Soon after Steve Jobs announces the iPhone in January 2007, I hire
 for Read/WriteWeb and launch a blog network."
 date: 2024-02-20
 permalink: "p/021-iphone-debut-2007-rww-network/"
-tags: ['Memoir']
+tags: ['web20', 'memoir', '2007']
 featureImage: "/assets/images/rww_iphone_debut_jan07.jpg"
 ---
 

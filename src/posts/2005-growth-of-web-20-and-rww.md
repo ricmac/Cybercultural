@@ -3,13 +3,13 @@ title: 'Growth of Web 2.0 & RWW in 2005, Before My US Trip'
 description: "I first visited the US in late September 2005. But what happened in Web 2.0 and for Read/WriteWeb in the 9 months prior?"
 date: 2023-11-17
 permalink: "p/2005-growth-of-web-20-and-rww/"
-tags: ['Memoir']
+tags: ['web20', '2005']
 featureImage: "/assets/images/b811ca8a-7408-4f06-81a8-53f101bf82a0_829x622.png"
 ---
 ![](/assets/images/b811ca8a-7408-4f06-81a8-53f101bf82a0_829x622.png)
 *A reader emailed me this screenshot of RWW in March 2005, in order to point out the MyYahoo Ticker at the bottom of the screen. “My RSS headlines stream on the bottom of my screen all day and I click things that catch my eye,” he told me.*
 
-Part 5 of my serialized book, _Bubble Blog_, describes [my first trip to Silicon Valley](/p/005-arriving-at-the-techcrunch-ranch) at the end of September and for a couple of weeks in October of 2005. Some of you may’ve noticed that I skipped the previous 9 months, since part 4 was about [the second half of 2004](/p/call-with-tim-oreilly-2004). I did that mostly because I wanted to get to my Silicon Valley experiences, which is when the action truly begins in my story. The [next three sections](/p/roadmap-bubbleblog) will further describe this trip, focusing in particular on my attendance at the 2005 Web 2.0 Conference — arguably the first major tipping point for the Web 2.0 era.
+Part 5 of my serialized book, _Bubble Blog_, describes [my first trip to Silicon Valley](/p/005-arriving-at-the-techcrunch-ranch) at the end of September and for a couple of weeks in October of 2005. Some of you may’ve noticed that I skipped the previous 9 months, since part 4 was about [the second half of 2004](/p/004-call-with-tim-oreilly-2004). I did that mostly because I wanted to get to my Silicon Valley experiences, which is when the action truly begins in my story. The [next three sections](/p/roadmap-bubbleblog) will further describe this trip, focusing in particular on my attendance at the 2005 Web 2.0 Conference — arguably the first major tipping point for the Web 2.0 era.
 
 However, as a bonus post for paid subscribers, I thought I’d describe how the first nine months of 2005 panned out for both Read/WriteWeb and Web 2.0 itself. I’ll be including some inside information about RWW from that timeframe — I figure, what does it matter at this point who knows about my stats etc from that era. (btw, thank you to everyone who has signed up here as a paid subscriber — your support at this early stage of my book project means a lot to me!)
 
@@ -53,7 +53,7 @@ I won’t bore you with any more stats talk, but I wanted to put RWW's growing (
 Web 2.0 During the First 3 Quarters of 2005
 -------------------------------------------
 
-Looking back on it now, the first three-quarters of 2005 was notable for some significant acquisitions and launches in the emerging Web 2.0 market. Bloglines, my favourite RSS Reader at the time, was acquired in February by Ask.com. But it was the acquisition of Flickr in March, by Yahoo, which signaled that Web 2.0 was open for business.
+Looking back on it now, the first three-quarters of 2005 was notable for some significant acquisitions and launches in the emerging Web 2.0 market. Bloglines, my favourite RSS Reader at the time, was acquired in February by Ask&#46;com. But it was the acquisition of Flickr in March, by Yahoo, which signaled that Web 2.0 was open for business.
 
 Other interesting acquisitions during this period included:
 

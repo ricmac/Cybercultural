@@ -3,7 +3,7 @@ title: 'The Colors of Web 2.0 Party; October 2005'
 description: "I attend a hyped Web 2.0 party; later in the night, I desparately try to catch the last train back to Silicon Valley."
 date: 2023-11-27
 permalink: "p/008-the-colors-of-web-20-party/"
-tags: ['Memoir']
+tags: ['web20', 'memoir', '2005']
 featureImage: "/assets/images/70a2272f-baa4-4971-a3ed-6de5b29856f4_2048x1365.jpg"
 ---
 ![Web 2.0 cool kids](/assets/images/70a2272f-baa4-4971-a3ed-6de5b29856f4_2048x1365.jpg "Web 2.0 cool kids")
