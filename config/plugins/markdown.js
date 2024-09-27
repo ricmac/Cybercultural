@@ -3,6 +3,7 @@ import markdownItPrism from 'markdown-it-prism';
 import markdownItAnchor from 'markdown-it-anchor';
 import markdownItClass from '@toycode/markdown-it-class';
 import markdownItLinkAttributes from 'markdown-it-link-attributes';
+import markdownItAttrs from 'markdown-it-attrs'; // Import the attrs plugin
 import { full as markdownItEmoji } from 'markdown-it-emoji'; // Named import
 import markdownItFootnote from 'markdown-it-footnote';
 import markdownitMark from 'markdown-it-mark';
@@ -45,6 +46,7 @@ const markdownLib = markdownIt({
   .use(markdownItEmoji) // Use the named import correctly
   .use(markdownItFootnote)
   .use(markdownitMark)
-  .use(markdownitAbbr);
+  .use(markdownitAbbr)
+  .use(markdownItAttrs); // Add attrs plugin at the end
 
 export default markdownLib;

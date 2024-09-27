@@ -5,18 +5,6 @@ description: About Cybercultural
 layout: page
 ---
 
-<form
-  action="https://buttondown.email/api/emails/embed-subscribe/ricmac"
-  method="post"
-  target="popupwindow"
-  onsubmit="window.open('https://buttondown.email/ricmac', 'popupwindow')"
-  class="embeddable-buttondown-form">
-  <label for="bd-email">Get Cybercultural by email:</label>
-  <input type="email" name="email" id="bd-email" />
-  
-  <input type="submit" value="Subscribe" />
-</form>
-
 I’m [Richard MacManus](https://ricmac.org/) (@ricmac), a pioneering tech blogger and author. [Cybercultural](/) is my newsletter about **internet history and its impact on our culture**. I’m currently serializing my latest book, "Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution". It chronicles the rise of the modern internet during the first decade of this century.
 
 I was the founder and Editor-in-Chief of [ReadWriteWeb](https://ricmac.org/career-archive/readwriteweb/) (RWW) from 2003-2012. RWW was ranked among the top 10 blogs in the world, according to Technorati. It was syndicated by The New York Times and eventually acquired by SAY Media.
