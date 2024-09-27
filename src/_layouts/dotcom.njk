@@ -27,9 +27,13 @@ layout: base
   <ul class="grid mt-l-xl" role="list" data-rows="masonry" data-layout="50-50">
     {% for post in pagedPosts %}
       <li class="card flow overflow-hidden">
-        {% if post.data.featureImage %}
-          <img class="post-feature-image" src="{{ post.data.featureImage | url }}" alt="{{ post.data.title }}">
-        {% endif %}
+      {% if post.data.featureImage %}
+      <img 
+        class="post-feature-image" 
+        src="{{ post.data.featureImage | url }}" 
+        alt="{{ post.data.title }}"
+        {% if loop.index <= 2 %} loading="eager" {% else %} loading="lazy" {% endif %}>
+      {% endif %}
         <h2><a href="{{ post.url | url }}">{{ post.data.title }}</a></h2>
         {% set definedDate = post.date %} {% include "partials/date.njk" %}
         <p>{{ post.data.description }}</p>
