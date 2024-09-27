@@ -12,8 +12,7 @@ On 14 January 1993, Marc Andreessen put [a call out](http://1997.webhistory.org/
 
 Andreessen, a student at the National Center for Supercomputing Applications (NCSA) at the University of Illinois, listed out the current capabilities of the browser, which included “document source- and URL-viewing windows” and a “hotlist capability” that was “persistent across sessions” (what we now call bookmarks). Among “future capabilities” he listed multimedia and a “3D/immersive interface.” The multimedia would come soon enough, but we’re _still_ waiting for the 3D/immersive interface — a.k.a. the metaverse, in today’s parlance.
 
-![Marc Andreessen, 1995](/assets/images/wdh/andreessen.gif)
-*Marc Andreessen, [circa 1995](https://americanhistory.si.edu/comphist/ma1.html)*
+![Marc Andreessen, 1995](/assets/images/wdh/andreessen.gif) *Marc Andreessen, [circa 1995](https://americanhistory.si.edu/comphist/ma1.html)*
 
 The [first to reply](http://1997.webhistory.org/www.lists/www-talk.1993q1/0103.html) to Andreessen’s announcement was the Web’s inventor, Tim Berners-Lee, who put copies of the X Mosaic files onto the CERN server. He praised the new browser for having “a lot of practical things which real uses \[sic\] want — like mail and print and a bookmarks and stuff.” He had some feature requests and bug reports, but overall seemed impressed. A [follow-up message](http://1997.webhistory.org/www.lists/www-talk.1993q1/0104.html) ended with this note of encouragement:
 

@@ -12,7 +12,7 @@ import { slugifyString } from '../utils/index.js';
 // Create an instance of markdown-it with desired plugins
 const markdownLib = markdownIt({
   html: true,
-  breaks: true,
+  breaks: false,
   linkify: true,
   typographer: true
 })

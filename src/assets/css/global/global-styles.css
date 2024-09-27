@@ -154,3 +154,9 @@ main:focus {
 .preload-transitions * {
   transition: none !important;
 }
+
+p > picture + em {
+  font-size: 75% !important;
+  display: block;
+  margin-top: 0.5em;
+}
