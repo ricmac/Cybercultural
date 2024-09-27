@@ -7,7 +7,7 @@ tags: ['web20', 'memoir', '2010']
 featureImage: "/assets/images/sxsw_music_2010_bandofskulls.jpg"
 ---
 
-![SXSW Music 2010](/assets/images/sxsw_music_2010_bandofskulls.jpg)
+![SXSW Music 2010](/assets/images/sxsw_music_2010_bandofskulls.jpg){loading="eager"}
 *A grainy iPhone photo I took of the bass player from Band of Skulls, when they played at Beauty Bar during SXSW Music 2010.*
 
 The [Ai Weiwei event](/p/046-ai-weiwei-event-march-2010/) was a big deal for RWW; we thought it could potentially bring us to the attention of thousands of influential people across the media and technology industries. Maybe we’d even get some serious mainstream attention, since Weiwei was being interviewed by CNN and other big media companies during his stay in New York.

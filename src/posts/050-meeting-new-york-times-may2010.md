@@ -7,7 +7,7 @@ tags: ['web20', 'memoir', '2010']
 featureImage: "/assets/images/ny-times-building-2009.jpg"
 ---
 
-![New York Times Building](/assets/images/ny-times-building-2009.jpg)
+![New York Times Building](/assets/images/ny-times-building-2009.jpg){loading="eager"}
 
 I think Sean was more excited to meet Fred Wilson than I was. As a wannabe VC, he was in awe of Fred and had tried (unsuccessfully) to interview him for the *ReadWriteTalk* podcast. I certainly knew about Fred and subscribed to his blog in Google Reader, but it felt like we lived in different neighborhoods of the blogosphere. We only rarely ran into each other, virtually speaking—one of us would comment on the other’s blog occasionally, but that was it.
 

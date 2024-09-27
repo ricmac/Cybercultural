@@ -7,7 +7,7 @@ tags: ['web20', '2007']
 featureImage: "/assets/images/c364af08-a78d-4d11-a532-a9c316233380_3200x1894.jpg"
 ---
 
-![Twitter in 2007](/assets/images/c364af08-a78d-4d11-a532-a9c316233380_3200x1894.jpg)
+![Twitter in 2007](/assets/images/c364af08-a78d-4d11-a532-a9c316233380_3200x1894.jpg){loading="eager"}
 
 The first wave of people to join Twitter was in March 2007, when it became the trendy app at the annual SXSW conference in Austin, Texas. I hadn’t gone to SXSW that year, but I arrived in San Francisco the month after for Web 2.0 Expo. I don’t recall who told me about Twitter (it may’ve been mentioned in a ReadWriteWeb Skype room), but I signed up on Saturday, April 14th, the day before the conference started.
 

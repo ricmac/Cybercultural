@@ -7,7 +7,7 @@ tags: ['web20', 'memoir', '2009']
 featureImage: "/assets/images/ricmac_rwsummit_oct09.JPG"
 ---
 
-![Richard MacManus at ReadWrite Real-Time Web Summit, October 2009](/assets/images/ricmac_rwsummit_oct09.JPG)
+![Richard MacManus at ReadWrite Real-Time Web Summit, October 2009](/assets/images/ricmac_rwsummit_oct09.JPG){loading="eager"}
 *Me at ReadWriteWeb's first in-person event.*
 
 It was the morning of October 15, 2009, and I was at the Hotel Avante in Mountain View, California, for the unconference. I was nervous and apprehensive about how the day would go—this was RWW’s first event, and the team had put in a huge amount of work. In truth, I hadn’t had to do much in terms of organizing. Chloe had taken care of operations, Bernard the costs and sponsor sales, and Marshall and Kaliya had done most of the preparation for the schedule. Elyssa had kept an eye on the project management. It hadn’t all gone smoothly: there was a lack of order in the event communications and finances that bothered me and prompted several emails to Bernard. I planned to sit down with him after the event to talk it through.

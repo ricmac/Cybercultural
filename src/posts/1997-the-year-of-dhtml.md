@@ -7,7 +7,7 @@ tags: ['dotcom', '1997']
 featureImage: "/assets/images/wdh/DHMTL_1997_feature.jpg"
 ---
 
-![DHTL](/assets/images/wdh/DHMTL_1997_feature.jpg)
+![DHTL](/assets/images/wdh/DHMTL_1997_feature.jpg){loading="eager"}
 
 As we saw in the previous post, 1997 was [a year of growth for JavaScript](https://webdevelopmenthistory.com/1997-javascript-apps-dynamic-web/). However, it was also a year in which its limitations were recognized and a new term was coined that both embraced and extended JavaScript. DHTML, or Dynamic HTML, was essentially a combination of HTML, JavaScript, the newly released CSS standard, and an emerging web programming model called the DOM (Document Object Model). That said, the precise definition of DHTML depended on which browser company you spoke to: Netscape or Microsoft.
 

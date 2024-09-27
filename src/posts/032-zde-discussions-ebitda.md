@@ -7,7 +7,7 @@ tags: ['web20', 'memoir', '2008']
 featureImage: "/assets/images/2849074723_a9dcbe5730_k.jpg"
 ---
 
-![28th St Station, NYC](/assets/images/2849074723_a9dcbe5730_k.jpg)
+![28th St Station, NYC](/assets/images/2849074723_a9dcbe5730_k.jpg){loading="eager"}
 
 The due-diligence meetings [with Ziff Davis Enterprise](/p/031-zde-due-diligence-begins/) would start at midday on Monday. But first, I had arranged to meet Bernard Lunn, a freelance ReadWriteWeb writer and now my business advisor, who was based somewhere in greater New York. 
 

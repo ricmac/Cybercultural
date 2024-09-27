@@ -7,7 +7,7 @@ tags: ['web20', 'memoir', '2009']
 featureImage: "/assets/images/team-rww-facebook-oct2009.JPG"
 ---
 
-![Team RWW visits Facebook](/assets/images/team-rww-facebook-oct2009.JPG)
+![Team RWW visits Facebook](/assets/images/team-rww-facebook-oct2009.JPG){loading="eager"}
 *Team RWW visiting Facebook HQ in October 2009; from left to right: Marshall Kirkpatrick, Jolie O'Dell, Dana Oshiro, Bernard Lunn, me.*
 
 The day after the [ReadWrite Real-Time Web Summit](/p/042-readwrite-realtime-web-summit-2009/), a Friday, the RWW team met up at the Red Rock café in Mountain View to work and debrief. I also took the opportunity to have one-on-one meetings with each of our bloggers present: Frederic, Jolie, Dana, and Alex. I’d be doing the same with Bernard and Marshall tomorrow, as well as having other management meetings. But the Friday was about getting to know my writers better and setting goals for them.

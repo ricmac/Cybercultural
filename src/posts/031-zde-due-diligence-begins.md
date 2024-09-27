@@ -7,7 +7,7 @@ tags: ['web20', 'memoir', '2008']
 featureImage: "/assets/images/nyc2_may2008.jpeg"
 ---
 
-![Me accepting my Best Blog 2008 award](/assets/images/nyc2_may2008.jpeg)
+![Me accepting my Best Blog 2008 award](/assets/images/nyc2_may2008.jpeg){loading="eager"}
 
 As soon as I got back home, RWW made it to the top 10 on Technorati. We were now one of the world’s ten most popular blogs, based on how many websites had linked to us in the last six months. Alex had spotted it first, and Marshall confirmed it with a screenshot.
 

@@ -7,7 +7,7 @@ tags: ['web20', 'memoir', '2008']
 featureImage: "/assets/images/ricmac_july2008.jpeg"
 ---
 
-![Me in early July 2008](/assets/images/ricmac_july2008.jpeg)
+![Me in early July 2008](/assets/images/ricmac_july2008.jpeg){loading="eager"}
 *A frustrated looking blogger on 7 July 2008, a week before RWW withdraws from the ZDE deal. Also pictured: Puggy the pug dog.*
 
 The day I left New York, I saw on Techmeme that Condé Nast had acquired the technology blog Ars Technica for an [estimated $25 million](https://techcrunch.com/2008/05/16/breaking-conde-nastwired-acquires-ars-technica/). At the time (May 2008), Condé Nast also owned Wired&#46;com and Reddit, so Ars would be joining an enviable roster. I did some back-of-the-envelope calculations and figured that it must’ve had revenue of around $2 million per year to be worth that much; that is, if it had sold for the same EBITDA multiple that I was negotiating for. RWW was on track for around $335,000 in revenue, but we were also younger and less established as a business.

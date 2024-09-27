@@ -6,7 +6,7 @@ permalink: "p/bubble-blog-web20-memoir/"
 tags: ['web20', 'memoir']
 featureImage: "/assets/images/33d48ded-f999-4173-8440-9d752446428b_3400x2134.jpg"
 ---
-![Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution](/assets/images/33d48ded-f999-4173-8440-9d752446428b_3400x2134.jpg "Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution")
+![Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution](/assets/images/33d48ded-f999-4173-8440-9d752446428b_3400x2134.jpg "Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution"){loading="eager"}
 
 I’m excited to launch a project I’ve been working on for over a year now: a book called **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. I will be serializing the book here on Cybercultural, starting this week, and it will also be released as a paperback in 2024.
 

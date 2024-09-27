@@ -6,7 +6,7 @@ permalink: "p/012-gift-basket-seattle-january-2006/"
 tags: ['web20', 'memoir', '2006']
 featureImage: "/assets/images/fc79d690-3a0c-43d3-bbe9-92799b4cfda7_799x533.jpg"
 ---
-![Josh Porter and I at the Seattle Central Library](/assets/images/fc79d690-3a0c-43d3-bbe9-92799b4cfda7_799x533.jpg "Josh Porter and I at the Seattle Central Library")
+![Josh Porter and I at the Seattle Central Library](/assets/images/fc79d690-3a0c-43d3-bbe9-92799b4cfda7_799x533.jpg "Josh Porter and I at the Seattle Central Library"){loading="eager"}
 
 In the second week of January 2006, I got married to my partner of nine years, Maria. We had a 4-year old daughter, Rosabelle, who was one of the flower girls at the ceremony. The following week, I was on a plane to the United States again — but not on my honeymoon. I’d been offered a place in Microsoft Search Champs, an invitation-only event to be held at Microsoft’s headquarters in Redmond. Microsoft was paying for my travel and accommodation, so it was too good an opportunity to pass up. What web geek wouldn’t want to visit the setting of _Microserfs_, Douglas Coupland’s famous 1990s novel about Microsoft developers?
 

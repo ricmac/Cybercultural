@@ -6,13 +6,11 @@ permalink: "p/004-call-with-tim-oreilly-2004/"
 tags: ['web20', 'memoir', '2004']
 featureImage: "/assets/images/b355a7e0-ccf7-4464-83c0-2c3251ea3a0b_1514x1126.jpg"
 ---
-![My Tim O’Reilly interview after the first Web 2.0 Conference, Nov 2004.](/assets/images/b355a7e0-ccf7-4464-83c0-2c3251ea3a0b_1514x1126.jpg "My Tim O’Reilly interview after the first Web 2.0 Conference, Nov 2004.")
+![My Tim O’Reilly interview after the first Web 2.0 Conference, Nov 2004.](/assets/images/b355a7e0-ccf7-4464-83c0-2c3251ea3a0b_1514x1126.jpg "My Tim O’Reilly interview after the first Web 2.0 Conference, Nov 2004."){loading="eager"}
 
 I hadn’t gone to the first Web 2.0 Conference in October 2004, but I monitored it from afar. I was intrigued by the potential start of a new movement on the web, so I reached out to Tim O’Reilly and asked to [interview him for my blog](https://web.archive.org/web/20041116101331/http://www.readwriteweb.com/archives/002434.php). He agreed and in November 2004, we did a Skype call.
 
 I called him from my day job, at the power company I worked for in Wellington. The office was open-plan and so I couldn’t do the call at my desk, since it had nothing to do with my job. So I hid myself away in a small conference room. I told a couple of the developers I was friendly with about the true nature of the call, but the IT and marketing project managers I interacted with daily knew nothing about it. If they had peeped into the conference room during the hour I talked to O’Reilly, they may’ve thought I was talking to a local web design company about our company intranet.
-
-
 
 I was nervous about the call and felt some imposter syndrome. At the start, O’Reilly was friendly, but also a little sniffy. For my first question, I asked what were the key insights about Web 2.0 that he personally got from the conference that he didn't know beforehand? “When you work on putting together the program, you know what's in it, so I wasn't surprised terribly much by anything,” he replied.
 

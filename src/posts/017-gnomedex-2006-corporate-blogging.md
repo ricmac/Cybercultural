@@ -7,7 +7,7 @@ tags: ['web20', 'memoir', '2006']
 featureImage: "/assets/images/21988a7d-3e79-40a3-8a6c-784b4fc8df8a_2048x1536.jpg"
 ---          
 
-![At Gnomedex, 2 July 2006](/assets/images/21988a7d-3e79-40a3-8a6c-784b4fc8df8a_2048x1536.jpg "At Gnomedex, 2 July 2006")
+![At Gnomedex, 2 July 2006](/assets/images/21988a7d-3e79-40a3-8a6c-784b4fc8df8a_2048x1536.jpg "At Gnomedex, 2 July 2006"){loading="eager"}
 
 At the end of June, 2006, I boarded a flight to Seattle for Chris Pirillo’s Gnomedex conference. For the [second time](/p/012-gift-basket-seattle-january-2006), I got lucky with the weather in Seattle—it was the middle of summer and gloriously sunny. The event was being held at the Bell Harbor Convention Center, right on the waterfront, and I was staying at a nearby hotel.
 

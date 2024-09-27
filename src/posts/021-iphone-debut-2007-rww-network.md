@@ -8,7 +8,7 @@ tags: ['web20', 'memoir', '2007']
 featureImage: "/assets/images/rww_iphone_debut_jan07.jpg"
 ---
 
-![Read/WriteWeb blog post after the iPhone was announced in January 2007.](/assets/images/rww_iphone_debut_jan07.jpg "Read/WriteWeb blog post after the iPhone was announced in January 2007.")
+![Read/WriteWeb blog post after the iPhone was announced in January 2007.](/assets/images/rww_iphone_debut_jan07.jpg "Read/WriteWeb blog post after the iPhone was announced in January 2007."){loading="eager"}
 
 There had been rumors of a combined phone and iPod device coming from Apple, but what Steve Jobs [announced](https://www.youtube.com/watch?v=wGoM_wVrwng) at Macworld on January 9, 2007, blasted away all expectations. Using his trademark showmanship, Jobs calmly announced that Apple was “introducing three revolutionary products,” which he described as an iPod, a mobile phone, and an internet communicator. He repeated these three ingredients several times, slowly building the anticipation and eliciting whoops and anxious laughter from the audience. Then he delivered the punchline: “These are not three separate devices; this is one device—and we are calling it iPhone.”
 

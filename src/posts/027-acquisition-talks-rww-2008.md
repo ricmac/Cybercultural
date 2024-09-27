@@ -7,7 +7,7 @@ tags: ['web20', 'memoir', '2008']
 featureImage: "/assets/images/rww_presentation_march2008.jpg"
 ---
 
-![RWW presentation, March 2008](/assets/images/rww_presentation_march2008.jpg)
+![RWW presentation, March 2008](/assets/images/rww_presentation_march2008.jpg){loading="eager"}
 *'Intro to RWW' slide from a March 2008 presentation.*
 
 I hadn’t seriously thought of selling ReadWriteWeb before 2008, but I knew I needed help to expand the business. Early in the new year Sean Ammirati put me in touch with Bob Evans, a senior executive at CMP Technology, a media company and coproducer of the Web 2.0 conferences. On a phone call while I was in San Francisco in January, Bob floated a potential acquisition. I didn’t know what to think at this point, but I was curious to see where the discussions would lead. 

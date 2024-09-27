@@ -13,7 +13,8 @@ import { includeRaw, liteYoutube } from './config/shortcodes/index.js';
 import { getAllPosts, onlyMarkdown } from './config/collections/index.js';
 
 // Plugins
-import markdownLib from './config/plugins/markdown.js';
+import markdownIt from 'markdown-it'; // Import markdown-it
+import markdownItAttrs from 'markdown-it-attrs'; // Import markdown-it-attrs
 import { EleventyRenderPlugin } from '@11ty/eleventy';
 import syntaxHighlight from '@11ty/eleventy-plugin-syntaxhighlight';
 import { slugifyString } from './config/utils/index.js';
@@ -80,6 +81,10 @@ export default function(eleventyConfig) {
   eleventyConfig.addShortcode('year', () => `${new Date().getFullYear()}`);
   eleventyConfig.addShortcode('packageVersion', () => `v${packageVersion}`);
 
+  // Configure Markdown library with markdown-it-attrs
+  const markdown = markdownIt().use(markdownItAttrs);
+  eleventyConfig.setLibrary('md', markdown);
+
   // Add Eleventy Image Plugin
   eleventyConfig.addPlugin(eleventyImageTransformPlugin, {
     extensions: "html",
@@ -96,34 +101,33 @@ export default function(eleventyConfig) {
   jsConfigPlugin(eleventyConfig);
   
   // Custom collections
-eleventyConfig.addCollection('posts', getAllPosts);
-eleventyConfig.addCollection('onlyMarkdown', onlyMarkdown);
+  eleventyConfig.addCollection('posts', getAllPosts);
+  eleventyConfig.addCollection('onlyMarkdown', onlyMarkdown);
 
-// Add a collection for specified categories
-eleventyConfig.addCollection("categorizedPosts", function(collectionApi) {
-  const yearTags = ["1968", "1969", "1990", "1991", "1992", "1993", "1994", "1995", "1996", "1997", "1998", "1999", 
-    "2000", "2001", "2002", "2003", "2004", "2005", "2006", "2007", "2008", "2009", 
-    "2010", "2011", "2012"];
-  
-  return collectionApi.getFilteredByTag("posts")
-    .filter(post => {
-      return post.data.tags && (
-        post.data.tags.includes("web20") ||
-        post.data.tags.includes("dotcom") ||
-        post.data.tags.includes("personal") ||
-        post.data.tags.includes("preweb") ||
-        post.data.tags.includes("memoir") ||
-        post.data.tags.includes("year") ||
-        post.data.tags.some(tag => yearTags.includes(tag)) // Check for any year tags
-      );
-    })
-    .sort((a, b) => b.date - a.date); // Sort explicitly to ensure reverse order
-});
+  // Add a collection for specified categories
+  eleventyConfig.addCollection("categorizedPosts", function(collectionApi) {
+    const yearTags = ["1968", "1969", "1990", "1991", "1992", "1993", "1994", "1995", "1996", "1997", "1998", "1999", 
+      "2000", "2001", "2002", "2003", "2004", "2005", "2006", "2007", "2008", "2009", 
+      "2010", "2011", "2012"];
+    
+    return collectionApi.getFilteredByTag("posts")
+      .filter(post => {
+        return post.data.tags && (
+          post.data.tags.includes("web20") ||
+          post.data.tags.includes("dotcom") ||
+          post.data.tags.includes("personal") ||
+          post.data.tags.includes("preweb") ||
+          post.data.tags.includes("memoir") ||
+          post.data.tags.includes("year") ||
+          post.data.tags.some(tag => yearTags.includes(tag)) // Check for any year tags
+        );
+      })
+      .sort((a, b) => b.date - a.date); // Sort explicitly to ensure reverse order
+  });
 
   // Plugins
   eleventyConfig.addPlugin(EleventyRenderPlugin);
   eleventyConfig.addPlugin(syntaxHighlight);
-  eleventyConfig.setLibrary('md', markdownLib);
   eleventyConfig.addPlugin(pluginRss);
   eleventyConfig.addPlugin(bundlerPlugin);
 

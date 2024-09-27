@@ -7,7 +7,7 @@ tags: ['web20', 'memoir', '2007', '2008']
 featureImage: "/assets/images/crunchies_4founders.jpg"
 ---
 
-![The Crunchies](/assets/images/crunchies_4founders.jpg "The Crunchies")
+![The Crunchies](/assets/images/crunchies_4founders.jpg "The Crunchies"){loading="eager"}
 
 In early November 2007 Mike Arrington and his TechCrunch CEO Heather Harde approached me about participating in a new awards competition they’d come up with, “the Crunchies.” The idea (as far as I could tell) was to replicate the Webby Awards, which had been running since 1996. The Crunchies would focus specifically on Web 2.0 companies. TechCrunch would produce the show, with Read/WriteWeb, GigaOm, and VentureBeat as cohosts.
 

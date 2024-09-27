@@ -7,7 +7,7 @@ tags: ['web20', 'memoir', '2006']
 featureImage: "/assets/images/f93a892c-5e78-4050-961e-9cd4c2092040_2048x1365.jpg"
 ---
 
-![Me and Greg Narain at BloggerCon IV, June 2006](/assets/images/f93a892c-5e78-4050-961e-9cd4c2092040_2048x1365.jpg "Me and Greg Narain at BloggerCon IV, June 2006")
+![Me and Greg Narain at BloggerCon IV, June 2006](/assets/images/f93a892c-5e78-4050-961e-9cd4c2092040_2048x1365.jpg "Me and Greg Narain at BloggerCon IV, June 2006"){loading="eager"}
 
 For the rest of the week after the [Digg podcast call](/p/015-digg-power-laws-of-silicon-valley), I attended the 2006 Supernova conference, run by a business academic named Kevin Werbach. It wasn’t as good as the Web 2.0 Conference. In too many cases, panelists and speakers just talked about their own products or companies, and the event was targeted at businesspeople, not developers (the [tagline](https://web.archive.org/web/20060519102608/http://www.supernova2006.com/) was “Because technology is everyone’s business”). That was true of the Web 2.0 Conference as well, but developers were at least hanging around the hallways there—which wasn’t the case at Supernova.
 

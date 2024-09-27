@@ -6,7 +6,7 @@ permalink: "p/1999-the-fall-of-netscape-and-the-rise-of-mozilla/"
 tags: ['dotcom', '1999']
 featureImage: "/assets/images/wdh/Screen-Shot-2021-10-13-at-3.47.43-PM.png"
 ---
-![Mozilla 1999](/assets/images/wdh/Screen-Shot-2021-10-13-at-3.47.43-PM.png)
+![Mozilla 1999](/assets/images/wdh/Screen-Shot-2021-10-13-at-3.47.43-PM.png){loading="eager"}
 At the beginning of 1999, one company had all the momentum on the Web: Microsoft. While Netscape was adjusting to corporate life with new owner AOL and trying to figure out its browser strategy, Microsoft was preparing to release version 5 of its browser, Internet Explorer. Like the version before it, IE5 would become the default browser on Windows — further expediting the rise of IE as the dominant browser in the market. Indeed, by the end of 1999, IE had up to 80% of the browser market.
 
 While it was smooth sailing for Microsoft’s IE, its competitor Netscape had entered turbulent waters post-acquisition. Not only had Netscape fallen behind Microsoft in browser technology, it also had trouble navigating relationships — with both its parent AOL and the developers of its open source project, Mozilla. By the end of 1999, Netscape was a startup shipwreck. Fortunately, the good ship Mozilla was in much sturdier shape.

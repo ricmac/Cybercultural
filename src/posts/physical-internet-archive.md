@@ -7,7 +7,7 @@ tags: ['personal']
 featureImage: "/assets/images/brewster_oct2023.jpg"
 ---
 
-![Brewster Kahle scanning books at the Internet Archive](/assets/images/brewster_oct2023.jpg)
+![Brewster Kahle scanning books at the Internet Archive](/assets/images/brewster_oct2023.jpg){loading="eager"}
 
 While I was in San Francisco for a tech conference this month, I took the opportunity to visit the [Internet Archive](https://archive.org/) — the actual physical archive in the California town of Richmond, about twenty minutes drive from San Francisco.
 

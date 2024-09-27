@@ -7,7 +7,7 @@ tags: ['web20', 'memoir', '2009']
 featureImage: "/assets/images/friendfeed-ricmac_aug09.png"
 ---
 
-![My FriendFeed, July 2024](/assets/images/friendfeed-ricmac_aug09.png)
+![My FriendFeed, July 2024](/assets/images/friendfeed-ricmac_aug09.png){loading="eager"}
 *My FriendFeed account, August 2009.*
 
 In July 2009, RWW had 2,650,000 page views, of which nearly 1.3 million were unique visitors. Nearly half (49 percent) of visits were from Firefox users, with 25 percent using IE. Safari (12.5 percent) and Chrome (8.5 percent) were the next most popular.

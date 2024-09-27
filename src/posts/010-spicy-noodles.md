@@ -6,7 +6,7 @@ permalink: "p/010-spicy-noodles/"
 tags: ['web20', 'memoir', '2005']
 featureImage: "/assets/images/5f0cf3d8-28af-4f7c-ab78-350ffe501156_2272x1704.jpg"
 ---
-![Celebrating the Web 2.0 Workgroup at Jing Jing, in Palo Alto.](/assets/images/5f0cf3d8-28af-4f7c-ab78-350ffe501156_2272x1704.jpg "Celebrating the Web 2.0 Workgroup at Jing Jing, in Palo Alto.")
+![Celebrating the Web 2.0 Workgroup at Jing Jing, in Palo Alto.](/assets/images/5f0cf3d8-28af-4f7c-ab78-350ffe501156_2272x1704.jpg "Celebrating the Web 2.0 Workgroup at Jing Jing, in Palo Alto."){loading="eager"}
 
 During my stay at the TechCrunch ranch, Mike Arrington, Fred Oliveira and I had been discussing how to better team up. At the time, creating a network of blogs was a trend — in August, I’d joined the [9Rules network](https://web.archive.org/web/20060508060801/http://www.readwriteweb.com/archives/9rules_network.php), a community of web design-focused blogs. I’d joined it mainly because of their revenue-sharing advertising network, but also to help me connect with more of the design community. It turned out the 9Rules network was more useful for swapping contacts (I was introduced to my next web host through them), but I earned very little income from it. Nevertheless, the idea had been planted in my head that blogs banding together could be useful. So during my Silicon Valley trip, Mike, Fred and I decided to create our own network: the Web 2.0 Workgroup.
 

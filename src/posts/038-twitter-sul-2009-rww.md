@@ -7,7 +7,7 @@ tags: ['web20', 'memoir', '2009']
 featureImage: "/assets/images/rww_1july2009.jpg"
 ---
 
-![RWW Twitter, 1 July 2009](/assets/images/rww_1july2009.jpg)
+![RWW Twitter, 1 July 2009](/assets/images/rww_1july2009.jpg){loading="eager"}
 *Due largely to the SUL, RWW's Twitter account went from 13,300 followers in [mid-May 2009](https://web.archive.org/web/20090514175811/https://twitter.com/rww) to 256,000 by the [end of June](https://web.archive.org/web/20090701011822/https://twitter.com/rww). By year's end, we'd matched Ashton Kutcher with over [one million followers](https://web.archive.org/web/20100104162858/https://twitter.com/rww).*
 
 After I returned from [my latest Silicon Valley trip](/p/037-googleplex-2009-rww-channels/) in March 2009, my wife and I separated. Unlike our separation at [the end of 2006](/p/020-betting-on-web20/), this was permanent. I drove eight hours or so to Auckland, where my aunt Mary kindly agreed to let me stay while I sorted my life out.

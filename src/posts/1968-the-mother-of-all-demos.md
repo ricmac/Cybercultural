@@ -6,7 +6,7 @@ permalink: "p/1968-the-mother-of-all-demos/"
 tags: ['preweb', '1968']
 featureImage: "/assets/images/wdh/doug_engelbart_1968demo1-1.jpg"
 ---
-![Doug Engelbart](/assets/images/wdh/doug_engelbart_1968demo1-1.jpg)
+![Doug Engelbart](/assets/images/wdh/doug_engelbart_1968demo1-1.jpg){loading="eager"}
 It’s Monday the 9th of December, 1968, and Douglas Engelbart, a 43 year old Silicon Valley engineer, is about to give the biggest presentation of his career. He’s at the Fall Joint Computer Conference, in downtown San Francisco, and he’s feeling anxious. Not so much about the crowd; by now Engelbart is used to speaking publicly and he’s typically calm and confident. No, he’s much more nervous about whether the demonstration he’s about to do will actually work!
 
 Because he, Douglas Engelbart, is going to showcase the world’s first personal, networked, computer — as a live demo. It’s the computing equivalent of a high-wire trapeze act with no net.

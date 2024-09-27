@@ -6,7 +6,7 @@ permalink: "p/marc-andreessen-2004/"
 tags: ['web20', '2004']
 featureImage: "/assets/images/marc-andreessen-time-cover-1996.jpg"
 ---
-![Marc Andreessen on the cover of TIME magazine in Feb 1996](/assets/images/marc-andreessen-time-cover-1996.jpg)
+![Marc Andreessen on the cover of TIME magazine in Feb 1996](/assets/images/marc-andreessen-time-cover-1996.jpg){loading="eager"}
 *Marc Andreessen, bare feet and all, on the cover of TIME magazine in Feb 1996.*
 
 At the beginning of 2004, Netscape founder Marc Andreessen was doing just fine financially and had no shortage of attention. But he was trying to adapt to a new Web era. At the time he was Chairman of [Opsware](https://web.archive.org/web/20040131024546/http://www.opsware.com/), the business software company he’d co-founded with Ben Horowitz (who he eventually went into the VC world with). In an interview he did with the San Francisco Chronicle at the end of 2003, he talked about the recession caused by the Dot Com bust — which at the time was still playing out. “History suggests that recessions are good times for the next big things to emerge,” he said, “although they're never viewed as such at the time.”

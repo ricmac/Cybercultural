@@ -7,7 +7,7 @@ tags: ['web20', 'memoir', '2008']
 featureImage: "/assets/images/two_sf_2007.jpeg"
 ---
 
-![The Two restaurant](/assets/images/two_sf_2007.jpeg)
+![The Two restaurant](/assets/images/two_sf_2007.jpeg){loading="eager"}
 
 Mike Azzara from Ziff Davis Enterprise had arranged a dinner for three people—he’d be bringing along a new ZDE editor named Stephen Wellman, whom he’d just hired from (of course) CMP. The dinner reservation was at a restaurant called [TWO](https://web.archive.org/web/20080415154709/http://www.two-sf.com/), in the trendy SoMa district of San Francisco, apparently in the original 1922 headquarters of the [San Francisco Newspaper Company](https://web.archive.org/web/20080415154709/http://www.two-sf.com/). Perhaps this was why, as I would soon discover, it was popular with media people.
 

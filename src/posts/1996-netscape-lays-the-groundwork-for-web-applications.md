@@ -6,7 +6,7 @@ permalink: "p/1996-netscape-lays-the-groundwork-for-web-applications/"
 tags: ['dotcom', '1996']
 featureImage: "/assets/images/wdh/netscape_oct96.jpg"
 ---
-![Third wave of the Net](/assets/images/wdh/netscape_oct96.jpg)
+![Third wave of the Net](/assets/images/wdh/netscape_oct96.jpg){loading="eager"}
 Netscape launched interactivity into web pages in 1995, via [a new scripting language called JavaScript](https://webdevelopmenthistory.com/1995-the-birth-of-javascript/). This heralded the start of the multimedia era of web browsers. In March 1996, Netscape debuted its Navigator 2.0 browser, which included JavaScript 1.0 and the first inklings of what would become a fundemantal model of web programming: the [Document Object Model (DOM)](https://webdevelopmenthistory.com/1996-javascript-annoyances-and-meeting-the-dom/). But Netscape wasn’t finished with 1996 just yet. What they launched next is the subject of this post, the third in our series about [the history of JavaScript](https://webdevelopmenthistory.com/category/javascript/).
 
 Netscape Navigator 3.0 was released in August 1996. It [featured](https://web.archive.org/web/19961026222625/http://www3.netscape.com/comprod/products/navigator/index.html) “fully integrated video, audio, 3D, and Internet telephone communications capabilities.” Under the hood, there were some key JavaScript and HTML enhancements — which we will discuss below.

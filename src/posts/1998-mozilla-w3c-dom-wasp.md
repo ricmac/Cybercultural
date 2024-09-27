@@ -6,7 +6,7 @@ permalink: "p/1998-mozilla-w3c-dom-wasp/"
 tags: ['dotcom', '1998']
 featureImage: "/assets/images/wdh/wdh_1998_feature2.jpg"
 ---
-![1998 web open source](/assets/images/wdh/wdh_1998_feature2.jpg)
+![1998 web open source](/assets/images/wdh/wdh_1998_feature2.jpg){loading="eager"}
 By the start of 1998, Netscape was preparing to make a drastic move. Not only was its arch-nemesis Microsoft rapidly catching up in the browser market, Internet Explorer was also arguably a superior technical platform for web development. After 1997, [the year of DHTML](https://webdevelopmenthistory.com/1997-the-year-of-dhtml/), Microsoft’s powerful document object model (DOM) had become the foundation for a new web standard that would define interactive content for years to come: the W3C’s DOM specification.
 
 Netscape made its move on January 22, 1998, when the company [announced](https://web.archive.org/web/20021001071727/wp.netscape.com/newsref/pr/newsrelease558.html) its “bold plans to make the source code for the next generation of its highly popular Netscape Communicator client software available for free licensing on the Internet.” This was the beginnings of Mozilla, a non-profit organisation that was unveiled at the end of March 1998 [by Marc Andreessen](https://web.archive.org/web/19990501131022/http://www10.netscape.com/columns/techvision/source.html):

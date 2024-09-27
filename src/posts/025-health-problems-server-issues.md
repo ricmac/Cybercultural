@@ -7,7 +7,7 @@ tags: ['web20', 'memoir', '2007']
 featureImage: "/assets/images/diabetes_post_nov07.jpg"
 ---
 
-![My blog post after getting the type 1 diabetes diagnosis](/assets/images/diabetes_post_nov07.jpg)
+![My blog post after getting the type 1 diabetes diagnosis](/assets/images/diabetes_post_nov07.jpg){loading="eager"}
 
 The first sign of health problems came before I went to the 2007 Web 2.0 Summit. Late that September, I was traveling by car to Kaikoura, a scenic coastal town near the top of the South Island of New Zealand. My wife and six-year-old daughter were with me; we intended to spend a few nights there and then visit my nana in Blenheim on the way back. But during that car trip I felt unwell and was frequently stopping to urinate. After we arrived in Kaikoura, my wife and I began arguing—partly due to my workload, but due also to my physical discomfort.
 

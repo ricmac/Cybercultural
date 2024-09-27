@@ -7,7 +7,7 @@ tags: ['web20', 'memoir', '2005']
 featureImage: "/assets/images/8702d00f-1066-4581-a67d-e494497a4473_1822x1338.jpg"
 ---
 
-![Richard MacManus = Illuminati (according to Supr.c.ilio.us in 2005)](/assets/images/8702d00f-1066-4581-a67d-e494497a4473_1822x1338.jpg)
+![Richard MacManus = Illuminati (according to Supr.c.ilio.us in 2005)](/assets/images/8702d00f-1066-4581-a67d-e494497a4473_1822x1338.jpg){loading="eager"}
 
 By October 2005, I was making a reasonable living from the web as a freelancer. I’d quit my New Zealand day job in August and was now earning income from various web consulting gigs, as well as from my ZDNet blog (and a small portion from Read/WriteWeb itself). But if I did move to Silicon Valley, I knew I’d have to get a full-time job — I would need it in order to get a working visa.
 

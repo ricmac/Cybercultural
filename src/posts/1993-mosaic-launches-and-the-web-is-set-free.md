@@ -6,7 +6,7 @@ permalink: "p/1993-mosaic-launches-and-the-web-is-set-free/"
 tags: ['dotcom', '1993']
 featureImage: "/assets/images/wdh/mosaic_feature.jpg"
 ---
-![Mosaic X](/assets/images/wdh/mosaic_feature.jpg)
+![Mosaic X](/assets/images/wdh/mosaic_feature.jpg){loading="eager"}
 
 On 14 January 1993, Marc Andreessen put [a call out](http://1997.webhistory.org/www.lists/www-talk.1993q1/0073.html) on the WWW-Talk mailing list for people to test a new WWW browser in development. It was initially “hypertext only,” he wrote, “but will soon have multimedia capabilities also.” He followed up on 23 January 1993 with the [announcement](http://1997.webhistory.org/www.lists/www-talk.1993q1/0099.html) of “alpha/beta version 0.5” of the browser, which he called X Mosaic. The X signified that it was built for the X Window System, which meant that it only worked on a few platforms — notably, not yet including Microsoft Windows or Apple Macintosh.
 

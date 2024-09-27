@@ -7,7 +7,7 @@ tags: ['web20', 'memoir', '2009']
 featureImage: "/assets/images/3889924218_aa5c3d16cd_o.png"
 ---
 
-![ReadWriteWeb, September 2009](/assets/images/3889924218_aa5c3d16cd_o.png)
+![ReadWriteWeb, September 2009](/assets/images/3889924218_aa5c3d16cd_o.png){loading="eager"}
 
 In July 2009, we began planning our first RWW event. It would be in the “unconference” format, which had been suggested to us by Kaliya Hamlin, an expert on digital identity. The key aspect of an unconference was that it wasn’t based around presenters with PowerPoints talking to a mute audience; instead, a discussion facilitator would get everyone in the room talking. It was a very “read/write” concept, since the audience would be actively involved in the sessions. Obviously, this would mean a much smaller event than, say, the Web 2.0 Summit. But it was a perfect fit for our RWW brand and we immediately jumped on the idea.
 

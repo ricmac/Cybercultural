@@ -7,7 +7,7 @@ tags: ['web20', 'year', '2004']
 featureImage: "/assets/images/myspace_2004.jpeg"
 ---
 
-![Flickr, August 2004](/assets/images/flickr_aug04.jpg)
+![Flickr, August 2004](/assets/images/flickr_aug04.jpg){loading="eager"}
 
 2004, twenty years ago, was the year that Web 2.0 truly began. In February, Facebook was quietly launched in a Harvard dorm room. Meanwhile, across the border in Canada, a photo sharing site called Flickr was released. Then in April, Google launched one of the first web apps that worked just like a native app: Gmail. The technology behind it, a JavaScript technique that would later be termed "Ajax,” would come to define many of the web products that became popular over the coming years.
 

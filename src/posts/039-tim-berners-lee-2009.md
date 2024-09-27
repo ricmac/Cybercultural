@@ -7,7 +7,7 @@ tags: ['web20', 'memoir', '2009']
 featureImage: "/assets/images/tbl-ricmac-june09.jpeg"
 ---
 
-![Tim Berners-Lee and Richard MacManus, June 2009](/assets/images/tbl-ricmac-june09.jpeg)
+![Tim Berners-Lee and Richard MacManus, June 2009](/assets/images/tbl-ricmac-june09.jpeg){loading="eager"}
 *In June 2009, I interviewed the man who had made my entire career possible: Tim Berners-Lee.*
 
 Another of my passion projects as a tech reporter was the Semantic Web (it was always capitalized at the time). In May I’d done [a presentation to a Wellington tech gathering](https://web.archive.org/web/20090521145943/http://www.readwriteweb.com//archives//something_new_in_2009.php) about web trends. I’d made the case that open, structured data (the so-called Semantic Web), real-time web apps such as Twitter, and “beyond the PC” things like mobile and IoT were all new or noticeably different trends in 2009.

@@ -6,7 +6,7 @@ permalink: "p/foursquare-raps-by-the-go-bang-mayor/"
 tags: ['web20']
 featureImage: "/assets/images/479e6f2c-37c6-43c4-9b2c-7acd19b49d7d_1114x810.jpg"
 ---
-![](/assets/images/479e6f2c-37c6-43c4-9b2c-7acd19b49d7d_1114x810.jpg)
+![](/assets/images/479e6f2c-37c6-43c4-9b2c-7acd19b49d7d_1114x810.jpg){loading="eager"}
 
 I recently had occasion to write about Foursquare, the once popular location check-in app. I’d been emailed by its PR firm about a potential Machine Learning story. In her pitch, the PR rep had called Foursquare a “location data platform.” All this piqued my interest as a tech journalist, as I’m currently writing a series of articles at The New Stack about machine learning and its impact on web development. I was also curious what Foursquare, one of the trendiest apps of Web 2.0, had turned into over the past decade.
 

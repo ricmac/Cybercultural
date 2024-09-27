@@ -6,7 +6,7 @@ permalink: "p/1995-the-birth-of-javascript/"
 tags: ['dotcom', '1995']
 featureImage: "/assets/images/wdh/netscape_browser_1995.jpg"
 ---
-![Netscape browser 1995](/assets/images/wdh/netscape_browser_1995.jpg)
+![Netscape browser 1995](/assets/images/wdh/netscape_browser_1995.jpg){loading="eager"}
 JavaScript was invented in a two-week flurry in May 1995 by [Brendan Eich](https://brendaneich.com/), at the time a newly hired developer at browser company Netscape. The project was initiated by Netscape because of a desire to extend the early Web beyond the limits of HTML, the declarative markup language that web pages are written in. In particular, Netscape wanted to add interactivity to websites. JavaScript ended up being the solution and this post explores how that came to be.
 
 It’s hard to picture it now, twenty-five years after the fact, but at the start of 1995 web browsers had limited functionality. Netscape Navigator 1.0 had only just been released in December 1994. There was zero interactivity and support for the web standards of the day was patchy. As Adrian Roselli [put it](https://adrianroselli.com/2014/12/20-years-since-netscape-navigator-10.html), version 1.0 “pre-dated frames, cookies, HTML tables (support came in 1.1), JavaScript, and support for any of the robust features of HTTP.” In other words: Netscape Navigator 1.0 supported HTML markup, but not much more than that.

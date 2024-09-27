@@ -7,7 +7,7 @@ tags: ['personal']
 featureImage: "/assets/images/Whataitai.jpeg"
 ---
 
-![Ngake and Whātaitai the taniwha of Wellington harbour](/assets/images/Whataitai.jpeg)
+![Ngake and Whātaitai the taniwha of Wellington harbour](/assets/images/Whataitai.jpeg){loading="eager"}
 
 Instead of the latest installment of my serialized Web 2.0 memoir, this week I want to talk about the experience of selling a tech blogging business — and the after-life this can have, which sometimes (maybe most of the time?) can be more hell than heaven.
 

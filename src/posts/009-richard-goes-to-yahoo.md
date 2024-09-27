@@ -6,7 +6,7 @@ permalink: "p/009-richard-goes-to-yahoo/"
 tags: ['web20', 'memoir', '2005']
 featureImage: "/assets/images/cdbb72de-7f87-4153-b670-94087d30c792_640x480.jpg"
 ---
-![Me at the Yahoo! campus, 10 October 2005](/assets/images/cdbb72de-7f87-4153-b670-94087d30c792_640x480.jpg "Me at the Yahoo! campus, 10 October 2005")
+![Me at the Yahoo! campus, 10 October 2005](/assets/images/cdbb72de-7f87-4153-b670-94087d30c792_640x480.jpg "Me at the Yahoo! campus, 10 October 2005"){loading="eager"}
 
 Earlier in 2005, I had made some contacts inside of Yahoo! and had begun to think about trying for a job there. One of my contacts was a search engine executive named Elizabeth Osder, and I’d told her my dream gig on the internet would be web strategist / blogger, with input into product design. She replied that I “might find a gig in strategy for a web company” and promised to ask around inside Yahoo. She also wanted to know about my experiences running ads in my RSS feeds, so there was some quid pro quo going on in these early emails.
 

@@ -6,7 +6,7 @@ permalink: "p/internet-2005/"
 tags: ['web20', 'year', '2005']
 featureImage: "/assets/images/346c4a1a-89b1-437a-b730-16b6f9921b60_2048x1365.jpg"
 ---
-![Browse. Search. Subscribe.](/assets/images/346c4a1a-89b1-437a-b730-16b6f9921b60_2048x1365.jpg)
+![Browse. Search. Subscribe.](/assets/images/346c4a1a-89b1-437a-b730-16b6f9921b60_2048x1365.jpg){loading="eager"}
 
 Earlier this week I [began chapter 4](/p/012-gift-basket-seattle-january-2006) of my serialized memoir, _Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution_. There are twenty chapters in total, plus an introduction and epilogue. So there is a long way to go yet. Much of what I’ve published so far ([parts 5-11](/p/roadmap-bubbleblog)) has focused on 2005, a key year in Web 2.0. That was when Web 2.0 became the driving trend of Silicon Valley, and Read/WriteWeb got swept up in a new tech bubble. But what was the web like back then? It’s now 18 years ago, which in internet years means a couple of generations!
 

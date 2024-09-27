@@ -6,7 +6,7 @@ permalink: "p/roadmap-bubbleblog/"
 tags: ['web20', 'memoir']
 featureImage: "/assets/images/73ba0b8a-0364-47f9-9b0d-a7a3cca2a00c_3400x2134.jpg"
 ---
-![Bubble Blog book cover](/assets/images/73ba0b8a-0364-47f9-9b0d-a7a3cca2a00c_3400x2134.jpg "Bubble Blog book cover")
+![Bubble Blog book cover](/assets/images/73ba0b8a-0364-47f9-9b0d-a7a3cca2a00c_3400x2134.jpg "Bubble Blog book cover"){loading="eager"}
 
 If you are looking for a good overview of my book project, see [my launch post](/p/bubble-blog-web20-memoir).
 

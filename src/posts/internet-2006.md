@@ -7,7 +7,7 @@ tags: ['web20', 'year', '2006']
 featureImage: "/assets/images/105122805_a5475e6b45_k.jpg"
 ---
 
-![2006 internet](/assets/images/105122805_a5475e6b45_k.jpg)
+![2006 internet](/assets/images/105122805_a5475e6b45_k.jpg){loading="eager"}
 *No smartphones, fat laptops. Welcome to the 2006 internet!*
 
 2006 was a pivotal year in the rise of the social web. In July, Twitter launched; in September, Facebook debuted its “news feed” and opened registrations for all people (not just US college students); and in October, Google acquired YouTube, which resulted in the mainstreaming of online video.

@@ -7,7 +7,7 @@ tags: ['personal']
 featureImage: "/assets/images/cybercultural_wdh-sep24.jpg"
 ---
 
-![Web Development History integrated with Cybercultural, September 2024](/assets/images/cybercultural_wdh-sep24b.jpg)
+![Web Development History integrated with Cybercultural, September 2024](/assets/images/cybercultural_wdh-sep24b.jpg){loading="eager"}
 
 Today I completed a redesign of [Cybercultural](https://cybercultural.com/), including a new navigation structure and other changes related to an upgrade in my publishing system, Eleventy. I've upgraded from Eleventy version 2 to the latest [3.0 beta version](https://www.11ty.dev/blog/canary-eleventy-v3/), which required significant changes to my code. There’s also a bunch of new content on the site, since I decided to migrate my previous history website — Web Development History (WDH) — into Cybercultural.
 

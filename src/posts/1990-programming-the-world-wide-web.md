@@ -6,7 +6,7 @@ permalink: "p/1990-programming-the-world-wide-web/"
 tags: ['dotcom', '1990']
 featureImage: "/assets/images/wdh/tbl_code.jpg"
 ---
-![Tim Berners-Lee invents the web](/assets/images/wdh/tbl_code.jpg)
+![Tim Berners-Lee invents the web](/assets/images/wdh/tbl_code.jpg){loading="eager"}
 
 In the final few months of 1990, 35-year Tim Berners-Lee and his colleague Robert Cailliau developed the world’s first web client (a browser/editor), created the HyperText Markup Language (HTML), wrote the first web server, and tied it all together with an Internet communication protocol called Hypertext Transfer Protocol (HTTP). This led to [the first web page](http://info.cern.ch/hypertext/WWW/TheProject.html) at info.cern.ch, which was live by Christmas Day, 1990.
 

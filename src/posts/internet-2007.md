@@ -7,7 +7,7 @@ tags: ['web20', 'year', '2007']
 featureImage: "/assets/images/zuck_august2007.jpg"
 ---
 
-![Mark Zuckerberg, August 2007](/assets/images/zuck_august2007.jpg)
+![Mark Zuckerberg, August 2007](/assets/images/zuck_august2007.jpg){loading="eager"}
 *Mark Zuckerberg at a developer happy hour event at Facebook HQ, August 2007. Photo by [Scott Beale / Laughing Squid](https://laughingsquid.com/lunch-20-developer-happy-hour-at-facebook/).*
 
 2007 is often thought of as the year of the smartphone, with both the iPhone and Android launching that year. But for much of the year it was still a desktop-driven web, with emerging social media sites like Facebook, Twitter and Tumblr typically read and updated on a computer screen. Meanwhile, online advertising boomed in 2007—including via two big acquisitions by Google and Microsoft—and Netflix began branching out into video streaming.

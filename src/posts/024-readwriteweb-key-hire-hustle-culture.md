@@ -7,7 +7,7 @@ tags: ['web20', 'memoir', '2007']
 featureImage: "/assets/images/1622036248_c02d6f9068_o.jpg"
 ---
 
-![MySpace party at Web 2.0 Summit](/assets/images/1622036248_c02d6f9068_o.jpg)
+![MySpace party at Web 2.0 Summit](/assets/images/1622036248_c02d6f9068_o.jpg){loading="eager"}
 
 In August 2007, I began discussions with Marshall Kirkpatrick, a former TechCrunch lead blogger who was now working for a marketing company. Marshall was from Portland and working for a local company called SplashCast when I reached out to him by email. I asked if he knew of any freelance bloggers who might like to work for Read/WriteWeb for around twenty hours per week. He emailed back, suggesting himself. It turned out he was thinking of leaving SplashCast to do consulting work, so he was open to another blogging gig. “If it’s not me in particular that you’re looking for, I’ve got a list of more than 30 bloggers now looking for blogging gigs, some of them very accomplished,” he added.
 

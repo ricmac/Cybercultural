@@ -6,7 +6,7 @@ permalink: "p/1994-perl-yahoo/"
 tags: ['dotcom', '1994']
 featureImage: "/assets/images/wdh/yahoo_94_feature.jpg"
 ---
-![1994: How Perl Became the Foundation of Yahoo](/assets/images/wdh/yahoo_94_feature.jpg)
+![1994: How Perl Became the Foundation of Yahoo](/assets/images/wdh/yahoo_94_feature.jpg){loading="eager"}
 In January 1994, two Stanford University graduate students — Jerry Yang and David Filo — created a web directory named “Jerry and David’s Guide to the World Wide Web.” It went by various other names in early 1994 (such as “Hierarchical Hotlist” and “Jerry & Dave’s Guide to WWW”), before being christened Yahoo in April of that year. Throughout the rest of 1994, Yang and Filo quietly developed the website in their Stanford dorm rooms. Finally, in January 1995 the pair bought the domain name yahoo.com and become a company a couple of months later.
 
 The founding of Yahoo is one of the iconic Silicon Valley business stories. What’s lesser known is the web development story of Yahoo throughout 1994 — which is the focus of this article. In particular, we’ll explore how a scripting language invented by Larry Wall in 1987, called Perl, became the glue that made Yahoo stick in the public consciousness.

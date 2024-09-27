@@ -6,7 +6,7 @@ permalink: "p/003-the-first-web-20-conference-2004/"
 tags: ['web20', 'memoir', '2004']
 featureImage: "/assets/images/500f92b7-24b9-4c9b-a99f-4940312596d5_1280x964.jpg"
 ---
-![Read/Write Web, 25 March 2004](/assets/images/c374b60f-7b0f-4b94-a4f3-c4ca0498f5e0_2320x1596.png "Read/Write Web, 25 March 2004")
+![Read/Write Web, 25 March 2004](/assets/images/c374b60f-7b0f-4b94-a4f3-c4ca0498f5e0_2320x1596.png "Read/Write Web, 25 March 2004"){loading="eager"}
 
 In-between trying to get linked to by an A-Lister in the blogosphere, I inadvertently turned myself into a journalist. In March 2004, I interviewed Marc Canter, a Silicon Valley resident who was internet famous in the 1980s. Twenty years prior, he’d co-founded MacroMind — a company that created multimedia software for the Apple Macintosh. Through a series of corporate maneuvers I didn’t understand at the time of the interview, by 1992 MacroMind had morphed into Macromedia. By that point, Canter had departed the company, but he’d be forever linked to Macromedia’s subsequent Dot Com success.
 

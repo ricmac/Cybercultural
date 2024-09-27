@@ -7,7 +7,7 @@ tags: ['web20', 'year', '2008']
 featureImage: "/assets/images/iphone_g1.jpg"
 ---
 
-![iPhone and G1](/assets/images/iphone_g1.jpg)
+![iPhone and G1](/assets/images/iphone_g1.jpg){loading="eager"}
 *The iPhone 3G and G1 (first Android device); [October 2008](https://www.flickr.com/photos/earlysound/2984791840/).*
 
 The internet in 2008 was defined by the emergence of smartphone apps, with the Apple App Store launched in July (along with a second-generation iPhone) and the Android Market following in September. But equally, there was a lot of innovation in web browsers too. Mozilla released Firefox 3 in June, while Google launched its new browser Chrome in September.

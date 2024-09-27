@@ -7,7 +7,7 @@ tags: ['web20', 'memoir', '2010']
 featureImage: "/assets/images/rww-mobile-summit-teamrww-may2010b.jpg"
 ---
 
-![Team RWW at the ReadWriteWeb Mobile Summit, May 2010](/assets/images/rww-mobile-summit-teamrww-may2010b.jpg)
+![Team RWW at the ReadWriteWeb Mobile Summit, May 2010](/assets/images/rww-mobile-summit-teamrww-may2010b.jpg){loading="eager"}
 *Team RWW at the Mobile Summit: Frederic, Chris, me, Marshall, Sean; photo [via Chris Cameron](https://www.flickr.com/photos/chcameron/4600461700/).*
 
 The ReadWriteWeb Mobile Summit was held on Friday, May 7, [once more](/p/042-readwrite-realtime-web-summit-2009/) at the beautiful Computer History Museum in Mountain View. I would be giving the keynote presentation for the event and had built a presentation around five key mobile trends for 2010, based on a [three-part series of posts](https://web.archive.org/web/20100425012955/http://www.readwriteweb.com/archives/top_10_mobile_trends_of_2010_part_3_emerging_markets.php) I’d written in April. I even used RWW’s own iPhone app—admittedly, a very basic one that we’d commissioned from an independent developer and [launched in January](https://web.archive.org/web/20100130025312/http://www.readwriteweb.com/archives/readwriteweb_iphone_app.php)—and the mobile version of our website (m&#46;readwriteweb&#46;com) to demonstrate some of these trends.

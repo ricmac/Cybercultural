@@ -6,7 +6,7 @@ permalink: "p/006-revving-up-2005-web-20-conference/"
 tags: ['web20', 'memoir', '2005']
 featureImage: "/assets/images/29881ba3-77b3-47a3-90d5-a4d81521ed5b_800x600.jpg"
 ---
-![My press badge for the Web 2.0 Conference, October 2005](/assets/images/29881ba3-77b3-47a3-90d5-a4d81521ed5b_800x600.jpg "My press badge for the Web 2.0 Conference, October 2005")
+![My press badge for the Web 2.0 Conference, October 2005](/assets/images/29881ba3-77b3-47a3-90d5-a4d81521ed5b_800x600.jpg "My press badge for the Web 2.0 Conference, October 2005"){loading="eager"}
 
 The Web 2.0 Conference kicked off on Wednesday, October 5, 2005, at The Argent Hotel on Third Street in San Francisco. I’d gone into the city on the Caltrain earlier in the week, to take in the sights of Haight St and familiarize myself with the Union Square area. But today would be my first experience of a tech event in America.
 

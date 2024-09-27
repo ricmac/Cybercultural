@@ -7,7 +7,7 @@ tags: ['web20', 'memoir', '2008']
 featureImage: "/assets/images/rww_june_2008_firefox2.jpg"
 ---
 
-![ReadWriteWeb, 27 June 2008](/assets/images/rww_june_2008_firefox2.jpg)
+![ReadWriteWeb, 27 June 2008](/assets/images/rww_june_2008_firefox2.jpg){loading="eager"}
 
 One of the first things I did after [pulling out of the ZDE deal](/p/034-rww-withdraws-from-zde-deal/) was to tell Marshall what had happened. I had penciled in a closing bonus and incentives over two years for him and the other writers, so he wouldn’t have been left out financially had the ZDE deal closed. But I apologized for not telling him about the potential sale until now. I’d been afraid he would walk, I said, given he was technically a part-time contractor during the negotiations. But now I wanted to focus on building up the business with Marshall on board full-time—if he agreed.
 

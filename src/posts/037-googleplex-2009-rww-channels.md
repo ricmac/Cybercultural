@@ -7,7 +7,7 @@ tags: ['web20', 'memoir', '2009']
 featureImage: "/assets/images/webtrendsmap4_2009.jpg"
 ---
 
-![Web Trends Map 4, 2009](/assets/images/webtrendsmap4_2009.jpg)
+![Web Trends Map 4, 2009](/assets/images/webtrendsmap4_2009.jpg){loading="eager"}
 *In 2009, ReadWriteWeb was featured in the ia&#46;net [Web Trend Map](https://www.davidrumsey.com/luna/servlet/detail/RUMSEY~8~1~302951~90073780), which "plots the Internet’s leading names and domains onto the Tokyo Metro map." Via [Internet Archive](https://archive.org/details/dr_web-trend-map-4-the-state-of-the-web-mapped-onto-tokyos-metro-system-10124000).* 
 
 As the new year dawned, I wrote up some goals for 2009 in the red 3B1 Warwick notebook I habitually carried with me. As a business goal I wrote, “Solidify, then expand.” I’d recently confirmed the [3-person leadership team for ReadWriteWeb](/p/035-indie-media-business-20/), and we were now busy dividing up the workload and new projects for the year. The goal, of course, was to continue growing. That’s what Silicon Valley startups did, after all.

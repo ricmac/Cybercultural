@@ -7,7 +7,7 @@ tags: ['web20', 'memoir', '2008']
 featureImage: "/assets/images/nyc_view_empirestatebld_may08.jpeg"
 ---
 
-![John Ellis Band at Jazz Standard](/assets/images/nyc_view_empirestatebld_may08.jpeg)
+![John Ellis Band at Jazz Standard](/assets/images/nyc_view_empirestatebld_may08.jpeg){loading="eager"}
 
 Tuesday’s financial discussions were with Kobi Levy and Jake Stein from Insight Partners, the private equity firm that was [buying ReadWriteWeb](/p/030-rww-acquisition-deal-2008/) on behalf of Ziff Davis Enterprise. 
 

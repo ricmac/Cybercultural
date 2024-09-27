@@ -7,7 +7,7 @@ tags: ['web20', 'memoir', '2006']
 featureImage: "/assets/images/rwwric_alex_2009.jpg"
 ---          
 
-![Me and Alex Iskold, a few years after he began writing for Read/WriteWeb](/assets/images/rwwric_alex_2009.jpg "Me and Alex Iskold, a few years after he began writing for Read/WriteWeb")
+![Me and Alex Iskold, a few years after he began writing for Read/WriteWeb](/assets/images/rwwric_alex_2009.jpg "Me and Alex Iskold, a few years after he began writing for Read/WriteWeb"){loading="eager"}
 
 During the second half of 2006, more and more of my focus was on building up Read/WriteWeb. In July 2006 I announced [a major redesign](https://web.archive.org/web/20061017004558/http://www.readwriteweb.com/archives/new_readwritewe.php) of the site. The [previous design](https://web.archive.org/web/20060507135504/http://readwriteweb.com/) had been a thin two-column layout on a white background, with red font for the headers and links. It featured a circular logo with the letters *R* and *W* inside, which I’d created in Photoshop using the yin-yang symbol as inspiration. Up till this point, I had done all the web design and development myself. This work was serviceable, but I needed a bit more design flair to keep up with TechCrunch, GigaOm, Mashable, and other Web 2.0 blogs. Also, the layout needed opening up to accommodate more advertisers and sponsors.
 

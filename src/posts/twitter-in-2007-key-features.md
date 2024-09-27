@@ -7,7 +7,7 @@ tags: ['web20', '2007']
 featureImage: "/assets/images/twitter-sxsw07.jpg"
 ---
 
-![Twitter in March 2007](/assets/images/twitter-sxsw07.jpg)
+![Twitter in March 2007](/assets/images/twitter-sxsw07.jpg){loading="eager"}
 
 The first big influx of people [signed up to Twitter in March 2007](/p/twitter-in-2007-the-open-platform/), after it became a breakout app at the annual SXSW conference in Austin, Texas. But even web geeks didn't quite know what to make of Twitter. Was it an “[IM/blogging hybrid](/p/022-web20-expo-2007/)," as I described it in June 2007, a month or so after I'd joined. Was it a "[microblogging](/p/the-golden-age-of-microblogging/)" app, like Tumblr, another trendy internet site to launch that year? Or was it "a weird experiment normally found in neuroscience labs," as a colleague of mine said?
 

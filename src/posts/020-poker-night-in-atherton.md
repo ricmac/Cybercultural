@@ -7,7 +7,7 @@ tags: ['web20', 'memoir', '2006']
 featureImage: "/assets/images/pokernight_edit1.jpg"
 ---
 
-![Poker night in Silicon Valley](/assets/images/pokernight_edit1.jpg "Poker night in Silicon Valley")
+![Poker night in Silicon Valley](/assets/images/pokernight_edit1.jpg "Poker night in Silicon Valley"){loading="eager"}
 
 On Friday I made my way from San Francisco to the TechCrunch ranch in Atherton, about forty-five minutes south down the 101. Mike was as busy as usual. I brought up the RWW Research idea that I’d [chatted to my friend Fergus about](/p/019-web20-summit-2006-lou-reed/), but he was too absorbed in his own expansion plans to care. Simply put, he was on a different level now. He was at the epicenter of the Silicon Valley startup scene, rather than skirting the periphery like me. A recent [Wall Street Journal article](https://web.archive.org/web/20061119160347/http://online.wsj.com/public/article/SB116244521605611149-xEEW_Dh1mMLLs0dtYRdw492SQYE_20061109.html?mod=blogs) had called Mike a “power broker” in the industry and quoted him as saying, “I want more page views than CNET in two years.”
 

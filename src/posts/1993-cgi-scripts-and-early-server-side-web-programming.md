@@ -6,7 +6,7 @@ permalink: "p/1993-cgi-scripts-and-early-server-side-web-programming/"
 tags: ['dotcom', '1993']
 featureImage: "/assets/images/wdh/1993_cgi_mosaic.jpg"
 ---
-![CGI Mosaic](/assets/images/wdh/1993_cgi_mosaic.jpg)
+![CGI Mosaic](/assets/images/wdh/1993_cgi_mosaic.jpg){loading="eager"}
 
 A couple of years before [JavaScript was invented](https://webdevelopmenthistory.com/1995-the-birth-of-javascript/), a specification called the Common Gateway Interface (CGI) enabled an early form of interactivity for web pages. But whereas JavaScript performed interactive tasks **inside** the browser (that is, on the client-side), CGI scripts ran via an external program on a server (server-side). After a CGI script was executed on a server, the result was sent back to the originating web page as HTML code. So while a CGI script wasn’t a dynamic component in the browser, like JavaScript was, it did allow early web users in 1993 and 1994 to run interactive programs. In many ways then, it was CGI — not JavaScript — that was the start of web applications.
 
