@@ -2,7 +2,7 @@
 title: "New York Times HQ Visit and Emergence of Influencer Culture"
 description: "On my latest trip to New York City, in May 2010, Sean and I attend Creative Week to scope out the venue for ReadWriteWeb's next event, we meet VC Fred Wilson, and visit the New York Times skyscraper."
 date: 2024-09-18
-permalink: "p/meeting-new-york-times-may2010/"
+permalink: "p/050-meeting-new-york-times-2010/"
 tags: ['web20', 'memoir', '2010']
 featureImage: "/assets/images/ny-times-building-2009.jpg"
 ---
@@ -100,4 +100,4 @@ The following day I began the long journey back to New Zealand. I would be back 
 
 This post is part of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. View [table of contents](/p/roadmap-bubbleblog/).
 
-Next up: 051. Back in NYC in June 2010 for the RWW Real-Time Web Summit
+Next up: [051. Filter Bubbles and the RWW Real-Time Web Summit, NYC, 2010](/p/051-realtimeweb-summit-nyc-2010/)

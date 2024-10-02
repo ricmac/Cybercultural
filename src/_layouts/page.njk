@@ -5,16 +5,17 @@ layout: base
 <article class="region page">
   <div class="wrapper flow prose">
     <h1>{{ title }}</h1>
-    <form
+    
+<form
   action="https://buttondown.email/api/emails/embed-subscribe/ricmac"
   method="post"
   target="popupwindow"
   onsubmit="window.open('https://buttondown.email/ricmac', 'popupwindow')"
   class="embeddable-buttondown-form">
-  <label for="bd-email">Get Cybercultural by email:</label>
-  <input type="email" name="email" id="bd-email" />
+  <label for="bd-email">Get notified of new posts:</label>
+  <input type="email" name="email" id="bd-email" placeholder="Your email address" />
   
-  <input type="submit" value="Subscribe" />
+  <input type="submit" value="Submit" />
 </form>
 
     {{ content | safe }}

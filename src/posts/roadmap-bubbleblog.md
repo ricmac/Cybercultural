@@ -130,6 +130,11 @@ PART 3: 2010–2011
 ### 15\. Coeditors
 *    [048: ReadWriteWeb Mistaken for Facebook Login — Hilarity Ensues](/p/048-readwriteweb-facebook-login/)
 *    [049. Burbn to Instagram: The ReadWriteWeb Mobile Summit, May 2010](/p/049-rww-mobile-summit-may2010/)
-*    [050. New York Times HQ Visit and Emergence of Influencer Culture](/p/meeting-new-york-times-may2010/)
+*    [050. New York Times HQ Visit and Emergence of Influencer Culture](/p/050-meeting-new-york-times-2010/)
+
+### 16\. NYC, Portland, SF
+*    [051. Filter Bubbles and the RWW Real-Time Web Summit, NYC, 2010](/p/051-realtimeweb-summit-nyc-2010/)
 
 To be continued…
+
+***
