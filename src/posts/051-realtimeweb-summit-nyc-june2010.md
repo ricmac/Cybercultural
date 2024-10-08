@@ -87,4 +87,4 @@ As a management team, we understood that we’d need to get momentum at some poi
 
 This post is part of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. View [table of contents](/p/roadmap-bubbleblog/).
 
-Next up: 052. Richard Visits Portland
+Next up: [052. My Trip to Portland, Home to Half of Team ReadWriteWeb](/p/052-ricmac-in-portland-2010/)
