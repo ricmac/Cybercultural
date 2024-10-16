@@ -84,4 +84,4 @@ As my Portland visit neared an end, Marshall and Mikalina hosted a Team RWW din
 
 This post is part of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. View [table of contents](/p/roadmap-bubbleblog/).
 
-Next up: 053: Foo Camp and Singularity University
+Next up: [053: Foo Camp 2010 and Going Exponential at Singularity University](/p/053-foo-camp-2010-singularity-uni/)

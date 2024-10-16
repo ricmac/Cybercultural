@@ -135,6 +135,7 @@ PART 3: 2010–2011
 ### 16\. NYC, Portland, SF
 *    [051. Filter Bubbles and the RWW Real-Time Web Summit, NYC, 2010](/p/051-realtimeweb-summit-nyc-2010/)
 *    [052. My Trip to Portland, Home to Half of Team ReadWriteWeb](/p/052-ricmac-in-portland-2010/)
+*    [053: Foo Camp 2010 and Going Exponential at Singularity University](/p/053-foo-camp-2010-singularity-uni/)
 
 To be continued…
 
