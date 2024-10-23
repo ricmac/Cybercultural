@@ -7,7 +7,7 @@ tags: ['web20', 'memoir', '2010']
 featureImage: "/assets/images/ricmac-rwrealtime-summit-june2010.jpg"
 ---
 
-![Richard MacManus at RWW Real-Time Web Summit, NYC, June 2010](/assets/images/ricmac-rwrealtime-summit-june2010.jpg)
+![Richard MacManus at RWW Real-Time Web Summit, NYC, June 2010](/assets/images/ricmac-rwrealtime-summit-june2010.jpg){loading="eager"}
 *Me at our first NYC event, in June 2010. Photo [by Scott Beale / Laughing Squid](https://laughingsquid.com/photos-readwriteweb-real-time-web-summit/).*
 
 It was another late arrival coming into New York—near midnight on Sunday, June 6—but this time I had booked a hotel in Manhattan. It was a fifteen-minute walk from the Metropolitan Pavilion, our Real-Time Web Summit venue. That would be on Friday, but I’d arrived early to participate in events attached to New York’s Internet Week.

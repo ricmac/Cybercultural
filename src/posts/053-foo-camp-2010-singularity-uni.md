@@ -7,7 +7,7 @@ tags: ['web20', 'memoir', '2010']
 featureImage: "/assets/images/foo-camp-tents-2010b.jpg"
 ---
 
-![Foo Camp, June 2010](/assets/images/foo-camp-tents-2010b.jpg)
+![Foo Camp, June 2010](/assets/images/foo-camp-tents-2010b.jpg){loading="eager"}
 
 After my trips to [New York](/p/051-realtimeweb-summit-nyc-2010/) and [Portland](/p/052-ricmac-in-portland-2010/), I flew back to San Francisco. I first attended the SemTech conference for the second year running. However, the most interesting event I went to that week was at Singularity University (SU), located at the NASA Ames Research Park near Mountain View.
 

@@ -7,7 +7,7 @@ tags: ['web20', 'memoir', '2010']
 featureImage: "/assets/images/teamrww-portland-june2010a.jpg"
 ---
 
-![RWW's coworking day at Urban Grind](/assets/images/teamrww-portland-june2010a.jpg)
+![RWW's coworking day at Urban Grind](/assets/images/teamrww-portland-june2010a.jpg){loading="eager"}
 *RWW's coworking day at Urban Grind café; clockwise from left-back: me, Alex Williams, Deane Rimerman, Audrey Watters, Marshall Kirkpatrick; photo [by Abraham Hyatt](https://www.flickr.com/photos/ahyatt/4726993818/).*
 
 *Note: This post is dedicated to Curt Hopkins, who [sadly passed away](https://www.linkedin.com/posts/curthopkins_activity-7180601643640520704-yghD?utm_source=share&utm_medium=member_desktop){target="_blank"} in February this year at age 60. As you'll read below, we had a battle in June 2010, but we eventually made up. Curt added more social consciousness to RWW and I'm so glad he was part of the team.*

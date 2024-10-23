@@ -7,7 +7,7 @@ tags: ['web20', 'memoir', '2010']
 featureImage: "/assets/images/rww-twitter-aug2010.jpg"
 ---
 
-![ReadWriteWeb Twitter account, 31 August 2010](/assets/images/rww-twitter-aug2010.jpg)
+![ReadWriteWeb Twitter account, 31 August 2010](/assets/images/rww-twitter-aug2010.jpg){loading="eager"}
 *ReadWriteWeb Twitter account, 31 August 2010.*
 
 In July 2010 we finally began the process of advertising for a new community manager, after Jolie’s departure [in March](/p/047-sxsw-music-2010/). We wanted someone who was an active user of social media tools and who had experience managing online communities. Ideally, we were looking for someone based in Silicon Valley, but since we’d had trouble getting writers who met that criterion, we figured that might be the case for the CM role too.
