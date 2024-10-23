@@ -137,6 +137,9 @@ PART 3: 2010–2011
 *    [052. My Trip to Portland, Home to Half of Team ReadWriteWeb](/p/052-ricmac-in-portland-2010/)
 *    [053: Foo Camp 2010 and Going Exponential at Singularity University](/p/053-foo-camp-2010-singularity-uni/)
 
+### 17\. Spearmint Green
+*    [054. Social Media in 2010 and the Rise of Social Referrers](/p/054-social-media-2010/)
+
 To be continued…
 
 ***

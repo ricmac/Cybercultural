@@ -93,4 +93,4 @@ My flight back to New Zealand was at 9:00 p.m. that Sunday. It had been a long t
 
 This post is part of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. View [table of contents](/p/roadmap-bubbleblog/).
 
-Next up: 054: RWW Gets a New Community Manager
+Next up: [054. Social Media in 2010 and the Rise of Social Referrers](/p/054-social-media-2010/)
