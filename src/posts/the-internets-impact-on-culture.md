@@ -7,7 +7,7 @@ tags: ['personal']
 featureImage: "/assets/images/kym-ellis-zgPzWSAiY48-unsplash.jpg"
 ---
 
-![DHTL](/assets/images/kym-ellis-zgPzWSAiY48-unsplash.jpg){loading="eager"}
+![internet culture](/assets/images/kym-ellis-zgPzWSAiY48-unsplash.jpg){loading="eager"}
 
 “It feels like the internet’s impact on culture is just beginning. A world in which culture is based on the internet, which is what I think is happening, is just the very start. Right, ’cause it had to get universal before it could set the culture.”
 
