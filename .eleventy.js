@@ -51,7 +51,8 @@ export default function(eleventyConfig) {
   eleventyConfig.addLayoutAlias('dotcom', 'dotcom.njk');
   eleventyConfig.addLayoutAlias('web20', 'web20.njk');
   eleventyConfig.addLayoutAlias('preweb', 'preweb.njk');
-  eleventyConfig.addLayoutAlias('personal', 'personal.njk');
+  eleventyConfig.addLayoutAlias('misc', 'misc.njk');
+  eleventyConfig.addLayoutAlias('enshittocene', 'enshittocene.njk');
 
   // Custom filters
   eleventyConfig.addFilter('limit', limit);
@@ -115,7 +116,8 @@ export default function(eleventyConfig) {
         return post.data.tags && (
           post.data.tags.includes("web20") ||
           post.data.tags.includes("dotcom") ||
-          post.data.tags.includes("personal") ||
+          post.data.tags.includes("misc") ||
+          post.data.tags.includes("enshittocene") ||
           post.data.tags.includes("preweb") ||
           post.data.tags.includes("memoir") ||
           post.data.tags.includes("year") ||

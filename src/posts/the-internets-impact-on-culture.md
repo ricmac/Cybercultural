@@ -3,7 +3,7 @@ title: "The Internet’s Impact on Culture"
 description: "Marc Andreessen says the internet's impact on culture is just beginning and that it will set the culture going forward. But what does he mean by that?"
 date: 2020-01-29
 permalink: "p/the-internets-impact-on-culture/"
-tags: ['personal']
+tags: ['enshittocene']
 featureImage: "/assets/images/kym-ellis-zgPzWSAiY48-unsplash.jpg"
 ---
 

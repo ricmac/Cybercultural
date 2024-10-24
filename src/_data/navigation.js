@@ -17,8 +17,12 @@ export default {
       url: '/web20/'
     },
     {
-      text: 'Personal',
-      url: '/personal/'
+      text: 'Enshittocene',
+      url: '/enshittocene/'
+    },
+    {
+      text: 'Misc',
+      url: '/misc/'
     },
     {
       text: 'Search',
