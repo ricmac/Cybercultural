@@ -7,7 +7,7 @@ tags: ['web20', 'memoir', '2010']
 featureImage: "/assets/images/rww-screenshot-sep2010-feature.jpg"
 ---
 
-![Poker night in Silicon Valley](/assets/images/rww-screenshot-sep2010-feature.jpg){loading="eager"}
+![Screenshot of ReadWriteWeb in September 2010](/assets/images/rww-screenshot-sep2010-feature.jpg){loading="eager"}
 *Screenshot of ReadWriteWeb in September 2010. Note: this is from a rare full-page screenshot of classic RWW, so most of the other images in this post will feature other parts of that particular RWW page. You can view the [full screen capture here](https://www.flickr.com/photos/ursonate/4968604358/) (thanks charlene mcbride!)*
 
 Throughout 2010 we released a few more channels: ReadWriteCloud to cover cloud computing, ReadWriteBiz for small-medium business owners, and ReadWriteHack for developers. ReadWriteEnterprise (for large business) and ReadWriteStart (for entrepreneurs) continued as well. The channels were my domain as coeditor, while Marshall looked after the news operation.
