@@ -94,4 +94,4 @@ For all these reasons, social media was increasingly important to us—it drove 
 
 This post is part of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. View [table of contents](/p/roadmap-bubbleblog/).
 
-Next up: 055. RWW Writer Negotiations and Channels Expansion
+Next up: [055. ReadWriteWeb Growing Pains and Managing the Writing Team](/p/055-rww-expansion-2010/)
