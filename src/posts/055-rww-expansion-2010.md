@@ -65,7 +65,7 @@ Marshall informed the team, noting, “Frederic has been with us longer than a
 Naturally, I wondered if things would’ve turned out different with Frederic had RWW been a US company. I was now starting to worry about our ability to hang on to key writing talent.
 
 ![RWW webpage, Sep 2010](/assets/images/rww-comments-form-sep10.jpg)
-*Last but not least, the comments form. Note the sign-in options (including OpenID, a decentralized authentication protocol) and the "Share to FriendFeed" option.*
+*Last but not least, the comments form. Note the sign-in options (including OpenID, a decentralized authentication protocol) and the "Share on FriendFeed" option.*
 
 * * *
 
