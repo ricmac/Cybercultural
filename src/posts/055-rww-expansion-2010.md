@@ -71,4 +71,4 @@ Naturally, I wondered if things would’ve turned out different with Frederic h
 
 This post is part of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. View [table of contents](/p/roadmap-bubbleblog/).
 
-Next up: 056: Visiting PARC and Wrapping Up 2010
+Next up: [056. Swapping Web 2.0 Summit for PARC; and RWW Planning for 2011](/p/056-parc-visit-2010/)

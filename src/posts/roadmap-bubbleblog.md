@@ -140,6 +140,7 @@ PART 3: 2010–2011
 ### 17\. Spearmint Green
 *    [054. Social Media in 2010 and the Rise of Social Referrers](/p/054-social-media-2010/)
 *    [055. ReadWriteWeb Growing Pains and Managing the Writing Team](/p/055-rww-expansion-2010/)
+*    [056. Swapping Web 2.0 Summit for PARC; and RWW Planning for 2011](/p/056-parc-visit-2010/)
 
 To be continued…
 

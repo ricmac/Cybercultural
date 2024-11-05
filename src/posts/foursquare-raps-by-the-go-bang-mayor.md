@@ -6,13 +6,13 @@ permalink: "p/foursquare-raps-by-the-go-bang-mayor/"
 tags: ['web20']
 featureImage: "/assets/images/479e6f2c-37c6-43c4-9b2c-7acd19b49d7d_1114x810.jpg"
 ---
-![](/assets/images/479e6f2c-37c6-43c4-9b2c-7acd19b49d7d_1114x810.jpg){loading="eager"}
+![Go-Bang cafe, Petone, NZ](/assets/images/479e6f2c-37c6-43c4-9b2c-7acd19b49d7d_1114x810.jpg){loading="eager"}
 
 I recently had occasion to write about Foursquare, the once popular location check-in app. I’d been emailed by its PR firm about a potential Machine Learning story. In her pitch, the PR rep had called Foursquare a “location data platform.” All this piqued my interest as a tech journalist, as I’m currently writing a series of articles at The New Stack about machine learning and its impact on web development. I was also curious what Foursquare, one of the trendiest apps of Web 2.0, had turned into over the past decade.
 
 I replied to the email and set up an interview. You can [read the resulting article](https://thenewstack.io/how-foursquare-transformed-itself-with-machine-learning/) if you’re interested in what Foursquare is _now_, but in this Cybercultural post I want to reminisce about what it was like **in the old days**, through the lens of my regular check-ins to Go-Bang Expresso, in Petone, New Zealand — my favourite cafe at the time.
 
-![](/assets/images/3be20ef9-6b93-4227-b691-e37734d58a4b_1000x925.jpg)
+![flat white](/assets/images/3be20ef9-6b93-4227-b691-e37734d58a4b_1000x925.jpg)
 *Go-Bang Expresso [flat white](https://mobile.twitter.com/GoBangEspresso/status/743587432604536832), my coffee of choice.*
 
 Before I did the interview, I must admit I didn’t even know if Foursquare still had a check-in app. Turns out, yes it does — two of them in fact. I’d long ago deleted the original Foursquare app from my phone, but after checking the iOS App Store, I saw that it has two current apps: Foursquare Swarm (its “lifelogging” check-in app) and Foursquare City Guide (for “restaurants and bars nearby”).
@@ -40,15 +40,15 @@ I didn’t say they were good rhymes 😛 I think I was listening to a lot of Wu
 
 Also in October, I began to use Foursquare to document my travels — including checking-in to airplanes. Eating seemed to be a continuing motif, though:
 
-![](/assets/images/8cca7d01-2608-4e26-80fc-e408586a4209_828x1371.jpg)
+![Oct 2010 checkins](/assets/images/8cca7d01-2608-4e26-80fc-e408586a4209_828x1371.jpg)
 
 Some of my check-in posts during this time were vaguely poetic and diaristic, e.g. this from November 21, 2010, back once more at Go-Bang:
 
-_House hunting again. Sprawly, cold winds outside. Taking shelter in my fave cafe for huevos rancheros and trim flat white.
+_House hunting again. Sprawly, cold winds outside. Taking shelter in my fave cafe for huevos rancheros and trim flat white._
 
 Again, it’s a nice personal memory from that time period — and _place_, since I now live in Wales, halfway across the world. Also, Go-Bang sure did a wonderful plate of huevos rancheros!
 
-![](/assets/images/4c5df37a-6815-469b-ae90-6cebeb92edff_800x840.jpg)
+![Go-Bang huevos rancheros, Dec 2010](/assets/images/4c5df37a-6815-469b-ae90-6cebeb92edff_800x840.jpg)
 *Go-Bang huevos rancheros, Dec 2010. Clearly I hadn’t yet started my low-carb diet!*
 
 Why I Chose to Use Foursquare
@@ -71,19 +71,19 @@ I started to ramp up my Foursquare usage in 2011 with photos. Oddly, Foursquare 
 
 My first photo check-in was that December, probably while I was consolidating my mayorship of Petone Foreshore:
 
-![](/assets/images/c389ef4a-cc63-4b87-9832-835276080ea4_828x1018.jpg)
+![first photo check-in](/assets/images/c389ef4a-cc63-4b87-9832-835276080ea4_828x1018.jpg)
 
 It took me four more months to do a photo check-in at Go-Bang. It was a view from my usual window seat, looking outside.
 
-![](/assets/images/bc2db0ae-6abb-4b74-89e8-a6baa7655e7a_828x1099.jpg)
+![Go-Bang photo check-in](/assets/images/bc2db0ae-6abb-4b74-89e8-a6baa7655e7a_828x1099.jpg)
 
 In June 2011, I was in New York and making smart aleck tourist check-ins:
 
-![](/assets/images/359e27c2-9860-4774-bf09-3bbab18b1b6f_828x1077.jpg)
+![Tourist checkin](/assets/images/359e27c2-9860-4774-bf09-3bbab18b1b6f_828x1077.jpg)
 
 Back at home in July 2011, I finally did a photo of an actual trim flat white (and behold, nostalgia fans, a newspaper!)
 
-![](/assets/images/67fe9a2a-e1b9-4560-a810-edfef5b68fd1_537x720.jpg)
+![trim flat white](/assets/images/67fe9a2a-e1b9-4560-a810-edfef5b68fd1_537x720.jpg)
 
 My tech-flavoured raps were getting…er, a little better? This from August 2011, the middle of winter in New Zealand:
 
@@ -101,7 +101,7 @@ _Warm, still day in Petone. Thank goodness that battering wind is gone. Johnny C
 
 Fast forward one year, and I still loved visiting Go-Bang for my afternoon coffee and an occassional lunch. However, my love affair with Foursquare was starting to wane by this time.
 
-![](/assets/images/d544b84f-f759-41bd-bfac-407d55432614_827x1096.jpg)
+![Go-Bang for my afternoon coffee](/assets/images/d544b84f-f759-41bd-bfac-407d55432614_827x1096.jpg)
 
 It wasn’t fully over yet, though. The drive to stay mayor of this one small cafe in Petone was, apparently, sufficient motivation to continue using Foursquare for several more months. In fact, I continued on until June 2013 — but there were to be no further photos or raps.
 
@@ -112,7 +112,7 @@ No More Go-Bang 😢
 
 I moved out of Petone in mid-2014, so I stopped being a Go-Bang regular at that point. Then, several years later, Go-Bang closed down and was replaced with a new cafe, called Origin.
 
-![](/assets/images/6503b64b-196e-4223-890b-a167ee93a08b_1200x799.jpg)
+![new Go-Bang](/assets/images/6503b64b-196e-4223-890b-a167ee93a08b_1200x799.jpg)
 
 I checked the new cafe out a few times. It was the same basic structure outside and layout inside, but it had been completely re-furbished. Gone was the weather-beaten light blue exterior, and in its place a black and charcoal paint job. Gone was the [lived-in seating](https://foursquare.com/v/go-bang-espresso/4b523da0f964a520037227e3?openPhotoId=54543cee498e7404bc1a8548) and the rickety tables in mottled red, brown and pale green; now the tables were all the same design (a light brown wood) and the seating had been upholstered in red, purple and frog-green “[heavy velvet](https://www.facebook.com/kadimaupholstery/posts/origin-cafe-petone-using-mokum-tahiti-heavy-velvet-stunning-look-and-hardy-hospo/2068040263447124/).”
 
