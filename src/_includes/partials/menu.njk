@@ -1,8 +1,18 @@
 <nav id="mainnav" class="navbar" aria-label="Main">
   <ul>
-    {% for item in navigation.top %}
-    <li><a class="nav" href="{{ item.url }}"{{helpers.getLinkActiveState(item.url,page.url)|safe}}>{{ item.text }}</a></li>
-    {% endfor %}
+    <li class="dropdown">
+      <a class="nav" href="/internet-history" aria-haspopup="true" aria-expanded="false">Internet History</a>
+      <ul class="dropdown-menu">
+        <li><a href="/preweb">Pre-web</a></li>
+        <li><a href="/dotcom">Dot-com</a></li>
+        <li><a href="/web20">Web 2.0</a></li>
+        <li><a href="/enshittocene">Enshittocene</a></li>
+      </ul>
+    </li>
+    <li><a class="nav" href="/misc">Other Articles</a></li>
+    <li><a class="nav" href="/p/roadmap-bubbleblog/">Book</a></li>
+    <li><a class="nav" href="/about">About</a></li>
+    <li><a class="nav" href="/search">Search</a></li>
   </ul>
 </nav>
 

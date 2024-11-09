@@ -8,7 +8,7 @@
     --nav-list-background: transparent;
     --nav-list-layout: row;
     --nav-list-position: static;
-    --nav-list-padding: 0 1rem; /* Add right padding */
+    --nav-list-padding: 0 1rem;
     --nav-list-height: auto;
     --nav-list-width: 100%;
     --nav-list-shadow: none;
@@ -25,7 +25,6 @@
 
 nav.navbar {
   position: var(--nav-position, absolute);
-  /* inset-block-start: 0.5rem; */
   inset-inline-end: 0.1rem;
 }
 
@@ -41,8 +40,8 @@ nav.navbar ul {
   margin: 0;
   padding: var(--nav-list-padding, var(--space-l) var(--space-s));
   position: var(--nav-list-position, fixed);
-  inset-block-start: 0; /* Logical property. Equivalent to top: 0; */
-  inset-inline-end: 0; /* Logical property. Equivalent to right: 0; */
+  inset-block-start: 0;
+  inset-inline-end: 0;
   inline-size: var(--nav-list-width, min(22rem, 100vw));
   visibility: var(--nav-list-visibility, visible);
 }
@@ -52,7 +51,6 @@ nav.navbar [aria-expanded='false'] + ul {
   visibility: var(--nav-list-visibility, hidden);
 }
 
-/* animates ul only when opening to avoid flash on page load, svg always */
 @media (prefers-reduced-motion: no-preference) {
   nav.navbar [aria-expanded='true'] + ul,
   nav.navbar svg {
@@ -108,10 +106,60 @@ nav.navbar svg {
   block-size: 100%;
   inline-size: auto;
 }
+
 header svg {
   transform: translateY(-0.1em);
 }
 
 nav.navbar [aria-expanded='true'] svg {
   transform: var(--nav-list-rotate, rotate(45deg));
+}
+
+/* Dropdown menu styling */
+nav.navbar .dropdown {
+  position: relative;
+}
+
+nav.navbar .dropdown-menu {
+  display: none;
+  position: absolute;
+  background-color: white;
+  border: 1px solid #ddd;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  min-width: 150px;
+  z-index: 1;
+  top: 100%; /* Positions the dropdown directly below the parent */
+  left: 0;
+}
+
+nav.navbar .dropdown-menu li a {
+  display: block;
+  padding: 8px 16px;
+  color: #333;
+  text-decoration: none;
+}
+
+nav.navbar .dropdown-menu li a:hover {
+  background-color: #f0f0f0;
+}
+
+/* Show the dropdown on hover with a small delay */
+nav.navbar .dropdown:hover .dropdown-menu {
+  display: block;
+  animation: dropdown-fade-in 0.15s ease-in-out;
+}
+
+/* Keyframes for dropdown fade-in effect */
+@keyframes dropdown-fade-in {
+  from {
+    opacity: 0;
+    transform: translateY(-5px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
 }
