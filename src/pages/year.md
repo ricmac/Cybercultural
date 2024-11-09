@@ -1,5 +1,5 @@
 ---
-title: Yearly Reviews
+title: Year by Year
 description: "Articles tagged year."
 layout: year
 permalink: /year{% if pagination.pageNumber > 0 %}/page/{{ pagination.pageNumber + 1 }}{% endif %}/index.html
