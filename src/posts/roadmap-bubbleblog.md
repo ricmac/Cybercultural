@@ -142,6 +142,9 @@ PART 3: 2010–2011
 *    [055. ReadWriteWeb Growing Pains and Managing the Writing Team](/p/055-rww-expansion-2010/)
 *    [056. Swapping Web 2.0 Summit for PARC; and RWW Planning for 2011](/p/056-parc-visit-2010/)
 
+### 18\. Writer Revolt
+*    [057. SXSW 2011 and Dealing With RWW Editorial Challenges](/p/057-sxsw-2011/)
+
 To be continued…
 
 ***

@@ -103,4 +103,4 @@ For all that, I felt cautiously optimistic about what 2011 might bring. Sure, th
 
 This post is part of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. View [table of contents](/p/roadmap-bubbleblog/).
 
-Next up: 057. SXSW 2011
+Next up: [057. SXSW 2011 and Dealing With RWW Editorial Challenges](/p/057-sxsw-2011/)
