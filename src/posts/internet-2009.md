@@ -84,4 +84,4 @@ Read next:
 * [What the Internet Was Like in 2006](/p/internet-2006/)
 * [What the Internet Was Like in 2007](/p/internet-2007/)
 * [What the Internet Was Like in 2008](/p/internet-2008/)
-
+* [What the Internet Was Like in 2010](/p/internet-2010/)
