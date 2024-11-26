@@ -9,3 +9,14 @@
   margin-right: calc(-50vw + 50%); /* Shift the element to the right by half of its own width */
   color: white;
 }
+.site-head__social-icons {
+  display: flex;
+  gap: var(--space-s); /* Consistent spacing between icons */
+}
+
+.site-head__social-icons a {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  text-decoration: none; /* Ensures no underline by default */
+}

@@ -1,10 +1,5 @@
 [
   {
-    "platform": "mastodon",
-    "url": "https://mastodon.social/@ricmac",
-    "icon": "mastodon.svg"
-  },
-  {
     "platform": "rss",
     "url": "feed.xml",
     "icon": "rss.svg"
