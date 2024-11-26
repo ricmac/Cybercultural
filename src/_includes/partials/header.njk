@@ -3,8 +3,6 @@
 <header class="wrapper">
   <div class="site-head | ontop spot-color-primary">
     {% set activePage = page.url | url %}
-   <a href="/" class="logo site-head__brand | no-underline" {% if activePage === '/' %} aria-current="page" {% endif %}>{{ meta.siteName }}</a>
-    {% include "partials/menu.njk" %}
 
 <div class="site-head__social-icons">
 
@@ -25,6 +23,10 @@
 </svg></a>
 
 </div>
+
+   <a href="/" class="logo site-head__brand | no-underline" {% if activePage === '/' %} aria-current="page" {% endif %}>{{ meta.siteName }}</a>
+
+    {% include "partials/menu.njk" %}
 
   </div>
 </header>
