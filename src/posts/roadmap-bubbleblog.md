@@ -145,6 +145,7 @@ PART 3: 2010–2011
 ### 18\. Writer Revolt
 *    [057. SXSW 2011 and Dealing With RWW Editorial Challenges](/p/057-sxsw-2011/)
 *    [058. Team RWW Meetings at SXSW 2011 and a Crisis of Confidence](/p/058-readwriteweb-ceo-dilemma/)
+*    [059. The Great Editorial Pivot of 2011 As RWW Struggles Continue](/p/059-editorial-pivot/)
 
 To be continued…
 
