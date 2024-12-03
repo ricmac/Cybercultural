@@ -86,4 +86,4 @@ I thanked him for being open-minded and said we’d discuss more after the event
 
 This post is part of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. View [table of contents](/p/roadmap-bubbleblog/).
 
-Next up: 060. The ReadWriteWeb 2WAY Summit NYC, 2011
+Next up: [060. The ReadWriteWeb 2WAY Summit NYC, 2011](/p/060-rww-2way-summit-nyc-2011/)

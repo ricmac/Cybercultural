@@ -147,6 +147,9 @@ PART 3: 2010–2011
 *    [058. Team RWW Meetings at SXSW 2011 and a Crisis of Confidence](/p/058-readwriteweb-ceo-dilemma/)
 *    [059. The Great Editorial Pivot of 2011 As RWW Struggles Continue](/p/059-editorial-pivot/)
 
+### 19\. Unraveling
+*    [060. The ReadWriteWeb 2WAY Summit NYC, 2011](/p/060-rww-2way-summit-nyc-2011/)
+
 To be continued…
 
 ***
