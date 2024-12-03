@@ -91,3 +91,5 @@ Despite Netscape rushing out its version 6 browser, the Mozilla project continue
 We’ll explore the progress Mozilla made over 2000 in an upcoming post. But we can safely say a fond farewell to Netscape now. By the end of the 20th century, Netscape’s days as a web development pioneer were over.
 
 ***
+
+See also: [1990s timeline](/wdh/timeline)

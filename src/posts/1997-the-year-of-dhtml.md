@@ -97,3 +97,5 @@ Nowadays we don’t use the term “DHTML” and much of the interactive functio
 In the next post in this series, we’ll explore how the DOM became a standard in 1998 and how the leading browser companies adapted to it — particularly Netscape, which had the most work to do to re-align.
 
 ***
+
+Read next: [1997: Netscape Crossware vs the Windows Web](/p/1997-netscape-crossware-vs-the-windows-web/)

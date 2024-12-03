@@ -94,3 +94,5 @@ In the next post, focused on 1991, we’ll explore the efforts Berners-Lee and h
 *Featured image: Tim Berners-Lee overlaid on his WWW code (via his 2021 NFT)*
 
 ***
+
+Read next: [1991: Tim Berners-Lee Tries to Convert the Hypertext Faithful](/p/1991-tim-berners-lee-trys-to-convert-the-hypertext-faithful/)

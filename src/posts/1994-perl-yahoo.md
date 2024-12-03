@@ -105,3 +105,5 @@ In many ways, Yahoo was the bridge between the amateur CGI scripts era of 1993-9
 *Feature image via Stanford University Libraries [1997 documentary](https://www.youtube.com/watch?v=MpgAN3wVWfo).*
 
 ***
+
+Read next: [1995: The Birth of JavaScript](/p/1995-the-birth-of-javascript/)

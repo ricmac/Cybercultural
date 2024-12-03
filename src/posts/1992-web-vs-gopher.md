@@ -93,3 +93,5 @@ Ultimately, Erwise and ViolaWWW would be superceded by Mosaic — which we’ll 
 Berners-Lee griped in his book that none of the 1992 browsers included an HTML editor, like his own WWW browser did. But he also acknowledged that the new browsers allowed the Web to grow as a publication medium, if not so much as a collaboration medium. It was this use case — using the Web as a publication medium — that would motivate two University of Illinois students to start developing their own new browser by the end of 1992. We’ll get into their story, the birth of Mosaic, in the next post.
 
 ***
+
+Read next: [1993: Mosaic Launches and the Web is Set Free](/p/1993-mosaic-launches-and-the-web-is-set-free/)

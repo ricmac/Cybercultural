@@ -118,3 +118,5 @@ Also by the end of 1993, the technical foundation was set for a truly multimedia
 But by releasing the web as free software, CERN had effectively signaled that it would no longer be the center of the developing web ecosystem. Heading into 1994, it was Mosaic — not CERN — that held the key to whether the web would ever go mainstream or not.
 
 ***
+
+Read next: [1993: CGI Scripts and Early Server-Side Web Programming](/p/1993-cgi-scripts-and-early-server-side-web-programming/)

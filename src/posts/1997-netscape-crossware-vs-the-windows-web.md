@@ -107,3 +107,5 @@ JavaScript / ECMAScript was a key glue language for both Netscape and Microsoft,
 All of this development divergence meant that browser incompatibility was becoming an increasing source of frustration for web users, a theme we will explore further in upcoming posts.
 
 * * *
+
+Read next: [1998: Open Season with Mozilla, W3C’s DOM, and WaSP](/p/1998-mozilla-w3c-dom-wasp/)

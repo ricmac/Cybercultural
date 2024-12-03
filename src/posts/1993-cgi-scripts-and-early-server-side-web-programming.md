@@ -99,3 +99,5 @@ But another theme of web development is that things don’t stay still for long!
 *Lead image via [researchgate.net](https://www.researchgate.net/figure/Screenshot-of-the-Mosaic-browser-displaying-the-NCSAs-home-page-The-browser-was_fig1_304300437) and [Wikipedia](https://en.wikipedia.org/wiki/File:Common_Gateway_Interface_logo.svg).*
 
 ***
+
+Read next: [1994: How Perl Became the Foundation of Yahoo](/p/1994-perl-yahoo/)

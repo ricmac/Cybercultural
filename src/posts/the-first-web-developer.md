@@ -53,8 +53,8 @@ Bill English has never shown any bitterness about not being credited as a co-inv
 
 As we wrapped up our interview on that chilly day at Kepler’s cafe, I asked English if he realized back in the 1960s how important an invention the mouse would become. “I don’t know that I sat back and looked at it, and said wow that’s significant,” he replied. “No, you just keep doing it,” he said, and grinned.
 
-<iframe width="800" height="450" src="https://www.youtube.com/embed/VMp2bgVgWm4" frameborder="0" allowfullscreen></iframe>
-
 *Lead image: [Wikimedia](https://commons.wikimedia.org/wiki/File:SRI_Bill_English_1968.jpg)*
 
 ***
+
+See also: [1968: The Mother of All Demos](/p/1968-the-mother-of-all-demos/)

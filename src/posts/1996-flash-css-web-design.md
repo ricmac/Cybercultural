@@ -36,9 +36,7 @@ Most significantly, the drawings and animations could be embedded into HTML web 
 
 The chief developer of Animator was [Jonathan Gay](https://macromedia.fandom.com/wiki/Jonathan_Gay), a talented programmer who had previously developed computer games and also the 1992 graphics software program, [Aldus IntelliDraw](https://adobe.fandom.com/wiki/Aldus_IntelliDraw). But it was Animator that won him acclaim, and he would eventually go on to become Chief Technology Officer of Macromedia.
 
-After its release, FutureSplash was fortunate to get early takeup by prominent websites like Microsoft’s MSN and The Simpsons. In November 1996, the FutureSplash website [announced](https://web.archive.org/web/19961105022541/http://www.futurewave.com/fsindex.html) that the official Simpsons website had been built using Animator and that the site had just gone “on-line”. The Web Design Museum [captured a video](https://www.webdesignmuseum.org/gallery/the-simpsons-1996) to show how it worked:
-
-<iframe width="800" height="450" src="https://www.youtube.com/embed/x1jPZZsGV2Q?si=_tXBZDEoSnfpA5Df" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+After its release, FutureSplash was fortunate to get early takeup by prominent websites like Microsoft’s MSN and The Simpsons. In November 1996, the FutureSplash website [announced](https://web.archive.org/web/19961105022541/http://www.futurewave.com/fsindex.html) that the official Simpsons website had been built using Animator and that the site had just gone “on-line”. The Web Design Museum [captured a video](https://www.webdesignmuseum.org/gallery/the-simpsons-1996) to show how it worked.
 
 This is when Macromedia came sniffing around. At the time, Macromedia was known as the main rival of Adobe in the fast-developing internet “multimedia” market. It had started out in 1992 in the CD-ROM business, but pivoted to the web in the mid-90s. Director was its flagship authoring product and in 1995 Macromedia launched a web multimedia player to complement it, called Shockwave. It was released in June 1995 as a plug-in for Netscape Navigator 2.0.
 
@@ -83,10 +81,6 @@ Web designers also took longer than anticipated to get behind the structural goa
 
 Unintentionally, Lie had just explained the appeal of Flash to early web designers — it was effectively a giant animated image file that gave designers total control over what was displayed on a user’s browser screen. It was the opposite of “good mark-up,” but designers and users alike did not care. Flash in a browser was colorful, engaging and fun. It reminded everyone of the internet’s predecessor in mass entertainment: television. Especially tv shows that had cultural cachet in that era, like MTV.
 
-<iframe width="800" height="450" src="https://www.youtube.com/embed/zs34g9jBUhg?si=OBrz0f1q0ctKvaYj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-*Gabocorp in 1997, an influential early Flash website; [via Web Design Museum](https://www.webdesignmuseum.org/flash-websites/gabocorp-1997)*
-
 Flash videos in the 90s turned out to be a forerunner of YouTube’s popularity in later years. Indeed, for the first decade of YouTube’s existence, 2005-2015, Flash was its default player. Until, finally, markup — in the form of HTML5 and CSS — took control.
 
 The fall from grace of Flash in the 2010s was as fast as its rise in the mid-90s. By 2009, Flash was [said to be](https://www.bbc.com/news/technology-55497353) installed on 99% of internet-connected desktop PCs. But it failed to adapt to the rising smartphone era — famously, it was banished from iPhones in an [open letter by Steve Jobs](https://archive.is/pxSTb) in 2010. After that letter, Flash creator Jonathan Gay did [an interview](https://web.archive.org/web/20100722004908/http://coldhardflash.com/2010/05/flash-co-creator-jonathan-gay-responds-to-steve-jobs.html) in which he impetuously derided Apple’s decision:
@@ -98,3 +92,5 @@ While Gay wasn’t wrong to say that Apple was steering iPhone developers toward
 Nevertheless, we can also look back fondly on the undoubted visual flair of websites in the 1990s, that was almost entirely due to Flash. Fans of the open web are all glad Flash is gone now, but it isn’t forgotten.
 
 ***
+
+Read next: [1997: JavaScript Grows Up and Developers Push the Boundaries](/p/1997-javascript-apps-dynamic-web/)

@@ -114,3 +114,5 @@ So while Microsoft may’ve taken over the browser market by the end of 1998, th
 *Feature image: center photo via [Mozilla stomps IE](http://home.snafu.de/tilman/mozilla/stomps.html), Oct 1997.*
 
 ***
+
+Read next: [1999: The Fall of Netscape and the Rise of Mozilla](/p/1999-the-fall-of-netscape-and-the-rise-of-mozilla/)

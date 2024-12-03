@@ -88,3 +88,5 @@ In the next post, focused on 1992, we’ll look at the first external web browse
 *Featured image: Tim Berners-Lee demonstrates the World Wide Web to delegates at the Hypertext 1991 conference in San Antonio, Texas. Source and ©: [CERN](https://cds.cern.ch/record/1164398)*
 
 ***
+
+Read next: [1992: The Web vs Gopher, and the First External Browsers](/p/1992-web-vs-gopher/)

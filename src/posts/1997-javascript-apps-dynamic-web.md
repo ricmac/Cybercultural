@@ -87,3 +87,5 @@ Eich wasn’t the only one being swayed by Python over Perl during the time Java
 The point is, we can see in hindsight that JavaScript had become a sophisticated language by 1997 — with new features like layers adding a further dynamic dimension to its capabilities. The language was also increasingly being used in combination with HTML, CSS and other web technologies to enable something that Netscape labelled “Dynamic HTML.” Microsoft had its own definition of that term, but I’ll delve into both in the next article in this series.
 
 ***
+
+Read next: [1997: The Year of DHTML](/p/1997-the-year-of-dhtml/)
