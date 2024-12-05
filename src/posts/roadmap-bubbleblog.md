@@ -149,6 +149,7 @@ PART 3: 2010–2011
 
 ### 19\. Unraveling
 *    [060. The ReadWriteWeb 2WAY Summit NYC, 2011](/p/060-rww-2way-summit-nyc-2011/)
+*    [061. RWW Writer Exodus — the Blog Business Pressures Pile Up](/p/061-blog-business-pressure/)
 
 To be continued…
 
