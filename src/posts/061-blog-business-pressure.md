@@ -91,4 +91,4 @@ I was beginning to realize what I had to do to resolve the situation. I wrote in
 
 This post is part of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. View [table of contents](/p/roadmap-bubbleblog/).
 
-Next up: 062. Looking For a Buyer
+Next up: [062. Before My Latest Portland Trip, I Decide To Sell ReadWriteWeb](/p/062-rww-portland-2011/)
