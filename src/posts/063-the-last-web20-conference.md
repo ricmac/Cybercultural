@@ -8,7 +8,7 @@ featureImage: "/assets/images/web20map-2011b.jpg"
 ---
 
 ![The Web 2.0 Map for the Web 2.0 Summit 2011](/assets/images/web20map-2011b.jpg){loading="eager"}
-*The 2011 edition of the Web 2.0 Map; [via Wayback Machine](https://web.archive.org/web/20111016062109/http://map.web2summit.com/).*
+*2011 edition of the Web 2.0 Map; [via Wayback Machine](https://web.archive.org/web/20111016062109/http://map.web2summit.com/).*
 
 To prepare for the San Francisco M&A meetings, I’d created a ReadWriteWeb Vision presentation and Sean had created a slide deck about our business growth. Mine was all about our brand and editorial vision, starting with the mission statement for RWW: “Where engaged technologists discover and discuss what’s next on the Web.” I noted that the editorial focused on “smart news and analysis,” which had been our [recent pivot](/p/059-editorial-pivot/) after [the writer revolt](/p/061-blog-business-pressure/) and Marshall stepping back from the editorial leadership. I left the growth goals open-ended, as I figured this would be something we’d discuss individually with each potential acquirer. Our overall goal was “to be the leading analysis site for web tech.”
 
