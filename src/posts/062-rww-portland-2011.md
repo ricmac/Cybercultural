@@ -1,6 +1,6 @@
 ---
 title: "Before My Latest Portland Trip, I Decide To Sell ReadWriteWeb"
-description: "Prior to my October 2011 trip to the US for what turned out to be the final Web 2.0 conference, I decide to put RWW up for sale. Then during my visit to Portland before SF, Marshall resigns."
+description: "Prior to my October 2011 trip to the US for Web 2.0 Summit (it would be the last ever Web 2.0 conference), I decide to put RWW up for sale. Then during my visit to Portland before SF, Marshall resigns."
 date: 2024-12-10
 permalink: "p/062-rww-portland-2011/"
 tags: ['web20', 'memoir', '2011']
@@ -79,4 +79,4 @@ In hindsight, perhaps we were all burned out with the constant striving for grow
 
 This post is part of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. View [table of contents](/p/roadmap-bubbleblog/).
 
-Next up: 063. M&A 2.0
+Next up: [063. The Last Web 2.0 Conference and RWW Acquisition Talks 2.0](/p/063-the-last-web20-conference-2011/)
