@@ -154,6 +154,7 @@ PART 3: 2010–2011
 
 ### 20\. Say What
 *    [063. The Last Web 2.0 Conference and RWW Acquisition Talks 2.0](/p/063-the-last-web20-conference-2011/)
+*    [064. SAY Media Offers To Acquire ReadWriteWeb](/p/064-saymedia-offer-for-readwriteweb/)
 
 To be continued…
 

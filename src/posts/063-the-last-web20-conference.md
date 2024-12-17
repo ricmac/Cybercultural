@@ -86,4 +86,4 @@ I was intrigued, so Ken suggested we visit their office the next morning to meet
 
 This post is part of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. View [table of contents](/p/roadmap-bubbleblog/).
 
-Next up: 064. The SAY Media Offer
+Next up: [064. SAY Media Offers To Acquire ReadWriteWeb](/p/064-saymedia-offer-for-readwriteweb/)
