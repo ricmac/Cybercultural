@@ -89,4 +89,4 @@ In the end, it was an easy decision. SAY sent a revised terms sheet, and I signe
 
 This post is part of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. View [table of contents](/p/roadmap-bubbleblog/).
 
-Next up: 065. Selling ReadWriteWeb
+Next up: [065. The Deal Is Done: ReadWriteWeb Sells to SAY Media](/p/065-selling-readwriteweb/)
