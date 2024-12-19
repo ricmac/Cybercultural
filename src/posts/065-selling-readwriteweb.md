@@ -1,6 +1,6 @@
 ---
 title: "The Deal Is Done: ReadWriteWeb Sells to SAY Media"
-description: "In early December, I travel to San Francisco for due diligence with SAY Media as it prepares to acquire ReadWriteWeb. Then, on December 14, 2011, the transaction goes through and I no longer own RWW."
+description: "In early December 2011, I travel to San Francisco for due diligence with SAY Media as it prepares to acquire ReadWriteWeb. Then, on the 14th, the transaction goes through and I no longer own RWW."
 date: 2024-12-19
 permalink: "p/065-selling-readwriteweb/"
 tags: ['web20', 'memoir', '2011']
