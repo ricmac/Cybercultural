@@ -8,6 +8,13 @@ featureImage: "/assets/images/73ba0b8a-0364-47f9-9b0d-a7a3cca2a00c_3400x2134.jpg
 ---
 ![Bubble Blog book cover](/assets/images/73ba0b8a-0364-47f9-9b0d-a7a3cca2a00c_3400x2134.jpg "Bubble Blog book cover"){loading="eager"}
 
+My book, *Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution*, is now available to purchase:
+
+- [Paperback](https://www.amazon.com/Bubble-Blog-Outsider-Insider-Revolution/dp/B0DQKRB3P5?&linkCode=ll1&tag=richardmacman-20&linkId=b38f92f2c0bd2c9f05cda3a07413fd40&language=en_US&ref_=as_li_ss_tl){target="_blank"}, US$19.99
+- [eBook](https://www.amazon.com/Bubble-Blog-Outsider-Insider-Revolution-ebook/dp/B0DQJQ4LJ9?&linkCode=ll1&tag=richardmacman-20&linkId=63e982f1c9d1ded8c83666d8b6917ff7&language=en_US&ref_=as_li_ss_tl){target="_blank"}, US$9.99
+
+**Note:** The above links should work for the US and UK Amazon stores, but to find my book in other international stores, search for "Bubble Blog MacManus".
+
 If you are looking for a good overview of my book project, see [my launch post](/p/bubble-blog-web20-memoir).
 
 The following is a chronological table of contents for my book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. Each chapter is a series of posts, usually about three to four. The TOC will be filled in as posts are mailed out.
@@ -156,6 +163,9 @@ PART 3: 2010–2011
 *    [063. The Last Web 2.0 Conference and RWW Acquisition Talks 2.0](/p/063-the-last-web20-conference-2011/)
 *    [064. SAY Media Offers To Acquire ReadWriteWeb](/p/064-saymedia-offer-for-readwriteweb/)
 *    [065. The Deal Is Done: ReadWriteWeb Sells to SAY Media](/p/065-selling-readwriteweb/)
+
+### Epilogue
+*    [066. 2012: The Transition From ReadWriteWeb to ReadWrite](/p/066-readwriteweb-2012/)
 
 To be continued…
 

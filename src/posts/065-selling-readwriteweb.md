@@ -75,4 +75,4 @@ The following morning, a Friday for me, I finally opened my paper journal to ack
 
 This post is part of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. View [table of contents](/p/roadmap-bubbleblog/).
 
-Next up: 066. Epilogue, part 1
+Next up: [066. 2012: The Transition From ReadWriteWeb to ReadWrite](/p/066-readwriteweb-2012/)
