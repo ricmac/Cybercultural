@@ -1,6 +1,6 @@
 ---
 title: "The End of Web 2.0 — One Bubble Deflates, Another Starts Up"
-description: "After leaving the rebranded ReadWrite in October 2012, it becomes apparent that the Web 2.0 era is over. I reflect on what the Web 2.0 bubble meant and how the internet industry continues to evolve."
+description: "After leaving ReadWriteWeb in October 2012, it becomes apparent that the Web 2.0 era is over. I reflect on what the Web 2.0 bubble meant and how the internet industry continues to evolve."
 date: 2024-12-24
 permalink: "p/067-end-of-web20/"
 tags: ['web20', 'memoir', '2012']
