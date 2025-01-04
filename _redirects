@@ -81,8 +81,10 @@
 /s/memoir* /memoir 301
 /s/culture-tech* /articles 301
 /s/tech-history* / 301
-/archive* / 301
-/personal* /misc 301
+/archive / 301
+/archive/ / 301
+/personal /misc 301
+/personal/ /misc 301
 /p/bowienet-the-inside-story-of-its* /p/bowienet-the-inside-story/ 301
 /p/020-poker-night-in-atherton* /p/020-betting-on-web20/ 301
 /p/006-revving-up-2005-web- /p/006-revving-up-2005-web-20-conference/ 301
@@ -90,11 +92,12 @@
 /p/007-2005-web-20- /p/007-2005-web-20-conference-day-2/ 301
 /p/007-2005-web-20-/ /p/007-2005-web-20-conference-day-2/ 301
 /people/232063-richard-macmanus* /about/ 301
-/s/web-history* /articles/ 301
+/s/web-history /articles/ 301
+/s/web-history/ /articles/ 301
 /p/026-crunchies-rww-canonical-design* /p/026-rww-redesign-2007-crunchies/ 301
 /p/023-microsoft- /p/023-microsoft-mix-2007/ 301
 /p/023-microsoft-/ /p/023-microsoft-mix-2007/ 301
-/p/roadmap- /p/roadmap-bubbleblog/ 301
+/p/roadmap* /p/roadmap-bubbleblog/ 301
 /p/roadmap-/ /p/roadmap-bubbleblog/ 301
 /p/introduction-to-bubble-blog-book* /p/001-introduction-to-bubble-blog-book/ 301
 /p/the-early-years-of-readwriteweb* /p/002-the-early-years-of-readwriteweb/ 301
