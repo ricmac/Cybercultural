@@ -8,12 +8,12 @@ featureImage: "/assets/images/33d48ded-f999-4173-8440-9d752446428b_3400x2134.jpg
 ---
 ![Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution](/assets/images/33d48ded-f999-4173-8440-9d752446428b_3400x2134.jpg){loading="eager"}
 
-I’m thrilled to announce that my book, *Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution*, is now available to purchase as a paperback or eBook on Amazon. Click on these links to order your copy:
+I’m thrilled to announce that my book, *Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution*, is now available to purchase as a paperback or eBook. Click on any of these links to order your copy:
 
-- [Paperback](https://www.amazon.com/Bubble-Blog-Outsider-Insider-Revolution/dp/B0DQKRB3P5?&linkCode=ll1&tag=richardmacman-20&linkId=b38f92f2c0bd2c9f05cda3a07413fd40&language=en_US&ref_=as_li_ss_tl){target="_blank"}, US$19.99
-- [eBook](https://www.amazon.com/Bubble-Blog-Outsider-Insider-Revolution-ebook/dp/B0DQJQ4LJ9?&linkCode=ll1&tag=richardmacman-20&linkId=63e982f1c9d1ded8c83666d8b6917ff7&language=en_US&ref_=as_li_ss_tl){target="_blank"}, US$9.99
+*   Paperback, US$19.99: [Amazon](https://www.amazon.com/Bubble-Blog-Outsider-Insider-Revolution/dp/B0DQKRB3P5?&linkCode=ll1&tag=richardmacman-20&linkId=b38f92f2c0bd2c9f05cda3a07413fd40&language=en_US&ref_=as_li_ss_tl){target="_blank"}; [Bookshop.org](https://bookshop.org/p/books/bubble-blog-from-outsider-to-insider-in-silicon-valley-s-web-2-0-revolution-richard-macmanus/22135084){target="_blank"}
+*   eBook, US$9.99: [Amazon Kindle Store](https://www.amazon.com/Bubble-Blog-Outsider-Insider-Revolution-ebook/dp/B0DQJQ4LJ9?&linkCode=ll1&tag=richardmacman-20&linkId=63e982f1c9d1ded8c83666d8b6917ff7&language=en_US&ref_=as_li_ss_tl){target="_blank"}; [Apple Books](http://books.apple.com/us/book/id6739734992){target="_blank"}; [Google Play](https://play.google.com/store/books/details?id=Sug5EQAAQBAJ){target="_blank"}
 
-**Note:** The above links should work for the US and UK Amazon stores, but to find my book in other international stores, search for "Bubble Blog MacManus".
+Or search for "Bubble Blog MacManus" on your local online bookstore.
 
 I’ve been calling *Bubble Blog* my “Web 2.0 memoir,” but it’s also an internet history book about the rise of digital culture in the 2000's. Certainly, it's the definitive story of the blog I founded, ReadWriteWeb — and some might say it's the definitive story of Web 2.0 itself.
 
@@ -34,11 +34,5 @@ Finally, a note on the online serialization of *Bubble Blog*, which [began back 
 Dive into the transformative decade that reshaped the internet and our lives with *Bubble Blog*, a hybrid memoir and internet history by pioneering blogger Richard MacManus. Journey through the early 2000s, a pivotal time that saw the meteoric rise of social media, smartphones, and cloud computing. MacManus chronicles how he founded and grew ReadWriteWeb into one of the world’s top ten blogs, syndicated by The New York Times. His account offers an insider’s view of the Web 2.0 era and the shift from analog to digital.
 
 Whether you’re a tech enthusiast, a history buff, or simply curious about the internet’s past, *Bubble Blog* provides a fascinating glimpse into the early days of our digital age.
-
-Buy now on Amazon:
-- [Paperback](https://www.amazon.com/Bubble-Blog-Outsider-Insider-Revolution/dp/B0DQKRB3P5?&linkCode=ll1&tag=richardmacman-20&linkId=b38f92f2c0bd2c9f05cda3a07413fd40&language=en_US&ref_=as_li_ss_tl){target="_blank"}, US$19.99
-- [eBook](https://www.amazon.com/Bubble-Blog-Outsider-Insider-Revolution-ebook/dp/B0DQJQ4LJ9?&linkCode=ll1&tag=richardmacman-20&linkId=63e982f1c9d1ded8c83666d8b6917ff7&language=en_US&ref_=as_li_ss_tl){target="_blank"}, US$9.99
-
-The above links should work for the US and UK Amazon stores, but to find my book in other international stores, search for "Bubble Blog MacManus".
 
 ***
