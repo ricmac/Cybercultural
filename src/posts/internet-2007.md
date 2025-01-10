@@ -77,10 +77,4 @@ Beacon wouldn’t be the first time Facebook tested the boundaries of user priva
 
 * * *
 
-Read next:
-* [What the Internet Was Like in 2004](/p/internet-2004/)
-* [What the Internet Was Like in 2005](/p/internet-2005/)
-* [What the Internet Was Like in 2006](/p/internet-2006/)
-* [What the Internet Was Like in 2008](/p/internet-2008/)
-* [What the Internet Was Like in 2009](/p/internet-2009/)
-* [What the Internet Was Like in 2010](/p/internet-2010/)
+Read next: [More year-by-year overviews of internet history](/year/)

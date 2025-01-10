@@ -91,10 +91,4 @@ Ah, the web in 2005… I do miss it, although I’m pleased to see [the fedivers
 
 * * *
 
-Read next: 
-* [What the Internet Was Like in 2004](/p/internet-2004/)
-* [What the Internet Was Like in 2006](/p/internet-2006/)
-* [What the Internet Was Like in 2007](/p/internet-2007/)
-* [What the Internet Was Like in 2008](/p/internet-2008/)
-* [What the Internet Was Like in 2009](/p/internet-2009/)
-* [What the Internet Was Like in 2010](/p/internet-2010/)
+Read next: [More year-by-year overviews of internet history](/year/)
