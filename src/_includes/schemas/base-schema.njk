@@ -1,15 +1,28 @@
 <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "WebSite",
-        "@id": "{{ meta.url }}#website",
-        "url": "{{ meta.url }}",
-        "name": "{{ meta.siteName }}",
-        "description": "{{ meta.siteDescription }}",
-        "inLanguage": "{{ meta.locale }}"
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebSite",
+      "@id": "https://cybercultural.com#website",
+      "url": "https://cybercultural.com",
+      "name": "Cybercultural",
+      "description": "Internet history and its impact on our culture.",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://cybercultural.com/assets/images/Cybercultural-logo.png"
+      },
+      "inLanguage": "en_US",
+      "publisher": {
+        "@type": "Organization",
+        "name": "Cybercultural",
+        "url": "https://cybercultural.com",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://cybercultural.com/assets/images/Cybercultural-logo.png"
+        }
       }
-    ]
-  }
+    }
+  ]
+}
 </script>
