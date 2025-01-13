@@ -3,13 +3,20 @@ const meta = {
   siteName: 'Cybercultural',
   siteDescription: 'Internet history and its impact on our culture.',
   defaultimage: '/assets/images/33d48ded-f999-4173-8440-9d752446428b_3400x2134.jpg',
-  siteType: 'Person', // schema
-  locale: 'en_EN',
+  siteType: 'Organization', // schema
+  locale: 'en_US',
   lang: 'en',
   skipContent: 'Skip to content',
-  author: 'Richard MacManus', // author's name. Must be set.
-  authorEmail: 'cybercultural@ricmac.org', // email of the author
-  authorWebsite: 'https://ricmac.org/', // the personal site of the author
+  author: {
+    name: 'Richard MacManus',
+    email: 'cybercultural@ricmac.org',
+    website: 'https://ricmac.org/',
+    url: 'https://cybercultural.com/about/'
+  },
+  organization: {
+    name: 'Cybercultural',
+    url: 'https://cybercultural.com'
+  },
   themeColor: '#B80103', //  Manifest: defines the default theme color for the application
   themeBgColor: '#F3F3F3', // Manifest: defines a placeholder background color for the application page to display before its stylesheet is loaded
   meta_data: {
@@ -26,18 +33,6 @@ const meta = {
   },
   pagination: {
     itemsPerPage: 20
-  },
-  address: {
-    // edit all presets or leave empty. They are being used in the pages for privacy.md and imprint.md
-    firma: 'Org name',
-    street: '123 Main St.',
-    city: 'Ciudad',
-    state: 'Estado',
-    zip: '12345',
-    mobileDisplay: '+34 1234567',
-    mobileCall: ' +341234567',
-    email: 'cybercultural@ricmac.org',
-    cif: ''
   },
   menu: {
     closedText: 'Menu'
