@@ -3,15 +3,16 @@
     "@context": "https://schema.org",
     "@type": "BlogPosting",
     "mainEntityOfPage": {
-      "@type": "WebPage"
+      "@type": "WebPage",
+      "@id": "https://cybercultural.com{{ page.url }}"
     },
     "isPartOf": {
       "@id": "{{ meta.url }}#website"
     },
-    "@id": "{{ url }}",
+    "@id": "https://cybercultural.com{{ page.url }}",
     "headline": "{{ title or meta.siteName }}",
     "description": "{{ discover.description or description or meta.siteDescription }}",
-    "image": "{{ meta.url }}{% if discover.image %}/assets/images/{{ discover.image }}{% else %}{{ meta.opengraph_default }}{% endif %}",
+    "image": "{{ meta.url }}{% if featureImage %}{{ featureImage }}{% else %}{{ meta.opengraph_default }}{% endif %}",
     "inLanguage": "{{ meta.locale }}",
     "publisher": {
       "@type": "{{ meta.siteType }}",
@@ -20,7 +21,8 @@
     },
     "author": {
       "@type": "Person",
-      "name": "{{ meta.author.name }}"
+      "name": "{{ meta.author.name }}",
+      "url": "https://cybercultural.com/about/"
     },
     "datePublished": "{{ date | toIsoString }}"
   }
