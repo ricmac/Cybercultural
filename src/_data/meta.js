@@ -16,7 +16,7 @@ const meta = {
   organization: {
     name: 'Cybercultural',
     url: 'https://cybercultural.com',
-    logo: '/assets/images/Cybercultural-logo.jpg',
+    logo: '/assets/images/Cybercultural-logo-2025.png',
     description: 'Internet history and its impact on our culture.'
   },
   themeColor: '#B80103', //  Manifest: defines the default theme color for the application
