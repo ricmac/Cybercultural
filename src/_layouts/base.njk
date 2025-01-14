@@ -9,7 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
     <!-- title -->
-    <title>{% if seo.title %}{{ seo.title }}{% elif title %}{{ title }}{% else %}{{ meta.siteName }}{% endif %}</title>
+<title>{% if page.url == '/' %}{{ seo.title or title or meta.siteName }}{% else %}{% if seo.title %}{{ seo.title }} | {{ meta.siteName }}{% elif title %}{{ title }} | {{ meta.siteName }}{% else %}{{ meta.siteName }}{% endif %}{% endif %}</title>
 
 <!--  inline base schema -->
 {% include "schemas/base-schema.njk" %}
