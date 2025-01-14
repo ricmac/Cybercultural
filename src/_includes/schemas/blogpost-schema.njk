@@ -12,7 +12,7 @@
     "@id": "https://cybercultural.com{{ page.url }}",
     "headline": "{{ title or meta.siteName }}",
     "description": "{{ discover.description or description or meta.siteDescription }}",
-    "image": "{{ meta.url }}{% if featureImage %}{{ featureImage }}{% else %}{{ meta.opengraph_default }}{% endif %}",
+    "image": "{{ meta.url }}{% if featureImage %}{{ featureImage }}{% else %}{{ meta_data.opengraph_default }}{% endif %}",
     "inLanguage": "{{ meta.locale }}",
     "publisher": {
       "@type": "{{ meta.siteType }}",
