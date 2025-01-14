@@ -1,7 +1,7 @@
 ---
 permalink: /index.html
 title: 'Cybercultural: Internet History and Its Impact on Our Culture'
-description: 'Internet history and its impact on our culture.'
+description: 'Cybercultural is a website covering internet history and the evolution of digital culture.'
 layout: 'home'
 ---
 
