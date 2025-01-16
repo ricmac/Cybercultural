@@ -1,6 +1,6 @@
 ---
 title: "BowieNet: The Inside Story of its Creation"
-description: "An interview with one of the creators of David Bowie's 1998 web portal, BowieNet."
+description: "Part web portal, part ISP, part proto-blog, when David Bowie and his web team launched BowieNet in 1998, it was truly revolutionary. Cybercultural interviews one of its creators."
 date: 2023-01-10
 permalink: "p/bowienet-the-inside-story/"
 tags: ['dotcom', '1998']
