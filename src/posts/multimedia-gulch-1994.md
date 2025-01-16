@@ -58,7 +58,7 @@ The denizens of Multimedia Gulch were trying hard to make CD-ROMs into a popular
 
 Part of the appeal of CD-ROMs in 1994 was that they enabled a form of interactivity that simply wasn’t possible on the Web at the time — due mainly to the limited speeds of dial-up internet. 
 
-By October 1994, the newly formed startup Netscape was ready to release a “0.9 Beta” version of its web browser, then called Mosaic Netscape (it would soon be re-named Netscape Navigator). “Mosaic Netscape is a built-from-scratch Internet navigator featuring performance optimized for 14.4 modems, native JPEG support, and more,” Marc Andreessen [announced](%5Dhttp%3A//1997.webhistory.org/www.lists/www-talk.1994q4/0187.html) on the WWW-Talk mailing list.
+By October 1994, the newly formed startup Netscape was ready to release a “0.9 Beta” version of its web browser, then called Mosaic Netscape (it would soon be re-named Netscape Navigator). “Mosaic Netscape is a built-from-scratch Internet navigator featuring performance optimized for 14.4 modems, native JPEG support, and more,” Marc Andreessen [announced](http://1997.webhistory.org/www.lists/www-talk.1994q4/0187.html) on the WWW-Talk mailing list.
 
 ![Mosaic Netscape 0.9](/assets/images/mosaic-netscape-0-9-02.png)
 *Mosaic Netscape 0.9; [via Web Design Museum](https://www.webdesignmuseum.org/software/mosaic-netscape-version-0-9-beta-in-1994).*
