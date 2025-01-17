@@ -7,7 +7,7 @@ tags: ['dotcom', '1994']
 featureImage: "/assets/images/total-distortion-4screenshots.jpg"
 ---
 
-![Total Distortion CD-ROM Music Video Adventure Game](/assets/images/total-distortion-4screenshots.jpg){loading="eager" fetchpriority="high"}
+![Total Distortion CD-ROM Music Video Adventure Game](/assets/images/total-distortion-4screenshots.jpg){loading="eager"}
 *Total Distortion CD-ROM, a "music video adventure game"; screenshots [via Internet Archive](https://archive.org/details/TOTALD11).*
 
 In April 1994,⁠ the PBS tv series Computer Chronicles devoted an [entire show](https://www.youtube.com/watch?v=lCodEnJAQmk) to multimedia.

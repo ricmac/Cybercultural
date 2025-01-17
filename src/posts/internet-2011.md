@@ -7,7 +7,7 @@ tags: ['web20', 'year', '2011']
 featureImage: "/assets/images/6471821657_80ed8b8b84_ob.jpg"
 ---
 
-![Google+ logo](/assets/images/6471821657_80ed8b8b84_ob.jpg)
+![Google+ logo](/assets/images/6471821657_80ed8b8b84_ob.jpg){loading="eager"}
 
 2011 was the year Facebook, the world’s leading social network, launched Timeline and introduced its algorithmic feed. These changes were partly influenced by a formidable new competitor: Google+.
 

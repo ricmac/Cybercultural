@@ -7,7 +7,7 @@ tags: ['web20', 'year', '2010']
 featureImage: "/assets/images/social-icons-2010b.jpg"
 ---
 
-![Social media icons 2010](/assets/images/social-icons-2010b.jpg)
+![Social media icons 2010](/assets/images/social-icons-2010b.jpg){loading="eager"}
 
 The internet in 2010 was when social media conquered the world, as people flocked to Facebook and Twitter to have their say. Much of this was driven by smartphone apps—not just from the established players, but by newer apps like Instagram (the first truly mobile-native photo sharing app) and the location-based social networking app Foursquare. 
 

@@ -7,7 +7,7 @@ tags: ['web20', 'memoir', '2011']
 featureImage: "/assets/images/ricmac-marshallk-oct2011-1000.jpg"
 ---
 
-![Richard and Marshall at Green Dragon pub, Portland, October 2011](/assets/images/ricmac-marshallk-oct2011-1000.jpg)
+![Richard and Marshall at Green Dragon pub, Portland, October 2011](/assets/images/ricmac-marshallk-oct2011-1000.jpg){loading="eager"}
 *Marshall and I reflecting on our ReadWriteWeb adventure at the Green Dragon pub, Portland, October 2011. Note: I'm not sure who took this photo, but I found it [via Wayback Machine](https://web.archive.org/web/20111021202628/readwriteweb.com/archives/worldwide_readwriteweb_meetup_-_november_15_2011.php).*
 
 An opportunity arose to discuss a possible sale of ReadWriteWeb when Sean got back from a trip out west at the end of August, during which he’d visited the FM Publishing office in San Francisco. I asked him how it went, and he replied that he’d had a positive discussion with FM about several ad campaigns. “The only sticky thing is that our traffic really is tough and we need it to start growing,” he added.
