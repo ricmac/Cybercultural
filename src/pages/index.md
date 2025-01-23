@@ -5,4 +5,4 @@ description: 'Cybercultural is a website covering internet history and the evolu
 layout: 'home'
 ---
 
-Cybercultural is a website about internet history and its impact on our culture, by [Richard MacManus](/about/). In 2024 I serialized [my Web 2.0 memoir](/p/roadmap-bubbleblog/). Coming in 2025: more from the [dot-com 1990s](/dotcom) and [2010s](/enshittocene).
+Cybercultural chronicles internet history and its cultural impact, from the [pre-web](/preweb) era to the [dot-com](/dotcom) boom, [Web 2.0](/web20), and [beyond](/enshittocene). Written by pioneering tech blogger [Richard MacManus](/about/), it explores how the internet shaped our world — and what its future holds.
