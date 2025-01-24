@@ -7,6 +7,140 @@ schema: blog
   <div class="wrapper flow prose">
     <h1>{{ title }}</h1>
     
-    {{ content | safe }}
+    <p>Today in internet history, we commemorate the following news (📰), births (👶), deaths (💀), and holidays (🏖️):</p>
+    <ul id="todaysEvents">Loading today's events...</ul>
+
+    <h2>Check another day:</h2>
+    <label for="customDate">Enter a month and day to check (MM-DD): </label>
+    <input type="text" id="customDate" placeholder="e.g., 01-15" />
+    <button id="fetchButton">Fetch Events</button>
+
+    <ul id="customEvents"></ul>
+
+    <noscript>
+      <p>Please enable JavaScript to view this page's content.</p>
+    </noscript>
+
+    <script>
+      // Function to fetch "On This Day" events
+      async function fetchOnThisDay(customDate = null, isToday = false) {
+        const today = customDate
+          ? new Date(`2000-${customDate}`) // Use the custom date if provided
+          : new Date(); // Today's date
+        const month = String(today.getMonth() + 1).padStart(2, '0'); // Months are 0-based
+        const day = String(today.getDate()).padStart(2, '0');
+        const url = `https://en.wikipedia.org/api/rest_v1/feed/onthisday/all/${month}/${day}`;
+
+        try {
+          const response = await fetch(url);
+          if (!response.ok) throw new Error('Failed to fetch data.');
+
+          const data = await response.json();
+const techKeywords = [
+  'internet', 'technology', 'computer', 'software', 'website',
+  'browser', 'social media', 'startup', 'programming',
+  'artificial intelligence', 'cybersecurity', 'digital', 'web',
+  'online', 'cloud', 'app', 'e-commerce', 'computing', 'dot-com',
+  'blogging', 'blogger', 'search engine', 'algorithm',
+  'hack', 'hacking', 'cyberattack', 'encryption', 'open source',
+  'hardware', 'email', 'URL', 'HTTP', 'WWW', 'web',
+  'streaming', 'online video', 'multimedia', 'download', 'upload',
+  'forum', 'IRC', 'e-learning', 'telecommunication',
+  'ISP', 'database', 'AI', 'bot', 'automation',
+  'crowdsourcing', 'peer-to-peer', 'torrent', 'video game',
+  'virtual reality', 'augmented reality', 'media',
+  'digital rights', 'privacy', 'net neutrality', 'wifi', 'broadband', 'streamer',
+  'programmer', 'hacker', 'Google', 'Facebook', 'Twitter', 'Microsoft', 'Apple Computer',
+  'Netflix', 'Spotify', 'Netscape', 'technologist'
+];
+
+          const keywordRegex = new RegExp(`\\b(${techKeywords.join('|')})\\b`, 'i');
+
+          const allEvents = [...(data.events || []), ...(data.births || []), ...(data.deaths || []), ...(data.holidays || [])];
+          const filteredEvents = allEvents.filter(event => keywordRegex.test(event.text));
+
+          const targetList = isToday
+            ? document.querySelector('#todaysEvents') // Today's events list
+            : document.querySelector('#customEvents'); // Custom date events list
+          targetList.innerHTML = ''; // Clear the current content
+
+          if (filteredEvents.length > 0) {
+            filteredEvents.forEach(event => {
+              // Determine the emoji based on the event's type
+              let emoji = '';
+              if ((data.events || []).includes(event)) emoji = '📰';  // News/Event
+              else if ((data.births || []).includes(event)) emoji = '👶';  // Birth
+              else if ((data.deaths || []).includes(event)) emoji = '💀';  // Death
+              else if ((data.holidays || []).includes(event)) emoji = '🏖️';  // Holiday
+
+              // Create the list item with the emoji
+            const li = document.createElement('li');
+            li.innerHTML = `${event.year ? `<strong>${event.year}:</strong> ` : ''}${emoji} ${event.text}`;
+            targetList.appendChild(li);
+            });
+          } else {
+            // Format the date to display in the message
+            const displayDate = customDate 
+  ? `${customDate}` 
+  : `${String(today.getMonth() + 1).padStart(2, '0')}-${String(today.getDate()).padStart(2, '0')}`;
+            targetList.innerHTML = `<li>No internet history events found for this day, ${displayDate}.</li>`;
+          }
+        } catch (error) {
+          const errorMessage = `<li>Failed to load events. Please try again later.</li>`;
+          if (isToday) {
+            document.querySelector('#todaysEvents').innerHTML = errorMessage;
+          } else {
+            document.querySelector('#customEvents').innerHTML = errorMessage;
+          }
+          console.error(error);
+        }
+      }
+
+      // Fetch today's events on page load
+      fetchOnThisDay(null, true);
+
+      // Add event listener for manual date input
+      const fetchButton = document.getElementById('fetchButton');
+      fetchButton.addEventListener('click', () => {
+        const customDate = document.getElementById('customDate').value;
+        if (/^\d{2}-\d{2}$/.test(customDate)) {
+          fetchOnThisDay(customDate, false);
+        } else {
+          alert('Please enter a valid day in MM-DD format.');
+        }
+      });
+
+// Set up the Wayback Machine iframe URL dynamically using today's month and day, and a random year between 2003 and 2012
+window.onload = function() {
+  const today = new Date();
+  const currentYear = today.getFullYear();
+  const month = String(today.getMonth() + 1).padStart(2, '0'); // Months are 0-based
+  const day = String(today.getDate()).padStart(2, '0');
+  
+  // Randomly select a year between 2003 and 2012
+  const randomYear = Math.floor(Math.random() * (2012 - 2003 + 1)) + 2003;
+  
+  // Calculate how many years ago
+  const yearsAgo = currentYear - randomYear;
+  
+  // Update the iframe source
+  const iframe = document.querySelector('#waybackIframe');
+  iframe.src = `https://web.archive.org/web/${randomYear}${month}${day}/https://readwriteweb.com`;
+  
+  // Insert the "x years ago" text
+  const waybackYearsAgo = document.querySelector('#waybackYearsAgo');
+  waybackYearsAgo.textContent = `${yearsAgo} year${yearsAgo !== 1 ? 's' : ''}`;
+};
+
+    </script>
+
+    <p>Source: <a href="https://en.wikipedia.org/" target="_blank">Wikipedia</a></p>
+
+    <h2>RWW Memories</h2>
+
+<p id="waybackText">ReadWriteWeb was the tech blog I ran from 2003-2012. Here's what was on the site <span id="waybackYearsAgo"></span> ago. Via <a href="https://web.archive.org/" target="_blank">Wayback Machine</a>.</p> 
+
+    <iframe id="waybackIframe" width="1024" height="800"></iframe>
+
   </div>
 </article>
