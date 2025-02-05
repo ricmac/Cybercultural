@@ -17,7 +17,7 @@ Facebook’s acquisition of Instagram in April 2012 signalled that smartphone ap
 
 ## Rapid Mobile Adoption
 
-At the D10 Conference at the end of May 2012, star analyst Mary Meeker gave her annual presentation of internet trends. Mobile technology was being rapidly adopted, she said, although it was "still in [the] early stages." 
+At the D10 Conference at the end of May 2012, star analyst Mary Meeker gave her [annual presentation](https://www.scribd.com/doc/95259089/KPCB-Internet-Trends-2012) of internet trends. Mobile technology was being rapidly adopted, she said, although it was "still in the early stages." 
 
 ![Android growth 2012](/assets/images/android-growth-2011.jpg)
 *Android growth; via Mary Meeker 2012 internet trends.*
