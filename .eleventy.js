@@ -7,7 +7,7 @@ const packageVersion = pkg.version;
 import { limit, toHtml, where, toISOString, toAbsoluteUrl, stripHtml, minifyCss, minifyJs, mdInline, splitlines } from './config/filters/index.js';
 
 // Module import shortcodes
-import { includeRaw, liteYoutube } from './config/shortcodes/index.js';
+import { liteYoutube } from './config/shortcodes/youtube-lite/index.js'; 
 
 // Module import collections
 import { getAllPosts, onlyMarkdown } from './config/collections/index.js';
@@ -78,12 +78,13 @@ export default function(eleventyConfig) {
 
   // Custom shortcodes
   eleventyConfig.addShortcode('youtube', liteYoutube);
-  eleventyConfig.addShortcode('include_raw', includeRaw);
   eleventyConfig.addShortcode('year', () => `${new Date().getFullYear()}`);
   eleventyConfig.addShortcode('packageVersion', () => `v${packageVersion}`);
 
   // Configure Markdown library with markdown-it-attrs
-  const markdown = markdownIt().use(markdownItAttrs);
+  const markdown = markdownIt({
+    html: true // Allow raw HTML
+  }).use(markdownItAttrs);
   eleventyConfig.setLibrary('md', markdown);
 
   // Add Eleventy Image Plugin
