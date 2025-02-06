@@ -26,6 +26,7 @@ import htmlConfigPlugin from './config/transforms/html-config.js';
 import cssConfigPlugin from './config/template-languages/css-config.js';
 import jsConfigPlugin from './config/template-languages/js-config.js';
 import dayjs from 'dayjs';
+import externalLinks from 'eleventy-plugin-external-links';
 
 // Import Eleventy Image Plugin
 import { eleventyImageTransformPlugin } from "@11ty/eleventy-img";
@@ -134,6 +135,16 @@ export default function(eleventyConfig) {
   eleventyConfig.addPlugin(pluginRss);
   eleventyConfig.addPlugin(bundlerPlugin);
 
+ // Open external links in new tab plugin
+  eleventyConfig.addPlugin(externalLinks, {
+    name: 'external-links',
+    regex: /^(([a-z]+:)|(\/\/))/i,
+    target: "_blank",
+    rel: "noopener",
+    extensions: [".html"],
+    includeDoctype: true,
+  });
+    
   // Passthrough File Copy
   ['src/assets/fonts/', 'src/assets/images/'].forEach(path => eleventyConfig.addPassthroughCopy(path));
   eleventyConfig.addPassthroughCopy({ 'src/assets/images/favicon/*': '/' });

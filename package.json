@@ -45,6 +45,7 @@
     "cssnano": "^6.0.0",
     "dayjs": "^1.11.5",
     "dotenv": "^16.4.5",
+    "eleventy-plugin-external-links": "^1.1.2",
     "eleventy-plugin-webmentions": "^0.0.1",
     "esbuild": "^0.19.0",
     "html-minifier-terser": "^7.1.0",
