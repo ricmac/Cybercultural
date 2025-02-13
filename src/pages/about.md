@@ -5,7 +5,11 @@ description: About Cybercultural — Internet History and Its Impact on Our Cult
 layout: page
 ---
 
-I’m [Richard MacManus](https://ricmac.org/) (@ricmac), a pioneering tech blogger and author. [Cybercultural](https://cybercultural.com/) is my indie website about **internet history and its impact on our culture**. I recently finished serializing [my latest book](/p/roadmap-bubbleblog/), "Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution". It chronicles the rise of the modern internet during the first decade of this century.
+I’m [Richard MacManus](https://ricmac.org/) (@ricmac), a pioneering tech blogger and author. [Cybercultural](https://cybercultural.com/) is my indie website about **internet history and its impact on our culture**.
+
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support me on Ko-fi', '#b80103', 'F1F61AI58P');kofiwidget2.draw();</script> 
+
+I recently finished serializing [my latest book](/p/roadmap-bubbleblog/), "Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution". It chronicles the rise of the modern internet during the first decade of this century.
 
 I was the founder and Editor-in-Chief of [ReadWriteWeb](https://ricmac.org/career-archive/readwriteweb/) (RWW) from 2003-2012. RWW was ranked among the top 10 blogs in the world, according to Technorati. It was syndicated by The New York Times and eventually acquired by SAY Media.
 
