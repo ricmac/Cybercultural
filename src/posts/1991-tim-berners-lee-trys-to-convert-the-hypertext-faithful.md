@@ -8,7 +8,7 @@ featureImage: "/assets/images/wdh/9112021_01.jpg"
 ---
 ![Tim Berners-Lee demonstrates the World Wide Web to delegates at the Hypertext 1991 conference in San Antonio, Texas](/assets/images/wdh/9112021_01.jpg){loading="eager"}
 
-After a year and a half of stalling from CERN management, followed by a flurry of development activity [over the final quarter of 1990](https://webdevelopmenthistory.com/1990-programming-the-world-wide-web/), Tim Berners-Lee and his close colleague Robert Cailliau must’ve hoped the momentum they’d gathered at the end of 1990 would continue into the new year. They were sadly mistaken. This passage from Berners-Lee’s book, [Weaving the Web](https://www.w3.org/People/Berners-Lee/Weaving/), shows his growing frustration with CERN:
+After a year and a half of stalling from CERN management, followed by a flurry of development activity [over the final quarter of 1990](/p/1990-programming-the-world-wide-web/), Tim Berners-Lee and his close colleague Robert Cailliau must’ve hoped the momentum they’d gathered at the end of 1990 would continue into the new year. They were sadly mistaken. This passage from Berners-Lee’s book, [Weaving the Web](https://www.w3.org/People/Berners-Lee/Weaving/), shows his growing frustration with CERN:
 
 > “As the new year unfolded, Robert and I encouraged people in the Computing and Networking division to try the system. They didn’t seem to see how it would be useful.”
 
@@ -50,7 +50,7 @@ As an aside, the later plague of online misinformation even infected the history
 
 The myth-busting website Snopes later [debunked](https://www.snopes.com/news/2016/08/23/internaut-day-the-webs-birthday/) Internaut Day. 6 August was when users outside of CERN could access the web (a.k.a. “join the web”), so the 23 August claim made no sense. Indeed, Berners-Lee himself confirmed this in [a 2016 tweet](https://twitter.com/timberners_lee/status/768126193631584256):
 
-![TBL tweet](https://webdevelopmenthistory.com/wp-content/uploads/2021/11/Screen-Shot-2021-11-05-at-3.21.55-PM-1024x530.png)
+![TBL tweet](/p/wp-content/uploads/2021/11/Screen-Shot-2021-11-05-at-3.21.55-PM-1024x530.png)
 
 The First US Web Server and Hypertext ’91
 -----------------------------------------

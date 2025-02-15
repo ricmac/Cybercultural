@@ -7,7 +7,7 @@ tags: ['preweb', '1969']
 featureImage: "/assets/images/wdh/de_1969_nls.jpg"
 ---
 ![Doug Engelbart](/assets/images/wdh/de_1969_nls.jpg){loading="eager"}
-It’s the evening of Friday the 1st of December, 2000. Nearly 32 years to the day when Douglas Engelbart presented [the mother of all demos](https://webdevelopmenthistory.com/1968-the-mother-of-all-demos/). Now 75 years old, Engelbart is at the National Building Museum in Washington, DC. It’s a black-tie event, which is unusual for Engelbart to attend. He’s dressed awkwardly in a rented black tuxedo, with a red carnation attached to the breast of the jacket, and he’s nervously smoothing his thinning white hair. He’s about to be awarded the 2000 National Medal of Technology.
+It’s the evening of Friday the 1st of December, 2000. Nearly 32 years to the day when Douglas Engelbart presented [the mother of all demos](/p/1968-the-mother-of-all-demos/). Now 75 years old, Engelbart is at the National Building Museum in Washington, DC. It’s a black-tie event, which is unusual for Engelbart to attend. He’s dressed awkwardly in a rented black tuxedo, with a red carnation attached to the breast of the jacket, and he’s nervously smoothing his thinning white hair. He’s about to be awarded the 2000 National Medal of Technology.
 
 The medal is the highest award for technology innovation in the United States. It’s been a long time coming for Douglas Engelbart, who has spent most of the years since the 1968 demo struggling to implement his software. Unlike Steve Jobs and Bill Gates, Engelbart never managed to turn his undoubted brilliance into fame and money.
 

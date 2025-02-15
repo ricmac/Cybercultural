@@ -8,7 +8,7 @@ featureImage: "/assets/images/wdh/Screen-Shot-2021-03-10-at-10.27.55-AM.png"
 ---
 ![Netscape ONE](/assets/images/wdh/Screen-Shot-2021-03-10-at-10.27.55-AM.png){loading="eager"}
 
-After [Microsoft upped the ante](https://webdevelopmenthistory.com/1996-microsoft-activates-the-internet-with-activex-jscript/) in the browser market in 1996 by integrating Internet Explorer 3.0 into Windows, Netscape began the new year with a renewed focus on the open web. Co-founder and CTO Marc Andreessen, along with the Netscape product team, introduced [a new strategy](https://web.archive.org/web/19970716152026/http://www101.netscape.com/comprod/at_work/white_paper/vision/print.html) called “crossware”:
+After [Microsoft upped the ante](/p/1996-microsoft-activates-the-internet-with-activex-jscript/) in the browser market in 1996 by integrating Internet Explorer 3.0 into Windows, Netscape began the new year with a renewed focus on the open web. Co-founder and CTO Marc Andreessen, along with the Netscape product team, introduced [a new strategy](https://web.archive.org/web/19970716152026/http://www101.netscape.com/comprod/at_work/white_paper/vision/print.html) called “crossware”:
 
 > “Crossware describes on-demand applications that run across networks and operating systems, and are based entirely on open Internet standards like HTML, Java, and JavaScript.”
 
@@ -95,7 +95,7 @@ With the added complexity of Netscape Communicator — less politely referred to
 
 In fact, Microsoft had already one-upped Netscape in 1997 with [Visual Studio 97](https://news.microsoft.com/1997/01/28/microsoft-announces-visual-studio-97-a-comprehensive-suite-of-microsoft-visual-development-tools/), which had been released in January of that year. Such tools were called IDEs (integrated development environment) and Microsoft Visual Studio 97 was the very first version of a product that continues to be offered to this day (the latest version, as I write, is Visual Studio 2019).
 
-An interesting sidenote to the tooling: as part of their promotions, both Netscape and Microsoft laid claim to the term “Dynamic HTML.” [Netscape defined it](https://web.archive.org/web/19970615121215/http://developer.netscape.com/one/dynhtml/index.html) as “combinations of HTML, style sheets (including CSS1 and HTML positioning and layering), and JavaScript” and it was supported in the Visual JavaScript product. Meanwhile, part of Microsoft’s Visual Studio 97 was Visual InterDev, a tool “for building dynamic Web applications.” Of course the two versions of Dynamic HTML (soon to be known as DHTML) didn’t always overlap. But that’s a whole other story, which [I get into in a separate post](https://webdevelopmenthistory.com/1997-the-year-of-dhtml/).
+An interesting sidenote to the tooling: as part of their promotions, both Netscape and Microsoft laid claim to the term “Dynamic HTML.” [Netscape defined it](https://web.archive.org/web/19970615121215/http://developer.netscape.com/one/dynhtml/index.html) as “combinations of HTML, style sheets (including CSS1 and HTML positioning and layering), and JavaScript” and it was supported in the Visual JavaScript product. Meanwhile, part of Microsoft’s Visual Studio 97 was Visual InterDev, a tool “for building dynamic Web applications.” Of course the two versions of Dynamic HTML (soon to be known as DHTML) didn’t always overlap. But that’s a whole other story, which [I get into in a separate post](/p/1997-the-year-of-dhtml/).
 
 Conclusion
 ----------

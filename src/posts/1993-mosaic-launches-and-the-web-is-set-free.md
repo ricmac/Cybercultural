@@ -38,7 +38,7 @@ In any case, after multiple further messages on WWW-Talk, on 21 April Andreessen
 
 The [very next message](http://1997.webhistory.org/www.lists/www-talk.1993q2/0129.html) on the mailing list was from Berners-Lee, who was responding to someone complaining that HTML didn’t have multimedia capabilities. Not so, said Berners-Lee, pointing out that “NCSA’s (released) Mosaic for X handles embedded images in the hypertext, as does O’Reilly’s (unreleased) Viola.”
 
-The ViolaWWW browser, as discussed in [my previous post](https://webdevelopmenthistory.com/1992-web-vs-gopher/), was developed by Pei-Yuan Wei — who at this point in 1993 was getting funding from tech publisher O’Reilly & Associates. This may’ve been the time that ViolaWWW was the preferred browser at CERN, the home of the early Web. Regardless, it’s clear from the discussions on WWW-Talk that Mosaic would be a formidible new entrant to the web browser market.
+The ViolaWWW browser, as discussed in [my previous post](/p/1992-web-vs-gopher/), was developed by Pei-Yuan Wei — who at this point in 1993 was getting funding from tech publisher O’Reilly & Associates. This may’ve been the time that ViolaWWW was the preferred browser at CERN, the home of the early Web. Regardless, it’s clear from the discussions on WWW-Talk that Mosaic would be a formidible new entrant to the web browser market.
 
 The Web is Gifted to the Public Domain
 --------------------------------------

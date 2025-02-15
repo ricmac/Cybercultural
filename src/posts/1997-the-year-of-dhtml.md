@@ -9,7 +9,7 @@ featureImage: "/assets/images/wdh/DHMTL_1997_feature.jpg"
 
 ![DHTL](/assets/images/wdh/DHMTL_1997_feature.jpg){loading="eager"}
 
-As we saw in the previous post, 1997 was [a year of growth for JavaScript](https://webdevelopmenthistory.com/1997-javascript-apps-dynamic-web/). However, it was also a year in which its limitations were recognized and a new term was coined that both embraced and extended JavaScript. DHTML, or Dynamic HTML, was essentially a combination of HTML, JavaScript, the newly released CSS standard, and an emerging web programming model called the DOM (Document Object Model). That said, the precise definition of DHTML depended on which browser company you spoke to: Netscape or Microsoft.
+As we saw in the previous post, 1997 was [a year of growth for JavaScript](/p/1997-javascript-apps-dynamic-web/). However, it was also a year in which its limitations were recognized and a new term was coined that both embraced and extended JavaScript. DHTML, or Dynamic HTML, was essentially a combination of HTML, JavaScript, the newly released CSS standard, and an emerging web programming model called the DOM (Document Object Model). That said, the precise definition of DHTML depended on which browser company you spoke to: Netscape or Microsoft.
 
 As it turned out, Microsoft’s vision for DHTML was more compelling from a technical perspective than Netscape’s (perhaps the first time that could be said about a web technology Microsoft pioneered — but it would not be the last). What Microsoft wanted to achieve with DHTML was to make every element of an HTML document into a programmable object. JavaScript was, at the time, mostly limited to interactivity of forms and images. Microsoft’s DHTML, though, aimed to expand the canvas for interactivity to the entire web page.
 
@@ -38,7 +38,7 @@ In previous browsers, versions 2 and 3, there existed an unofficial and fairly l
 
 > “The Level 0 DOM was invented by Netscape at the same time JavaScript was invented and was first implemented in Netscape 2. It offers access to a few HTML elements, most importantly forms and (later) images.”
 
-We discussed these beginnings of the DOM in [our post about JavaScript in 1996](https://webdevelopmenthistory.com/1996-javascript-annoyances-and-meeting-the-dom/). In 1997, the evolution of the DOM entered into an intermediate stage — where developers knew that a standard web object model was needed, but the details were yet to be hashed out. Indeed, at this time Netscape and Microsoft had very different object models for their respective version 4 browsers. Here’s Koch again:
+We discussed these beginnings of the DOM in [our post about JavaScript in 1996](/p/1996-javascript-annoyances-and-meeting-the-dom/). In 1997, the evolution of the DOM entered into an intermediate stage — where developers knew that a standard web object model was needed, but the details were yet to be hashed out. Indeed, at this time Netscape and Microsoft had very different object models for their respective version 4 browsers. Here’s Koch again:
 
 > “Netscape and Microsoft chose to create their own, proprietary DOMs to provide access to layers and to change their properties (their position on the page, for instance). Netscape created the layer model and the DOM document.layers, while Microsoft used document.all.”
 
@@ -73,7 +73,7 @@ When Internet Explorer 4 was released in October 1997, it was the first browser 
 
 > “IE4’s designers wanted to turn the browser into a platform for Web applications. So they approached IE4’s API like an operating system’s—providing a near complete object model that represented each element (and an element’s attributes) as an object that could be accessed with a scripting language (IE4 supported both JavaScript and VBScript).”
 
-Netscape Navigator 4 had a limited DOM by comparison. It was perhaps most noticeable in how each browser moved elements around a web page. Netscape used a proprietary technology called “layers,” which animated content on a web page using JavaScript (as discussed in [our previous post](https://webdevelopmenthistory.com/1997-javascript-apps-dynamic-web/)). Compare this to how IE4 did it, as explained here [by Scott Isaacs](https://www.gemeindenblick.ch/online_tech.htm):
+Netscape Navigator 4 had a limited DOM by comparison. It was perhaps most noticeable in how each browser moved elements around a web page. Netscape used a proprietary technology called “layers,” which animated content on a web page using JavaScript (as discussed in [our previous post](/p/1997-javascript-apps-dynamic-web/)). Compare this to how IE4 did it, as explained here [by Scott Isaacs](https://www.gemeindenblick.ch/online_tech.htm):
 
 > “Internet Explorer uses an object called the All Collection to move elements around. Netscape uses a different collection called Layers. And the difference really comes back into the fundamentals of what both browsers did. Microsoft, in the All collection gives you access to every element and does not distinguish between whether it’s positioned or not. With Netscape, you can only program positioned elements – elements located at specific points on your screen. These few elements are packaged in a separate collection called Layers.”
 
