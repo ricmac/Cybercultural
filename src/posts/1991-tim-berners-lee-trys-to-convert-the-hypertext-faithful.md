@@ -50,8 +50,6 @@ As an aside, the later plague of online misinformation even infected the history
 
 The myth-busting website Snopes later [debunked](https://www.snopes.com/news/2016/08/23/internaut-day-the-webs-birthday/) Internaut Day. 6 August was when users outside of CERN could access the web (a.k.a. “join the web”), so the 23 August claim made no sense. Indeed, Berners-Lee himself confirmed this in [a 2016 tweet](https://twitter.com/timberners_lee/status/768126193631584256):
 
-![TBL tweet](/p/wp-content/uploads/2021/11/Screen-Shot-2021-11-05-at-3.21.55-PM-1024x530.png)
-
 The First US Web Server and Hypertext ’91
 -----------------------------------------
 
