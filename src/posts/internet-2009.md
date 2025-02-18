@@ -4,10 +4,10 @@ description: "The social web went mainstream in 2009, with everyone from Oprah W
 date: 2024-08-16
 permalink: "p/internet-2009/"
 tags: ['web20', 'year', '2009']
-featureImage: "/assets/images/twitter_oprah_2009.jpg"
+featureImage: "/assets/images/twitter_oprah_2009-optimized.jpg"
 ---
 
-![Oprah Winfrey on Twitter, 2009](/assets/images/twitter_oprah_2009.jpg){loading="eager"}
+![Oprah Winfrey on Twitter, 2009](/assets/images/twitter_oprah_2009-optimized.jpg){loading="eager"}
 *Oprah's first tweet, April 2009.*
 
 The internet in 2009 was all about the [real-time web](/p/042-readwrite-realtime-web-summit-2009/) and the mainstreaming of social media, mostly on Facebook and Twitter. In addition, smartphone apps became prolific—especially with the release of the [iPhone 3GS](https://web.archive.org/web/20090611050937/http://www.readwriteweb.com/archives/live_from_apples_wwdc_2009.php) (the “S” stood for Speed) and an [avalanche](https://techcrunch.com/2009/10/19/android-galore-a-complete-list-of-the-android-phones-and-their-specs-droid-best/) of new Android models, such as HTC Magic, Samsung Galaxy, and Motorola Droid.

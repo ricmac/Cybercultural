@@ -5,7 +5,7 @@ description: About Cybercultural — Internet History and Its Impact on Our Cult
 layout: page
 ---
 
-I’m [Richard MacManus](https://ricmac.org/) (@ricmac), a pioneering tech blogger and author. [Cybercultural](https://cybercultural.com/) is my indie website about **internet history and its impact on our culture**.
+I’m [Richard MacManus](https://ricmac.org/) (@ricmac), founder of the pioneering tech blog ReadWriteWeb. [Cybercultural](https://cybercultural.com/) is my website and newsletter about **internet history and its impact on our culture**.
 
 <script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support me on Ko-fi', '#b80103', 'F1F61AI58P');kofiwidget2.draw();</script> 
 

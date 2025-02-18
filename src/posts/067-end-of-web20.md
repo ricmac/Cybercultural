@@ -4,10 +4,10 @@ description: "After leaving ReadWriteWeb in October 2012, it becomes apparent th
 date: 2024-12-24
 permalink: "p/067-end-of-web20/"
 tags: ['web20', 'memoir', '2012']
-featureImage: "/assets/images/web20-earlydays.jpg"
+featureImage: "/assets/images/web20-earlydays-1280.jpg"
 ---
 
-![Web 2.0 images](/assets/images/web20-earlydays.jpg){loading="eager"}
+![Web 2.0 images](/assets/images/web20-earlydays-1280.jpg){loading="eager"}
 *The first Web 2.0 Conference program and the author in early Web 2.0.*
 
 Web 2.0 was well and truly over by the time [I left ReadWriteWeb](/p/066-readwriteweb-2012/). There had been no Web 2.0 conferences in 2012, and by the end of the year, even O’Reilly Media—the company that had [coined the term *Web 2.0*](/p/003-the-first-web-20-conference-2004)—had stopped using it. It’s no coincidence that during this time, there was an expectation in the public markets that the tech bubble was about to burst.

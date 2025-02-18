@@ -4,10 +4,10 @@ description: "The internet in 2011 saw power plays in social networking, mobile 
 date: 2025-01-10
 permalink: "p/internet-2011/"
 tags: ['web20', 'year', '2011']
-featureImage: "/assets/images/6471821657_80ed8b8b84_ob.jpg"
+featureImage: "/assets/images/6471821657_80ed8b8b84_ob-1280.jpg"
 ---
 
-![Google+ logo](/assets/images/6471821657_80ed8b8b84_ob.jpg){loading="eager"}
+![Google+ logo](/assets/images/6471821657_80ed8b8b84_ob-1280.jpg){loading="eager"}
 
 2011 was the year Facebook, the world’s leading social network, launched Timeline and introduced its algorithmic feed. These changes were partly influenced by a formidable new competitor: Google+.
 

@@ -4,10 +4,10 @@ description: "With YouTube growing fast in 2011, struggling musician Lizzy Grant
 date: 2025-01-30
 permalink: "p/lana-del-rey-youtube-2011/"
 tags: ['enshittocene', '2011']
-featureImage: "/assets/images/lanadelrey-videogames-2011.jpg"
+featureImage: "/assets/images/lanadelrey-videogames-2011-1280.jpg"
 ---
 
-![Lana Del Rey in Video Games, uploaded to YouTube in May 2011](/assets/images/lanadelrey-videogames-2011.jpg){loading="eager"}
+![Lana Del Rey in Video Games, uploaded to YouTube in May 2011](/assets/images/lanadelrey-videogames-2011-1280.jpg){loading="eager"}
 *Lana Del Rey in Video Games, uploaded to YouTube in May 2011.*
 
 On May 5, 2011, a little known musician named Lana Del Rey [posted a video](https://web.archive.org/web/20110515012736/https://youtube.com/watch?v=-uKl3xeBVY4#expand) for her song *Video Games* to YouTube, describing it as "Hollywood Sad Core" and "Gangster Nancy Sinatra." It featured Del Rey lipsyncing into a webcam, interspersed with cultural footage presumably found on the internet. Within ten days, the video had gotten a respectable — but not in any way viral — 7,433 views and 96 likes, and 2 dislikes. There were 21 comments, including a few questioning the authenticity of her lips. Another asked: “Anybody know where i can get this for my Ipod? Can't find it anywhere.”

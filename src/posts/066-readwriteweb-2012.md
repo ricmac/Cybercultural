@@ -4,10 +4,10 @@ description: "After its acquisition of ReadWriteWeb, SAY Media widens our covera
 date: 2024-12-23
 permalink: "p/066-readwriteweb-2012/"
 tags: ['web20', 'memoir', '2012']
-featureImage: "/assets/images/rww_july12.jpg"
+featureImage: "/assets/images/rww_july12-1280.jpg"
 ---
 
-![ReadWriteWeb, July 2012](/assets/images/rww_july12.jpg){loading="eager"}
+![ReadWriteWeb, July 2012](/assets/images/rww_july12-1280.jpg){loading="eager"}
 *Interim redesign for ReadWriteWeb in July 2012, before the domain name change.*
 
 The pressure certainly came off me in 2012, after [I'd sold the business](/p/065-selling-readwriteweb/), but I still had a job to do as ReadWriteWeb’s editor in chief. I traveled back to San Francisco for a week in February, during which I went to SAY Media’s office every day like a normal employee, with Kourosh as my guide. I would also be relying on Abraham as my on-the-ground lieutenant—SAY had convinced him to move from Portland to San Francisco, and he began working at their office on the Monday after I’d gone home.

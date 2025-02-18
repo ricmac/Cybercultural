@@ -4,11 +4,11 @@ description: "Multimedia Gulch was a trendy neighbourhood in San Francisco in th
 date: 2025-01-16
 permalink: "p/multimedia-gulch-1994/"
 tags: ['dotcom', '1994']
-featureImage: "/assets/images/total-distortion-4screenshots.jpg"
+featureImage: "/assets/images/multimedia-gulch-feature-1280.jpg"
 ---
 
-![Total Distortion CD-ROM Music Video Adventure Game](/assets/images/total-distortion-4screenshots.jpg){loading="eager"}
-*Total Distortion CD-ROM, a "music video adventure game"; screenshots [via Internet Archive](https://archive.org/details/TOTALD11).*
+![Total Distortion CD-ROM Music Video Adventure Game](/assets/images/multimedia-gulch-feature-1280.jpg){loading="eager"}
+*Total Distortion CD-ROM, a "music video adventure game"; screenshot [via Internet Archive](https://archive.org/details/TOTALD11).*
 
 In April 1994,⁠ the PBS tv series Computer Chronicles devoted an [entire show](https://www.youtube.com/watch?v=lCodEnJAQmk) to multimedia.
 

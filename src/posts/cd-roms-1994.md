@@ -4,10 +4,10 @@ description: "David Bowie, Prince and Peter Gabriel all had interactive CD-ROMs 
 date: 2025-01-22
 permalink: "p/cd-roms-1994/"
 tags: ['dotcom', '1994']
-featureImage: "/assets/images/bowie-computer-94.jpg"
+featureImage: "/assets/images/bowie-computer-94-1280.jpg"
 ---
 
-![David Bowie on a computer in 1994](/assets/images/bowie-computer-94.jpg){loading="eager"}
+![David Bowie on a computer in 1994](/assets/images/bowie-computer-94-1280.jpg){loading="eager"}
 *David Bowie on a computer in 1994; photo [by Dave Allocca](https://images.google.com/hosted/life/2957a38be912a5d7.html).*
 
 In March 1994, Brian Eno traveled to David Bowie’s studio in Montreux, Switzerland, to work with him for the first time since the “Berlin Trilogy” of albums in the late-70s. It was just like old times, with Eno setting rules for improvisations — guided by his “oblique strategy” cards — and pushing Bowie to think outside the box. 

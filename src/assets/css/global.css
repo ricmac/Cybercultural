@@ -15,9 +15,10 @@
 @import 'tailwindcss/utilities';
 
 .post-feature-image {
-    height: 400px; /* Set the desired fixed height */
-    width: 100%; /* Use 100% width to make it responsive */
-    object-fit: cover; /* Maintain the aspect ratio */
-    object-position: center; /* Center the image within the element */
-  }
+  height: auto; /* Allow height to adjust based on the aspect ratio */
+  width: 100%; /* Use 100% width to make it responsive */
+  max-height: 400px; /* Set the max height to 400px */
+  object-fit: cover; /* Maintain the aspect ratio */
+  object-position: center; /* Center the image within the element */
+}
   
