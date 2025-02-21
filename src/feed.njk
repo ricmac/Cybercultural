@@ -20,9 +20,18 @@ excludeFromSitemap: true
     <entry>
       <title>{{ post.data.title }}</title>
       <link href="{{ absolutePostUrl }}" />
-      <updated>{{ post.date | dateToRfc3339 }}</updated>
+      <updated>{{ post.date | date('yyyy-MM-ddTHH:mm:ssZ') }}</updated>
       <id>{{ absolutePostUrl }}</id>
-      <content xml:lang="{{ locale }}" type="html">{{ post.templateContent | htmlToAbsoluteUrls(absolutePostUrl) }}</content>
+      <content xml:lang="en-US" type="html">
+  <![CDATA[
+    {{ post.templateContent 
+      | htmlToAbsoluteUrls(absolutePostUrl) 
+      | replace(' loading="lazy"', '') 
+      | replace('<lite-youtube ', '<iframe ') 
+      | replace('</lite-youtube>', '</iframe>') 
+    }}
+  ]]>
+</content>
     </entry>
   {%- endfor %}
 </feed>
