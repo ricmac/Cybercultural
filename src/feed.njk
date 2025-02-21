@@ -8,7 +8,7 @@ excludeFromSitemap: true
   <title>{{ meta.blog.name }}</title>
   <subtitle>{{ meta.blog.description }}</subtitle>
   <link href="{{ meta.url }}/feed.xml" rel="self" type="application/atom+xml" />
-  <link href="{{ meta.url }}/" rel="alternate" type="text/html" />
+  <link href="{{ meta.url }}/subscribe/" rel="alternate" type="text/html" />
   {% set postslist = collections.posts | reverse %}
   <updated>{{ postslist | getNewestCollectionItemDate | dateToRfc3339 }}</updated>
   <id>{{ meta.url }}/</id>
@@ -22,11 +22,7 @@ excludeFromSitemap: true
       <link href="{{ absolutePostUrl }}" />
       <updated>{{ post.date | dateToRfc3339 }}</updated>
       <id>{{ absolutePostUrl }}</id>
-      <content
-        xml:lang="{{ locale }}"
-        type="html"
-        >{{ post.templateContent | htmlToAbsoluteUrls(absolutePostUrl) }}</content
-      >
+      <content xml:lang="{{ locale }}" type="html">{{ post.templateContent | htmlToAbsoluteUrls(absolutePostUrl) }}</content>
     </entry>
   {%- endfor %}
 </feed>
