@@ -20,7 +20,7 @@ excludeFromSitemap: true
     <entry>
       <title>{{ post.data.title }}</title>
       <link href="{{ absolutePostUrl }}" />
-      <updated>{{ post.date | date('yyyy-MM-ddTHH:mm:ssZ') }}</updated>
+      <updated>{{ post.date | dateToRfc3339 }}</updated>
       <id>{{ absolutePostUrl }}</id>
       <content xml:lang="en-US" type="html">
   <![CDATA[
