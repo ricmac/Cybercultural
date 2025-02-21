@@ -1,7 +1,7 @@
 ---
 title: 'My Web 2.0 Memoir: Table of Contents'
 description: "A chronological table of contents for my book, Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution."
-date: 2023-11-02
+date: 2023-11-01
 permalink: "p/roadmap-bubbleblog/"
 tags: ['web20', 'memoir']
 featureImage: "/assets/images/73ba0b8a-0364-47f9-9b0d-a7a3cca2a00c_3400x2134.jpg"
