@@ -23,15 +23,16 @@ excludeFromSitemap: true
       <updated>{{ post.date | dateToRfc3339 }}</updated>
       <id>{{ absolutePostUrl }}</id>
       <content xml:lang="en-US" type="html">
-        <![CDATA[
-          {{ post.templateContent 
-            | htmlToAbsoluteUrls(absolutePostUrl) 
-            | replace(' loading="lazy"', '') 
-            | replace(' loading="eager"', '') 
-            | replace('<lite-youtube ', '<iframe ') 
-            | replace('</lite-youtube>', '</iframe>') 
-          }}
-        ]]>
+      <![CDATA[
+        {{ post.templateContent 
+          | htmlToAbsoluteUrls(absolutePostUrl) 
+          | replace(' loading="lazy"', '') 
+          | replace(' loading="eager"', '') 
+          | replace('<lite-youtube ', '<iframe ') 
+          | replace('</lite-youtube>', '</iframe>') 
+          | safe
+        }}
+      ]]>
       </content>
     </entry>
   {%- endfor %}
