@@ -23,16 +23,18 @@ excludeFromSitemap: true
       <updated>{{ post.date | dateToRfc3339 }}</updated>
       <id>{{ absolutePostUrl }}</id>
       <content xml:lang="en-US" type="html">
-      <![CDATA[
-        {{ post.templateContent 
-          | htmlToAbsoluteUrls(absolutePostUrl) 
-          | replace(' loading="lazy"', '') 
-          | replace(' loading="eager"', '') 
-          | replace('<lite-youtube ', '<iframe ') 
-          | replace('</lite-youtube>', '</iframe>') 
-          | safe
-        }}
-      ]]>
+        <![CDATA[
+          {{ post.templateContent 
+            | htmlToAbsoluteUrls(absolutePostUrl)
+            | replace(' loading="lazy"', '') 
+            | replace(' loading="eager"', '') 
+            | regexReplace(
+                '<div class="youtube-embed">\\s*<lite-youtube[^>]*videoid="([^"]+)"[^>]*>.*?</lite-youtube>\\s*</div>',
+                '<p><a href="https://www.youtube.com/watch?v=$1"><img src="https://i.ytimg.com/vi/$1/hqdefault.jpg" alt="Watch on YouTube"></a></p><p><a href="https://www.youtube.com/watch?v=$1">Watch Video on YouTube</a></p>'
+              )
+            | safe
+          }}
+        ]]>
       </content>
     </entry>
   {%- endfor %}

@@ -73,7 +73,11 @@ export default function(eleventyConfig) {
   eleventyConfig.addFilter('keys', Object.keys);
   eleventyConfig.addFilter('values', Object.values);
   eleventyConfig.addFilter('entries', Object.entries);
-
+  eleventyConfig.addFilter("regexReplace", function(content, pattern, replacement) {
+    const regex = new RegExp(pattern, "gis"); // "g" = global, "i" = case-insensitive, "s" = dot matches newlines
+    return content.replace(regex, replacement);
+  });
+    
   // Register formatDate filter
   eleventyConfig.addFilter('formatDate', formatDate);
 
