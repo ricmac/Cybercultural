@@ -7,13 +7,15 @@ layout: page
 
 I’m [Richard MacManus](https://ricmac.org/) (@ricmac), founder of the pioneering tech blog ReadWriteWeb. [Cybercultural](https://cybercultural.com/) is my website and newsletter about **internet history and its impact on our culture**.
 
-<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support me on Ko-fi', '#b80103', 'F1F61AI58P');kofiwidget2.draw();</script> 
+[Click here](/subscribe/) for further subscription options and to find out how you can support Cybercultural.
 
 I recently finished serializing [my latest book](/p/roadmap-bubbleblog/), "Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution". It chronicles the rise of the modern internet during the first decade of this century.
 
 I was the founder and Editor-in-Chief of [ReadWriteWeb](https://ricmac.org/career-archive/readwriteweb/) (RWW) from 2003-2012. RWW was ranked among the top 10 blogs in the world, according to Technorati. It was syndicated by The New York Times and eventually acquired by SAY Media.
 
 I also authored **Web Development History** (2020-21), a blog that chronicled the early years of the web from a developer perspective. That site's content has since been [migrated to Cybercultural](/dotcom/).
+
+<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support me on Ko-fi', '#b80103', 'F1F61AI58P');kofiwidget2.draw();</script> 
 
 ## Testimonials
 
