@@ -6,13 +6,12 @@ permalink: "p/005-arriving-at-the-techcrunch-ranch/"
 tags: ['web20', 'memoir', '2005']
 featureImage: "/assets/images/17177e5f-92c2-4622-a0c3-e20be441a46f_1637x1228.jpg"
 ---
-![](/assets/images/17177e5f-92c2-4622-a0c3-e20be441a46f_1637x1228.jpg){loading="eager"}
+
+![At the TechCrunch ranch](/assets/images/17177e5f-92c2-4622-a0c3-e20be441a46f_1637x1228.jpg){loading="eager"}
 
 On a Friday afternoon at the end of September 2005, I stepped foot on American soil for the first time. I was greeted at San Francisco Airport by a big guy with tousled light brown hair, wearing a short-sleeved blue button up shirt hanging loose over a pair of cargo shorts. He was tall — about 6 foot 3, I guessed — so he towered over my 5 foot 8 frame. I remembered that Marc Andreessen was 6’3’ too, with the same large frame as this man, so I briefly wondered whether all Americans were this massive.
 
 “Richard? Hi, I’m Mike,” he said, and shook my hand. It had been a twelve-hour overnight flight and I hadn’t slept, so my brain felt foggy. Plus, I was overwhelmed by finally being in the land of opportunity. I smiled and mumbled something like ‘great to meet you’ and he led the way to his car.
-
-
 
 Soon we were heading south down the famous 101 highway, in Mike Arrington’s open-top sports car. It was so bright and hot that I was worried I’d get sunburned, so I took sun cream out of the laptop bag I was clutching and began applying it. Mike, who was tanned and relaxed in the driver’s seat, looked over at me, bemused and perhaps wondering what kind of weirdo he’d taken in. “I have fair skin,” I said, embarrassed and already feeling out of place in sunny California. We talked a bit about blogging and the startups we were both covering on our respective blogs, although I found it hard to hear amidst the whirl of the motorway and the thwak-thwak-thwak sound of the tires as we drove at speed down the 101. My ears were also still partially blocked after the flight.
 

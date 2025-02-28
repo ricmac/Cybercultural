@@ -7,7 +7,7 @@ tags: ['misc']
 featureImage: "/assets/images/6e2a5035-07c2-4b31-a74d-cfe0f50f5530_1024x742.jpg"
 ---
 
-![](/assets/images/6e2a5035-07c2-4b31-a74d-cfe0f50f5530_1024x742.jpg){loading="eager"}
+![Wayback Machine screenshot](/assets/images/6e2a5035-07c2-4b31-a74d-cfe0f50f5530_1024x742.jpg){loading="eager"}
 
 While preparing for the publication of my “Web 2.0 memoir” here on Cybercultural, I was fortunate to discover a screenshot of ReadWriteWeb from 24 September 2005 (US). I was thrilled to come across this, for several reasons:
 

@@ -6,7 +6,9 @@ permalink: "p/1995-php-quietly-launches-as-a-cgi-scripts-toolset/"
 tags: ['dotcom', '1995']
 featureImage: "/assets/images/wdh/php_elephant_wdh.jpg"
 ---
+
 ![PHP elephant logo](/assets/images/wdh/php_elephant_wdh.jpg){loading="eager"}
+
 If CGI scripts were [the start of interactive programming on the web](/p/1993-cgi-scripts-and-early-server-side-web-programming/), then PHP was the natural next step — at least on the server-side. Just a month after Brendan Eich [created the JavaScript scripting language](/p/1995-the-birth-of-javascript/) at Netscape, an independent developer from Canada named Rasmus Lerdorf released the first version of a toolset he called Personal Home Page Tools (PHP Tools). At this point, it wasn’t a scripting language (although it would eventually become one). As of June 1995, when Lerdorf [announced the project](https://groups.google.com/g/comp.infosystems.www.authoring.cgi/c/PyJ25gZ6z7A/m/M9FkTUVDfcwJ) to the _comp.infosystems.www.authoring.cgi_ mailing list, it was a utility library and templating engine for the Common Gateway Interface (CGI). In modern terms, we can think of it as similar to a JavaScript library like React — although obviously much less complicated, since this was 1995.
 
 Lerdorf described PHP Tools as “a set of small tight cgi binaries written in C” that would perform common CGI scripting functionality — such as creating a form, using form data elsewhere on the website, password-protecting pages, logging page view statistics, tracking referrers, displaying last access information on a web page, and “performing server-side includes without needing server support for it.”

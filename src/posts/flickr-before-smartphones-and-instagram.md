@@ -6,7 +6,8 @@ permalink: "p/flickr-before-smartphones-and-instagram/"
 tags: ['web20']
 featureImage: "/assets/images/afa564c2-3abd-4863-b538-f061085548e4_1200x800.jpg"
 ---
-![](/assets/images/afa564c2-3abd-4863-b538-f061085548e4_1200x800.jpg){loading="eager"}
+
+![Flickr image from 2008](/assets/images/afa564c2-3abd-4863-b538-f061085548e4_1200x800.jpg){loading="eager"}
 
 As I’ve been writing my “Web 2.0 memoir” this year, I’ve been using Flickr a lot to look at old photos from that era — mainly conferences I went to, people I met and places I visited, but also occasionally I will get lost down a rabbit hole of someone’s Flickr photos from the 2004-07 range (which are the years I’ve written about so far). Flickr has been like a visual version of the Internet Archive’s Wayback Machine for me; a way to remember what it was like living through a now bygone web era.
 

@@ -6,6 +6,7 @@ permalink: "p/the-first-web-developer/"
 tags: ['preweb']
 featureImage: "/assets/images/wdh/SRI_Bill_English_1968_1280.jpg"
 ---
+
 ![Bill English](/assets/images/wdh/SRI_Bill_English_1968_1280.jpg){loading="eager"}
 
 _This post is to honour the one-year anniversary of the passing of [Bill English](https://en.wikipedia.org/wiki/Bill_English_(computer_engineer)), at [age 91](https://www.nytimes.com/2020/07/31/technology/william-english-who-helped-build-the-computer-mouse-dies-at-91.html), on 26 July, 2020. English was Doug Engelbart’s right-hand man in the [Mother of All Demos](/p/1968-the-mother-of-all-demos/) in 1968 and a key developer of the [oN-Line System](/p/1969-building-the-on-line-system/) (NLS). The post below was initially part of a book I was writing about Engelbart. The book was eventually abandoned, but the memory of meeting English in 2014 remains. As does, I hope, the achievements of those SRI pioneers. RIP, Bill._

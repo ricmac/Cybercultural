@@ -6,7 +6,9 @@ permalink: "p/1996-microsoft-activates-the-internet-with-activex-jscript/"
 tags: ['dotcom', '1996']
 featureImage: "/assets/images/wdh/MS_PDC96_feature.jpg"
 ---
+
 ![Bill Gates PDC 1996](/assets/images/wdh/MS_PDC96_feature.jpg){loading="eager"}
+
 In [March 1996](https://channel9.msdn.com/Events/PDC/PDC-1996/PDC-1996-Keynote-with-Bill-Gates), at Microsoft’s annual Professional Developers Conference (PDC), Bill Gates announced a set of internet technologies called ActiveX. “Part of the unique thing that Microsoft is doing,” he said regarding Microsoft’s approach to the Internet, “\[…\] is a strong level of integration into Windows.” This was the [purpose](https://news.microsoft.com/1996/03/12/microsoft-announces-activex-technologies/) of ActiveX, to “form a robust framework for creating interactive content using software components, scripts and existing applications.”
 
 It was the moment Netscape, Sun Microsystems, and other web-focused companies had feared — Microsoft was embedding the Internet into its powerful Windows ecosystem.

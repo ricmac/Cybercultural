@@ -6,7 +6,9 @@ permalink: "p/1996-flash-css-web-design/"
 tags: ['dotcom', '1996']
 featureImage: "/assets/images/wdh/flash_css_1996.jpg"
 ---
+
 ![Flash and CSS](/assets/images/wdh/flash_css_1996.jpg){loading="eager"}
+
 After the birth of web apps in 1993 with [CGI scripts](/p/1993-cgi-scripts-and-early-server-side-web-programming/), followed by startups like Yahoo [using Perl code](/p/1994-perl-yahoo/) to create dynamic websites in 1994, and then client-side interactivity arriving in 1995 with [Netscape’s JavaScript](/p/1995-the-birth-of-javascript/), the web was evolving fast into a full-stack programming platform. During the same time period, there were experiments happening on the presentation side of the web; what eventually became known as web design.
 
 Even though web programmers had their differences ([JavaBeans or ActiveX?](/p/1997-netscape-crossware-vs-the-windows-web/)), web design in the 1990s became a much more deeply divided occupation. There were two stylistically opposed approaches to web design, epitomized by two distinct — and utterly different — technologies, both of which debuted in 1996.

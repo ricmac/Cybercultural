@@ -6,7 +6,9 @@ permalink: "p/1996-javascript-annoyances-and-meeting-the-dom/"
 tags: ['dotcom', '1996']
 featureImage: "/assets/images/wdh/brendans_world_header2.png"
 ---
+
 ![Brendans Web World](/assets/images/wdh/brendans_world_header2.png){loading="eager"}
+
 The Netscape Navigator 2.0 browser was finally released in March 1996, almost a year after Brendan Eich joined Netscape with the express purpose of creating a scripting language for the web. He’d [developed the prototype of JavaScript](/p/1995-the-birth-of-javascript/) over a ten day period in May 1995 and spent the rest of the year embedding it into the browser. JavaScript was publicly announced at the end of 1995, as part of Netscape’s beta launch of Navigator 2.0.
 
 As well as JavaScript, Navigator 2.0 [added support for](https://web.archive.org/web/19970614000538/http://home.netscape.com/eng/mozilla/2.0/relnotes/windows-2.0.html) Java applets, plug-ins, frames (“multiple documents on one page”) and more. It was a significant leap forward in functionality from the last major Navigator release, 1.22 in August 1995.

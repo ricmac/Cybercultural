@@ -6,6 +6,7 @@ permalink: "p/1992-web-vs-gopher/"
 tags: ['dotcom', '1992']
 featureImage: "/assets/images/wdh/viola_erwise_880.jpg"
 ---
+
 ![1992 web browsers](/assets/images/wdh/viola_erwise_880.jpg){loading="eager"}
 
 Throughout 1992, there were just a scattering of websites on the World Wide Web — somewhere between [ten and twenty](https://en.wikipedia.org/wiki/List_of_websites_founded_before_1995). A W3C page from late 1992 lists [less than 30](https://www.w3.org/History/19921103-hypertext/hypertext/DataSources/WWW/Servers.html) web servers online at the time (not all of them had web sites attached to them). So the Web in 1992 was still a niche system, used almost entirely by academics. However, there were signs that the Web was starting to get noticed by people who used other internet protocols, like Gopher.

@@ -13,37 +13,35 @@ preloads:
     <h1>{{ title }}</h1>    
     <p>{{ description | safe }}</p>
     <span class="author">By <a href="/about/">Richard MacManus</a> | 
-    {% set definedDate = date %} {% include "partials/date.njk" %}{% if tags %} | Tags: 
-{% for tag in tags %}
-  {% if tag != 'posts' %}
-    {# Define tag titles directly inside this block #}
-    {% set tagTitle = "" %}
-    {% if tag == 'web20' %}
-      {% set tagTitle = "Web 2.0" %}
-    {% elif tag == 'preweb' %}
-      {% set tagTitle = "Pre-web" %}
-    {% elif tag == 'dotcom' %}
-      {% set tagTitle = "Dot-com" %}
-    {% elif tag == 'misc' %}
-      {% set tagTitle = "Misc" %}
-    {% elif tag == 'enshittocene' %}
-      {% set tagTitle = "2010s" %}
-    {% elif tag == 'memoir' %}
-      {% set tagTitle = "Memoir" %}
-    {% elif tag == 'year' %}
-      {% set tagTitle = "Yearly Reviews" %}
+    {% set definedDate = date %} {% include "partials/date.njk" %}{% if tags %} | Tags:&nbsp;
+    {%- set nonPostsTags = [] -%}
+    {%- for tag in tags -%}
+      {%- if tag != "posts" -%}
+        {%- set nonPostsTags = nonPostsTags.concat([tag]) -%}
+      {%- endif -%}
+    {%- endfor -%}
+
+    {%- for tag in nonPostsTags -%}
+      {%- set tagTitle = "" -%}
+      {%- if tag == 'web20' -%}{% set tagTitle = "Web 2.0" %}
+      {%- elif tag == 'preweb' -%}{% set tagTitle = "Pre-web" %}
+      {%- elif tag == 'dotcom' -%}{% set tagTitle = "Dot-com" %}
+      {%- elif tag == 'misc' -%}{% set tagTitle = "Misc" %}
+      {%- elif tag == 'enshittocene' -%}{% set tagTitle = "2010s" %}
+      {%- elif tag == 'memoir' -%}{% set tagTitle = "Memoir" %}
+      {%- elif tag == 'year' -%}{% set tagTitle = "Yearly Reviews" %}
+      {%- endif -%}
+
+      {%- if tagTitle -%}
+        <a href="/{{ tag | slug }}">{{ tagTitle }}</a>
+      {%- else -%}
+        <a href="/tags/{{ tag | slug }}">{{ tag }}</a>
+      {%- endif -%}
+
+      {%- if not loop.last %}, {% endif -%}
+    {%- endfor -%}
+    </span>
     {% endif %}
-    
-    {# Check if tagTitle is defined; if so, link to /{tag}; otherwise, link to /tags/{tag} #}
-    {% if tagTitle %}
-      <a href="/{{ tag | slug }}">{{ tagTitle }}</a>{% if not loop.last %}, {% endif %}
-    {% else %}
-      <a href="/tags/{{ tag | slug }}">{{ tag }}</a>{% if not loop.last %}, {% endif %}
-    {% endif %}
-  {% endif %}
-{% endfor %}
-</span>
-{% endif %}
 
     {{ content | safe }}
 

@@ -7,7 +7,7 @@ tags: ['dotcom', '1998']
 featureImage: "/assets/images/4885bea4-9610-427e-a9d3-c16c984c48bd_1966x1415.jpg"
 ---
 
-![](/assets/images/4885bea4-9610-427e-a9d3-c16c984c48bd_1966x1415.jpg){loading="eager"}
+![BowieNet screenshot](/assets/images/4885bea4-9610-427e-a9d3-c16c984c48bd_1966x1415.jpg){loading="eager"}
 
 In late 1996, just before his 50th birthday concert at Madison Square Garden and before his latest album ‘Earthling’ was released, David Bowie had quietly approved the development of what was to become his biggest internet legacy: BowieNet. It was to be more than Bowie’s official website; it would also do business as an Internet Service Provider (ISP), meaning it would provide internet access and an email address to users. Most importantly, it would be an officially endorsed online community for his fans.
 

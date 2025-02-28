@@ -6,7 +6,8 @@ permalink: "p/2005-growth-of-web-20-and-rww/"
 tags: ['web20', '2005']
 featureImage: "/assets/images/b811ca8a-7408-4f06-81a8-53f101bf82a0_829x622.png"
 ---
-![](/assets/images/b811ca8a-7408-4f06-81a8-53f101bf82a0_829x622.png){loading="eager"}
+
+![screenshot of RWW in March 2005](/assets/images/b811ca8a-7408-4f06-81a8-53f101bf82a0_829x622.png){loading="eager"}
 *A reader emailed me this screenshot of RWW in March 2005, in order to point out the MyYahoo Ticker at the bottom of the screen. “My RSS headlines stream on the bottom of my screen all day and I click things that catch my eye,” he told me.*
 
 Part 5 of my serialized book, _Bubble Blog_, describes [my first trip to Silicon Valley](/p/005-arriving-at-the-techcrunch-ranch) at the end of September and for a couple of weeks in October of 2005. Some of you may’ve noticed that I skipped the previous 9 months, since part 4 was about [the second half of 2004](/p/004-call-with-tim-oreilly-2004). I did that mostly because I wanted to get to my Silicon Valley experiences, which is when the action truly begins in my story. The [next three sections](/p/roadmap-bubbleblog) will further describe this trip, focusing in particular on my attendance at the 2005 Web 2.0 Conference — arguably the first major tipping point for the Web 2.0 era.

@@ -6,6 +6,7 @@ permalink: "p/book-release-bubbleblog/"
 tags: ['memoir']
 featureImage: "/assets/images/33d48ded-f999-4173-8440-9d752446428b_3400x2134.jpg"
 ---
+
 ![Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution](/assets/images/33d48ded-f999-4173-8440-9d752446428b_3400x2134.jpg){loading="eager"}
 
 I’m thrilled to announce that my book, *Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution*, is now available to purchase as a paperback or eBook. Click on any of these links to order your copy:

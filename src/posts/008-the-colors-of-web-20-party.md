@@ -6,6 +6,7 @@ permalink: "p/008-the-colors-of-web-20-party/"
 tags: ['web20', 'memoir', '2005']
 featureImage: "/assets/images/70a2272f-baa4-4971-a3ed-6de5b29856f4_2048x1365.jpg"
 ---
+
 ![Web 2.0 cool kids](/assets/images/70a2272f-baa4-4971-a3ed-6de5b29856f4_2048x1365.jpg "Web 2.0 cool kids"){loading="eager"}
 
 The Colors of Web 2.0 Party was held on Thursday, October 6, 2005, at Swig — a modern bar spread over two floors in Geary St, a few blocks up from Union Square. The [event notice](https://web.archive.org/web/20060428031257/http://upcoming.org/event/33096/) on Upcoming.org read, “While the big guys are giving away stress balls and business card holders, Flock, del&#46;icio&#46;us, Flickr, Odeo, Technorati, wink, and WordPress will be tending bar all night (read: free drinks!), tossing out t-shirts that were not made in sweatshops (seriously).”

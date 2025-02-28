@@ -6,6 +6,7 @@ permalink: "p/marc-andreessen-2004/"
 tags: ['web20', '2004']
 featureImage: "/assets/images/marc-andreessen-time-cover-1996.jpg"
 ---
+
 ![Marc Andreessen on the cover of TIME magazine in Feb 1996](/assets/images/marc-andreessen-time-cover-1996.jpg){loading="eager"}
 *Marc Andreessen, bare feet and all, on the cover of TIME magazine in Feb 1996.*
 

@@ -7,7 +7,7 @@ tags: ['misc']
 featureImage: "/assets/images/faafce12-b7fb-4286-a0e8-a433eecd742e_2022x1384.png"
 ---
 
-![](/assets/images/faafce12-b7fb-4286-a0e8-a433eecd742e_2022x1384.png){loading="eager"}
+![RWW screenshot](/assets/images/faafce12-b7fb-4286-a0e8-a433eecd742e_2022x1384.png){loading="eager"}
 
 Twenty years ago, on 20 April 2003, I published the first post on a blog I had just started. Entitled _[The Read/Write Web](https://web.archive.org/web/20030809061335/http://www.readwriteweb.com/2003/04/20.html)_, it was a manifesto of sorts. The post was filled with optimism for the web and made the case that a new era was just beginning. A “Web 2.0,” if you will (although that term had yet to be invented). Reading the following introductory paragraph now, as a grizzled and grey-bearded web veteran, I rather like the passion and wide-eyed idealism of this young, nascent blogger:
 

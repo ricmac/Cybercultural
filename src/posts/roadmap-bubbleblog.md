@@ -6,6 +6,7 @@ permalink: "p/roadmap-bubbleblog/"
 tags: ['web20', 'memoir']
 featureImage: "/assets/images/73ba0b8a-0364-47f9-9b0d-a7a3cca2a00c_3400x2134.jpg"
 ---
+
 ![Bubble Blog book cover](/assets/images/73ba0b8a-0364-47f9-9b0d-a7a3cca2a00c_3400x2134.jpg "Bubble Blog book cover"){loading="eager"}
 
 My book, *Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution*, was serialized on Cybercultural over 2024 and is now available to purchase:

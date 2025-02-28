@@ -6,6 +6,7 @@ permalink: "p/002-the-early-years-of-readwriteweb/"
 tags: ['web20', 'memoir', '2003', '2004']
 featureImage: "/assets/images/5fa25a2e-ef88-4fd7-9866-bf939acc998b_640x480.jpg"
 ---
+
 ![My weblog avatar in January 2004](/assets/images/5fa25a2e-ef88-4fd7-9866-bf939acc998b_640x480.jpg "My weblog avatar in January 2004"){loading="eager"}
 
 I was a long way from Silicon Valley at the beginning of 2004, both geographically and in frame of mind. I’d recently turned 32, had fine strawberry blond hair that I obsessively brushed to keep neat, innocent-looking blue eyes covered by a pair of rectangular, semi-rimless glasses, and a ginger goatee with neatly trimmed sideburns. For my blogger profile photo, I chose to use a selfie taken slightly from the side and with the photo cropped at my eyebrows, so that the top of my head was cut off. It accentuated my goatee and sideburns, and gave me a kind of Max Headroom look. This was several years before selfies became a trend, so in this photo I was not looking directly into the camera. I was too awkwardly shy to do that anyway. Instead, I’m self-consciously staring into the distance, as if I’m dreaming about what life must be like in California.

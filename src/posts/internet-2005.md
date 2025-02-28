@@ -6,6 +6,7 @@ permalink: "p/internet-2005/"
 tags: ['web20', 'year', '2005']
 featureImage: "/assets/images/21367593_c03780d433_o-1280.jpg"
 ---
+
 ![Browse. Search. Subscribe.](/assets/images/21367593_c03780d433_o-1280.jpg){loading="eager"}
 
 By 2005, Web 2.0 — [the Web as platform](/p/003-the-first-web-20-conference-2004) — was the driving trend of Silicon Valley. It was [a new tech bubble](/p/006-revving-up-2005-web-20-conference), and that meant startup launches galore. YouTube and Reddit were just a couple of the future all-star web products launched in 2005. There were also plenty of acquisitions that year, including the leading social network of the day, MySpace, being purchased by NewsCorp.

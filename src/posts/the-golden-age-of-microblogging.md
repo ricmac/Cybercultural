@@ -6,7 +6,8 @@ permalink: "p/the-golden-age-of-microblogging/"
 tags: ['web20']
 featureImage: "/assets/images/d5131350-70d9-4804-a905-ab391eadb615_1430x888.jpg"
 ---
-![](/assets/images/d5131350-70d9-4804-a905-ab391eadb615_1430x888.jpg){loading="eager"}
+
+![Soup screenshot 2009](/assets/images/d5131350-70d9-4804-a905-ab391eadb615_1430x888.jpg){loading="eager"}
 
 Microblogging was a trend that emerged in the second half of the 2000s, after long-form weblogs had become established in the culture. Microblogging is basically just short-form blogging and, as I’ll lay out in this post, its heyday was in the 2007-11 period. But microblogging is now making a comeback, in the form of Mastodon and other “fediverse” apps. So I’ll touch on that later in this post, too.
 

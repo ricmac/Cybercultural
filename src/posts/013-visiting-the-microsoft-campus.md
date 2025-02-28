@@ -6,6 +6,7 @@ permalink: "p/013-visiting-the-microsoft-campus/"
 tags: ['web20', 'memoir', '2006']
 featureImage: "/assets/images/315d4eb2-a0cb-45d9-be9f-e8a5e55b2fb6_1637x1228.jpg"
 ---
+
 ![Welcome to Microsoft Search Champs](/assets/images/315d4eb2-a0cb-45d9-be9f-e8a5e55b2fb6_1637x1228.jpg "Welcome to Microsoft Search Champs"){loading="eager"}
 
 It was a cold but sunny Wednesday morning and a Microsoft charter bus pulled into a complex of red brick office buildings, all no more than three stories high. This was Microsoft’s headquarters in Redmond, located about twenty minutes’ drive from downtown Seattle.

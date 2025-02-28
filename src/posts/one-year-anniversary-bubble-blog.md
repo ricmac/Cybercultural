@@ -6,6 +6,7 @@ permalink: "p/online-serialization-thoughts/"
 tags: ['misc']
 featureImage: "/assets/images/33d48ded-f999-4173-8440-9d752446428b_3400x2134.jpg"
 ---
+
 ![Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution](/assets/images/33d48ded-f999-4173-8440-9d752446428b_3400x2134.jpg "Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution"){loading="eager"}
 
 One year ago, I [launched the serialization](/p/bubble-blog-web20-memoir/) of my third book, a memoir entitled **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. The book covers the years 2003-2012, the time in which I created ReadWriteWeb and built it into one of the top 10 blogs in the world (also syndicated on The New York Times for a few years). It’s both a personal memoir and an internet history of the Web 2.0 period. Since the launch last October, I’ve published [54 instalments](/p/roadmap-bubbleblog/) — with the 55th due to be published tomorrow.

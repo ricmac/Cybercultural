@@ -6,7 +6,8 @@ permalink: "p/014-the-sponsor-ads-era-2006/"
 tags: ['web20', 'memoir', '2006']
 featureImage: "/assets/images/59d474d4-5497-4bb7-a6b1-6d95eac0233b_1001x572.jpg"
 ---
-![](/assets/images/59d474d4-5497-4bb7-a6b1-6d95eac0233b_1001x572.jpg){loading="eager"}
+
+![ReadWriteWeb screenshot August 2006](/assets/images/59d474d4-5497-4bb7-a6b1-6d95eac0233b_1001x572.jpg){loading="eager"}
 
 After Microsoft Search Champs in Redmond had finished, I began my journey back to New Zealand. My first layover was twelve hours at the San Francisco airport, so I’d arranged for Marc Canter to pick me up. I was helping him with a couple of reports as part of my ongoing work for his company, Broadband Mechanics, so he drove me to his house in Walnut Creek. There I met his wife, Lisa, and their two small daughters, and Marc and I discussed his latest project. It was for AOL, the dot-com company that was now trying to reinvent itself as a Web 2.0 company. Marc had been hired to spec out a new product, AIMSpace, which—like everything he did at that time—he envisioned as a “digital lifestyle aggregator,” his term for a multimedia-laden social network.
 
