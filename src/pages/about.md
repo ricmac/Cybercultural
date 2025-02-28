@@ -15,7 +15,7 @@ I was the founder and Editor-in-Chief of [ReadWriteWeb](https://ricmac.org/caree
 
 I also authored **Web Development History** (2020-21), a blog that chronicled the early years of the web from a developer perspective. That site's content has since been [migrated to Cybercultural](/dotcom/).
 
-<script type='text/javascript' src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script type='text/javascript'>kofiwidget2.init('Support me on Ko-fi', '#b80103', 'F1F61AI58P');kofiwidget2.draw();</script> 
+<script src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script>kofiwidget2.init('Support me on Ko-fi', '#b80103', 'F1F61AI58P');kofiwidget2.draw();</script> 
 
 ## Testimonials
 
