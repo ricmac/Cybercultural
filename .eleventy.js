@@ -99,6 +99,7 @@ export default function(eleventyConfig) {
     defaultAttributes: {
       loading: "lazy",
       decoding: "async",
+      sizes: "(max-width: 768px) 100vw, 1280px",
     },
   });
 
