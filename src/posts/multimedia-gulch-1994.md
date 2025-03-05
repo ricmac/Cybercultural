@@ -98,6 +98,6 @@ Of course, the Web eventually usurped CD-ROMs as the default way to consume mult
 
 As for Joe Sparks, one of the “gurus of Multimedia Gulch” profiled by the New York Times in 1994, his CD-ROM company folded in the mid-90s after the market failure of *Total Distortion*. Soon after, he joined Macromedia and pursued a career in online video.⁠
 
-*In the next dot-com era post on Cybercultural, we’ll review CD-ROM titles from actual rock stars in 1994. They were delightfully bad!*
+*In the next dot-com era post on Cybercultural, [we review CD-ROM titles from actual rock stars in 1994](/p/cd-roms-1994/). They were delightfully bad!*
 
 ***
