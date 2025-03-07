@@ -81,6 +81,6 @@ If you knew how to set up a web server and do HTML coding, you could of course c
 
 Lialina claims that GeoCities was not even a very good web hosting service. “It was free and not worse than others,” she wrote, and “that’s why webmasters endured the pain of clumsy page builders, interventions from commercial scripts being injected into their pages, accidental file deletions, etc.”
 
-Regardless, the emergence of GeoCities over 1995 did make it easier for non-technical people to create a presence on the World Wide Web. Its design elements were certainly clunky and were destined to become clichéd, but services like GeoCities were an important stepping stone for the rise of [creative expression on the web](/p/1996-flash-css-web-design/).
+Regardless, the emergence of GeoCities over 1995 did make it easier for non-technical people to create a presence on the World Wide Web. Its design elements were certainly clunky and destined to become clichéd, but services like GeoCities were an important stepping stone for the rise of [creative expression on the web](/p/1996-flash-css-web-design/).
 
 ***
