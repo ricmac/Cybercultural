@@ -65,7 +65,7 @@ Most BHI web pages from 1995 were relatively simple in construction and featured
 
 But it would take more time for scripting to infiltrate into GeoCities home pages. As [Lialina told me on Mastodon](https://olia.geocities.institute/@GIFmodel/114117144312113770), "stylewise, the most significant thing about "Geo1995" in contrast to widely celebrated "Geo1996" is that the pages were very close to the sample page David Bohnett put online some time in between May and July 1995."
 
-# A Walled Community?
+# Gated Communities?
 
 In [December 1995](https://web.archive.org/web/19961221012836/http://www.geocities.com/BHI/pr1215.html), BHI changed its name to GeoCities (although its web address was initially www.geopages.com). By this point, there were fourteen different geographic-themed communities and the service had attracted more than 20,000 users since its launch in June.
 
