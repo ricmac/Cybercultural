@@ -29,7 +29,7 @@ Four other location-themed communities were added soon after: SunsetStrip (music
 ![Rick and Margaret's little part of the Web](/assets/images/geocities-rick-margaret.jpg)
 *[Rick and Margaret's little part of the Web](https://web.archive.org/web/19961221111447/http://www.geocities.com/RodeoDrive/1201/), located on RodeoDrive; voted "Cool Homestead Page of the Day" [on 8 August 1995](https://web.archive.org/web/19961221024846/http://www.geocities.com/homestead/coolaug.html).*
 
-# A Home on the Internet
+## A Home on the Internet
 
 In July 1995, Beverly Hills Internet (BHI) [announced](https://web.archive.org/web/20140108022248/http://www.thefreelibrary.com/Beverly+Hills+Internet,+builder+of+interactive+cyber+cities,+launches...-a017190114) another four “virtual communities based on real-world locations” — SiliconValley (for technology), CapitolHill (for politics), Paris (for the arts) and Tokyo (for anime and “all things Asian,” according to [Blade’s Place](https://www.bladesplace.id.au/geocities-neighborhoods-suburbs.html)). By this time, the young company had begun to name these communities “GeoCities.” They’d also appropriated the term “Homesteader” to denote a person who published a web page on the service.
 
@@ -47,7 +47,7 @@ Bohnett was perhaps the first web entrepreneur with the gift of the gab for mark
 
 “This is the next wave of the net — not just information but habitation,” said Bohnett.
 
-# GeoCities Design
+## GeoCities Design
 
 When we look back on GeoCities today, we often think about all the quirky elements that made up a GeoCities web page in the 1990s: the animated GIFs, the garish colours, the cartoon fonts, the “Under Construction” icons. But in 1995, when the site was still known as Beverly Hills Internet, the web pages were relatively sparse. 
 
@@ -65,7 +65,7 @@ Most BHI web pages from 1995 were relatively simple in construction and featured
 
 But it would take more time for scripting to infiltrate into GeoCities home pages. As [Lialina told me on Mastodon](https://olia.geocities.institute/@GIFmodel/114117144312113770), "stylewise, the most significant thing about "Geo1995" in contrast to widely celebrated "Geo1996" is that the pages were very close to the sample page David Bohnett put online some time in between May and July 1995."
 
-# GeoCities Legacy
+## GeoCities Legacy
 
 In [December 1995](https://web.archive.org/web/19961221012836/http://www.geocities.com/BHI/pr1215.html), BHI changed its name to GeoCities (although its web address was initially www.geopages.com). By this point, there were fourteen different geographic-themed communities and the service had attracted more than 20,000 users since its launch in June.
 
