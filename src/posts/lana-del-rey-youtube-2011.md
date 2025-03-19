@@ -117,4 +117,3 @@ What is different, of course, is that Lana Del Rey’s rise came during the soci
 ![Lana's Tumblr, 2011/12](/assets/images/lana-tumblr-jan2012.jpg)
 *[Lana's Tumblr](https://web.archive.org/web/20120112023126/https://lanadelrey.tumblr.com/) as 2012 began. Ready to conquer the internet.*
 
-***

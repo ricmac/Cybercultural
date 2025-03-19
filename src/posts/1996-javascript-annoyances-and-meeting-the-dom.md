@@ -92,6 +92,6 @@ Java was “now the darling of the computer industry,” declared Charles Petzol
 
 In any case, Netscape’s strategic priorities now far exceeded animated GIFs, scrolling text and online form checking. The company’s multimedia ambitions for the web took on a grander tone in the second half of 1996, spurred on by increasing competition from Microsoft — whose Internet Explorer 3.0 browser was also released in August 1996. In the months following, Marc Andreessen began outlining a more expansive vision for Netscape. He talked up the addition of office, networking and video functionalities into a new suite of products to be released in 1997, called Netscape Communicator. I’ll look at the details of this in a follow-up post.
 
-***
+
 
 Read next: [1996: Netscape Lays the Groundwork For Web Applications](/p/1996-netscape-lays-the-groundwork-for-web-applications/)

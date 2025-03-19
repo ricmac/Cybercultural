@@ -108,5 +108,3 @@ Postscript: The Return of Velvets Fan
 I had let the velvetsfan \[dot\] com domain slide a bunch of years ago, after Soup’s demise, but I saw that it was available again when I was writing this post. So I bought it once more and I’m now using it for [my Tumblr](https://velvetsfan.com/). Maybe I’ll see you on the fediverse?
 
 ![](/assets/images/a7f44433-8312-4a1a-9fc6-0753a1d785e0_2300x1626.jpg)
-
-* * *

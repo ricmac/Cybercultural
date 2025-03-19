@@ -97,6 +97,6 @@ Perhaps the kernel of genius, that eventually inspired its future growth, was en
 
 Rasmus Lerdorf [said in 2002](https://web.archive.org/web/20100726224334/http://articles.sitepoint.com/print/phps-creator-rasmus-lerdorf), “I did not develop the PHP we know today. Dozens, if not hundreds of people, developed PHP. I was simply the first developer.” That may be so, but the fact that PHP kept evolving for the times — and indeed, outlasted similar frameworks from both Netscape and Microsoft — is testament to the experimentalism of Lerdorf in the early days, along with his willingness to let others build on the foundations he set.
 
-***
+
 
 Read next: [1995: Apache and Microsoft IIS Shake Up the Web Server Market](/p/1995-apache-microsoft-iis-web-server-market/)

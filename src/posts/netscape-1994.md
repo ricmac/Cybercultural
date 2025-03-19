@@ -85,4 +85,3 @@ Rickard also mentioned the [Internet Underground Music Archive website](/p/iuma-
 
 So there were still real technical bandwidth limitations to web browsing at this time, but — thanks largely to Netscape — the WWW was now a multimedia experience. With a new year about to dawn, one thing was for sure: it was time for the [ROMbloids](/p/cd-roms-1994/) to move aside, because 1995 would be the year of the Webuloids.
 
-***

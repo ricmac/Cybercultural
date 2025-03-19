@@ -87,6 +87,4 @@ However, two notable holdouts from OpenSocial were Facebook and Microsoft. Faceb
 
 Of course, eventually Facebook won out. But by the end of 2008, many web geeks held out hope for an open social media ecosystem (I know, naive wasn't it!).
 
-* * *
-
 Read next: [More year-by-year overviews of internet history](/year/)

@@ -155,6 +155,6 @@ Conclusion
 
 By the end of 1995, the leading web browser of the day — Netscape Navigator — had a method to add small, relatively simple, bits of interactivity onto a webpage. This would come to have great ramifications in the years to come, and eventually lead to great complexity! But for now, web designers, developers, and amateur web enthusiasts alike had a new interactive toy to play with. In the next post, we’ll explore how JavaScript was used throughout 1996.
 
-***
+
 
 Read next: [1995: PHP Quietly Launches as a CGI Scripts Toolset](/p/1995-php-quietly-launches-as-a-cgi-scripts-toolset/)

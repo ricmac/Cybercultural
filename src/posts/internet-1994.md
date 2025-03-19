@@ -14,7 +14,7 @@ The World Wide Web was in its infancy as 1994 dawned. There were just [623 websi
 
 Some key websites debuted in 1994 — such as Yahoo!, the Internet Underground Music Archive (IUMA), Cool Site of the Day, and [HotWired](https://www.wired.com/2014/10/wired-hotwired-anniversary/). But none of them would’ve existed without the Netscape Navigator web browser.
 
-# Netscape in 1994
+## Netscape in 1994
 
 Netscape Navigator was the world's first commercial web browser. Although when the company was formed in April 1994, by Jim Clark and Marc Andreessen, the business plan wasn't immediately clear. In a message sent to a newsgroup in May 1994, Andreessen talked about offering a “cyberspace mall” service, “to support hypermedia information distribution and interactive transactions.”
 
@@ -35,7 +35,7 @@ The “as well as higher bandwidth lines” bit was due to the appearance of the
 ![Fish Cam, December 1994](/assets/images/fishcam-1994-recreation.jpg)
 *The Fish Cam project, 1994 — an early showcase of Web multimedia. [Image via mcom&#46;com](http://home.mcom.com/fishcam/fishcam.html).*
 
-# Yahoo! and Perl
+## Yahoo! and Perl
 
 In January 1994, two Stanford University graduate students — Jerry Yang and David Filo — created a web directory named “Jerry and David’s Guide to the World Wide Web.” It went by various other names in early 1994 (such as “Hierarchical Hotlist” and “Jerry & Dave’s Guide to WWW”), before being christened "Yahoo!" in April of that year. 
 
@@ -56,7 +56,7 @@ Even though the Perl scripts helped automate part of the process of creating the
 ![Yahoo toolbar circa 1995](/assets/images/Yahoo-toolbar-95.gif)
 *A screenshot of the Yahoo! menu bar sometime in 1995. [Via Kottke](https://kottke.org/01/01/my-interest-piqued-by-toms).*
 
-# Multimedia Evolves
+## Multimedia Evolves
 
 It took all of 1994 for Yahoo! to become something more than a simple list of text links. So what was [multimedia](/p/multimedia-gulch-1994/) before the Web took off? 
 
@@ -76,7 +76,7 @@ Alas, Bowie and Eno never did release a multimedia product, but several years la
 
 So in 1994, nobody had yet figured out how people should consume multimedia. That said, there was no shortage of computer software for people to *create it*. With software like Apple QuickTime, Adobe Photoshop and Macromedia Director, it was possible for computer-savvy people to create multimedia content on their personal computers. These same companies would go on to provide some of the key web building tools of the mid-to-late 1990s.
 
-# Ready for Mainstream
+## Ready for Mainstream
 
 Although much of the interactive multimedia focus was on CD-ROMs during 1994, there were some multimedia experiments happening on the World Wide Web. Of particular note was a prototype online music service called the [Internet Underground Music Archive (IUMA)](/p/iuma-1994/), which had debuted on the Web around November 1993. 
 
@@ -94,7 +94,5 @@ With a new year around the corner, it was clear that millions more people would 
 
 ![IUMA circa 1994/95](/assets/images/iuma-aug94b.jpg)
 *IUMA website by the end of 1994; image via David Beach and Jeff Patterson.*
-
-***
 
 Read next: [More year-by-year overviews of internet history](/year/)

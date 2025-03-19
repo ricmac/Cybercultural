@@ -93,6 +93,6 @@ While Gay wasn’t wrong to say that Apple was steering iPhone developers toward
 
 Nevertheless, we can also look back fondly on the undoubted visual flair of websites in the 1990s, that was almost entirely due to Flash. Fans of the open web are all glad Flash is gone now, but it isn’t forgotten.
 
-***
+
 
 Read next: [1997: JavaScript Grows Up and Developers Push the Boundaries](/p/1997-javascript-apps-dynamic-web/)

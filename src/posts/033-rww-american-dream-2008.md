@@ -26,7 +26,7 @@ I didn’t see Steve (ZDE’s chairman and CEO) at all that day, but he sent me 
 ![John Ellis Band at Jazz Standard](/assets/images/jazzstandard_may2008.jpg)
 *On Tuesday evening, I was taken to the Jazz Standard club by a ZDE employee. It was nice to relax and not think about spreadsheets and EBITDA multiples for a couple of hours. Image [via YouTube](https://www.youtube.com/watch?v=QjVjNNwUSF4).*
 
-***
+
 
 Wednesday morning at ZDE was more relaxed, with no talk of RWW finances. In fact, it was more about getting my opinions on various ZDE initiatives—their multimedia efforts, what it meant to be a blogger in 2008 (the words *passion* and *authenticity* were listed on the agenda as a guidepost to that discussion), and how to grow ZDE’s developer community, DevShed. 
 
@@ -49,7 +49,7 @@ I skirted the real issue—that I had spent the last four months trying to sell 
 
 I was also feeling guilty about not bringing Marshall into the ZDE discussions. However, he claimed he made more money consulting than he did with RWW, so it was the right business decision not to involve him. He could easily find another blogging home, and I couldn’t risk that. As I’d implied in my email to him, his content was currently the best of the crop (I’d somehow squeezed out two posts while in New York, but they were both poor by my own high standards). I resolved to do my best to keep Marshall happy and involved on the editorial side, and then bring him up to speed as soon as the ZDE deal was finalized.
 
-*** 
+## Carnegie Deli
  
 Thursday was my last full day in New York City. Over email that morning, Kobi had asked if I had a preference for lunch. I’d replied, “anything ‘New York-ish’ is fine with me.” 
 

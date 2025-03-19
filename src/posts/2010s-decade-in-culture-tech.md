@@ -56,4 +56,4 @@ So I’ll look back on the 2010s as being a boon for cultural content, but a bus
 
 As for the content itself, I expect it to become much more interactive and immersive in the coming decade. The cultural content of the 2020s will be more often ‘experienced’ than ‘read’ (or watched, listened to, etc). Whether that’ll be a good thing or a bad thing…well, check back with me in December 2029!
 
-***
+

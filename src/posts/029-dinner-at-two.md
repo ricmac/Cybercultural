@@ -44,7 +44,7 @@ Part of my reticence with the ZDE offer was my impression that Mike planned to f
 
 It seemed likely that if the ZDE deal went through, RWW would be a secondary brand to *eWeek*. I was much more sure that CMP wanted RWW as a stand-alone brand, since the whole purpose of TechWeb was to be an [umbrella network](https://web.archive.org/web/20080302020446/http://www.techweb.com/aboutus/) for different media brands. So that was another thing in CMP’s favor as I weighed the two deals.
 
-***
+
 
 After dinner I had a conversation with my RWW colleague Sean Ammirati on the phone. He was surprised to hear that I saw Tony and Bob at the restaurant, but he said they probably already knew that ZDE was their competitor for RWW. Sean must’ve sensed how shaken I felt, and he suggested we meet up for a drink to clear my head. I happily agreed.
 

@@ -77,6 +77,4 @@ So 2011 was a pivotal year for *doing more things* over the internet — from st
 
 *Lead image: Photo [by Thomas Hawk](https://www.flickr.com/photos/thomashawk/6471821657/in/album-72157603974490100).*
 
-* * *
-
 Read next: [More year-by-year overviews of internet history](/year/)

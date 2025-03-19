@@ -11,7 +11,7 @@ featureImage: "/assets/images/5bb99c88-7e3e-4ea2-ad9f-3d32600357a5_3400x2134.jpg
 
 Welcome to the first post in the serialization of my Web 2.0 memoir. This is the introduction, which sets the scene for the 20 chapters to come. Each following chapter will have a number of sections, which you’ll receive as posts via email. There is also [a roadmap (table of contents)](/p/roadmap-bubbleblog), which lists all the sections in order — in case you need to catch-up at any point. Thank you for joining me on this journey to the heart of Web 2.0. Please leave comments and/or share on social media if you enjoy it — this is the read/write web after all!
 
-* * *
+***
 
 My Silicon Valley story began in September 2005, when I took my first trip to the valley — in fact it was my first trip to America. I’d just turned 34, was born and raised in New Zealand, and had barely set foot out of my home country prior to 2005. At the time, I was running a tech blog that was beginning to make some money, but only just.
 
@@ -50,7 +50,7 @@ A couple of years later, in April 2003, I started a blog and called it Read/Writ
 
 By 2004, winter was thawing and Silicon Valley was experimenting with the web again. Blogs were one of the emerging technologies, along with wikis and primitive social networks like Friendster and MySpace. Because I was writing about these and other web trends, people from Silicon Valley began reading my blog, commenting on it, and linking to it from their own blogs. Amazingly, these people seemed interested in what an outsider — someone who lived 7,000 miles away, spoke funny, and had not gone to Stanford or Harvard — had to say about their industry.
 
-* * *
+***
 
 It’s almost impossible to believe now, but in [2005](https://money.cnn.com/magazines/fortune/fortune500_archive/full/2005/1.html) not one of the top ten companies in the Fortune 500 was a technology company. The highest entry was Hewlett-Packard at number 11, but it had nothing to do with the web. Microsoft, which was coasting along at this point with its dominant Internet Explorer web browser, was number 41, and Intel was 50. It was a long drop then to Apple Computer at 263 and Amazon.com at 303. None of the other companies that would come to dominate our society were present on the 2005 list. Google had gone public in 2004, but it would not break the Fortune 500 until [2006](https://money.cnn.com/magazines/fortune/fortune500/2006/snapshots/3967.html). Facebook was at this time a tiny startup working out of a rented Palo Alto office.
 
@@ -76,7 +76,7 @@ In any case, my blog — ReadWriteWeb, a.k.a. RWW — became one of the defining
 ![Bubble 2.0 meme map, October 2005](/assets/images/4bbd5ce8-fdd1-4190-9f3a-322818456d3a_540x483.png "Bubble 2.0 meme map, October 2005")
 *A parody of the Web 2.0 Meme Map [by Charlie Wood](https://web.archive.org/web/20051026024257/http://bubble20.blogspot.com/2005/10/bubble-2_11.html). Published 11 October 2005. Side note: the very next day, Charlie posted [this quote from me](https://web.archive.org/web/20060507120040/http://bubble20.blogspot.com/2005/10/web-2.html): “OK so there's a lot of hype. So the VCs are throwing money around. So get to work. Build something Web-based that mainstream people will need and want. Now's the time to do it.” ([original RWW post](https://web.archive.org/web/20060103153819/http://www.readwriteweb.com/archives/web_20_land_of.php) where that quote comes from)*
 
-* * *
+***
 
 I never got to meet Marc Andreessen — the ultimate insider — in person, but we did briefly communicate during my first trip to Silicon Valley.
 

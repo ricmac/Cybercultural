@@ -67,4 +67,3 @@ So how does the IA survive? Kahle said that the IA runs mainly on donations, fro
 
 Note: This article was first published [on The New Stack](https://thenewstack.io/a-visit-to-the-physical-internet-archive/).
 
-***

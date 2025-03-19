@@ -169,4 +169,3 @@ PART 3: 2010–2011
 *    [066. 2012: The Transition From ReadWriteWeb to ReadWrite](/p/066-readwriteweb-2012/)
 *    [067. The End of Web 2.0 — One Bubble Deflates, Another Starts Up](/p/067-end-of-web20/)
 
-***

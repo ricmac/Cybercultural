@@ -100,4 +100,3 @@ As for Joe Sparks, one of the “gurus of Multimedia Gulch” profiled by the Ne
 
 *In the next dot-com era post on Cybercultural, [we review CD-ROM titles from actual rock stars in 1994](/p/cd-roms-1994/). They were delightfully bad!*
 
-***

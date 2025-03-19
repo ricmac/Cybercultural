@@ -75,6 +75,4 @@ However, the dangers of online advertising to end users became apparent in Novem
 
 Beacon wouldn’t be the first time Facebook tested the boundaries of user privacy, but somehow the company still managed to fend off its competition and continue growing. And with smartphones poised to make inroads in 2008, Facebook—and the rest of the tech industry—were fully expecting the internet good times to continue.
 
-* * *
-
 Read next: [More year-by-year overviews of internet history](/year/)

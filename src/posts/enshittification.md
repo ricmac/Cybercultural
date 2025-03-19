@@ -73,5 +73,3 @@ However, there is now a concerted effort to knock those walls down again using [
 p.s. in the Cybercultural header, you'll see the icons of [Mastodon](https://mastodon.social/@ricmac) and [Bluesky](https://bsky.app/profile/cybercultural.com). Click one or both of those links to connect with me on the decentralized web.
 
 *Lead image: annie pm [on Unsplash](https://unsplash.com/photos/pink-and-white-heart-illustration-Ox0ppJImhpE)*
-
-* * *

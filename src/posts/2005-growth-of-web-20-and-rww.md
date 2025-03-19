@@ -50,5 +50,3 @@ Just before I travelled over to Silicon Valley at the end of September, I sent t
 > “My weblog has become very popular in the last 6 months and is growing at a fast rate. It currently has around 4,700 subscribers and is averaging over 2,000 page views a day (and will likely increase during and after the conference).”
 
 I won’t bore you with any more stats talk, but I wanted to put RWW's growing (but still niche) popularity into some context, before we head into the rest of 2005 and into 2006 — which is when both RWW and Web 2.0 _really_ started to pick up momentum. Part 6 of my memoir, [Revving Up at the Web 2.0 Conference](/p/006-revving-up-2005-web-20-conference), continues that story.
-
-* * *

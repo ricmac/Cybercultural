@@ -107,7 +107,5 @@ Since I left RWW back in October 2012, there have been various internet trends t
 
 In the final analysis, I think RWW was defined by its era — Web 2.0 — and that era ended around the time I left the blog. Indeed, that’s why I’m writing my Web 2.0 memoir — to tell my story…about both ReadWriteWeb and _the_ read/write web.
 
-![](/assets/images/6917e23b-a5ce-4d4e-881d-4c3b08d48a23_1638x1170.jpg)
+![RWW, April 2005](/assets/images/6917e23b-a5ce-4d4e-881d-4c3b08d48a23_1638x1170.jpg)
 *RWW, April 2005*
-
-* * *

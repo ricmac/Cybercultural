@@ -77,6 +77,4 @@ For all the fun things that the social web and smartphones apps enabled in 2010,
 
 *Lead image: [Photo](https://www.flickr.com/photos/laughingsquid/5018800588/) by [Scott Beale / Laughing Squid](http://laughingsquid.com/); some pixelation applied by author.*
 
-* * *
-
 Read next: [More year-by-year overviews of internet history](/year/)

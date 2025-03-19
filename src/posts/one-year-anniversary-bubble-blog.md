@@ -67,5 +67,3 @@ Finally, when I launched Bubble Blog last year, I promised the paperback book wo
 However, over the past few weeks I have been working with my book designer on getting the final manuscript ready for release as a self-published paperback. He is doing what I hope is the final round of fixes now, so I am hoping the book will be released before Christmas! I’ll keep you updated on progress.
 
 Thanks everyone who has shown support to this project over the past twelve months (especially to my paid supporters). And please, help an indie web brother out by resharing *Bubble Blog* on your social media channels when new instalments come out, and by commenting when you have something to say about it. Viva la read/write web!
-
-* * *

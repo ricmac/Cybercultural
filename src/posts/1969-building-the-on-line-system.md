@@ -130,6 +130,6 @@ But “Lo” was all that needed to be communicated. As in: Lo, the internet era
 
 *Lead image [via Doug Engelbart Institute](https://www.dougengelbart.org/content/view/378/#Dougs-Lab-Environment-1)*
 
-***
+
 
 Read next: [The Time I Met Bill English](/p/the-first-web-developer/)

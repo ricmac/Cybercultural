@@ -42,7 +42,7 @@ Barring a miracle with CMP, I had decided I would sign with ZDE.
 ![Netvibes party during Web 2.0 Expo 2008](/assets/images/2439637947_9bd7156538_o.jpg)
 *Netvibes party during Web 2.0 Expo 2008; photo [by Bruno Pedro](https://www.flickr.com/photos/bpedro/2439637947).*
 
-***
+
  
 First thing Friday morning, I went to the Web 2.0 Expo and half-heartedly watched the keynotes. I was feeling like a zombie—the week had been long and (to this point) unfruitful on the business side. I had scheduled an interview with Sun Microsystems CEO Jonathan Schwartz at 9:55 a.m., after his onstage Q&A with Tim O’Reilly. I had [my crowdsourced questions](/p/028-web2-expo-2008/), and I made note of what he said to Tim, so I was prepared in that sense. But, of course, I had other things on my mind. I had not received anything in writing from CMP by the time I made my way to the meeting room backstage, where I’d be meeting Jonathan. So I was mentally preparing to contact ZDE and tell them I’d be signing with them.
 

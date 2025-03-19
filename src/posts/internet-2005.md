@@ -90,6 +90,4 @@ Ah, the web in 2005… I do miss it, although I’m pleased to see [the fedivers
 
 *Lead image: "Browse. Search. Subscribe." That’s what it was all about in 2005. [Photo by Kris Krug](https://www.flickr.com/photos/kk/21367593/), at Gnomedex 5, June 2005.*
 
-* * *
-
 Read next: [More year-by-year overviews of internet history](/year/)

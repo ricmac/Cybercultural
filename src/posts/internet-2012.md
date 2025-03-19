@@ -84,6 +84,6 @@ If there’s any doubt remaining that 2012 was when internet culture pivoted to 
 
 {% youtube "9bZkp7q19f0", "Gangnam Style" %}
 
-***
+
 
 Read next: [More year-by-year overviews of internet history](/year/)

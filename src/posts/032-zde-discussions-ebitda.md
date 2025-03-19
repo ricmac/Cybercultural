@@ -26,7 +26,7 @@ In any case, I needed to get more clarity on what support ZDE would offer regard
 
 After coffee with Bernard, I went back to my hotel room to mull over my tactics going into the first in-person ZDE meeting. I knew hardly anything about how the IT media business worked here on the East Coast, and I was also nervous about meeting the big-city financial analysts from Insight Partners. I wished Bernard could attend the first meeting with me, as I could use a wingman who had business nous. But I knew I was on my own from here on out.
 
-***
+
 
 The ZDE office was located at 28 East 28th Street, in the Midtown South area of Manhattan. I’d quickly learned that the best way to get to an address in New York City was to note the connecting streets, and I was amused to see that one of them was Lexington Avenue. I knew this name from “I’m Waiting for the Man,” a Velvet Underground song about buying heroin at the intersection of Lexington and 125—way uptown. ZDE was a block from Lexington, but downtown. And judging by all the grey and brown high-rise buildings, there wasn’t much rock ’n’ roll romanticism at this location.
 

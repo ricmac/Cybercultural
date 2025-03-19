@@ -54,7 +54,7 @@ My gut feeling was that this wasn’t right. Why should I sell something I’d c
 ![Friendfeed on RWW](/assets/images/rww_friendfeed_july08.jpg)
 *During the biz deal back-and-forth, the social web was only getting more and more interesting. On 3 July, RWW debuted [integration of FriendFeed comments](https://web.archive.org/web/20080704160608/http://www.readwriteweb.com/archives/readwriteweb_integrates_friendfeed_comments.php) into our own blog comments.*
 
-***
+
  
 Over Friday and Saturday my time, there was an attempt on both sides to set up yet another phone call for the following week. But I knew that it would only kick the can further down the road, with the lawyers scuttling after to kick it some more. Enough was enough.
 

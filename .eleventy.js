@@ -15,6 +15,7 @@ import { getAllPosts, onlyMarkdown } from './config/collections/index.js';
 // Plugins
 import markdownIt from 'markdown-it'; // Import markdown-it
 import markdownItAttrs from 'markdown-it-attrs'; // Import markdown-it-attrs
+import markdownItFootnote from "markdown-it-footnote"; // enable footnotes
 import { EleventyRenderPlugin } from '@11ty/eleventy';
 import syntaxHighlight from '@11ty/eleventy-plugin-syntaxhighlight';
 import { slugifyString } from './config/utils/index.js';
@@ -89,7 +90,9 @@ export default function(eleventyConfig) {
   // Configure Markdown library with markdown-it-attrs
   const markdown = markdownIt({
     html: true // Allow raw HTML
-  }).use(markdownItAttrs);
+  })
+  .use(markdownItAttrs)
+  .use(markdownItFootnote);
   eleventyConfig.setLibrary('md', markdown);
 
   // Add Eleventy Image Plugin

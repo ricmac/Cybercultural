@@ -74,6 +74,6 @@ Just days after the MySQL AB sale in 2008, Monty Widenius was [writing about](ht
 
 But despite intense competition from its own creator, MySQL remains the ‘M’ in LAMP to this day.
 
-***
+
 
 Read next: [1996: JavaScript Annoyances and Meeting the DOM](/p/1996-javascript-annoyances-and-meeting-the-dom/)

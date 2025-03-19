@@ -30,7 +30,7 @@ The iPhone was eventually released in the United States at the end of June 2007,
 
 Since the iPhone wasn’t widely available outside the States until July 2008, with the global launch of the second-generation iPhone (as well as the App Store), 2007 was a transition year for the smartphone revolution. Apple had opened the door to a mobile future with its January 2007 announcement and mid-year US release, but Web 2.0 remained focused on desktop computer users for the remainder of that year. 
 
-***
+
 
 Meanwhile, Read/WriteWeb continued to ramp up, with January 2007 my highest-traffic month ever. RWW got around six hundred thousand page views and had more than fifty thousand RSS and email subscribers by the end of the month. Soon after, I got my first newspaper writeup in my home country: the *New Zealand Herald* published [a profile of me](https://web.archive.org/web/20111020011254/http://www.nzherald.co.nz/business/news/article.cfm?c_id=3&objectid=10424632) in early February 2007.
 

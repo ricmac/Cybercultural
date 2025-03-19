@@ -25,7 +25,7 @@ Here’s an example of [a photo](https://www.flickr.com/photos/ricmac/102419332/
 
 ![](/assets/images/bd22b040-c25e-4b05-bef9-9c1dd1f192be_1280x960.jpg)
 
-Now, I really like this photo as it is a nice snapshot of that day, and I enjoyed meeting the Robots. One guy (I think it’s Todd Gehman) on the right has an awesome expression on his face, Buster is at the back looking cool, and the others around the table are absorbed in their startup work. The mid-aughts Macbooks PowerBooks[1](#footnote-1) bring back memories, too. That all said, the image quality isn’t high — it’s a bit blurry, there is some red eye, and little details aren’t clearly defined (I’m curious what the books on the table are, for example). The latest generation iPhone would fix all that, but that’s beside the point. Maybe the grainy quality adds a bit of mystique to the photo. Certainly, it makes it an artifact of its time.
+Now, I really like this photo as it is a nice snapshot of that day, and I enjoyed meeting the Robots. One guy (I think it’s Todd Gehman) on the right has an awesome expression on his face, Buster is at the back looking cool, and the others around the table are absorbed in their startup work. The mid-aughts PowerBooks bring back memories, too. That all said, the image quality isn’t high — it’s a bit blurry, there is some red eye, and little details aren’t clearly defined (I’m curious what the books on the table are, for example). The latest generation iPhone would fix all that, but that’s beside the point. Maybe the grainy quality adds a bit of mystique to the photo. Certainly, it makes it an artifact of its time.
 
 Some of you — especially if you’re younger than Gen X — may be wondering at this point, what made Flickr so special? Surely there were a bunch of other photo-sharing websites to choose from, not to mention social networks like MySpace, Bebo and Facebook (believe it or not, Facebook was ranked 3rd of those three as late as 2007!). There are many reasons why Flickr became the trendiest photo-sharing site in the era before smartphones. Tara Hunt had a good post [in January 2007](https://web.archive.org/web/20070302163626/http://www.horsepigcow.com/2007/01/22/what-makes-flickr-so-special-anyway/) that goes into it (check the comments too). For example:
 
@@ -63,9 +63,3 @@ Needless to say, Instagram quickly ate Foodspotting’s lunch. It also heralded 
 But Flickr sure was a beautiful app. Thankfully (unlike ReadWriteWeb) it’s still around in a form that hasn’t been messed with much. It was acquired by SmugMug — an [even older](https://www.latimes.com/la-fi-smugmug24dec24-story.html) photo-sharing service, founded in 2002 — and so far their stewardship of Flickr has been excellent. I haven’t posted anything there since 2015, but as I said above, I am using it quite a lot for my current book project.
 
 Got any memories of Flickr — or Web 2.0 photo-sharing in general — that you’d like to share? I’d love to hear it. Please leave a comment on Substack (if you’re reading on email, click the comment button below).
-
-[1](#footnote-anchor-1)
-
-Eagle-eyed reader Mark Gardner pointed out that the computers “are PowerBooks G4, not MacBooks. Apple did not begin shipping the first MacBooks Pro until the following month, and the original MacBooks released later that year were clad in plastic, not aluminum, to match the PowerPC-based iBooks they were replacing.”
-
-* * *

@@ -143,4 +143,3 @@ What if a couple of clever developers like David Galbraith and Angus Bankes, and
 
 Of course, the temptation would be the same: to sell out to an enterprise company.
 
-***

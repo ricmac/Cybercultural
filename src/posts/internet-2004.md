@@ -81,6 +81,4 @@ Finally, I shouted out Feedburner, the RSS feed management startup which “burs
 
 *Lead image: Flickr co-founder Caterina Fake's photos, early August 2004; [via Wayback Machine](https://web.archive.org/web/20040803125037/http://www.flickr.com:80/photos/caterina/)*
 
-* * *
-
 Read next: [More year-by-year overviews of internet history](/year/)

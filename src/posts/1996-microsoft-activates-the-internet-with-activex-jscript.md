@@ -142,6 +142,6 @@ This was all a consequence of the web browser market broadening to include two m
 
 In the next post in this series about the evolution of JavaScript (and browsers in general), we will look at the emerging push for web standards. Because it was clear by the end of 1996 that the web development industry needed to find some common ground between the Netscape and Microsoft approaches.
 
-***
+
 
 Read next: [1996: Flash and CSS Bring Design to the Web](/p/1996-flash-css-web-design/)

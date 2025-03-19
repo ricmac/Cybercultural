@@ -32,7 +32,7 @@ With all these accountants and lawyers getting involved, the complexity was quic
 ![Top 10 ways to tweet](/assets/images/twitter-top10-chart.jpeg)
 *One of our most popular posts at this time was Josh Catone's [list of top Twitter clients](https://web.archive.org/web/20080404035533/readwriteweb.com/archives/top_twitter_clients_definitive_list.php); this was a few months before TweetDeck launched, so the market was far from mature. Many of our developer and entrepreneur readership would've seen an opportunity here!*
 
-*** 
+ 
 
 The New Zealand Media Awards were traditionally known as a knees-up for the local journalism industry—in particular its newspaper and television news shows. It was now in its thirty-fourth year, but the Best Blog category was only in its second year. It had been first awarded [in 2007](https://web.archive.org/web/20070706223411/http://www.qantasmediaawards.co.nz/websites.htm) to a political blogger, Russell Brown, whose weblog, [Hard News](https://web.archive.org/web/20080416043135/http://www.publicaddress.net/default,47.sm), had been running since late 2002. Hard News was part of a community of New Zealand-centric blogs that ran on the domain PublicAddress.net, which Russell had set up.
 
@@ -57,7 +57,7 @@ I soon realized that I wasn’t the only one feeling a bit tipsy—there was *a 
 
 After the show ended, we made our way to the hotel bar to meet up with my good friend Dave, who was out on the town with a mate. I’d lived in Auckland a couple of different times during the 1990s, and I’d been out carousing with Dave and other friends on many a Friday night. I bashfully showed them my award certificate. Dave invited me to come into the city and have some celebratory drinks in our old haunts, but I pointed to my black-tie getup and said I was overdressed for that. Besides, I said, I had to get on a plane to New York tomorrow.
 
-***
+## Arrival in NYC
 
 It was late at night when I finally arrived at Hotel Chandler in New York City. It had been an epic journey, and I didn’t know what to expect from this trip. Did I really want to sell my business to a company based literally on the other side of the world? 
 

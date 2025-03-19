@@ -83,4 +83,4 @@ Lialina claims that GeoCities was not even a very good web hosting service. “I
 
 Regardless, the emergence of GeoCities over 1995 did make it easier for non-technical people to create a presence on the World Wide Web. Its design elements were certainly clunky and destined to become clichéd, but services like GeoCities were an important stepping stone for the rise of [creative expression on the web](/p/1996-flash-css-web-design/).
 
-***
+

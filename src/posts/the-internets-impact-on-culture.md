@@ -93,4 +93,3 @@ If the 2010s was a decade in which the way we consumed and talked about cultural
 
 *Photo by Kym Ellis on [Unsplash](https://unsplash.com/photos/assorted-color-bean-bags-inline-in-seashore-at-daytime-zgPzWSAiY48?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)*
 
-***

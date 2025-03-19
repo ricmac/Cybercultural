@@ -122,5 +122,3 @@ The design of Origin was certainly more modern and there was no more peeling pai
 As for Foursquare, the product seemed to fade away in the culture after about 2013. Checking-in as an activity is still alive and well, but it’s now just another feature in apps like Facebook and Instagram.
 
 So what about my little raps? Thankfully they’ve been consigned to history, along with my Foursquare check-ins.
-
-* * *

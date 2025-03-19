@@ -49,7 +49,7 @@ It is a measure of my utter immaturity at this time that I continued to avoid me
 
 Happily, I eventually connected with Josh at the end of the month, by phone, when I was back in New Zealand.
 
-***
+
 
 I had a busy Web 2.0 Summit, meeting with companies like Microsoft, About&#46;com, Ask&#46;com, and Automattic (which ran Wordpress&#46;com). I asked for business advice from Toni Schneider, the CEO of Automattic, who had recently started up a VC firm called True Ventures. I knew that True Ventures had invested in GigaOm, the tech blog founded by longtime Silicon Valley journalist Om Malik. Even though GigaOm was a competitor to RWW, I was friendly with Om and had also talked to Toni before, so I knew Toni would be straight up with me. 
 

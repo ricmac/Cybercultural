@@ -81,4 +81,3 @@ Prior to Tumblr's emergence, short-form blogging was known as 'microblogging' â€
 
 Pretty soon, it was gifs galore on Twitter and Facebook too.
 
-***

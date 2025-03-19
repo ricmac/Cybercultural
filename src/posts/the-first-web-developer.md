@@ -56,6 +56,6 @@ As we wrapped up our interview on that chilly day at Kepler’s cafe, I asked En
 
 *Lead image: [Wikimedia](https://commons.wikimedia.org/wiki/File:SRI_Bill_English_1968.jpg)*
 
-***
+
 
 See also: [1968: The Mother of All Demos](/p/1968-the-mother-of-all-demos/)

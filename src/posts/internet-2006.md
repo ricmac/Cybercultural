@@ -69,6 +69,4 @@ Vive la révolution, I guess — although in later years it became clear that th
 
 *Lead image: photo [by Tara Hunt](https://www.flickr.com/photos/missrogue/105122805)*
 
-* * *
-
 Read next: [More year-by-year overviews of internet history](/year/)

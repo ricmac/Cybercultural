@@ -50,7 +50,7 @@ Open standards for social networking seemed very promising, especially when Face
 
 Beacon wouldn’t be the first time Facebook tested the boundaries of user privacy, but somehow the company still managed to fend off its open standards competition and continue growing. As for Google’s social networking project, well, I never did see an OpenSocial diabetic app get developed. But, fortunately for me, TuDiabetes continued as an independent community that I would visit as needed over the coming years.
 
-***
+
  
 It wasn’t just me having health issues near the end of 2007. RWW’s web server was also very sickly, with multiple outages on the site during this time. It was a mix of server-scaling issues and problems with the implementation of Movable Type 4 (MT4), the latest version of our publishing platform. It turned out, we were the first major site to upgrade from MT3.5 to MT4 on Media Temple, our web host. So we had unwittingly become the test bed for all the early bugs that typically reside in a new and complex piece of software. 
 

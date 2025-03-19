@@ -156,4 +156,3 @@ Even if Bowie and Eno had continued their efforts to create a truly innovative m
 
 If any of those kids did own multimedia CD-ROMs by musicians, those products were soon collecting dust at the back of their CD racks.
 
-***

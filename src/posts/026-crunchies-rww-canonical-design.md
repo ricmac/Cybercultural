@@ -48,7 +48,7 @@ I met Pete the night after the Crunchies, at the Borders bookstore café on Post
 
 I had imagined the Loch Ness Blogger would be shy and awkward, but he [turned out to be](https://web.archive.org/web/20120620033321/http://www.readwriteweb.com/archives/rise-of-the-tech-bandits-pete-cashmore-the-cyborg.php) an overly caffeinated chatterbox. We talked about our shared interest in moving to Silicon Valley. I was thirty-six years old and married, with a school-age child, so there were many practical issues I’d have to sort through to make that move. But Pete was a twenty-two-year-old single man and seemingly had little to stop him. So I advised him to do it. 
 
-***
+
 
 Silicon Valley was still a mecca for anyone who wanted to make it big in the tech industry. And sure enough, a few months after I’d met Pete in Borders, he emailed to say that he’d taken my advice and shifted to San Francisco. What neither of us fully realized was that the insider world of Silicon Valley was beginning to constrict around a set of five leading Web 2.0 companies. 
  

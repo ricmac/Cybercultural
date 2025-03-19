@@ -86,6 +86,6 @@ At first it’s inert. Engelbart’s fly circles around Paxton’s. Suddenly Pax
 
 *In the [next post](/p/1969-building-the-on-line-system/) in this series about Douglas Engelbart, which will cover 1969, we will dig into the technical details of the computer system he and his team built: oN-Line System (NLS).*
 
-***
+
 
 Read next: [1969: Building the oN-Line System](/p/1969-building-the-on-line-system/)

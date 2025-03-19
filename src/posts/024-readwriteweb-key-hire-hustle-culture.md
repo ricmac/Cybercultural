@@ -46,7 +46,7 @@ This prompted a discussion on the blogosphere about “new media” versus tradi
 
 We’d shortly experience one of the downsides of increasing popularity—web server strain and other technical issues associated with scaling—but for now I was busy preparing for another US trip. The Web 2.0 Summit was happening again in mid-October, and I was excited to attend for the third straight year.
 
-***
+
  
 I touched down at SFO on Sunday, October 14, and took a taxi to the Adante Hotel on Geary Street. It was a run-down establishment, but it was inexpensive and a nice ten-minute stroll to the Web 2.0 Summit venue—the much plusher Palace Hotel. 
 

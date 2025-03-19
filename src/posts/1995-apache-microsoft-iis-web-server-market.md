@@ -104,6 +104,6 @@ The story of web servers in the 1990s really comes down to two victors (Apache a
 
 Another foundational piece of the LAMP stack, MySQL, was also launched in 1995. That will be the subject of our next post, so stay tuned.
 
-***
+
 
 Read next: [1995: MySQL Arrives, Completing the LAMP Stack](/p/1995-mysql-lamp-stack/)

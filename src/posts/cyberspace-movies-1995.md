@@ -78,4 +78,3 @@ In [an interview](https://www.youtube.com/watch?v=Y7-SzWZNiBg) Longo conducted w
 
 For someone who didn’t regularly use the internet in 1995, that may sound like faint praise. But for Gibson, it was never about the technology — he was more concerned with the culture that surrounded it. For years, cyberspace had existed only in his head and in his books; but in 1995, it finally arrived for the rest of society in the form of the early web, along with movie depictions of it.
 
-***

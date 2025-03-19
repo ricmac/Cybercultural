@@ -76,6 +76,4 @@ Content farming would become much more sophisticated over the years, but 2009 wa
 
 *Lead image: Oprah tweet screenshot [by Cambodia4kids.org Beth](https://www.flickr.com/photos/cambodia4kidsorg/3452723780/).*
 
-* * *
-
 Read next: [More year-by-year overviews of internet history](/year/)

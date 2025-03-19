@@ -120,6 +120,6 @@ Some of this movement towards web apps was possible due to JavaScript, but Java 
 
 However, Netscape wasn’t the only one pushing web development forward in 1996. Microsoft had been watching from afar in Redmond as Netscape became the hottest startup in Silicon Valley. After finally registering [in 1995](https://sriramk.com/memos/billgates-tidalwave.pdf) that the internet was a big deal, throughout 1996 Microsoft literally and figuratively shadowed its younger and much smaller rival. It ended up copying not only Netscape’s browser…but its JavaScript language too. We’ll get into that in the next post in this series.
 
-***
+
 
 Read next: [1996: Microsoft Activates the Internet With ActiveX & JScript](/p/1996-microsoft-activates-the-internet-with-activex-jscript/)

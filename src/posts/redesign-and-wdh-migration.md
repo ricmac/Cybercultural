@@ -41,5 +41,3 @@ I have done a lot of work on Cybercultural this year, especially after I [migrat
 
 ![New Cybercultural homepage, 26 September 2024](/assets/images/new-cybercultural-homepage-26sep24.jpg)
 *For posterity, what my homepage looks like after the redesign.*
-
-* * *

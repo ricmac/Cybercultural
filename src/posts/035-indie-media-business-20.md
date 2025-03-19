@@ -33,7 +33,7 @@ Hiring hesitation aside, Bernard thought we could be doing better with FM Publis
 
 Meanwhile, I turned my attention back to editorial matters.
 
-***
+
  
 Even though over half of 2008 had now disappeared in a blur of unconsummated business dealings, I had still managed to expand our writing team. I’d hired Sarah Perez as a freelancer in early January, after subscribing to [her personal blog](https://web.archive.org/web/20071219030024/http://www.sarahintampa.com/) the previous year. She had a full-time IT job in Tampa, Florida, and did blogging for Microsoft on the side. She told me she’d be able to quit her IT job and go full-time on blogging if I could offer her twelve posts per week on RWW. I’d readily agreed, and Sarah officially joined RWW and quit her day job. Marshall and I both loved her posts, and by the middle of 2008 she was an established part of our daily writing team.
 
@@ -62,7 +62,7 @@ Trends of this type were the focus of my small but growing team in 2008. Despite
 
 Amid the excitement of hiring new writers, I lost one of my regulars that year. Josh Catone had decided to leave RWW and was finishing up the same week that I hired Frederic. Josh had been my first blogger hire at RWW, back in March 2007. Despite recent problems with consistency, Josh had written several of our most popular articles during his time at RWW. I also liked Josh a lot as a person. So when I broke the news to the team via Basecamp, in a message entitled “Welcome Frederic, a Fond Farewell to Josh,” I emphasized that it was sad to see him go. “Once a RWW writer, always,” I noted.
 
-***
+## Searching For Structure
 
 After the acquisition debacle, I was determined to put more structure around the RWW business. If I couldn’t get an established US media company to provide support for RWW’s growth, I thought, then I’d have to make RWW itself into an established US media company.
 
