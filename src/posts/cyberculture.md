@@ -3,7 +3,7 @@ title: "Cyberculture 1960s-1990s and the Legacy of Alice Mary Hilton"
 description: "The word 'cyberculture' was coined by Alice Mary Hilton in 1963 and by the mid-90s was in common use. But Hilton never got her due, especially compared to her contemporary Marshall McLuhan."
 date: 2025-03-19
 permalink: "p/cyberculture-alice-mary-hilton/"
-tags: ['dotcom', '1995']
+tags: ['preweb']
 featureImage: "/assets/images/alice-mary-hilton-feature.jpg"
 youtube: "true"
 ---
