@@ -4,6 +4,7 @@
 
 # Eleventy site changed menu names
 /personal* /blog 301
+/misc* /blog 301
 /donate* /subscribe 301
 
 # Substack main menu redirects
