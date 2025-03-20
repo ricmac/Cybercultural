@@ -3,7 +3,7 @@ title: "Serializing a Book Online: Lessons From My Web 2.0 Memoir"
 description: "On the first anniversary of launching my serialized book, I reflect on what I've learned — including the pros and cons of my pivot from Substack newsletter to indie website."
 date: 2024-10-29
 permalink: "p/online-serialization-thoughts/"
-tags: ['misc']
+tags: ['blog']
 featureImage: "/assets/images/33d48ded-f999-4173-8440-9d752446428b_3400x2134.jpg"
 ---
 

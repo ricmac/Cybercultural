@@ -21,8 +21,8 @@ export default {
       url: '/enshittocene/'
     },
     {
-      text: 'Misc',
-      url: '/misc/'
+      text: 'Blog',
+      url: '/blog/'
     },
     {
       text: 'Search',

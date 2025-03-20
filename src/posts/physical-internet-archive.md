@@ -3,7 +3,7 @@ title: "A Visit to the Physical Internet Archive"
 description: "In a behind-the-scenes tour of the Internet Archive, founder Brewster Kahle explains how it preserves both digital and physical media."
 date: 2023-10-26
 permalink: "p/physical-internet-archive/"
-tags: ['misc']
+tags: ['blog']
 featureImage: "/assets/images/brewster_oct2023.jpg"
 ---
 
