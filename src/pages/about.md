@@ -5,25 +5,24 @@ description: About Cybercultural — Internet History and Its Impact on Our Cult
 layout: page
 ---
 
-I’m [Richard MacManus](https://ricmac.org/) (@ricmac), founder of the pioneering tech blog ReadWriteWeb. [Cybercultural](https://cybercultural.com/) is my website and newsletter about **internet history and its impact on our culture**.
+[Cybercultural](https://cybercultural.com/) is a website about **internet history and its impact on our culture**. It was founded in 2019 by [Richard MacManus](https://ricmac.org/) (@ricmac). 
 
-[Click here](/subscribe/) for further subscription options and to find out how you can support Cybercultural.
-
-I recently finished serializing [my latest book](/p/roadmap-bubbleblog/), "Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution". It chronicles the rise of the modern internet during the first decade of this century.
-
-I was the founder and Editor-in-Chief of [ReadWriteWeb](https://ricmac.org/career-archive/readwriteweb/) (RWW) from 2003-2012. RWW was ranked among the top 10 blogs in the world, according to Technorati. It was syndicated by The New York Times and eventually acquired by SAY Media.
-
-I also authored **Web Development History** (2020-21), a blog that chronicled the early years of the web from a developer perspective. That site's content has since been [migrated to Cybercultural](/dotcom/).
+MacManus was the founder and Editor-in-Chief of [ReadWriteWeb](https://ricmac.org/career-archive/readwriteweb/) (RWW), a pioneering tech blog from 2003-2012. RWW was ranked among the top 10 blogs in the world by Technorati and was syndicated by The New York Times.
 
 <script src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script>kofiwidget2.init('Support me on Ko-fi', '#b80103', 'F1F61AI58P');kofiwidget2.draw();</script> 
 
 ## Testimonials
 
-"Richard MacManus’ memoir of his experiences running his tech blog, ReadWriteWeb, during the first decade of the 2000s, is a great read. Richard was smart and engaged back then–and still is–so this memoir offers both wonderful retellings about key moments and key people, and an honest look back and appraisal."
+"One of my favorite places on the web is Cybercultural by @ricmac. His recent "exposé" about [Alice Mary Hilton's impact on media theory](/p/cyberculture-alice-mary-hilton/) is a new favorite. Her techno-optimism and humanism resonate with me, particularly as AI blurs the delineation between people and machines. I highly recommend reading it!"  
+[Hannah Aubry, Mastodon contributor](https://fosstodon.org/@haubles/114201026549397496), March 2025 
+
+"[Richard MacManus’ memoir](/p/roadmap-bubbleblog/) of his experiences running his tech blog, ReadWriteWeb, during the first decade of the 2000s, is a great read. Richard was smart and engaged back then–and still is–so this memoir offers both wonderful retellings about key moments and key people, and an honest look back and appraisal."  
 [Susan Mernit's newsletter](https://susanmernit.substack.com/p/41-cyb-ai-web-memoirs-and-wintery), February 2024
 
-"I’m greatly enjoying Richard’s look back on those strangely heady days of the post-mortgage-crisis tech bubble that began to take full advantage of gradients, APIs, and that still somewhat new Cloud infrastructure thing."
+"I’m greatly enjoying Richard’s look back on those strangely heady days of the post-mortgage-crisis tech bubble that began to take full advantage of gradients, APIs, and that still somewhat new Cloud infrastructure thing."  
 [Rick Turoczy, Silicon Florist](https://siliconflorist.com/2024/04/09/web-2-0-nostalgia-remembering-marshall-kirkpatricks-early-days-at-readwriteweb/), April 2024
+
+*Note: MacManus also authored WebDevelopmentHistory&#46;com (2020-21), a blog about the early years of the web from a developer perspective. It has since been [migrated to Cybercultural](/dotcom/).*
 
 ![](/assets/images/c38fbe37-9903-4529-8dc4-ae14403d7c9b_1178x616.png)
 ([link](https://twitter.com/vboykis/status/1427778555153354756))
