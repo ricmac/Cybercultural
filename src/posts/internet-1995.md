@@ -15,7 +15,7 @@ At the beginning of 1995, the internet was still largely the domain of academic-
 From January 1995 through till the end of December, the Web [grew from](https://www.mit.edu/people/mkgray/growth/) just over 10,000 websites to 100,000. Some of the most famous internet businesses of today were born 30 years ago, including Amazon and eBay. Netscape became the first successful startup of the commercial web, going public in August 1995.
 
 ![Marc Andreessen, November 1995](/assets/images/marc-andreessen-nov1995.jpg)
-*Netscape co-founder Marc Andreessen, the 23-year old internet wunderkind, shown here in a November 1995 video [by CNET](https://www.youtube.com/watch?v=sw5xp27Ohgg&t=16s).*
+*Netscape co-founder Marc Andreessen, the 24-year old internet wunderkind, shown here in a November 1995 video [by CNET](https://www.youtube.com/watch?v=sw5xp27Ohgg&t=16s).*
 
 ## The Browser Wars Begin
 
