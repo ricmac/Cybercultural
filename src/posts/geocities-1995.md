@@ -10,7 +10,7 @@ featureImage: "/assets/images/beverly-hills-internet-1995.jpg"
 ![Beverley Hills Internet in 1995, before being renamed GeoCities](/assets/images/beverly-hills-internet-1995.jpg){loading="eager"}
 *Beverley Hills Internet in 1995, before being renamed GeoCities.*
 
-By 1995, people had begun to create their own web pages on the World Wide Web — or “home pages” as they were called back then. Previously, home pages had typically been created by professional coders, or academics who had technical knowledge of the web. Not only did you need to know how to code in HTML, [the web’s programming language](/p/1990-programming-the-world-wide-web/), but you also needed to know how to operate [web servers](/p/1995-apache-microsoft-iis-web-server-market/) and FTP (File Transfer Protocol) software. 
+By 1995, people had begun to [create their own web pages](/p/internet-1995/) on the World Wide Web — or “home pages” as they were called back then. Previously, home pages had typically been created by professional coders, or academics who had technical knowledge of the web. Not only did you need to know how to code in HTML, [the web’s programming language](/p/1990-programming-the-world-wide-web/), but you also needed to know how to operate [web servers](/p/1995-apache-microsoft-iis-web-server-market/) and FTP (File Transfer Protocol) software. 
 
 But as the web [became more popular](/p/internet-1994/), consumer-friendly tools emerged to help people create a home page. Beverly Hills Internet (BHI), later renamed GeoCities, was one of them.
 
