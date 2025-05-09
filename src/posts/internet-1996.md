@@ -21,7 +21,7 @@ The [Internet 1996 World Exposition](https://archive.org/details/park.org.s3.ama
 
 As the Net expanded, web portals was beginning to take hold of the dot-com economy. These were large websites that aggregated various types of information and services; including email, search, online forums, news, financial information, and more. Three of the main Internet search engines — Yahoo!, Lycos, and Excite — all went public in April 1996 and used the money to begin transforming themselves into web portals.
 
-In a later [Wired profile](]https://www.wired.com/1998/09/bell-2/), Excite CEO George Bell said that “portals aren't a delivery mechanism — portals *are* the Web.” He defined portals as “an efficient starting point that allows you to cut through the confusion of the Web and get to the information you want.”
+In a later [Wired profile](https://www.wired.com/1998/09/bell-2/), Excite CEO George Bell said that “portals aren't a delivery mechanism — portals *are* the Web.” He defined portals as “an efficient starting point that allows you to cut through the confusion of the Web and get to the information you want.”
 
 ![Excite web portal, November 1996](/assets/images/excite-website-nov1996.jpg)
 *Excite web portal, November 1996; [via Wayback Machine](http://web.archive.org/web/19961121190834/http://www.excite.com/).*
