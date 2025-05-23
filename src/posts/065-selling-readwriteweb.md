@@ -4,7 +4,7 @@ description: "In early December 2011, I travel to San Francisco for due diligenc
 date: 2024-12-19
 permalink: "p/065-selling-readwriteweb/"
 tags: ['web20', 'memoir', '2011']
-featureImage: "/assets/images/rww-sale-saymedia-dec2011.jpg"
+featureImage: "/assets/images/rww-sale-saymedia-dec2011b.jpg"
 ---
 
 ![ReadWriteWeb sells to SAY Media, December 2011](/assets/images/rww-sale-saymedia-dec2011.jpg){loading="eager"}

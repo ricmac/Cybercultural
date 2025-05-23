@@ -4,7 +4,7 @@ description: "Announcing the release of my memoir as a paperback and eBook. Four
 date: 2024-12-20
 permalink: "p/book-release-bubbleblog/"
 tags: ['memoir']
-featureImage: "/assets/images/33d48ded-f999-4173-8440-9d752446428b_3400x2134.jpg"
+featureImage: "/assets/images/bubble-blog-cover-1280x720.jpg"
 ---
 
 ![Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution](/assets/images/33d48ded-f999-4173-8440-9d752446428b_3400x2134.jpg){loading="eager"}

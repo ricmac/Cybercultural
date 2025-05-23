@@ -4,7 +4,7 @@ description: "In October 2011 in San Francisco, I attend what turns out to be th
 date: 2024-12-12
 permalink: "p/063-the-last-web20-conference-2011/"
 tags: ['web20', 'memoir', '2011']
-featureImage: "/assets/images/web20map-2011b.jpg"
+featureImage: "/assets/images/web20map-2011b-1280.jpg"
 ---
 
 ![The Web 2.0 Map for the Web 2.0 Summit 2011](/assets/images/web20map-2011b.jpg){loading="eager"}

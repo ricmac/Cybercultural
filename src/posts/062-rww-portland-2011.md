@@ -4,7 +4,7 @@ description: "Prior to my October 2011 trip to the US for Web 2.0 Summit (it wou
 date: 2024-12-10
 permalink: "p/062-rww-portland-2011/"
 tags: ['web20', 'memoir', '2011']
-featureImage: "/assets/images/ricmac-marshallk-oct2011-1000.jpg"
+featureImage: "/assets/images/ricmac-marshallk-oct2011-1000b.jpg"
 ---
 
 ![Richard and Marshall at Green Dragon pub, Portland, October 2011](/assets/images/ricmac-marshallk-oct2011-1000.jpg){loading="eager"}

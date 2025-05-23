@@ -4,7 +4,7 @@ description: "Announcing my latest book, a memoir and internet history to be ser
 date: 2023-10-30
 permalink: "p/bubble-blog-web20-memoir/"
 tags: ['web20', 'memoir']
-featureImage: "/assets/images/33d48ded-f999-4173-8440-9d752446428b_3400x2134.jpg"
+featureImage: "/assets/images/bubble-blog-cover-1280x720.jpg"
 ---
 
 ![Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution](/assets/images/33d48ded-f999-4173-8440-9d752446428b_3400x2134.jpg "Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution"){loading="eager"}

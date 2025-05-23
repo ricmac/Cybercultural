@@ -4,7 +4,7 @@ description: "On the first anniversary of launching my serialized book, I reflec
 date: 2024-10-29
 permalink: "p/online-serialization-thoughts/"
 tags: ['blog']
-featureImage: "/assets/images/33d48ded-f999-4173-8440-9d752446428b_3400x2134.jpg"
+featureImage: "/assets/images/bubble-blog-cover-1280x720.jpg"
 ---
 
 ![Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution](/assets/images/33d48ded-f999-4173-8440-9d752446428b_3400x2134.jpg "Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution"){loading="eager"}

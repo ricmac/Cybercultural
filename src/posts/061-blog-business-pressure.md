@@ -4,7 +4,7 @@ description: "I worry about my relationship with Marshall, as I try to manage ru
 date: 2024-12-05
 permalink: "p/061-blog-business-pressure/"
 tags: ['web20', 'memoir', '2011']
-featureImage: "/assets/images/rww-homepage-aug2011.jpg"
+featureImage: "/assets/images/rww-homepage-aug2011b.jpg"
 ---
 
 ![ReadWriteWeb homepage, August 2011](/assets/images/rww-homepage-aug2011.jpg){loading="eager"}
