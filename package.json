@@ -38,7 +38,7 @@
     "tailwindcss": "^3.0.23"
   },
   "devDependencies": {
-    "@11ty/eleventy-img": "^5.0.0-beta.10",
+    "@11ty/eleventy-img": "^6.0.4",
     "@toycode/markdown-it-class": "^1.2.4",
     "autoprefixer": "^10.4.13",
     "clean-css": "^5.3.3",
@@ -47,7 +47,7 @@
     "dotenv": "^16.4.5",
     "eleventy-plugin-external-links": "^1.1.2",
     "eleventy-plugin-webmentions": "^0.0.1",
-    "esbuild": "^0.19.0",
+    "esbuild": "^0.25.4",
     "html-minifier-terser": "^7.1.0",
     "lodash": "^4.17.21",
     "markdown-it": "^14.0.0",
