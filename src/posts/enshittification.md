@@ -70,6 +70,6 @@ However, there is now a concerted effort to knock those walls down again using [
 
  A resistance has formed among developers and indie publishers, and "users" who have rebelled against the centralized status quo and want to reclaim their online identities. It's a new world for those who have chosen to leave the Enshittocene behind them. Won't you join us?
 
-p.s. in the Cybercultural header, you'll see the icons of [Mastodon](https://mastodon.social/@ricmac) and [Bluesky](https://bsky.app/profile/cybercultural.com). Click one or both of those links to connect with me on the decentralized web.
+p.s. in the Cybercultural header, you'll see the icons of [Mastodon](https://mastodon.social/@ricmac) and [Bluesky](https://bsky.app/profile/ricmac.cybercultural.com). Click one or both of those links to connect with me on the decentralized web.
 
 *Lead image: annie pm [on Unsplash](https://unsplash.com/photos/pink-and-white-heart-illustration-Ox0ppJImhpE)*
