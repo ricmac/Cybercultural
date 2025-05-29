@@ -1,13 +1,13 @@
 ---
-title: 'My Web 2.0 Memoir: Table of Contents'
-description: "A chronological table of contents for my book, Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution."
+title: 'Bubble Blog, My Web 2.0 Book: Table of Contents'
+description: "A chronological table of contents for my memoir, 'Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution'."
 date: 2023-11-01
 permalink: "p/roadmap-bubbleblog/"
 tags: ['web20', 'memoir']
 featureImage: "/assets/images/bubble-blog-cover-1280x720.jpg"
 ---
 
-![Bubble Blog book cover](/assets/images/33d48ded-f999-4173-8440-9d752446428b_3400x2134.jpg "Bubble Blog book cover"){loading="eager"}
+![Bubble Blog book cover](/assets/images/33d48ded-f999-4173-8440-9d752446428b_3400x2134.jpg){loading="eager"}
 
 My book, *Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution*, was serialized on Cybercultural over 2024 and is now available to purchase:
 

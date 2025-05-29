@@ -1,13 +1,14 @@
 ---
 title: 'Day 2 of the 2005 Web 2.0 Conference'
-description: "I watch Jason Calacanis celebrate selling his Web 2.0 blog business; later I have a drink by myself at the House of Shields, and think about pre-internet days."
+description: "I watch entrepreneur Jason Calacanis celebrate selling his Web 2.0 blog business to AOL; later I have a drink by myself at the House of Shields, and think about pre-internet days."
 date: 2023-11-22
 permalink: "p/007-2005-web-20-conference-day-2/"
 tags: ['web20', 'memoir', '2005']
-featureImage: "/assets/images/d1f5d47b-1e9d-458e-bbfa-5256ab205153_562x705.jpg"
+featureImage: "/assets/images/web2-2005-event-logo.jpg"
 ---
 
-![A cartoon drawn of me at the Web 2.0 Conference, October 2005](/assets/images/d1f5d47b-1e9d-458e-bbfa-5256ab205153_562x705.jpg "A cartoon drawn of me at the Web 2.0 Conference, October 2005"){loading="eager"}
+![Web 2.0 Conference 2005 signage](/assets/images/web2-2005-event-logo.jpg){loading="eager"}
+*Web 2.0 Conference signage; photo [by Gen Kanai](https://www.flickr.com/photos/gen/49888242/).*
 
 When I walked into the Web 2.0 Conference at the Argent the next morning, a Thursday, I poured myself a cup of hotel coffee and wandered over to one of the round high tables in the foyer, where I’d spotted a couple of people I recognized. It was two of a small Irish contingent of entrepreneurs, Fergus Burns and Jonathan Hill, who I’d gotten to know. Fergus ran an RSS startup called Nooked, which I had recently begun to provide advisory services to, and Jonathan ran an email and SMS marketing company called Infacta.
 
@@ -39,12 +40,15 @@ Anyway, back to 2005. I turned to Fergus and Jonathan and asked if they were goi
 
 I felt more comfortable at the Web 2.0 Conference over day two, which was spent watching keynotes and meeting entrepreneurs (and investors) keen to pitch me their startups. I noticed that people actually sought me out in the hallways — “you’re the guy who writes Read/Write Web, aren’t you?” Sometimes I’d be approached by a young lady with an awkward-looking guy in tow. The woman invariably worked for a PR firm and the man was a startup founder looking for some press.
 
+![A cartoon drawn of me at the Web 2.0 Conference, October 2005](/assets/images/d1f5d47b-1e9d-458e-bbfa-5256ab205153_562x705.jpg)
+*A cartoon drawn of me at the Web 2.0 Conference, October 2005.*
+
 At the end of the day, I had some time to kill before the Swig party, so I headed to a nearby pub called ‘House of Shields.’ The night before, it had been the location of the [Web 1.0 Summit](https://laughingsquid.com/web-1-summit/) — a counter-programming event pitched at entrepreneurs who couldn’t afford the ticket price of the Web 2.0 Conference, or bloggers who weren’t on a Technorati list. As a still-young Generation Xer myself, I appreciated the irony and camaraderie of a bunch of outsiders poking fun at the new thing while playing drinking games based on a bygone era (the blink tag!). But I was also unironically enjoying the excitement of the main event, Web 2.0, so I had not gone to the Web 1.0 Summit booze-up. Perhaps I was afraid I’d be called a sell-out (a very Gen X concern).
+
+The bar had large, yellow-on-red fluorescent signage above its entrance: “House of Shields, Live Music.” Inside it was a rectangular shape, with the bar running across almost the entire downstairs floor. The room had a lot of wood paneling and basked in a dim orange glow, from a mixture of the fluorescent lights outside and the yellow lighting inside. There was an upstairs section too, with tables, but I was on my own to start with — I’d be meeting Josh Porter and the Irish lads here soon — and so I headed straight to the bar and sat on one of the stools.
 
 ![House of Shields exterior](/assets/images/79b85733-add5-40d2-a39e-cd35b308e969_1280x856.jpg "House of Shields exterior")
 *Photo [by Steve Rhodes](https://www.flickr.com/photos/ari/4102964213/).*
-
-The bar had large, yellow-on-red fluorescent signage above its entrance: “House of Shields, Live Music.” Inside it was a rectangular shape, with the bar running across almost the entire downstairs floor. The room had a lot of wood paneling and basked in a dim orange glow, from a mixture of the fluorescent lights outside and the yellow lighting inside. There was an upstairs section too, with tables, but I was on my own to start with — I’d be meeting Josh Porter and the Irish lads here soon — and so I headed straight to the bar and sat on one of the stools.
 
 Even though I wouldn’t be alone for long, the experience of sitting in a strange bar by myself, nursing an IPA, reminded me of something that had happened nearly a decade ago. Early 1996, I was 24 years old and living by myself in Auckland, New Zealand, in a one-bedroom flat in a run-down converted house. I was disconnected from people at that time in my life. I didn’t have internet — I could barely afford to feed myself — and nobody I knew owned a mobile phone. Even though I had little spending money, I was desperate to get out of my empty flat one Saturday night, so I caught a bus into the city. I didn’t know what I planned to do, but I had to do something. I’d just sat down in the bus when I heard a voice behind me.
 
@@ -81,8 +85,6 @@ On this, my first trip to the US, I hadn’t yet figured out how to get my primi
 Unbeknownst to me, a few months before the Web 2.0 Conference, Google had acquired a tiny startup named Android. The news had received almost no press and Google kept whatever they were building behind closed doors for a couple more years. As for Apple, Steve Jobs had publicly unveiled an “iTunes phone” in partnership with Motorola just weeks before I arrived in Silicon Valley. It was called the Motorola ROKR and [Jobs hated it](https://www.theverge.com/2017/6/13/15782200/one-device-secret-history-iphone-brian-merchant-book-excerpt). Fueled by that disappointment, Apple then committed to building a smartphone in-house.
 
 All of that was in the future, as I supped my beer at the House of Shields and waited for my friends to arrive — phoneless and lost in my own thought.
-
-*Lead image: A cartoon drawn of me at the Web 2.0 Conference, October 2005.*
 
 * * *
 

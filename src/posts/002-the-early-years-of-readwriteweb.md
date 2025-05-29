@@ -1,15 +1,18 @@
 ---
 title: 'Blogging in 2003–2004: The Early Years of ReadWriteWeb'
-description: "A naive young man from New Zealand explores the blogosphere with a weblog called 'Read/Write Web'."
+description: "ReadWriteWeb began as a Radio Userland weblog in April 2003. Its author was a naive young man from New Zealand, passionate about web technology and exploring the still nascent blogosphere."
 date: 2023-11-06
 permalink: "p/002-the-early-years-of-readwriteweb/"
 tags: ['web20', 'memoir', '2003', '2004']
-featureImage: "/assets/images/5fa25a2e-ef88-4fd7-9866-bf939acc998b_640x480.jpg"
+featureImage: "/assets/images/rww-2003-1024x576.jpg"
 ---
 
-![My weblog avatar in January 2004](/assets/images/5fa25a2e-ef88-4fd7-9866-bf939acc998b_640x480.jpg "My weblog avatar in January 2004"){loading="eager"}
+![Read/Write Web 2003](/assets/images/rww-2003-1024x576.jpg){loading="eager"}
 
 I was a long way from Silicon Valley at the beginning of 2004, both geographically and in frame of mind. I’d recently turned 32, had fine strawberry blond hair that I obsessively brushed to keep neat, innocent-looking blue eyes covered by a pair of rectangular, semi-rimless glasses, and a ginger goatee with neatly trimmed sideburns. For my blogger profile photo, I chose to use a selfie taken slightly from the side and with the photo cropped at my eyebrows, so that the top of my head was cut off. It accentuated my goatee and sideburns, and gave me a kind of Max Headroom look. This was several years before selfies became a trend, so in this photo I was not looking directly into the camera. I was too awkwardly shy to do that anyway. Instead, I’m self-consciously staring into the distance, as if I’m dreaming about what life must be like in California.
+
+![My weblog avatar in January 2004](/assets/images/5fa25a2e-ef88-4fd7-9866-bf939acc998b_640x480.jpg)
+*My weblog avatar in January 2004, age 32.*
 
 “I'm a writer, web technology analyst and web producer,” I [described myself](https://web.archive.org/web/20040114183039/http://www.readwriteweb.com/stories/2004/01/08/aboutMe2004.html) on my blog at the beginning of 2004. “The latter one pays the mortgage right now, but I'm working on increasing the influence of the first two in my career.” And that, I wrote, was where my weblog came in. At the time, I worked for Contact Energy, one of New Zealand’s leading power suppliers. As hinted at in my profile page, I found my day-job rather dull — I managed the internal and external websites of the company, using a mix of off-the-shelf content management system software and whatever web publishing products Microsoft and Macromedia had at the time. The topics I wrote about in my blog were many years away from being a part of corporate websites.
 
@@ -62,8 +65,6 @@ Already, though, I had noticed a dark underside to the nascent social web. For a
 *Blogging about blogging; a common activity in 2004. Via [Wayback Machine](https://web.archive.org/web/20040813165529/http://www.readwriteweb.com:80/archives/001795.php).*
 
 These were early warning signs of what social media would turn into in the 2010s, on a mass scale. But I put these premonitions of a darker side to Silicon Valley out of my mind. In 2004, as far as I was concerned, I was off to the races with my blog.
-
-*Lead image: My weblog avatar in January 2004, age 32.*
 
 * * *
 

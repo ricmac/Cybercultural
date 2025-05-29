@@ -1,17 +1,21 @@
 ---
-title: 'The First Web 2.0 Conference in 2004'
-description: "I tune into the 2004 Web 2.0 Conference and learn about network effects and data sharecroppers. Meanwhile, I conduct my first major interview as a tech blogger."
+title: 'The First Web 2.0 Conference in 2004: A New Bubble Begins'
+description: "I tune into the 2004 Web 2.0 Conference and learn about network effects and data sharecroppers. Meanwhile I conduct my first major interview as a tech blogger, with a former multimedia star."
 date: 2023-11-08
 permalink: "p/003-the-first-web-20-conference-2004/"
 tags: ['web20', 'memoir', '2004']
-featureImage: "/assets/images/500f92b7-24b9-4c9b-a99f-4940312596d5_1280x964.jpg"
+featureImage: "/assets/images/web2-conference-2004-1280x720.jpg"
 ---
 
-![Read/Write Web, 25 March 2004](/assets/images/c374b60f-7b0f-4b94-a4f3-c4ca0498f5e0_2320x1596.png "Read/Write Web, 25 March 2004"){loading="eager"}
+![From the first Web 2.0 Conference, 2004](/assets/images/web2-conference-2004-1280x720.jpg){loading="eager"}
+*A scene from the first Web 2.0 Conference in Silicon Valley, October 2004.*
 
 In-between trying to get linked to by an A-Lister in the blogosphere, I inadvertently turned myself into a journalist. In March 2004, I interviewed Marc Canter, a Silicon Valley resident who was internet famous in the 1980s. Twenty years prior, he’d co-founded MacroMind — a company that created multimedia software for the Apple Macintosh. Through a series of corporate maneuvers I didn’t understand at the time of the interview, by 1992 MacroMind had morphed into Macromedia. By that point, Canter had departed the company, but he’d be forever linked to Macromedia’s subsequent Dot Com success.
 
 During our phone call, I was won over by Canter’s loquacious charm and you can tell from [my writeup](https://web.archive.org/web/20040624214129/http://www.readwriteweb.com/archives/001818.php) that I was under his spell. I badly wanted to believe his tales of multimedia rock n’ roll parties in the 1980s — the blaring music, huge video projectors, beer in the bathtub, smoke-filled hotel suites, and rented Cadillacs. His constant name-dropping and preposterous comparisons (he likened early MacroMind to the 1962 Beatles in Hamburg) only served to fire up my imagination even more about Silicon Valley.
+
+![Read/Write Web, 25 March 2004](/assets/images/c374b60f-7b0f-4b94-a4f3-c4ca0498f5e0_2320x1596.png){loading="eager"}
+*Read/Write Web, [25 March 2004](https://web.archive.org/web/20040325005810/http://readwriteweb.com/) (just before Marc Canter interview).*
 
 I was also attracted to his talk about bootstrapping a cool startup and what it took to get such a company off the ground. “Every time I'd go do a demo or a speech somewhere,” he told me about the first years of MacroMind, “I’d bring a couple of cases of software and I'd sell it at the back of the room.”
 
@@ -92,8 +96,6 @@ Dodgy analogies aside, it was clear Andreessen aspired to become a data plantati
 He also sounded a warning that many people forgot about in the years to come, but would prove fatefully accurate. He pointed out that even a small startup that had an open policy on data now — as an example, he mentioned the trendy bookmarking service del&#46;icio&#46;us — could easily change its terms and conditions later, or implement technical restrictions that make it difficult to move your data. So even a company founded on the idea of open data could lock it down at any time (and indeed, this is basically what happened with Twitter in the early 2010s).
 
 Andreessen’s final comment in the Web 2.0 panel was to answer a question from the audience, from none other than Marc Canter, my new blog buddy. He wanted to know if Andreessen would put his financial support behind open data standards like [FOAF](https://twobithistory.org/2020/01/05/foaf.html) (the “Friend of a Friend” protocol). It’s not about the money, replied Andreessen. “The day the major social networking sites actually start to support it,” he said, referring to FOAF, “it'll have some relevance.” But, he added ominously, “there's nothing that can be done to coerce those companies into supporting it, other than end-user demand.”
-
-*Lead image: Read/Write Web, [25 March 2004](https://web.archive.org/web/20040325005810/http://readwriteweb.com/) (just before Marc Canter interview).*
 
 * * *
 

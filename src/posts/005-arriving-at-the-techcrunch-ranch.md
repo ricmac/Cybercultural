@@ -1,13 +1,14 @@
 ---
 title: 'Arriving at the TechCrunch Ranch As Web 2.0 Hype Begins'
-description: "My first trip to America in 2005, where I get to know the founder of a new blog called TechCrunch and the founder of a new aggregator called Techmeme."
+description: "My first trip to Silicon Valley in 2005 — when I get to know Mike Arrington, the founder of a new blog called TechCrunch, and Gabe Rivera, the founder of a new aggregator called Techmeme."
 date: 2023-11-15
 permalink: "p/005-arriving-at-the-techcrunch-ranch/"
 tags: ['web20', 'memoir', '2005']
-featureImage: "/assets/images/17177e5f-92c2-4622-a0c3-e20be441a46f_1637x1228.jpg"
+featureImage: "/assets/images/17177e5f-92c2-4622-a0c3-e20be441a46f_1280x720.jpg"
 ---
 
 ![At the TechCrunch ranch](/assets/images/17177e5f-92c2-4622-a0c3-e20be441a46f_1637x1228.jpg){loading="eager"}
+*For two weeks in October 2005, this room was where TechCrunch, Read/Write Web, WeBreakStuff and tech.memeorandum were published.*
 
 On a Friday afternoon at the end of September 2005, I stepped foot on American soil for the first time. I was greeted at San Francisco Airport by a big guy with tousled light brown hair, wearing a short-sleeved blue button up shirt hanging loose over a pair of cargo shorts. He was tall — about 6 foot 3, I guessed — so he towered over my 5 foot 8 frame. I remembered that Marc Andreessen was 6’3’ too, with the same large frame as this man, so I briefly wondered whether all Americans were this massive.
 
@@ -59,8 +60,6 @@ I had to admit, TechCrunch was a great name for a blog and also captured Mike’
 In person, Mike was also frank in his opinions — he wasn’t one of those tall people who slouched. He even said at one point during my stay, “I’m comfortable in my own skin.” I remember it clearly, because I felt the exact opposite at that time. As Mike became well-known in the tech industry over the next year or two, his self-confidence would often be mistaken for arrogance by other people. But I never felt that way towards him. He was a confident man, for sure, but he also had a wry sense of humor that told me he didn’t take himself too seriously.
 
 As for me, I was enjoying my new surroundings, but I still felt overwhelmed with newness and unsure of my status in Silicon Valley. One evening, while we were chatting alone in the back yard, Mike told me that he too was an introvert — it may not look like it, he said, but he often had to retreat to his bedroom to recharge his energy. I appreciated him telling me this, because it looked to me like he was already the alpha tech blogger, even if Technorati’s top 100 didn’t yet recognize it.
-
-*Lead image: For two weeks in October 2005, this room was where TechCrunch, Read/Write Web, WeBreakStuff and tech.memeorandum were published.*
 
 * * *
 

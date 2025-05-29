@@ -1,13 +1,14 @@
 ---
 title: 'Revving Up at the 2005 Web 2.0 Conference'
-description: "Day one of the 2005 Web 2.0 Conference, held at the Argent Hotel in San Francisco; including a meeting with the man himself, Tim O'Reilly."
+description: "I'm there for the opening day of the second annual Web 2.0 Conference, held at the Argent Hotel in San Francisco. Plus I get to meet Mr Web 2.0 himself, O'Reilly Media CEO Tim O'Reilly."
 date: 2023-11-20
 permalink: "p/006-revving-up-2005-web-20-conference/"
 tags: ['web20', 'memoir', '2005']
-featureImage: "/assets/images/29881ba3-77b3-47a3-90d5-a4d81521ed5b_800x600.jpg"
+featureImage: "/assets/images/29881ba3-77b3-47a3-90d5-a4d81521ed5b_1000x563.jpg"
 ---
 
-![My press badge for the Web 2.0 Conference, October 2005](/assets/images/29881ba3-77b3-47a3-90d5-a4d81521ed5b_800x600.jpg "My press badge for the Web 2.0 Conference, October 2005"){loading="eager"}
+![My press badge for the Web 2.0 Conference, October 2005](/assets/images/29881ba3-77b3-47a3-90d5-a4d81521ed5b_1000x563.jpg){loading="eager"}
+*My press badge for the Web 2.0 Conference, October 2005.*
 
 The Web 2.0 Conference kicked off on Wednesday, October 5, 2005, at The Argent Hotel on Third Street in San Francisco. I’d gone into the city on the Caltrain earlier in the week, to take in the sights of Haight St and familiarize myself with the Union Square area. But today would be my first experience of a tech event in America.
 
@@ -66,8 +67,6 @@ One of Tim’s design patterns was “Data is the Next Intel Inside,” which wa
 It was all heady stuff and Tim clearly had set ideas on what Web 2.0 should mean and how our book would help explain it to web designers and developers. It didn’t seem to matter to him what new ideas _we_ might bring to the table, and before we knew it, he was talking about some online publishing experiments the company might try out with our project. The words “the long snout” came out of his mouth, a phrase he repeated several times — it appeared to mean a possible new kind of wiki publishing arrangement, to complement the actual book. (A few months later, Tim would publish [an article](http://radar.oreilly.com/archives/2006/01/the-long-snout.html) propounding on his “long snout” theory, which had something to do with using the internet to publish early and often. I’ll be honest, I still don’t know what it means to this day.)
 
 Before we knew it, Josh and I had been shuffled out the door so that Tim could prepare for the next talk he’d be giving on-stage. Back outside, amidst the hubbub of the conference hall, we looked at each other quizzically. If anything, we were now even less sure about what our book was about, but there was plenty of time to sort through the details when we got back to our respective homes. For now, we each had a workshop we wanted to attend, so we parted ways.
-
-*Lead image: My press badge for the Web 2.0 Conference, October 2005.*
 
 * * *
 

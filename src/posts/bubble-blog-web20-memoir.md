@@ -1,13 +1,13 @@
 ---
 title: "Announcing Bubble Blog, My Web 2.0 Memoir"
-description: "Announcing my latest book, a memoir and internet history to be serialized on Cybercultural."
+description: "The announcement of my latest book, a memoir and internet history to be serialized on Cybercultural."
 date: 2023-10-30
 permalink: "p/bubble-blog-web20-memoir/"
 tags: ['web20', 'memoir']
 featureImage: "/assets/images/bubble-blog-cover-1280x720.jpg"
 ---
 
-![Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution](/assets/images/33d48ded-f999-4173-8440-9d752446428b_3400x2134.jpg "Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution"){loading="eager"}
+![Book cover: 'Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution'](/assets/images/33d48ded-f999-4173-8440-9d752446428b_3400x2134.jpg){loading="eager"}
 
 I’m excited to launch a project I’ve been working on for over a year now: a book called **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. I will be serializing the book here on Cybercultural, starting this week, and it will also be released as a paperback in 2024.
 
