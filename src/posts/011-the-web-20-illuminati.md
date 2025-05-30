@@ -1,13 +1,14 @@
 ---
-title: 'The Web 2.0 Illuminati; Are We in Another Internet Bubble?'
-description: "My cover as leader of the Web 2.0 Illuminati is blown by Supr.c.ilio.us at the end of 2005; also: I contemplate expanding ReadWriteWeb's business model."
+title: 'The Web 2.0 Illuminati: Are We in Another Internet Bubble?'
+description: "My cover as leader of the Web 2.0 Illuminati is blown in November 2005, while mainstream media reports on another internet bubble. Also, I contemplate expanding ReadWriteWeb's business."
 date: 2023-12-06
 permalink: "p/011-the-web-20-illuminati/"
 tags: ['web20', 'memoir', '2005']
-featureImage: "/assets/images/8702d00f-1066-4581-a67d-e494497a4473_1822x1338.jpg"
+featureImage: "/assets/images/8702d00f-1066-4581-a67d-e494497a4473_1280x720.jpg"
 ---
 
-![Richard MacManus = Illuminati (according to Supr.c.ilio.us in 2005)](/assets/images/8702d00f-1066-4581-a67d-e494497a4473_1822x1338.jpg){loading="eager"}
+![](/assets/images/8702d00f-1066-4581-a67d-e494497a4473_1280x720.jpg){loading="eager"}
+*Richard MacManus = Illuminati, according to Eran Globen and Ryan King from the Supr.c.ilio.us blog, November 2005.*
 
 By October 2005, I was making a reasonable living from the web as a freelancer. I’d quit my New Zealand day job in August and was now earning income from various web consulting gigs, as well as from my ZDNet blog (and a small portion from Read/WriteWeb itself). But if I did move to Silicon Valley, I knew I’d have to get a full-time job — I would need it in order to get a working visa.
 
@@ -81,7 +82,7 @@ However, I did think the term itself (Web 2.0) was increasingly problematic. The
 
 By the end of 2005, even I was tired of all the arguments about the terminology. I wrote a regrettable [post](https://web.archive.org/web/20051220074741/http://www.readwriteweb.com/archives/web_20_is_dead.php) entitled “Web 2.0 is dead. R.I.P.” Talk about biting the hand that fed me! A few days later, I tried to [explain myself](https://web.archive.org/web/20060102114509/http://www.readwriteweb.com/archives/phonethrowing_k.php). “The term has become too overblown and nebulous — and is holding us all back.” However, I promised that I would “continue to write about the technologies and impact of this current era of the Web.”
 
-And why wouldn’t I? The bubble was only just getting started ;)
+And why wouldn’t I? The bubble was only just getting started.
 
 ![From the business section of the San Francisco Chronicle, Friday, October 7, 2005](/assets/images/3e44d978-d500-4a9a-91d0-821df28ff97f_1280x1011.jpg "From the business section of the San Francisco Chronicle, Friday, October 7, 2005")
 *From the business section of the San Francisco Chronicle, Friday, October 7, 2005*

@@ -7,7 +7,7 @@ tags: ['web20', 'memoir', '2005']
 featureImage: "/assets/images/17177e5f-92c2-4622-a0c3-e20be441a46f_1280x720.jpg"
 ---
 
-![At the TechCrunch ranch](/assets/images/17177e5f-92c2-4622-a0c3-e20be441a46f_1637x1228.jpg){loading="eager"}
+![](/assets/images/17177e5f-92c2-4622-a0c3-e20be441a46f_1637x1228.jpg){loading="eager"}
 *For two weeks in October 2005, this room was where TechCrunch, Read/Write Web, WeBreakStuff and tech.memeorandum were published.*
 
 On a Friday afternoon at the end of September 2005, I stepped foot on American soil for the first time. I was greeted at San Francisco Airport by a big guy with tousled light brown hair, wearing a short-sleeved blue button up shirt hanging loose over a pair of cargo shorts. He was tall — about 6 foot 3, I guessed — so he towered over my 5 foot 8 frame. I remembered that Marc Andreessen was 6’3’ too, with the same large frame as this man, so I briefly wondered whether all Americans were this massive.

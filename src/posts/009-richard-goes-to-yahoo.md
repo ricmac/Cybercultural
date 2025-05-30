@@ -1,13 +1,14 @@
 ---
-title: 'Richard Goes to Yahoo! Talking RSS and Blogging in 2005'
-description: "On a sunny, cloudless day in October 2005, I visit the gleaming yellow and purple Yahoo! campus to talk RSS and blogging with the company's resident bloggers."
+title: 'Richard Goes to Yahoo! — Talking RSS and Blogging in 2005'
+description: "On a cloudless day in October 2005, a week after the Web 2.0 Conference, I visit the gleaming yellow and purple Yahoo! campus to talk RSS and blogging with the company's resident bloggers."
 date: 2023-11-29
 permalink: "p/009-richard-goes-to-yahoo/"
 tags: ['web20', 'memoir', '2005']
-featureImage: "/assets/images/cdbb72de-7f87-4153-b670-94087d30c792_640x480.jpg"
+featureImage: "/assets/images/me-at-yahoo-2005-1000x563.jpg"
 ---
 
-![Me at the Yahoo! campus, 10 October 2005](/assets/images/cdbb72de-7f87-4153-b670-94087d30c792_640x480.jpg "Me at the Yahoo! campus, 10 October 2005"){loading="eager"}
+![](/assets/images/me-at-yahoo-2005-1000x750.jpg){loading="eager"}
+*Me at the Yahoo! cafe, URL’s, on 10 October 2005; photo [by Jeremy Zawodny](https://www.flickr.com/photos/jzawodn/51348982/).*
 
 Earlier in 2005, I had made some contacts inside of Yahoo! and had begun to think about trying for a job there. One of my contacts was a search engine executive named Elizabeth Osder, and I’d told her my dream gig on the internet would be web strategist / blogger, with input into product design. She replied that I “might find a gig in strategy for a web company” and promised to ask around inside Yahoo. She also wanted to know about my experiences running ads in my RSS feeds, so there was some quid pro quo going on in these early emails.
 
@@ -71,8 +72,6 @@ During our conversation, Jeremy was a little dismissive of Yahoo’s competitors
 We also talked that morning about blogs becoming mainstream, which was part of Yahoo’s strategy for employees like Jeremy, Scott and Havi. “The features that make blogs what they are (on-page discussion, chronological sorting, generous linking) will work themselves into ‘non-blog’ sites more and more in the coming months,” Jeremy wrote in [a post](https://web.archive.org/web/20051107091446/http://jeremy.zawodny.com/blog/archives/005516.html) the day after meeting me.
 
 In hindsight, he was only partially right — blogs and RSS eventually gave way to social media and feeds. And of course Yahoo was soon eclipsed as a platform for those things by both Google and Microsoft (as well as Apple, Facebook and Amazon). But it was also true that, in 2005, bloggers were the flag-bearers of the new social web. We were, as Jeremy put it in the same post (albeit in sarcastic air quotes), “special.” The fact I’d been invited to the Yahoo campus at all signaled that I was at the forefront of a movement — and perhaps on my way becoming a Silicon Valley insider.
-
-*Lead image: Me at the Yahoo! campus, 10 October 2005; photo [by Jeremy Zawodny](https://www.flickr.com/photos/jzawodn/51348982/).*
 
 * * *
 

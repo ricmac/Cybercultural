@@ -1,13 +1,14 @@
 ---
-title: 'Microsoft Search Champs and the Gift Basket; January 2006'
-description: "I fly to Seattle for Microsoft Search Champs and to meet up again with my blog buddies. But there's a problem: no gift basket..."
+title: 'Microsoft Search Champs and the Gift Basket, January 2006'
+description: "I fly to Seattle for Microsoft Search Champs and to meet up again with my blog buddies. But there's a problem: no gift basket! Later I meet Erik Benson at the office of his startup, The Robot Co-op."
 date: 2023-12-13
 permalink: "p/012-gift-basket-seattle-january-2006/"
 tags: ['web20', 'memoir', '2006']
-featureImage: "/assets/images/fc79d690-3a0c-43d3-bbe9-92799b4cfda7_799x533.jpg"
+featureImage: "/assets/images/ric-josh-seattle-library-jan2006.jpg"
 ---
 
-![Josh Porter and I at the Seattle Central Library](/assets/images/fc79d690-3a0c-43d3-bbe9-92799b4cfda7_799x533.jpg "Josh Porter and I at the Seattle Central Library"){loading="eager"}
+![](/assets/images/ric-josh-seattle-library-jan2006.jpg){loading="eager"}
+*Josh Porter and Richard MacManus at the Seattle Central Library; photo [by Fred Oliveira](https://www.flickr.com/photos/webreakstuff/95892538).*
 
 In the second week of January 2006, I got married to my partner of nine years, Maria. We had a 4-year old daughter, Rosabelle, who was one of the flower girls at the ceremony. The following week, I was on a plane to the United States again — but not on my honeymoon. I’d been offered a place in Microsoft Search Champs, an invitation-only event to be held at Microsoft’s headquarters in Redmond. Microsoft was paying for my travel and accommodation, so it was too good an opportunity to pass up. What web geek wouldn’t want to visit the setting of _Microserfs_, Douglas Coupland’s famous 1990s novel about Microsoft developers?
 
@@ -66,8 +67,6 @@ Upstairs in The Robot Co-op office, we met the other members of the team, includ
 *[Erik’s photo](https://www.flickr.com/photos/erikbenson/90820805/in/dateposted/) of Fred and I.*
 
 Before we left, I promised to try and make it to the Andy Warhol-themed party Erik was holding the following evening at [The Hideout](https://web.archive.org/web/20060201050430/http://ricmac.43people.com/). In the meantime, Fred and I needed to get back to the hotel to prepare for the Search Champs welcome party, being held at the nearby Chapel Bar.
-
-*Lead image: Josh Porter and I at the Seattle Central Library; photo [by Fred Oliveira](https://www.flickr.com/photos/webreakstuff/95892538).*
 
 * * *
 

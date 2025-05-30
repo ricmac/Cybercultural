@@ -1,13 +1,14 @@
 ---
 title: 'Spicy Noodles: Dave Winer and the Web 2.0 Workgroup'
-description: "The Web 2.0 Workgroup forms, and I meet one of my web heroes: Dave Winer. Also, Techmeme's Gabe Rivera and I talk about our nascent web businesses."
+description: "The Web 2.0 Workgroup forms and I meet one of my web heroes: Dave Winer, the creator of RSS 2.0. Also, Techmeme's Gabe Rivera and I talk about our nascent web businesses."
 date: 2023-12-04
 permalink: "p/010-spicy-noodles/"
 tags: ['web20', 'memoir', '2005']
-featureImage: "/assets/images/5f0cf3d8-28af-4f7c-ab78-350ffe501156_2272x1704.jpg"
+featureImage: "/assets/images/web20-workgroup-spicy-noodles-2005.jpg"
 ---
 
-![Celebrating the Web 2.0 Workgroup at Jing Jing, in Palo Alto.](/assets/images/5f0cf3d8-28af-4f7c-ab78-350ffe501156_2272x1704.jpg "Celebrating the Web 2.0 Workgroup at Jing Jing, in Palo Alto."){loading="eager"}
+![](/assets/images/web20-workgroup-spicy-noodles-2005.jpg "Celebrating the Web 2.0 Workgroup at Jing Jing, in Palo Alto."){loading="eager"}
+*Celebrating the formation of the Web 2.0 Workgroup at Jing Jing, Palo Alto. From left to right: Gabe Rivera, Dave Winer, me, Mike Arrington, Fred Oliveira; photo by Dave Winer.*
 
 During my stay at the TechCrunch ranch, Mike Arrington, Fred Oliveira and I had been discussing how to better team up. At the time, creating a network of blogs was a trend — in August, I’d joined the [9Rules network](https://web.archive.org/web/20060508060801/http://www.readwriteweb.com/archives/9rules_network.php), a community of web design-focused blogs. I’d joined it mainly because of their revenue-sharing advertising network, but also to help me connect with more of the design community. It turned out the 9Rules network was more useful for swapping contacts (I was introduced to my next web host through them), but I earned very little income from it. Nevertheless, the idea had been planted in my head that blogs banding together could be useful. So during my Silicon Valley trip, Mike, Fred and I decided to create our own network: the Web 2.0 Workgroup.
 
@@ -68,8 +69,6 @@ We also chatted a couple of times over burgers at a local joint in Atherton or M
 Mike had told me my blog was worth a million dollars, based on what Jason Calacanis got for Weblogs, Inc. Blog valuations was a topic of discussion in the tech blogosphere at the time, and another blogger had also pegged the value of RWW at [$1 million](https://web.archive.org/web/20051211143316/http://www.readwriteweb.com/archives/my_million_doll.php). Although I was starting to realize that my blog did have value, I was still thinking too small at that stage — I thought RWW was primarily useful to me as a networking tool, a way to meet people in Silicon Valley. But I knew that Mike was considering a VC infusion to expand TechCrunch, just because he was friends with a bunch of those people. So in the back of my mind, I was slowly coming to terms with RWW potentially being more than just a part-time income.
 
 As for Gabe, he used sarcasm a lot to deflect serious conversations, but I could tell even at this very early stage that his only ambition was to build a self-sustaining business. Tech.memeorandum was fully automated at this point, so another thing we discussed was how he’d continue to iterate on the product. I was surprised when he said he was open to adding human curation — but, again, that is what he ended up doing a year or two later.
-
-*Lead image: Celebrating the Web 2.0 Workgroup at Jing Jing, in Palo Alto. From left to right: Gabe Rivera, Dave Winer, me, Mike Arrington, Fred Oliveira; photo by Dave Winer.*
 
 * * *
 
