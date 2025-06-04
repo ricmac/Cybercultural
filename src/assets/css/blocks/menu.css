@@ -163,3 +163,13 @@ nav.navbar .dropdown:hover .dropdown-menu {
     transform: translateY(0);
   }
 }
+
+/* Footer social icons hover effect */
+nav#social a svg path {
+  fill: #ffffff;
+  transition: fill 0.3s ease;
+}
+
+nav#social a:hover svg path {
+  fill: #b80103;
+}

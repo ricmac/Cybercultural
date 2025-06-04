@@ -5,9 +5,11 @@ description: About Cybercultural — Internet History and Its Impact on Our Cult
 layout: page
 ---
 
-[Cybercultural](https://cybercultural.com/) is a website about **internet history and its impact on our culture**. It was founded in 2019 by [Richard MacManus](https://ricmac.org/) (@ricmac). 
+[Cybercultural](https://cybercultural.com/) is a website about **internet history and its impact on our culture**. It was founded in 2019 by [Richard MacManus](https://ricmac.org/) (@ricmac on [Mastodon](https://mastodon.social/@ricmac) and [Bluesky](https://bsky.app/profile/ricmac.cybercultural.com)).
 
 MacManus was the founder and Editor-in-Chief of [ReadWriteWeb](https://ricmac.org/career-archive/readwriteweb/) (RWW), a pioneering tech blog from 2003-2012. RWW was ranked among the top 10 blogs in the world by Technorati and was syndicated by The New York Times.
+
+This website is custom built with <a href="https://www.11ty.dev/" target="_blank">Eleventy</a> and email newsletters are delivered <a href="https://buttondown.com/ricmac">via Buttondown</a>.
 
 <script src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script>kofiwidget2.init('Support me on Ko-fi', '#b80103', 'F1F61AI58P');kofiwidget2.draw();</script> 
 

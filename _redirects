@@ -3,8 +3,9 @@
 /feed/ /feed.xml 301
 
 # Eleventy site changed menu names
-/personal* /blog 301
-/misc* /blog 301
+/personal* /notes 301
+/misc* /notes 301
+/blog* /notes 301
 /donate* /subscribe 301
 
 # Substack main menu redirects

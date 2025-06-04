@@ -4,7 +4,7 @@ permalink: /wdh/timeline.html
 description: Timeline of 1990s web development history
 layout: page
 ---
-Almost every post published on Web Development History (WDH) was focused on a specific year. So you can read through them chronologically if you wish, here on Cybercultural.
+A chronological list of articles migrated from my previous website, Web Development History (WDH), which was active during 2021.
 
 Pre-History
 -----------
