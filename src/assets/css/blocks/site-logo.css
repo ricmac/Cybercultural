@@ -37,6 +37,13 @@
     box-sizing: border-box;
   }
 
+  @media (max-width: 600px) {
+  .site-head {
+    padding-inline: 1rem;
+    box-sizing: border-box;
+  }
+}
+
   .site-head__brand {
     margin-left: 0;
     text-align: left;
