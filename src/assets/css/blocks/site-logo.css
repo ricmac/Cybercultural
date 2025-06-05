@@ -39,7 +39,7 @@
 
   @media (max-width: 600px) {
   .site-head {
-    padding-inline: 1rem;
+    padding-inline: 14px;
     box-sizing: border-box;
   }
 }
