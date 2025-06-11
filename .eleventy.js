@@ -126,7 +126,7 @@ export default function(eleventyConfig) {
         return post.data.tags && (
           post.data.tags.includes("web20") ||
           post.data.tags.includes("dotcom") ||
-          post.data.tags.includes("blog") ||
+          post.data.tags.includes("notes") ||
           post.data.tags.includes("enshittocene") ||
           post.data.tags.includes("preweb") ||
           post.data.tags.includes("memoir") ||
