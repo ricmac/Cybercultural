@@ -1,13 +1,13 @@
 ---
 title: 'Gnomedex 2006 and My Corporate Blogging Adventure'
-description: "I visit Seattle for the second time in 2006, for Gnomedex; also, I co-found another workgroup and company, this time based on the term 'Media 2.0'."
+description: "I visit Seattle for the second time in 2006, for Gnomedex — one of the more fun tech conferences on the circuit. Also, I co-found another workgroup and company, this time based on the term 'Media 2.0'."
 date: 2024-01-23
 permalink: "p/017-gnomedex-2006-corporate-blogging/"
 tags: ['web20', 'memoir', '2006']
-featureImage: "/assets/images/21988a7d-3e79-40a3-8a6c-784b4fc8df8a_2048x1536.jpg"
+featureImage: "/assets/images/21988a7d-3e79-40a3-8a6c-784b4fc8df8a_1280x720.jpg"
 ---          
 
-![At Gnomedex, 2 July 2006](/assets/images/21988a7d-3e79-40a3-8a6c-784b4fc8df8a_2048x1536.jpg "At Gnomedex, 2 July 2006"){loading="eager"}
+![At Gnomedex, 2 July 2006](/assets/images/21988a7d-3e79-40a3-8a6c-784b4fc8df8a_1280x850.jpg){loading="eager"}
 
 At the end of June, 2006, I boarded a flight to Seattle for Chris Pirillo’s Gnomedex conference. For the [second time](/p/012-gift-basket-seattle-january-2006), I got lucky with the weather in Seattle—it was the middle of summer and gloriously sunny. The event was being held at the Bell Harbor Convention Center, right on the waterfront, and I was staying at a nearby hotel.
 
@@ -26,7 +26,11 @@ Another Gnomedex session that stood out for me was run by Ethan Kaplan, who work
 ![Dave Dederer from the band the Presidents of the United States of America](/assets/images/867d7f88-2d06-4d1a-92b1-14408cb3ac3f_1154x1043.jpg "Dave Dederer from the band the Presidents of the United States of America")
 *Dave Dederer from the band the Presidents of the United States of America; photo [by Niall Kennedy](https://www.flickr.com/photos/niallkennedy/178687230)*
 
-On Friday, I took a break from Gnomedex festivities to attend a dinner organized by the Yahoo! Publisher Network at Tulio on Fifth Avenue. It was pitched to me as “an intimate gathering of some fellow Yahoo’s and industry thought leaders (like yourself) to break bread and discuss the state of technology and the Internet.” It was, however, forgettable, in part because I no longer had any career ambitions with the company. Back in March, I’d flown to Sydney to interview for a job at Yahoo!7, a joint company formed by Yahoo and an Australian media network called Seven. The job title was Consumer Insights Manager, but it turned out they weren’t very interested in the insights part. In the rejection email, I was told I had “a very strong background and incredible mind,” but that two other candidates had “a better personality match for the role.” Once again, my introversion and social awkwardness had killed off a career opportunity. Fortunately, those were two aspects of my personality that I could effectively hide—or overcome through the written word—on my blog and in the virtual consulting work I did. My meeting with Ben Horowitz and Caterina Fake [at Supernova](/p/016-the-core-values-of-blogging) had further disabused me of the notion that I had a special relationship with Yahoo. The company just wanted me to blog about their latest news. This helped me realize, once and for all, that Read/WriteWeb was my key asset going forward—and that I needed to spend more time on it, rather than try and land a nine-to-five job.
+On Friday, I took a break from Gnomedex festivities to attend a dinner organized by the Yahoo! Publisher Network at Tulio on Fifth Avenue. It was pitched to me as “an intimate gathering of some fellow Yahoo’s and industry thought leaders (like yourself) to break bread and discuss the state of technology and the Internet.” It was, however, forgettable, in part because I no longer had any career ambitions with the company. 
+
+Back in March, I’d flown to Sydney to interview for a job at Yahoo!7, a joint company formed by Yahoo and an Australian media network called Seven. The job title was Consumer Insights Manager, but it turned out they weren’t very interested in the insights part. In the rejection email, I was told I had “a very strong background and incredible mind,” but that two other candidates had “a better personality match for the role.” Once again, my introversion and social awkwardness had killed off a career opportunity. 
+
+Fortunately, those were two aspects of my personality that I could effectively hide—or overcome through the written word—on my blog and in the virtual consulting work I did. My meeting with Ben Horowitz and Caterina Fake [at Supernova](/p/016-the-core-values-of-blogging) had further disabused me of the notion that I had a special relationship with Yahoo. The company just wanted me to blog about their latest news. This helped me realize, once and for all, that Read/WriteWeb was my key asset going forward—and that I needed to spend more time on it, rather than try and land a nine-to-five job.
 
 ![Me at Gnomedex, 2 July 2006](/assets/images/e41f089b-822a-4f81-a8d3-4d67e7f4375a_800x869.jpg "Me at Gnomedex, 2 July 2006")
 *Me at Gnomedex, 2 July 2006; photo [by Ben Metcalfe](https://www.flickr.com/photos/dotben/181336380)*
@@ -35,7 +39,7 @@ My notebooks from this time are full of plans for Read/WriteWeb—my goal now wa
 
 Part of my renewed strategy for RWW was to increase my daily content, “using shorter, more easily consumable posts,” and to “build community” by interacting with readers in the comments. There was definitely momentum with RWW by this point, however I still wasn’t all-in on it. I had one other external project on the go at this time, and it demanded a decent chunk of my time.
 
-* * *
+## Media 2.0
 
 It was a comment left on my blog at the beginning of 2006 that led me to cofound a new company. It was from a guy named Michael Bayler, who was based in London and ran a blog called [The Rights Marketing Company](https://web.archive.org/web/20060111004703/http://rightsmarketing.wordpress.com/). It had post titles like “Media strategy predictions for 2006” and “Music Industry 2.0—read this and understand.” The content piqued my interest, so I replied to the email notification, and soon Michael and I were chatting about business opportunities.
 

@@ -1,13 +1,13 @@
 ---
 title: "Lou Reed and the 2006 Web 2.0 Summit"
-description: "At the Web 2.0 Summit in November 2006, I get advice about my growing blog business, miss a breakfast meeting with a VC, and get my ears blown out by Lou Reed."
+description: "At the Web 2.0 Summit, I get advice about my growing blog business, miss a breakfast meeting with a VC, and get my ears blown out by Lou Reed. The business opportunities of Web 2.0 are opening up."
 date: 2024-02-06
 permalink: "p/019-web20-summit-2006-lou-reed/"
 tags: ['web20', 'memoir', '2006']
-featureImage: "/assets/images/lou_reed_web2summit.jpg"
+featureImage: "/assets/images/293079679_18424a6db4_o-1280x720.jpg"
 ---
 
-![Lou Reed at the Web 2.0 Summit, November 2006](/assets/images/lou_reed_web2summit.jpg "Lou Reed at the Web 2.0 Summit, November 2006"){loading="eager"}
+![Lou Reed at the Web 2.0 Summit, November 2006](/assets/images/293079679_18424a6db4_o-1280x847.jpg){loading="eager"}
 
 In early November I was back in Silicon Valley to attend the annual Web 2.0 Conference, now renamed [Web 2.0 Summit](https://web.archive.org/web/20061117001926/http://www.web2summit.com/), and with the [theme](https://en.wikipedia.org/wiki/Web_2.0_Summit) of “Disruption & Opportunity.” The name change was because the organizers, O’Reilly Media and John Battelle, were [expanding](https://web.archive.org/web/20070101172635/http://www.prnewswire.com/cgi-bin/stories.pl?ACCT=104&STORY=/www/story/11-07-2006/0004468818&EDATE=) and had added a companion trade show, Web 2.0 Expo, that was to launch the following year. It was a sign of the times: by November 2006 lots of business opportunities were opening up in the Web 2.0 ecosystem. 
 

@@ -1,13 +1,13 @@
 ---
 title: 'Digg and the Power Laws of Silicon Valley in 2006'
-description: "It's 2006 and there is a lot of controversy about the power wielded at 'user generated content' aggregators like Digg, Reddit and Netscape 2.0."
+description: "In 2006 there is controversy about the power of 'user generated content' aggregators like Digg, Reddit and Netscape 2.0. The power-law dynamic applies equally to users and content creators."
 date: 2024-01-09
 permalink: "p/015-digg-power-laws-of-silicon-valley/"
 tags: ['web20', 'memoir', '2006']
-featureImage: "/assets/images/a75d9528-09fb-4a81-9ffc-4f8127ccab34_1200x800.jpg"
+featureImage: "/assets/images/173085670_dd858e316b_o-1200x675.jpg"
 ---
 
-![Digg CEO Kevin Rose at the Digg 3.0 launch party, June 2006](/assets/images/a75d9528-09fb-4a81-9ffc-4f8127ccab34_1200x800.jpg "Digg CEO Kevin Rose at the Digg 3.0 launch party, June 2006"){loading="eager"}
+![Digg CEO Kevin Rose at the Digg 3.0 launch party, June 2006](/assets/images/173085670_dd858e316b_o-1200x675.jpg){loading="eager"}
 
 In June 2006 I flew to San Francisco for my third US trip. I arrived at SFO just after midday on Monday, June 19, after another sleepless twelve-hour flight from New Zealand. Mike Arrington was hosting me at his place in Atherton again, for which I was grateful. I’d also asked if he could pick me up from the airport, and he’d asked an assistant to calendar it. But when the time came, he wasn’t there to greet me. I waited around with my luggage for about an hour and a half, every now and then ringing Mike’s phone from an airport payphone. I kept getting his voice mail.
 

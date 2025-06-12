@@ -1,14 +1,13 @@
 ---
 title: "Read/WriteWeb Network Launches Amid iPhone Debut"
-description: "Soon after Steve Jobs announces the iPhone in January 2007, I hire my first paid writer 
-for Read/WriteWeb and launch a blog network."
+description: "Soon after Steve Jobs announces the iPhone in January 2007, I hire my first paid writer for Read/WriteWeb and launch a blog network. The new blogs are last100, about digital lifestyle, and AltSearchEngines."
 date: 2024-02-20
 permalink: "p/021-iphone-debut-2007-rww-network/"
 tags: ['web20', 'memoir', '2007']
-featureImage: "/assets/images/rww_iphone_debut_jan07.jpg"
+featureImage: "/assets/images/rww_iphone_debut_jan07-1280x720.jpg"
 ---
 
-![Read/WriteWeb blog post after the iPhone was announced in January 2007.](/assets/images/rww_iphone_debut_jan07.jpg "Read/WriteWeb blog post after the iPhone was announced in January 2007."){loading="eager"}
+![Read/WriteWeb blog post after the iPhone was announced in January 2007.](/assets/images/rww_iphone_debut_jan07.jpg){loading="eager"}
 
 There had been rumors of a combined phone and iPod device coming from Apple, but what Steve Jobs [announced](https://www.youtube.com/watch?v=wGoM_wVrwng) at Macworld on January 9, 2007, blasted away all expectations. Using his trademark showmanship, Jobs calmly announced that Apple was “introducing three revolutionary products,” which he described as an iPod, a mobile phone, and an internet communicator. He repeated these three ingredients several times, slowly building the anticipation and eliciting whoops and anxious laughter from the audience. Then he delivered the punchline: “These are not three separate devices; this is one device—and we are calling it iPhone.”
 
@@ -29,8 +28,6 @@ Interestingly, just a week after the iPhone announcement, we saw a glimpse of th
 The iPhone was eventually released in the United States at the end of June 2007, but it wasn’t available anywhere else in the world at that time. I had to wait till October, when I attended the Web 2.0 Summit, to buy one. I also had to “unlock” the iPhone before I could use it on my local mobile-phone network, which I did as soon as I got back to New Zealand. I needed tech help to do it, as it involved “jailbreaking” it, installing Secure Shell, resetting the root user’s password, and all manner of other geekery.
 
 Since the iPhone wasn’t widely available outside the States until July 2008, with the global launch of the second-generation iPhone (as well as the App Store), 2007 was a transition year for the smartphone revolution. Apple had opened the door to a mobile future with its January 2007 announcement and mid-year US release, but Web 2.0 remained focused on desktop computer users for the remainder of that year. 
-
-
 
 Meanwhile, Read/WriteWeb continued to ramp up, with January 2007 my highest-traffic month ever. RWW got around six hundred thousand page views and had more than fifty thousand RSS and email subscribers by the end of the month. Soon after, I got my first newspaper writeup in my home country: the *New Zealand Herald* published [a profile of me](https://web.archive.org/web/20111020011254/http://www.nzherald.co.nz/business/news/article.cfm?c_id=3&objectid=10424632) in early February 2007.
 

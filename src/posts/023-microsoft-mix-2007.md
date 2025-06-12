@@ -1,20 +1,18 @@
 ---
-title: "Las Vegas and the MIX Conference 2007"
-description: "I travel to Vegas for a Microsoft web conference. Meanwhile, Read/WriteWeb doubles traffic and breaks into the Technorati top 30."
+title: "Las Vegas and the Microsoft MIX Conference 2007"
+description: "I travel to Vegas, where I learn about 'rich internet applications' and Microsoft's Flash alternative, Silverlight. Meanwhile, Read/WriteWeb doubles traffic and breaks into the Technorati top 30."
 date: 2024-03-05
 permalink: "p/023-microsoft-mix-2007/"
 tags: ['web20', 'memoir', '2007']
-featureImage: "/assets/images/ricmac_vegas_2007.jpg"
+featureImage: "/assets/images/ricmac_vegas_2007-1280x720.jpg"
 ---
 
-![Facebook Week on ReadWriteWeb, July 2007](/assets/images/facebookweek_july2007.jpg){loading="eager"}
+![Me in Vegas](/assets/images/ricmac_vegas_2007-1280x720.jpg){loading="eager"}
+*Stranger in a strange land; me at The Venetian, 28 April, 2007.*
 
 After the Web 2.0 Expo, it was off to Las Vegas for Microsoft’s MIX conference, an event to promote the company’s web technologies. My travel, including accommodations at the Venetian on the Strip, was being paid for by Microsoft New Zealand. My wife flew over from NZ to join me for the Vegas trip, which I was able to pay for thanks to Read/WriteWeb's current profitability.
 
 When we arrived at the Venetian, I was at first impressed by its sense of grandeur. The hotel had only opened in 1999, so it felt brand new with its polished stone floors, gleaming white granite columns, and golden roof with copies of old Italian art. Of course, I soon gathered that everything in the complex was copied from Venice, including a version of St. Mark’s Square (with a large ice-cream shop at its center), replica sculptures, staff members dressed as statues, and gondola rides offered on canals within the walls of the hotel. At that time I had never visited Venice or anywhere else in continental Europe, so I had nothing to compare it to. Even so, it all felt like a giant fraud, which made my heart quietly sink during that first day. I realized that I wanted to see the real things, to feel what life was like in the real Venice. I resolved to make that happen one day.
-
-![Me in Vegas](/assets/images/ricmac_vegas_2007.jpg)
-*Stranger in a strange land; me at The Venetian, 28 April, 2007.*
 
 The other thing that hit me about Las Vegas was the extreme heat. It wasn’t even summer yet, but walking outside during the day was almost unbearable. Fortunately, I’d be spending most of my days in the air-conditioned Venetian conference center.
 
@@ -39,7 +37,7 @@ Ozzie replied that Microsoft was creating a platform for developers to build com
 
 As the assembled bloggers were walking out of the lunchroom, I struck up a conversation with Williams. I mentioned that I’d joined Twitter the previous month and was enjoying it, but that someone was squatting on the @readwriteweb handle. He replied with a smile that the @rww username was actually better because it was shorter, which made it easier for other users to @ me. That was the last time I complained about the squatter.
 
-
+## RWW Business Expansion
  
 When I was back in New Zealand, I emailed Emily Chang and Max Kiesler to ask if Ideacodes would be interested in doing the next Read/WriteWeb redesign. Among other things, I wanted to “find a better solution for the ads, lists, network links, etc.” in the header and sidebar areas. I knew the redesign would have to scale with RWW’s growth, including the new network blogs. Emily wrote back saying they were keen to take on the work.
 
@@ -52,10 +50,13 @@ The Web 2.0 industry was now big business. This was confirmed by the sale of two
 
 As if to emphasize that web business was expanding at great speed, [Facebook announced a developer platform](https://web.archive.org/web/20070527115417/http://www.readwriteweb.com/archives/facebook_grows_up.php) in May that enabled third-party companies to integrate their services inside the fast-growing social network. This was the news that finally impelled me to join Facebook! It’s strange to think now, but at the time Facebook was not the most popular social network on the internet—particularly outside of the United States. Facebook had twenty-four million global users at its platform launch, but it was far behind MySpace [at sixty-seven million](https://www.nytimes.com/2007/05/25/technology/25social.html?ex=1337745600&en=f2f174b3138314fe&ei=5088&partner=rssnyt&emc=rss). Indeed, in some countries, Facebook was the third biggest social network (in the UK, [Bebo was more popular](https://www.zdnet.com/article/bebo-overtakes-myspace-in-the-uk/) than MySpace). 
 
-![RWW Facebook group](/assets/images/facebook_rww_jul2007.png)
-*In July 2007, I set up a RWW group on Facebook.*
+![Facebook Week on ReadWriteWeb, July 2007](/assets/images/facebookweek_july2007.jpg)
+*By mid-2007, Facebook was a big focus of attention in Web 2.0.*
 
 But part of the new appeal of Facebook was that third-party developers could potentially make money from their apps, thanks to the developer platform. “You can build a real advertising business on Facebook,” Mark Zuckerberg told developers and journalists. As I put it in my blog post about the launch, Facebook had “grown up”—it was obviously now much more than a social network for American college students.
+
+![RWW Facebook group](/assets/images/facebook_rww_jul2007.png)
+*In July 2007, I set up a RWW group on Facebook.*
 
 RWW continued to grow rapidly in terms of page views and subscribers. By mid-2007 it was among [the world’s top 30 blogs](https://web.archive.org/web/20070624124649/http://www.technorati.com:80/pop/blogs), according to Technorati’s list of “the biggest blogs in the blogosphere, as measured by unique links in the last six months.” Heading into the second half of 2007, RWW was at number 29—nestled just behind Gawker and in front of Instapundit. I was now ahead of GigaOm (33), although Mashable had overtaken me and, at number 17, was within range of competing with the mighty TechCrunch (4).
 

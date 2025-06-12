@@ -1,20 +1,21 @@
 ---
-title: "Read/WriteWeb Makes Key Hire & I Meet Hustle Culture"
-description: "Marshall Kirkpatrick joins Read/WriteWeb in September 2007. The following month, I attend the Web 2.0 Summit and experience the start of hustle culture."
+title: "Read/WriteWeb Makes Key Hire and I Meet Hustle Culture"
+description: "Marshall Kirkpatrick joins Read/WriteWeb in September 2007. The following month, I attend the Web 2.0 Summit and experience the start of hustle culture when I meet Gary Vaynerchuk."
 date: 2024-03-12
 permalink: "p/024-readwriteweb-key-hire-hustle-culture/"
 tags: ['web20', 'memoir', '2007']
-featureImage: "/assets/images/1622036248_c02d6f9068_o.jpg"
+featureImage: "/assets/images/1622036248_c02d6f9068_o-1280x720.jpg"
 ---
 
-![MySpace party at Web 2.0 Summit](/assets/images/1622036248_c02d6f9068_o.jpg){loading="eager"}
+![MySpace party at Web 2.0 Summit](/assets/images/1622036248_c02d6f9068_o-1280x720.jpg){loading="eager"}
+*MySpace party during the 2007 Web 2.0 Summit; from left to right: Prashant Agarwal, me, Sean Ammirati; photo [by Brian Solis](https://www.flickr.com/photos/briansolis/1622036248).*
 
 In August 2007, I began discussions with Marshall Kirkpatrick, a former TechCrunch lead blogger who was now working for a marketing company. Marshall was from Portland and working for a local company called SplashCast when I reached out to him by email. I asked if he knew of any freelance bloggers who might like to work for Read/WriteWeb for around twenty hours per week. He emailed back, suggesting himself. It turned out he was thinking of leaving SplashCast to do consulting work, so he was open to another blogging gig. “If it’s not me in particular that you’re looking for, I’ve got a list of more than 30 bloggers now looking for blogging gigs, some of them very accomplished,” he added.
 
 Of course, I was looking for someone exactly like Marshall—he’d started out his tech blogging career in October 2005 working for AOL’s social software blog (under Jason Calacanis) and then went to TechCrunch for a six-month stint in mid-2006. Other than myself and other pioneering tech bloggers like Mike Arrington and Om Malik, no other freelance blogger had more experience in our fledgling industry.
 
 ![Marshall Kirkpatrick at SXSW 2007](/assets/images/415770644_b2a1440bb2_ob.jpg)
-*Marshall (on the right) at SXSW 2007; photo [by Scott Beale / Laughing Squid](http://laughingsquid.com/sxsw-2007-photos/)*
+*Marshall (on the right) at SXSW 2007; opposite him is future RWWer Alex Williams. Photo [by Scott Beale / Laughing Squid](http://laughingsquid.com/sxsw-2007-photos/)*
 
 I asked for the going rate for bloggers and for what he himself was looking for. He said that a half-time blogger would normally be in the price range of $2,000 to $4,000 per month, “depending on how much competition there is for the writer.” He offered his part-time services for a monthly rate of $5,000, a 25 percent premium on the top rate he’d just quoted. Marshall was still in his twenties at this point, so I had to admire his self-confidence. I’d consistently undersold myself in the job market prior to starting RWW, and it had always bugged me (once I was old enough to realize that I’d been duped). So I wondered if this was a cultural difference—did Americans just naturally value themselves higher than average?
 
@@ -94,8 +95,6 @@ A decade later, when he was a big social media star and a poster boy for hustle 
 I never managed to convince Gary to resume his sponsorship of RWW, but not for lack of trying—I sent a bunch of emails in the months following that meeting. But he’d already gotten what he wanted from me and was on to bigger things. Hustle culture would come to dominate Silicon Valley over the following years, most notoriously with the San Francisco and New York “tech bros” of the 2010s. Hustling wasn’t in my nature, though, due to my congenital low self-esteem.
 
 In any case, I was about to learn that there were more important things in life than money and power.
-
-*Lead image: The MySpace party during the 2007 Web 2.0 Summit; from left to right: Prashant Agarwal, me, Sean Ammirati; photo [by Brian Solis](https://www.flickr.com/photos/briansolis/1622036248).*
 
 * * *
 

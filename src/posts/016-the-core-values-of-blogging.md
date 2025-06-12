@@ -1,13 +1,13 @@
 ---
 title: 'The Core Values of Blogging: Attending BloggerCon 2006'
-description: "In June 2006, I interview Yahoo at Supernova about its so-called open platform and then struggle to get a word in edgeways at BloggerCon."
+description: "In June 2006, I interview Yahoo at Supernova about its open platform and learn why developers prefer building frivolous Flickr apps. I then struggle to get a word in edgeways at BloggerCon."
 date: 2024-01-16
 permalink: "p/016-the-core-values-of-blogging/"
 tags: ['web20', 'memoir', '2006']
-featureImage: "/assets/images/f93a892c-5e78-4050-961e-9cd4c2092040_2048x1365.jpg"
+featureImage: "/assets/images/173971067_bacaeb7ad4_o-1280.jpg"
 ---
 
-![Me and Greg Narain at BloggerCon IV, June 2006](/assets/images/f93a892c-5e78-4050-961e-9cd4c2092040_2048x1365.jpg "Me and Greg Narain at BloggerCon IV, June 2006"){loading="eager"}
+![Me and Greg Narain at BloggerCon IV, June 2006](/assets/images/f93a892c-5e78-4050-961e-9cd4c2092040_2048x1365.jpg){loading="eager"}
 
 For the rest of the week after the [Digg podcast call](/p/015-digg-power-laws-of-silicon-valley), I attended the 2006 Supernova conference, run by a business academic named Kevin Werbach. It wasn’t as good as the Web 2.0 Conference. In too many cases, panelists and speakers just talked about their own products or companies, and the event was targeted at businesspeople, not developers (the [tagline](https://web.archive.org/web/20060519102608/http://www.supernova2006.com/) was “Because technology is everyone’s business”). That was true of the Web 2.0 Conference as well, but developers were at least hanging around the hallways there—which wasn’t the case at Supernova.
 
