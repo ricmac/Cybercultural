@@ -4,7 +4,7 @@ description: "At the end of another oversea trip in mid-2009, I visit MIT in Cam
 date: 2024-07-03
 permalink: "p/039-tim-berners-lee-2009/"
 tags: ['web20', 'memoir', '2009']
-featureImage: "/assets/images/tbl-ricmac-june09.jpeg"
+featureImage: "/assets/images/tbl-ricmac-june09-1280x720.jpg"
 ---
 
 ![Tim Berners-Lee and Richard MacManus, June 2009](/assets/images/tbl-ricmac-june09.jpeg){loading="eager"}

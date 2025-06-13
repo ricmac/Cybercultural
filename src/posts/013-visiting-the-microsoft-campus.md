@@ -7,7 +7,7 @@ tags: ['web20', 'memoir', '2006']
 featureImage: "/assets/images/315d4eb2-a0cb-45d9-be9f-e8a5e55b2fb6_1280x720.jpg"
 ---
 
-![](/assets/images/315d4eb2-a0cb-45d9-be9f-e8a5e55b2fb6_1637x1228.jpg){loading="eager"}
+![Microsoft campus, January 2006](/assets/images/315d4eb2-a0cb-45d9-be9f-e8a5e55b2fb6_1637x1228.jpg){loading="eager"}
 *Microsoft campus, January 2006; photo by author.*
 
 It was a cold but sunny Wednesday morning and a Microsoft charter bus pulled into a complex of red brick office buildings, all no more than three stories high. This was Microsoft’s headquarters in Redmond, located about twenty minutes’ drive from downtown Seattle.

@@ -79,7 +79,7 @@ Like many tech bloggers of this era, I was obsessed with RSS. In retrospect, in 
 
 I have always been an advocate of the individual user controlling his/her web experience, and I (rightly) wanted RSS to be a conduit for that. But it never happened — perhaps apart from podcasting, where RSS still reigns.
 
-![](/assets/images/3da58028-47b3-4b8c-8dd5-200c92ff0658_1864x1202.jpg)
+![Scott Gatz presentation about RSS, 2005](/assets/images/3da58028-47b3-4b8c-8dd5-200c92ff0658_1864x1202.jpg)
 *Yahoo actively integrated RSS into its products over 2005; diagram from [a Scott Gatz presentation](https://web.archive.org/web/20060104074623/http://www.scottgatz.com/blog/wp-content/ScottGatz_Yahoo_Syndicate_Dec2005.pdf) (Scott was Yahoo’s “RSS guy”), Dec 2005.*
 
 Even if web geeks got a bit too excited about RSS, in hindsight 2005 was a glory age in the internet. It was a time before social media (Facebook was still for students only), before smartphones, and before “the cloud.” You weren’t _always online_, which in retrospect was a good thing. Perhaps the only bad thing about that era from a tech perspective was that Internet Explorer still dominated the web browser market; but even that was a product category with promise, since all the cool bloggers were on the relatively new, open source Firefox (version 1!).

@@ -7,7 +7,7 @@ tags: ['dotcom', 'year', '1997']
 featureImage: "/assets/images/mozilla-vs-ie-sep1997.jpg"
 ---
 
-![](/assets/images/mozilla-vs-ie-sep1997.jpg){loading="eager"}
+![Defaced IE4 logo, 1997](/assets/images/mozilla-vs-ie-sep1997.jpg){loading="eager"}
 *In October, the Netscape vs. Microsoft rivalry reached fever pitch when Netscape employees [defaced](https://home.snafu.de/tilman/mozilla/stomps.html) an Internet Explorer logo that had been dumped on its lawn by Microsofties.*
 
 In 1997, the World Wide Web finally went past [1 million websites](https://www.internetlivestats.com/total-number-of-websites/) — with over 120 million internet users. As the number of websites went up, the range of sites blossomed too. Over a million people built personal home pages on GeoCities, Tripod and Angelfire. And while the Web had only just gone multimedia [a few years before](/p/internet-1994/), now it was pushing the limits with [technologies like Flash](/p/web-design-1997/), Java applets and [streaming media](/p/video-streaming-1997/).
@@ -23,7 +23,7 @@ Despite the rising tech-optimism of 1997, the underlying web platform was still 
 
 Web users in 1997 also discovered that the browser was now just the start of what was being offered to them. Netscape launched a suite of products called Netscape Communicator in June 1997. As well as Navigator 4.0, it included integrated email, calendar, newsgroups, a webpage builder, and other features.
 
-![](/assets/images/netscape-communicator-june1997.jpg)
+![Screenshot of Netscape Communicator webpage, June 1997](/assets/images/netscape-communicator-june1997.jpg)
 *Netscape Communicator webpage, [June 1997](https://web.archive.org/web/19970620040521/http://www18.netscape.com/flash1/comprod/products/communicator/index.html).*
 
 When Microsoft's Internet Explorer 4.0 was [released as a preview](https://news.microsoft.com/source/1997/07/15/microsoft-delivers-the-web-the-way-you-want-it-with-preview-release-of-microsoft-internet-explorer-4-0/?utm_source=chatgpt.com) the following month, as well as the core browser it promised "a complete communication and collaboration solution, and true Web integration." (The "integration" part would soon attract the interest of the US Justice Department, as it meant integration with the Windows operating system.)
@@ -34,7 +34,7 @@ A web browser allows you to 'pull' information from the World Wide Web onto your
 
 > "Remember the browser war between Netscape and Microsoft? The Web browser itself is about to croak. And good riddance."
 
-![](/assets/images/wired-push-cover-march1997.jpg)
+![Cover of Wired Magazine, March 1997](/assets/images/wired-push-cover-march1997.jpg)
 *Wired's March 1997 issue.*
 
 However, in the main article, Wired struggled to define what exactly push was: "...anything flows from anyone to anyone - from anywhere to anywhere - anytime." Okaaaay. How Wired described PointCast also didn't sound very enticing:
@@ -43,7 +43,7 @@ However, in the main article, Wired struggled to define what exactly push was: "
 
 So push was...a new way for adverts to be delivered electronically? 
 
-![](/assets/images/pointcast-march1997.jpg)
+![Screenshot of PointCast website, 1997](/assets/images/pointcast-march1997.jpg)
 *PointCast website, [March 1997](https://web.archive.org/web/19970401223917/pointcast.com/whatis.html).*
 
 Despite the amorphous hype around push technology, the browser companies quickly adopted it — calling it "channels" instead. "Active Desktop" was the Microsoft version and Netscape had a product called Netcaster, which was bundled with Netscape Communicator 4.0. Here's how CNN described Netcaster in an [April 1997 article](https://money.cnn.com/1997/04/15/technology/netscape_netcaster/):
@@ -52,7 +52,7 @@ Despite the amorphous hype around push technology, the browser companies quickly
 
 But both Microsoft and Netscape used HTML to deliver these features, proving that Wired's 'death of the browser' pronouncement was woefully wrong.
 
-![](/assets/images/netscape-netcaster-sep1997.gif)
+![Screenshot of Netscape Netcaster via InternetWatch, September 1997](/assets/images/netscape-netcaster-sep1997.gif)
 *Netscape Netcaster in action, September 1997; image [via InternetWatch](https://internet.watch.impress.co.jp/www/article/970909/ncmpr1.htm).*
 
 In any case, push turned out to be a short-lived phenomenon — when Netscape debuted RSS (RDF Site Summary) a couple of years later, that killed off push. PointCast was also [nearly dead](https://web.archive.org/web/19991110095145/http://www.businessweek.com/1999/99_17/b3626167.htm) by then.
@@ -85,35 +85,35 @@ Conveniently, it was a teenager who was purportedly the one millionth user of Ge
 
 > "The event, a unique milestone among Web sites, occurred at exactly 6:00 PM (Pacific Time) on October 2 when a 16-year old girl from St. John, New Brunswick, Canada completed the construction of her own personal home page."
 
-![](/assets/images/bens-geocities-page-1997.jpg)
+![A GeoCities home page around 1997](/assets/images/bens-geocities-page-1997.jpg)
 *"Ben's main page o links"; a GeoCities page [last updated in July 1997](https://geocities.restorativland.org/SiliconValley/5449/). Note the PointCast badge!*
 
 Designwise, most [GeoCities home pages](/p/geocities-1995/) tended to feature colorful backgrounds, animated GIFs, and autoplaying MIDI music. "Under construction" signs proliferated and many home pages [used frames](/p/1996-javascript-annoyances-and-meeting-the-dom/) to divide content into scrollable sections. Popular features included hit counters and guestbooks.
 
 As GeoCities scholar Olia Lialina [later quipped](https://blog.geocities.institute/archives/6418), "already in 1997 in web design cicles 'Geocities' was a swear word."
 
-![](/assets/images/tripod-dec1996.jpg)
+![Tripod screenshot, December 1996](/assets/images/tripod-dec1996.jpg)
 *GeoCities competitor Tripod, just before a new year dawned in 1997. [Via Wayback Machine](http://web.archive.org/web/19961221095952/http://www.tripod.com/).*
 
 ## Instant Messaging
 
 Finally, instant messaging was a noteworthy trend in 1997, thanks to ICQ and AOL Instant Messenger (AIM). Both were internet apps that you downloaded onto your computer and which let you chat one-on-one or in small groups in real-time. They featured buddy lists and notifications when one of your friends came online.
 
-![](/assets/images/icq-homepage-dec1997.jpg)
+![ICQ website screenshot](/assets/images/icq-homepage-dec1997.jpg)
 *ICQ website, [December 1997](https://web.archive.org/web/19971210072826/https://icq.com/).*
 
 Earlier messaging systems like IRC and Usenet newsgroups had often started as text-based protocols, although they later adapted with graphical clients. But since ICQ and AIM were designed from the ground up as standalone GUI apps, they were more intuitive and approachable for everyday users.
 
 ICQ was the first of the pair to launch, in late-1996, and grew fast over 1997. Its parent company, Mirabilis, described the product as "a revolutionary, user-friendly Internet tool that informs you who's on-line at any time and enables you to contact them at will."
 
-![](/assets/images/icq-user-interface.jpg)
+![ICQ UI — 3 screenshots](/assets/images/icq-user-interface.jpg)
 *ICQ [user interface](https://web.archive.org/web/19980212181102/http://www.icq.com/icqtour/fulltour.html).*
 
 AOL already had chat functionality, but it wasn't until May 1997 that it launched AIM as a separate app for Microsoft Windows. 
 
 Even though ICQ had first-mover advantage, AOL ended up winning the IM market — it acquired Mirabilis the following June.
 
-![](/assets/images/aim-1997.jpg)
+![AOL AIM screenshot 1997](/assets/images/aim-1997.jpg)
 *AIM screenshot from 1997; [via Reddit](https://www.reddit.com/r/90s_kid/comments/ynvh9i/aim_aol_instant_messenger_1997_do_you_remember/).*
 
 Overall, 1997 was quite a diverse year in terms of internet products (IM apps, push, home page builders, etc.) and the underlying technology (browser expansion, DHTML). 

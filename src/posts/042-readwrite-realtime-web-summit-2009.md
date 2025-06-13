@@ -1,10 +1,10 @@
 ---
 title: "The ReadWrite Real-Time Web Summit, October 2009"
-description: "ReadWriteWeb holds its first ever event, a one-day 'unconference' at the beautiful Computer History Museum in Mountain View, on a sunny fall day in 2009."
+description: "It's a sunny fall day in 2009 and ReadWriteWeb is holding its first ever event, a one-day 'unconference' at the beautiful Computer History Museum in Mountain View, Silicon Valley."
 date: 2024-07-24
 permalink: "p/042-readwrite-realtime-web-summit-2009/"
 tags: ['web20', 'memoir', '2009']
-featureImage: "/assets/images/ricmac_rwsummit_oct09.JPG"
+featureImage: "/assets/images/ricmac_rwsummit_oct09-1280x720.jpg"
 ---
 
 ![Richard MacManus at ReadWrite Real-Time Web Summit, October 2009](/assets/images/ricmac_rwsummit_oct09.JPG){loading="eager"}

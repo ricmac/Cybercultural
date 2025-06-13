@@ -28,7 +28,7 @@ Within five months, Kevin and his partner, Mike Krieger, had turned that minor p
 
 Needless to say, native apps won out over mobile browser apps.
 
-![](/assets/images/rww-mobilesummit-html-vs-appsb.jpg)
+![Native Apps vs. Mobile Web Apps Session](/assets/images/rww-mobilesummit-html-vs-appsb.jpg)
 *The Native Apps vs. Mobile Web Apps Session; I think that is Kevin Systrom seated on the right in white shirt? Perhaps taking notes for the upcoming pivot. Photo [by Chris Cameron](https://www.flickr.com/photos/chcameron/4600447960/).*
 
 My presentation went smoothly, and indeed, the whole event was a success. I was busy the entire day with people coming up to tell me about their mobile projects, and it seemed like everyone else had been immersed in stimulating conversations too. In addition, we exceeded 100,000 views on Justin&#46;tv, which had livestreamed the event.

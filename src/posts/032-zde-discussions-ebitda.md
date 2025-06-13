@@ -1,13 +1,13 @@
 ---
-title: "I’m Waiting For The EBITDA: Visiting the ZDE Office"
-description: "It's May 2008 and due diligence kicks off at Ziff Davis Enterprise headquarters on 28th St. Before that, I meet my RWW colleague Bernard Lunn for the first time."
+title: "I’m Waiting for the EBITDA: Visiting the ZDE Office in NYC"
+description: "It's May 2008 and due diligence kicks off at Ziff Davis Enterprise headquarters, on 28th St in midtown Manhattan. Before that, I meet my ReadWriteWeb colleague Bernard Lunn for the first time."
 date: 2024-05-15
 permalink: "p/032-zde-discussions-ebitda/"
 tags: ['web20', 'memoir', '2008']
-featureImage: "/assets/images/2849074723_a9dcbe5730_k.jpg"
+featureImage: "/assets/images/2849074723_276a617997_o-1280x720.jpg"
 ---
 
-![28th St Station, NYC](/assets/images/2849074723_a9dcbe5730_k.jpg){loading="eager"}
+![28th St Station, NYC](/assets/images/2849074723_276a617997_o-1280x720.jpg){loading="eager"}
 
 The due-diligence meetings [with Ziff Davis Enterprise](/p/031-zde-due-diligence-begins/) would start at midday on Monday. But first, I had arranged to meet Bernard Lunn, a freelance ReadWriteWeb writer and now my business advisor, who was based somewhere in greater New York. 
 
@@ -26,7 +26,7 @@ In any case, I needed to get more clarity on what support ZDE would offer regard
 
 After coffee with Bernard, I went back to my hotel room to mull over my tactics going into the first in-person ZDE meeting. I knew hardly anything about how the IT media business worked here on the East Coast, and I was also nervous about meeting the big-city financial analysts from Insight Partners. I wished Bernard could attend the first meeting with me, as I could use a wingman who had business nous. But I knew I was on my own from here on out.
 
-
+## Visiting ZDE
 
 The ZDE office was located at 28 East 28th Street, in the Midtown South area of Manhattan. I’d quickly learned that the best way to get to an address in New York City was to note the connecting streets, and I was amused to see that one of them was Lexington Avenue. I knew this name from “I’m Waiting for the Man,” a Velvet Underground song about buying heroin at the intersection of Lexington and 125—way uptown. ZDE was a block from Lexington, but downtown. And judging by all the grey and brown high-rise buildings, there wasn’t much rock ’n’ roll romanticism at this location.
 

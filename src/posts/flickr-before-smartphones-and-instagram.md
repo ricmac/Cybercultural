@@ -19,11 +19,11 @@ I was already planning to write about early Web 2.0 Flickr anyway for Cybercultu
 
 7.1-megapixel was actually quite impressive for the time. During much of 2006, I was taking photos and uploading them to Flickr with a Canon PowerShot A85, which was 4 megapixels (you can see more details about the camera [on Flickr](https://www.flickr.com/cameras/canon/powershot_a85/)).
 
-![](/assets/images/75d06722-bd5c-4c37-b3cf-9483f970f8c4_480x480.jpg)
+![Canon PowerShot A85](/assets/images/75d06722-bd5c-4c37-b3cf-9483f970f8c4_480x480.jpg)
 
 Here’s an example of [a photo](https://www.flickr.com/photos/ricmac/102419332/in/dateposted-public/) taken with it on a trip to Seattle in January 2006, when I visited the office of the startup The Robot Co-op (shout-out , one of the founders).
 
-![](/assets/images/bd22b040-c25e-4b05-bef9-9c1dd1f192be_1280x960.jpg)
+![The Robot Co-op office, January 2006](/assets/images/bd22b040-c25e-4b05-bef9-9c1dd1f192be_1280x960.jpg)
 
 Now, I really like this photo as it is a nice snapshot of that day, and I enjoyed meeting the Robots. One guy (I think it’s Todd Gehman) on the right has an awesome expression on his face, Buster is at the back looking cool, and the others around the table are absorbed in their startup work. The mid-aughts PowerBooks bring back memories, too. That all said, the image quality isn’t high — it’s a bit blurry, there is some red eye, and little details aren’t clearly defined (I’m curious what the books on the table are, for example). The latest generation iPhone would fix all that, but that’s beside the point. Maybe the grainy quality adds a bit of mystique to the photo. Certainly, it makes it an artifact of its time.
 
@@ -37,26 +37,26 @@ Even today, I’d say Flickr is still my favourite photo-sharing site, except th
 
 Later in 2006, I upgraded my digital camera to a Nikon Coolpix L3, which had 5.1 Megapixels:
 
-![](/assets/images/18d28d7e-eeeb-4395-9c23-50a341476d96_300x300.jpg)
+![Nikon Coolpix L3](/assets/images/18d28d7e-eeeb-4395-9c23-50a341476d96_300x300.jpg)
 *via [Flickr](https://www.flickr.com/cameras/nikon/coolpix_l3/)*
 
 Here’s a photo I took of Lou Reed at the Web 2.0 Summit in 2006 (yes, that [really happened](https://www.youtube.com/watch?v=N5GJVQDQi-A)).
 
-![](/assets/images/3fe63766-219b-497d-b250-962da5f868e3_1024x768.jpg)
+![Lou Reed at the Web 2.0 Summit in 2006](/assets/images/3fe63766-219b-497d-b250-962da5f868e3_1024x768.jpg)
 
 Again, it’s not a super-clear or crisp photo, but it has kind of a moodiness to it that was matched by Lou’s mood that evening. “You got 20 minutes,” he [growled](https://www.wired.com/2015/11/doing-is-knowing-sweet-jane-and-the-web/) at one point, when chatter from the geeky audience wouldn’t subside. “You wanna talk through it, you can talk through it. Or I can turn the sound up and hurt you.” (for the record, he did turn up the sound!)
 
 When smartphone cameras did arrive, they had a charming fuzziness to them that I liked. Check out these photos I took with the iPhone 3G — the second generation iPhone, which had a 2 megapixels camera resolution. They were taken on 4 November 2008, the night Barack Obama won the presidency. I happened to be in San Francisco that evening, so I snapped some woozily colourful photos that nicely captured the celebratory mood on the streets.
 
-![](/assets/images/4e55c63e-4a08-44ac-93a7-189d283c880a_1600x1200.jpg)
+![Photos of San Francisco when Barack Obama won the presidency in 2008](/assets/images/4e55c63e-4a08-44ac-93a7-189d283c880a_1600x1200.jpg)
 
-![](/assets/images/4a67e057-f8cb-49f4-8d10-fe9635750cd8_1600x1200.jpg)
+![More photos of San Francisco when Barack Obama won the presidency in 2008](/assets/images/4a67e057-f8cb-49f4-8d10-fe9635750cd8_1600x1200.jpg)
 
 This was still before photo-sharing became a big part of our culture. TwitPic came along in 2009, which popularized photo-sharing on Twitter. Facebook was getting more multimedia-focused by then too. And does anyone remember Foodspotting? It was an app that prefigured Instagram; launched in 2009, but only started to take off when the iPhone app was launched in January 2010. I remember taking photos of my food during 2010, especially on my travels, and uploading it to Foodspotting (alas I don’t seem to have a copy of my archive — the site was shut down for good [in 2018](https://twitter.com/foodspotting/status/981522391561064450)).
 
 Funnily enough, I wrote [a profile of Foodspotting](https://web.archive.org/web/20101016142722/http://www.readwriteweb.com/archives/the_evolution_of_foodspotting.php) in October 2010, the very same month Instagram launched on iOS. I immediately joined Instagram and did my first post [on October 19, 2010](https://www.instagram.com/p/Coz3/). And yes, it was food-related _and_ heavily filtered:
 
-![](/assets/images/b122cc4b-a42c-4789-933c-430afb036d27_998x998.jpg)
+![My first Instagram post, October 2010](/assets/images/b122cc4b-a42c-4789-933c-430afb036d27_998x998.jpg)
 
 Needless to say, Instagram quickly ate Foodspotting’s lunch. It also heralded the end of the Flickr era of photo-sharing. From October 2010 on, Instagram’s playful, smartphone-centric take on photo-sharing won out.
 

@@ -38,7 +38,7 @@ The pair thought there was an opportunity to offer something different than the 
 
 David Bowie, the pair agreed, was “the perfect launching pad to do this.”
 
-![](/assets/images/9f35acc4-0fb1-4164-a367-92885064b410_1974x1471.jpg)
+![davidbowie.com 1999](/assets/images/9f35acc4-0fb1-4164-a367-92885064b410_1974x1471.jpg)
 *Landing page for davidbowie.com, circa 1999*
 
 In retrospect, it was the community aspect and fan interaction that was to prove key to the success of BowieNet over the coming years. Those parts of BowieNet made it into a truly innovative social network, years before MySpace and Facebook arrived on the scene. But it was the ISP foundation that paved the way for all this. At the time, millions of people had yet to sign up to an internet provider, so helping “on-ramp” Bowie fans to the internet was a viable customer acquisition strategy.
@@ -106,7 +106,7 @@ As you’d expect of a visual design and fashion icon like Bowie, he had ideas a
 
 “In the beginning, he wanted something dark,” Ron Roy told me. “He also wanted a design that was unique, that you just didn't see anywhere else.”
 
-![](/assets/images/ee4f7233-32dd-4c28-934e-cd6decb7644d_2003x1499.jpg)
+![BowieNet screenshot](/assets/images/ee4f7233-32dd-4c28-934e-cd6decb7644d_2003x1499.jpg)
 
 The Development Process
 -----------------------
@@ -131,7 +131,7 @@ Roy described his and Goodale’s job as “piecing together all the things that
 
 Roy was point man for the backend technology, so he worked closely with the ISP provider Concentric. Being an attorney, Goodale’s speciality was doing the business deals and so he handled all the contractual negotiations. Both managed the design phase. Roy told me that, overall, their partnership was a “50/50” relationship.
 
-![](/assets/images/8d851050-5bae-4dec-b3e3-0b1de9cdd944_2030x1546.jpg)
+![BowieNet images](/assets/images/8d851050-5bae-4dec-b3e3-0b1de9cdd944_2030x1546.jpg)
 
 BowieNet Announcement
 ---------------------
@@ -158,7 +158,7 @@ As launch day approached, BowieNet was looking good. But not all of the desired 
 
 “We wanted to do more video streaming,” said Roy, “but bandwidth was just 56 kbit/s back then. And you only have one launch party, so didn't want any mistakes.”
 
-![](/assets/images/d39037a1-056b-4139-840e-ab776049262a_1240x744.jpg)
+![BowieNet 2.0](/assets/images/d39037a1-056b-4139-840e-ab776049262a_1240x744.jpg)
 *A later version of BowieNet (via [The Guardian](https://www.theguardian.com/technology/2016/jan/11/david-bowie-bowienet-isp-internet))*
 
 Bowie’s Blog

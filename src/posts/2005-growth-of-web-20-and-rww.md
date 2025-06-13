@@ -42,7 +42,7 @@ Potential sponsors had begun to reach out to me already, in the first quarter of
 
 Indeed, I got my first sponsor that very month. It was an Atlanta-based startup called ThePort Network, who agreed to sponsor my Weekly Wrapup for three months. (I discuss this more in [part 11 of the book](/p/011-the-web-20-illuminati/).)
 
-![](/assets/images/71abf7c4-494e-4f42-b445-b63e54f505c4_1366x944.jpg)
+![ThePort Network sponsor](/assets/images/71abf7c4-494e-4f42-b445-b63e54f505c4_1366x944.jpg)
 *My very first sponsor, [ThePort Network](https://web.archive.org/web/20050403054647id_/http://www.theport.com/). Not sure whatever became of it, but I’m grateful it took a chance on an indie tech blog in April 2005.*
 
 Just before I travelled over to Silicon Valley at the end of September, I sent this email to another potential sponsor. It shows that, in less than six months, my page views had more than doubled and I had 5x’ed my RSS subscribers:

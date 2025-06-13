@@ -1,13 +1,14 @@
 ---
-title: "Due Diligence Begins in NYC; RWW Gets a Media Award"
-description: "Just as ReadWriteWeb becomes one of the 10 most popular blogs in the world, I travel to New York to meet with Ziff Davis Enterprise about its proposed acquisition."
+title: "Due Diligence Begins in NYC and RWW Gets NZ Media Award"
+description: "Just as ReadWriteWeb becomes one of the 10 most popular blogs in the world, I travel to New York to meet with Ziff Davis Enterprise about its proposed acquisition. Before leaving, I accept a local media award."
 date: 2024-05-08
 permalink: "p/031-zde-due-diligence-begins/"
 tags: ['web20', 'memoir', '2008']
-featureImage: "/assets/images/nyc2_may2008.jpeg"
+featureImage: "/assets/images/nyc2_may2008-1280x720.jpg"
 ---
 
-![Me accepting my Best Blog 2008 award](/assets/images/nyc2_may2008.jpeg){loading="eager"}
+![New York City skyline, 2008](/assets/images/nyc2_may2008.jpeg){loading="eager"}
+*NYC from above; photo taken by author in May 2008.*
 
 As soon as I got back home, RWW made it to the top 10 on Technorati. We were now one of the world’s ten most popular blogs, based on how many websites had linked to us in the last six months. Alex had spotted it first, and Marshall confirmed it with a screenshot.
 
@@ -32,7 +33,7 @@ With all these accountants and lawyers getting involved, the complexity was quic
 ![Top 10 ways to tweet](/assets/images/twitter-top10-chart.jpeg)
 *One of our most popular posts at this time was Josh Catone's [list of top Twitter clients](https://web.archive.org/web/20080404035533/readwriteweb.com/archives/top_twitter_clients_definitive_list.php); this was a few months before TweetDeck launched, so the market was far from mature. Many of our developer and entrepreneur readership would've seen an opportunity here!*
 
- 
+## New Zealand Media Awards Show 
 
 The New Zealand Media Awards were traditionally known as a knees-up for the local journalism industry—in particular its newspaper and television news shows. It was now in its thirty-fourth year, but the Best Blog category was only in its second year. It had been first awarded [in 2007](https://web.archive.org/web/20070706223411/http://www.qantasmediaawards.co.nz/websites.htm) to a political blogger, Russell Brown, whose weblog, [Hard News](https://web.archive.org/web/20080416043135/http://www.publicaddress.net/default,47.sm), had been running since late 2002. Hard News was part of a community of New Zealand-centric blogs that ran on the domain PublicAddress.net, which Russell had set up.
 
@@ -73,8 +74,6 @@ I spent my first full day, a Sunday, getting over my jet lag by wandering down F
 I took some photos of Central Park and the city, but I had resolved to stay off social media during my trip. Only Bernard, Sean, and Alex from RWW were aware that I was here. I had told the rest of my writers that I was “traveling,” but I didn’t explain why. I was particularly uncomfortable with keeping Marshall in the dark. He was still only working half-time for RWW, so I wasn’t under any obligation to bring him into business discussions. But for several months now I had been promising to discuss business expansion plans with him—he had ideas about premium content that I was interested in pursuing. I knew it made sense not to tell him about ZDE because he could decide to have no part in it and jump to a competitor. But I also didn’t want to undermine the trust Marshall and I had built up since he’d joined RWW.
 
 I planned to keep daily tabs on the site while I was in New York, but I hoped it would be business as usual for the week. I was happy with how RWW was going as a publication—we were hovering around the number 10 ranking in Technorati, and our page views and subscriber numbers were still growing. But I was worried about messing with a good thing by spending too much of my time focused on this ZDE deal. I just hoped the due diligence would be straightforward, so that the deal could be consummated in early June as planned. Also, I wanted to get back to blogging.
-
-*Lead image: NYC from above; photo taken by author in May 2008.*
 
 * * *
 

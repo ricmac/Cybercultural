@@ -1,13 +1,13 @@
 ---
-title: "A Deal Is Done; Trippy Web 2.0 Party at Temple"
-description: "In late April 2008, I sign a Letter of Intent to sell ReadWriteWeb. Also, I attend a Web 2.0 party in San Francisco where everyone seems high but me."
+title: "A Deal Is Done and I Attend a Trippy Web 2.0 Party at Temple"
+description: "In late April 2008, I sign a Letter of Intent to sell ReadWriteWeb to a US media company. Also, I attend a VIP Web 2.0 party in downtown San Francisco — where everyone seems high but me."
 date: 2024-04-23
 permalink: "p/030-rww-acquisition-deal-2008/"
 tags: ['web20', 'memoir', '2008']
-featureImage: "/assets/images/temple_party_2008.jpeg"
+featureImage: "/assets/images/temple_party_2008-1000x563.jpg"
 ---
 
-![VIP O'Reilly Party](/assets/images/temple_party_2008.jpeg){loading="eager"}
+![VIP O'Reilly Party](/assets/images/temple_party_2008-1000x563.jpg){loading="eager"}
 
 Early on Thursday morning, after a phone call with Bernard on the East Coast, I sent my email ultimatum to CMP/TechWeb. “I’ve given this *a lot* of thought over the past 12 hours or so,” I wrote, “and it really is time for me to make a decision.” I asked for “a firm, signed, LOI” [Letter of Intent] before 9:00 a.m. on Friday, or I would “need to withdraw from these negotiations.” I proposed a number equal to ZDE’s in their LOI, with half on closing and the other half on a maximum two-year earn-out. I added, “It is simply not viable for me to follow the timetable we discussed yesterday” (in the end I opted for subtlety and did not mention [the restaurant incident](/p/029-dinner-at-two/)).
 

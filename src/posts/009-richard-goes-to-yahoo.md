@@ -7,7 +7,7 @@ tags: ['web20', 'memoir', '2005']
 featureImage: "/assets/images/me-at-yahoo-2005-1000x563.jpg"
 ---
 
-![](/assets/images/me-at-yahoo-2005-1000x750.jpg){loading="eager"}
+![Richard MacManus at Yahoo, October 2005](/assets/images/me-at-yahoo-2005-1000x750.jpg){loading="eager"}
 *Me at the Yahoo! cafe, URL’s, on 10 October 2005; photo [by Jeremy Zawodny](https://www.flickr.com/photos/jzawodn/51348982/).*
 
 Earlier in 2005, I had made some contacts inside of Yahoo! and had begun to think about trying for a job there. One of my contacts was a search engine executive named Elizabeth Osder, and I’d told her my dream gig on the internet would be web strategist / blogger, with input into product design. She replied that I “might find a gig in strategy for a web company” and promised to ask around inside Yahoo. She also wanted to know about my experiences running ads in my RSS feeds, so there was some quid pro quo going on in these early emails.

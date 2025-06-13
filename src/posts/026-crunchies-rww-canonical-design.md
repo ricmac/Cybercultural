@@ -1,10 +1,10 @@
 ---
-title: "ReadWriteWeb's Big Redesign & The Inaugural Crunchies"
-description: "At the end of 2007, ReadWriteWeb unveils our new design — featuring a slash of vibrant red in the header! Also, we co-host the first Crunchies and I meet Mashable’s founder."
+title: "ReadWriteWeb’s Big Redesign & the Inaugural Crunchies"
+description: "At the end of 2007, ReadWriteWeb unveils our new design — featuring a slash of vibrant red in the header! Also, we co-host the first Crunchies in San Francisco and I meet Mashable’s founder."
 date: 2024-03-26
 permalink: "p/026-rww-redesign-2007-crunchies/"
 tags: ['web20', 'memoir', '2007', '2008']
-featureImage: "/assets/images/crunchies_4founders.jpg"
+featureImage: "/assets/images/crunchies_4founders-1024x576.jpg"
 ---
 
 ![The Crunchies](/assets/images/crunchies_4founders.jpg "The Crunchies"){loading="eager"}

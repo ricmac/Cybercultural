@@ -7,7 +7,7 @@ tags: ['web20', 'memoir', '2005']
 featureImage: "/assets/images/29881ba3-77b3-47a3-90d5-a4d81521ed5b_1000x563.jpg"
 ---
 
-![](/assets/images/29881ba3-77b3-47a3-90d5-a4d81521ed5b_1000x563.jpg){loading="eager"}
+![Web 2.0 Conference press badge](/assets/images/29881ba3-77b3-47a3-90d5-a4d81521ed5b_1000x563.jpg){loading="eager"}
 *My press badge for the Web 2.0 Conference, October 2005.*
 
 The Web 2.0 Conference kicked off on Wednesday, October 5, 2005, at The Argent Hotel on Third Street in San Francisco. I’d gone into the city on the Caltrain earlier in the week, to take in the sights of Haight St and familiarize myself with the Union Square area. But today would be my first experience of a tech event in America.

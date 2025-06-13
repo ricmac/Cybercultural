@@ -1,10 +1,10 @@
 ---
 title: "Indie Media Business 2.0: RWW Adds Structure and Writers"
-description: "In mid-2008, ReadWriteWeb expands its writing team and I put some much needed structure into the business. Also, we ink a syndication deal with The New York Times."
+description: "After pulling out of the ZDE deal in July 2008, ReadWriteWeb expands its writing team and I put some much needed structure into the business. Also, we ink a syndication deal with The New York Times."
 date: 2024-06-05
 permalink: "p/035-indie-media-business-20/"
 tags: ['web20', 'memoir', '2008']
-featureImage: "/assets/images/rww_june_2008_firefox2.jpg"
+featureImage: "/assets/images/rww_june_2008_firefox2-1280x720.jpg"
 ---
 
 ![ReadWriteWeb, 27 June 2008](/assets/images/rww_june_2008_firefox2.jpg){loading="eager"}

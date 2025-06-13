@@ -7,7 +7,7 @@ tags: ['web20', 'memoir', '2005']
 featureImage: "/assets/images/web2-2005-event-logo.jpg"
 ---
 
-![](/assets/images/web2-2005-event-logo.jpg){loading="eager"}
+![Web 2.0 Conference event logo 2005](/assets/images/web2-2005-event-logo.jpg){loading="eager"}
 *Web 2.0 Conference signage; photo [by Gen Kanai](https://www.flickr.com/photos/gen/49888242/).*
 
 When I walked into the Web 2.0 Conference at the Argent the next morning, a Thursday, I poured myself a cup of hotel coffee and wandered over to one of the round high tables in the foyer, where I’d spotted a couple of people I recognized. It was two of a small Irish contingent of entrepreneurs, Fergus Burns and Jonathan Hill, who I’d gotten to know. Fergus ran an RSS startup called Nooked, which I had recently begun to provide advisory services to, and Jonathan ran an email and SMS marketing company called Infacta.

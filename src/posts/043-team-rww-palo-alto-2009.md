@@ -4,7 +4,7 @@ description: "The day after our first conference in October 2009, the ReadWriteW
 date: 2024-07-31
 permalink: "p/043-team-rww-palo-alto-2009/"
 tags: ['web20', 'memoir', '2009']
-featureImage: "/assets/images/team-rww-facebook-oct2009.JPG"
+featureImage: "/assets/images/team-rww-facebook-oct2009-1280x720.jpg"
 ---
 
 ![Team RWW visits Facebook](/assets/images/team-rww-facebook-oct2009.JPG){loading="eager"}

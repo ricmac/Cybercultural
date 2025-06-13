@@ -1,10 +1,10 @@
 ---
-title: "Stress 2.0: Health Problems & Web Server Issues"
-description: "In November 2007, I get a shock diagnosis of Type 1 Diabetes. Meanwhile, the Read/WriteWeb server struggles to cope with our rapid page view growth."
+title: "Stress 2.0: Type 1 Diabetes Plus Web Server Issues"
+description: "In November 2007, I get a shock diagnosis of Type 1 Diabetes — which makes me rethink work-life balance. Meanwhile, the Read/WriteWeb server struggles to cope with our rapid page view growth."
 date: 2024-03-19
 permalink: "p/025-health-problems-server-issues/"
 tags: ['web20', 'memoir', '2007']
-featureImage: "/assets/images/diabetes_post_nov07.jpg"
+featureImage: "/assets/images/diabetes_post_nov07-1280x720.jpg"
 ---
 
 ![My blog post after getting the type 1 diabetes diagnosis](/assets/images/diabetes_post_nov07.jpg){loading="eager"}

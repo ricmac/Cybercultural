@@ -22,7 +22,7 @@ The first popular product that I recall being called “microblogging” was Twi
 
 Although it didn’t invent tumblelogs, Tumblr popularized them shortly after its launch in February 2007. From the get-go, Tumblr defined itself as a way to create tumblelogs, which it said were “blogs with less fuss and more stuff.”
 
-![](/assets/images/afe2661b-9cbb-482f-9550-2471df8de9e1_1378x1414.jpg)
+![Screenshot of Tumblr’s homepage, Jan 2007](/assets/images/afe2661b-9cbb-482f-9550-2471df8de9e1_1378x1414.jpg)
 *Tumblr’s homepage, Jan 2007; via Wayback Machine*
 
 The first time ReadWriteWeb wrote about Tumblr was [in July 2007](https://web.archive.org/web/20070714103543/http://www.readwriteweb.com/archives/top_5_hottest_product_launches_2007.php). It was one of our guest contributers, Aiden Henry, in a post entitled “Top 5 Hottest Product Launches of 2007.” Tumblr was one of them, but Aiden noted that it wasn’t in the same league as Twitter at that point:
@@ -42,7 +42,7 @@ I think I first began looking into Soup in early 2008. So, you might ask, if I w
 
 On FriendFeed, I not only aggregated the fun stuff (like last.fm for music, AllConsuming for tv/movies, and Goodreads for books), but **also** my RWW posts, what I “dugg” on Digg (a popular tech news aggregator), my LinkedIn updates, my tweets, and much more. FriendFeed was a comprehensive feed of _everything_ I used on the internet, for both work and play. Everyone else seemed to use it in the same manner, too — you just threw the whole kitchen sink in there.
 
-![](/assets/images/5c91798f-8942-4e9f-9b96-a03fb7005528_1736x1446.jpg)
+![Screenshot of FriendFeed, September 2008](/assets/images/5c91798f-8942-4e9f-9b96-a03fb7005528_1736x1446.jpg)
 *My FriendFeed, circa September 2008; via Wayback Machine*
 
 What I wanted for a tumblelog, however, was something that represented **the non-geek me**. A place to aggregate my cultural interests, rather than my tech work.
@@ -56,18 +56,18 @@ To emphasize that this was the non-tech side of me, I named my Soup “Velvets F
 
 Over 2008, I primarily used Soup to aggregate content I wrote elsewhere. In the screenshot below, it pulled in things I wrote at last.fm (a music service pre-Spotify) and Goodreads (at the time an indie book social network; now owned by Amazon).
 
-![](/assets/images/27a6ed76-ac03-403a-a312-b5cca1e4de36_1232x1066.jpg)
+![Screenshot of Soup.io](/assets/images/27a6ed76-ac03-403a-a312-b5cca1e4de36_1232x1066.jpg)
 
 You’ll notice that my initial microblogging efforts were very text-heavy — and also too long to be called “micro” (that Neil Young entry went on for several more paragraphs!). Partly this was because although Soup would import third-party content, often it wouldn’t bring across the associated multimedia files. As with Tumblr, you could upload it yourself if you wanted to. But as I say, I was into activity streams — I liked the idea that each category of content had its own web app.
 
 In 2009, I began to write directly into Soup more — for instance telling the world about the acrylic painting course I was doing. Nobody wanted or needed to know that, but I figured I may as well “blog” something cultural, in addition to importing my activity streams.
 
-![](/assets/images/e698a28d-755c-460e-aedb-4bd1bbdca64b_1146x1022.jpg)
+![A Soup post about Modigliani](/assets/images/e698a28d-755c-460e-aedb-4bd1bbdca64b_1146x1022.jpg)
 *Modigliani featured a lot in my Soup; I was trying to copy one of his paintings in my art class.*
 
 2010 was an active year on Soup, but I clearly wasn’t ‘getting it’ in regards to short-form blogging. I wrote up a “SXSW Music Wrap-up” post that was longer than many of my RWW posts!
 
-![](/assets/images/27604e74-a599-43a3-ab8b-c701ba67e17b_1214x1024.jpg)
+![My SXSW Music Wrap-up post on Soup.io](/assets/images/27604e74-a599-43a3-ab8b-c701ba67e17b_1214x1024.jpg)
 *This was just the first section…I’ll spare you the rest!*
 
 I stopped using Soup at the end of 2010 and started a new personal WordPress site. Maybe I just wasn’t cut out for microblogging.
@@ -81,7 +81,7 @@ In April 2011, I started using Tumblr. Judging by my end-of-year comments compar
 
 _(the above is from my Dec 2011 RWW post, [Richard's Top 10 Web Products of 2011](https://web.archive.org/web/20120107114618/http://www.readwriteweb.com/archives/richards_top_10_web_products_of_2011.php))_
 
-![](/assets/images/bd456ae5-9309-4da3-a4c8-93d2053f57ca_2284x1726.png)
+![ReadWriteWeb screenshot](/assets/images/bd456ae5-9309-4da3-a4c8-93d2053f57ca_2284x1726.png)
 *A screenshot from Sep 2011; [via Wayback Machine](https://web.archive.org/web/20111126091720/http://ricmac.tumblr.com/)*
 
 I continued to use Tumblr regularly until about mid-2014, when my usage dwindled. I sparodically used it from 2015 until…well, now really. My Tumblr still exists, and I occassionally pop in there to share something cultural. It’s now owned by Automattic, the creators of WordPress, so I feel like it’s in good hands.
@@ -95,7 +95,7 @@ Soup is gone, but not forgotten (at least by me). Indeed, activity streams are h
 
 I won’t bore you with technical details, but let me just say that the protocol that Mastodon was built on — ActivityPub — was partly derived from an earlier protocol called “Activity Streams.” You can [read my reporting](https://thenewstack.io/the-creator-of-activitypub-on-whats-next-for-the-fediverse/) about this on The New Stack if you’re curious to know more.
 
-![](/assets/images/607cd9cc-d878-43a0-9504-36971a2ae37a_2162x1050.png)
+![Screenshot of Mastodon in 2023](/assets/images/607cd9cc-d878-43a0-9504-36971a2ae37a_2162x1050.png)
 *Mastodon in 2023; like Twitter except less blowhards.*
 
 To cut to the chase, on the fediverse you can choose to follow accounts on different apps, inside of Mastodon (and vice versa). There’s a fediverse version of YouTube, a Flickr clone, etc. There has even been talk of Tumblr joining the fediverse, which would be fantastic! If that happens, I’d most likely subscribe to various fediverse multimedia apps inside of Tumblr. Then I’d be able to easily share things that pop up from those apps to my Tumblr readers. I really hope Tumblr does join the fediverse. 🤞
@@ -107,4 +107,4 @@ Postscript: The Return of Velvets Fan
 
 I had let the velvetsfan \[dot\] com domain slide a bunch of years ago, after Soup’s demise, but I saw that it was available again when I was writing this post. So I bought it once more and I’m now using it for [my Tumblr](https://velvetsfan.com/). Maybe I’ll see you on the fediverse?
 
-![](/assets/images/a7f44433-8312-4a1a-9fc6-0753a1d785e0_2300x1626.jpg)
+![Velvets Fan screenshot](/assets/images/a7f44433-8312-4a1a-9fc6-0753a1d785e0_2300x1626.jpg)

@@ -1,13 +1,13 @@
 ---
 title: "Alien in New York: ReadWriteWeb & the American Dream"
-description: "I sit down with Insight Partners to discuss ReadWriteWeb's finances. Later, I get the meat sweats at Carnegie Deli and catch up on blog business before my flight home."
+description: "To wrap up due diligence, I sit down with Insight Partners to discuss ReadWriteWeb's finances. Later, I get the meat sweats at Carnegie Deli and catch up on blog business before my flight home."
 date: 2024-05-22
 permalink: "p/033-rww-american-dream-2008/"
 tags: ['web20', 'memoir', '2008']
-featureImage: "/assets/images/nyc_view_empirestatebld_may08.jpeg"
+featureImage: "/assets/images/nyc_view_empirestatebld_may08-1280x720.jpg"
 ---
 
-![John Ellis Band at Jazz Standard](/assets/images/nyc_view_empirestatebld_may08.jpeg){loading="eager"}
+![View of NYC from the Empire State Building](/assets/images/nyc_view_empirestatebld_may08.jpeg){loading="eager"}
 
 Tuesday’s financial discussions were with Kobi Levy and Jake Stein from Insight Partners, the private equity firm that was [buying ReadWriteWeb](/p/030-rww-acquisition-deal-2008/) on behalf of Ziff Davis Enterprise. 
 

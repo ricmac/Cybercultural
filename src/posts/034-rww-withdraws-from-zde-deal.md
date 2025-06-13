@@ -1,10 +1,10 @@
 ---
 title: "Unacquired: ReadWriteWeb Pulls Out of the ZDE Deal"
-description: "After weeks of delay in closing the proposed Ziff Davis Enterprise acquisition of RWW, and seeing Ars Technica and PaidContent both get bought, I decide enough is enough."
+description: "After weeks of delay in closing the proposed Ziff Davis Enterprise acquisition of RWW, and seeing Ars Technica and PaidContent both get bought, I decide enough is enough. Time to get back to work."
 date: 2024-05-29
 permalink: "p/034-rww-withdraws-from-zde-deal/"
 tags: ['web20', 'memoir', '2008']
-featureImage: "/assets/images/ricmac_july2008.jpeg"
+featureImage: "/assets/images/ricmac_july2008-1280x720.jpg"
 ---
 
 ![Me in early July 2008](/assets/images/ricmac_july2008.jpeg){loading="eager"}

@@ -7,7 +7,7 @@ tags: ['web20', 'memoir', '2005']
 featureImage: "/assets/images/17177e5f-92c2-4622-a0c3-e20be441a46f_1280x720.jpg"
 ---
 
-![](/assets/images/17177e5f-92c2-4622-a0c3-e20be441a46f_1637x1228.jpg){loading="eager"}
+![Fred Oliviera, Mike Arrington and Gabe Rivera in Mike's office, October 2005](/assets/images/17177e5f-92c2-4622-a0c3-e20be441a46f_1637x1228.jpg){loading="eager"}
 *For two weeks in October 2005, this room was where TechCrunch, Read/Write Web, WeBreakStuff and tech.memeorandum were published.*
 
 On a Friday afternoon at the end of September 2005, I stepped foot on American soil for the first time. I was greeted at San Francisco Airport by a big guy with tousled light brown hair, wearing a short-sleeved blue button up shirt hanging loose over a pair of cargo shorts. He was tall — about 6 foot 3, I guessed — so he towered over my 5 foot 8 frame. I remembered that Marc Andreessen was 6’3’ too, with the same large frame as this man, so I briefly wondered whether all Americans were this massive.
@@ -18,7 +18,7 @@ Soon we were heading south down the famous 101 highway, in Mike Arrington’s op
 
 We arrived at Mike’s rented house in Atherton. It was set back from the street, with a large pine tree out front and the driveway sloping into the front entrance. The house, which was long and rectangular and had a flat roof, was painted sea-green with white trim. I’d later learn that it was a 1950s Eichler style house, also known as “California Modern,” and that there were [more Eichler homes](https://www.eichlerforsale.com/palo-alto-eichlers/) built in Palo Alto (a few miles further south, down the 101) than in any other city in the Bay Area. So this rented house in Atherton was the epitome of Silicon Valley — and indeed, a decade later, the main characters in the tv show ‘Silicon Valley’ would occupy [a house](https://filming.90210locations.info/tv-locations/silicon-valley/) that reminded me a lot of Mike’s.
 
-![](/assets/images/e804bae1-92c2-47c5-88f4-d6c3241892d1_864x864.jpg)
+![back yard of the TechCrunch ranch in Atherton](/assets/images/e804bae1-92c2-47c5-88f4-d6c3241892d1_864x864.jpg)
 *The back yard of the TechCrunch ranch in Atherton.*
 
 It turned out, Mike had just shifted into the house a few weeks ago, having moved from LA to Silicon Valley to get back into the startup scene. He’d written about his new home on his personal blog, focusing especially on the back yard — which was on a one acre section and featured a 400-year old oak tree. Socializing in Silicon Valley was clearly on his mind when he rented it. “The house is old but should be very nice for parties, with a large living room and huge patio,” [he’d noted](https://web.archive.org/web/20051001043757/http://www.arrington.us/). Indeed, almost as soon as he moved in, he held his first [BBQ meet-up](https://web.archive.org/web/20051024054418/http://www.techcrunch.com/2005/09/16/techcrunch-conference-tonight/), which would soon become a regular Silicon Valley fixture.
@@ -27,7 +27,7 @@ As Mike opened the front door of the house, we were ambushed by a large chocolat
 
 I had been testing an awkwardly named tech news aggregator called tech.memeorandum over the past few months and had [written my first review](https://web.archive.org/web/20020114152841/http://www.readwriteweb.com/archives/newlook_memeora.php) of the fledgling service a couple of weeks before. I’d been communicating with its American creator, Gabe Rivera, over email and Skype IM, so we nodded familiarly to each other as he continued to play with Laguna (who showed no signs of calming down). Gabe’s site would later be re-named Techmeme and became the leading aggregator of tech news in the valley.
 
-![](/assets/images/8dd8fcd2-a52f-46da-b622-059e66197f12_1878x1438.png)
+![Techmeme in October 2005](/assets/images/8dd8fcd2-a52f-46da-b622-059e66197f12_1878x1438.png)
 *tech.memeorandum, [1 October 2005](https://web.archive.org/web/20051001010935/http://tech.memeorandum.com/). Long gone are the days when an obscure feed format (OPML) could be the number 1 story on Techmeme.*
 
 We walked inside and into the living room. It had a 70s decor, with its beige shag carpet and mahogany wood paneling adorning the walls. Mike pointed me to a small room at the top of the hallway to the left, empty except for a futon on the floor and a small dresser; this would be my room for the duration of my two-week stay. “Hey Fred,” yelled Mike down the hallway, “come meet Richard.”
@@ -38,7 +38,7 @@ Fred warmly shook my hand and we all joked around, while Laguna bounced and bark
 
 In later trips to the US, I’d learn to stay awake as long as possible into the evening, to make the jet lag more palatable the next day. But for this first trip, I was exhausted from lack of sleep on the plane and the culture shock of my first trip to California, so by the end of the afternoon I had passed out on the futon in the small room. I heard Mike knock on the door and say there was pizza and beer for dinner, and I didn’t want to appear rude to my host, but I couldn’t rouse myself awake again.
 
-![](/assets/images/9cfe9ccd-d87a-4759-b23d-232ca3719a34_800x533.jpg)
+![TechCrunch BBQ, October 2005](/assets/images/9cfe9ccd-d87a-4759-b23d-232ca3719a34_800x533.jpg)
 *At one of the TechCrunch BBQs; photo taken on 21 October 2005 [by Scott Beale](https://www.flickr.com/photos/laughingsquid/54890801).*
 
 The next morning, a Saturday, I felt much better and immediately joined the others in the room at the end of the hallway, to the left. This was Mike’s home office, and Fred worked from it too. Gabe had set up what looked like a temporary desk, so that all of us could be together during my stay.
@@ -47,14 +47,14 @@ Mike’s desk was in one corner and had an elevated black MacBook on it, along w
 
 I was invited to set up my laptop in the makeshift office, which had a small spare desk, so I duly logged on and checked the news on Gabe’s tech.memeorandum website. “Google Confirms Free San Francisco WiFi Plans” was the [top story](https://www.techmeme.com/051001/h1240), from an Indian-American blogger named Om Malik. He was one of the rare early tech bloggers who was an actual journalist — he’d worked for Forbes and Red Herring during the 1990s. Om’s blog was currently rated number 96 on the Technorati Top 100, a new blog directory that was beginning to make waves among the blogger community. There were relatively few tech bloggers on the list at this point, although a couple of “gadget blogs” were among the highest ranked (Engadget at 2, Gizmodo at 4) and the cyberculture group blog Boing Boing was number 1. Otherwise it was political blogs, like Daily Kos and Instapundit, that made up much of the top 10. Neither Mike nor I were on Technorati’s top 100 list at this point.
 
-![](/assets/images/87e20616-45f8-4c6e-9c2f-b695915ab370_1674x1572.png)
+![Screenshot of Technorati, a blog directory, October 2005](/assets/images/87e20616-45f8-4c6e-9c2f-b695915ab370_1674x1572.png)
 *Technorati, [1 Oct 2005](https://web.archive.org/web/20051001090738/http://technorati.com/pop/blogs/). We soon became very addicted to this site!*
 
 The conversation soon turned to my accent, especially how I pronounced ‘web’ — Mike told me it sounded like “weeb.” The name of my site, Read/Write Web, was already a tongue-twister, so I figured this just made my blog even more exotic. Mike also ribbed Gabe about how unwieldy Memeorandum was to say and spell, so I wasn’t the only object of his good-natured teasing.
 
 I had to admit, TechCrunch was a great name for a blog and also captured Mike’s personality well. Not only was he physically imposing, but he sometimes adopted a no-nonsense tone in his blog too. He wasn’t afraid to dismiss, and even insult, new web products that failed to impress him. When Google launched an eBay copycat called Google Base in November 2005, [Mike called it](https://web.archive.org/web/20051124043349/https://techcrunch.com/2005/11/15/google-base-launched-yuck/) “ugly” and “not a very interesting application in its current form.” But most of the time on his blog, he was a curious and generous reviewer of new startups. His September 2005 [review of Facebook](https://web.archive.org/web/20051013084744/http://www.techcrunch.com/2005/09/07/85-of-college-students-use-facebook/), before it had opened up beyond US college students, was a good example. Since Mike wasn’t a college student, he couldn’t immediately access the site. But he contacted one of the early employees and was given a demo account, which he gave a positive review to.
 
-![](/assets/images/8f4c05cd-4748-441f-b2af-66823c512455_800x533.jpg)
+![Inside the TechCrunch ranch](/assets/images/8f4c05cd-4748-441f-b2af-66823c512455_800x533.jpg)
 *The door on the top-left of this pic was my bedroom for the duration of my stay at the TechCrunch ranch; photo taken on 21 October 2005 [by Scott Beale](https://www.flickr.com/photos/laughingsquid/54892487).*
 
 In person, Mike was also frank in his opinions — he wasn’t one of those tall people who slouched. He even said at one point during my stay, “I’m comfortable in my own skin.” I remember it clearly, because I felt the exact opposite at that time. As Mike became well-known in the tech industry over the next year or two, his self-confidence would often be mistaken for arrogance by other people. But I never felt that way towards him. He was a confident man, for sure, but he also had a wry sense of humor that told me he didn’t take himself too seriously.

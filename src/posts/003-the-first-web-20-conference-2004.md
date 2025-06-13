@@ -7,7 +7,7 @@ tags: ['web20', 'memoir', '2004']
 featureImage: "/assets/images/web2-conference-2004-1280x720.jpg"
 ---
 
-![](/assets/images/web2-conference-2004-1280x720.jpg){loading="eager"}
+![John Battelle, Marc Andreessen and Dan Rosensweig at Web 2.0 Conference, October 2004](/assets/images/web2-conference-2004-1280x720.jpg){loading="eager"}
 *A scene from the first Web 2.0 Conference in Silicon Valley, October 2004.*
 
 In-between trying to get linked to by an A-Lister in the blogosphere, I inadvertently turned myself into a journalist. In March 2004, I interviewed Marc Canter, a Silicon Valley resident who was internet famous in the 1980s. Twenty years prior, he’d co-founded MacroMind — a company that created multimedia software for the Apple Macintosh. Through a series of corporate maneuvers I didn’t understand at the time of the interview, by 1992 MacroMind had morphed into Macromedia. By that point, Canter had departed the company, but he’d be forever linked to Macromedia’s subsequent Dot Com success.

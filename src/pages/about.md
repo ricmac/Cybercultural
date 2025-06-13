@@ -29,11 +29,11 @@ See the [site colophon](/uses) for details on how this website was created.
 
 **Note:** MacManus also authored WebDevelopmentHistory&#46;com (2020-21), a blog about the early years of the web from a developer perspective. It has since been [migrated to Cybercultural](/dotcom/).
 
-![](/assets/images/c38fbe37-9903-4529-8dc4-ae14403d7c9b_1178x616.png)
+!["I’ve said it many times but I’ll say it again. Don’t sleep on this series if you work in tech and want to understand history." Vicki Boykis](/assets/images/c38fbe37-9903-4529-8dc4-ae14403d7c9b_1178x616.png)
 ([link](https://twitter.com/vboykis/status/1427778555153354756))
 
-![](/assets/images/7fb0cd89-e8d0-4e13-a14b-1be395083217_1168x382.png)
-([link](https://twitter.com/gordonbrander/status/1438356086956847105))
+!["I am very grateful for your webdevhistory project. It is an important resource for understanding what made the web work… Lots of insights for those working on the web, or building new web-like things." Gordon Brander](/assets/images/7fb0cd89-e8d0-4e13-a14b-1be395083217_1168x382.png)
+([link](https://web.archive.org/web/20210916234739/https://twitter.com/gordonbrander/status/1438356086956847105))
 
-![](/assets/images/f1847b86-51c6-4483-9d7b-84ddfec05c85_1176x728.png)
+!["thank you to ricmac for chatting with me about the history of the web and writing a fantastic blog on the whole thing. I never felt more like a zoomer than during our conversation." Sabrina, NerdyAndQuirky](/assets/images/f1847b86-51c6-4483-9d7b-84ddfec05c85_1176x728.png)
 ([link](https://twitter.com/NerdyAndQuirky/status/1596256679473315841))

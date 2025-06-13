@@ -4,7 +4,7 @@ description: "It's 2009 and Firefox is being challenged by Google’s new Chrome
 date: 2024-07-10
 permalink: "p/040-web20-big-tech-control-2009/"
 tags: ['web20', 'memoir', '2009']
-featureImage: "/assets/images/friendfeed-ricmac_aug09.png"
+featureImage: "/assets/images/friendfeed-ricmac_aug09-1280x720.jpg"
 ---
 
 ![My FriendFeed, July 2024](/assets/images/friendfeed-ricmac_aug09.png){loading="eager"}
@@ -21,7 +21,7 @@ The real question was would Firefox be the next mainstream browser of choice, or
 
 Back in March, [when I had visited the Googleplex](/p/037-googleplex-2009-rww-channels/), I’d also walked over to the adjacent Mozilla headquarters—a rather drab mud-brown building that stood in stark contrast to Google’s shiny, colorful new complex. At this time, around 85 percent of Mozilla’s revenue came from Google, in exchange for Google being the default home page and search engine of Firefox. Frankly, Mozilla was under Google’s thumb, and now it had to compete against Google’s impressive new Chrome browser too. 
 
-![Mozilla offices, circa March 2009](/assets/images/1440px-Mozillaheadquarters.jpg)
+![Mozilla offices, circa March 2009](/assets/images/Mozillaheadquarters-1000x750.jpg)
 *Former Mozilla office next to the Googleplex; they moved to the other side of Mountain View [in July 2009](https://eu.gainesville.com/story/news/2009/07/26/for-mozilla-and-google-group-hugs-get-tricky/31715569007/), just a few months after my visit. Photo by Coolcaesar [via Wikimedia](https://commons.wikimedia.org/wiki/File:Mozillaheadquarters.jpg).*
 
 If I had to pinpoint one sign that the rose-tinted view of Web 2.0 as an open-platform paradise was about to come to an end, the emergence of Google Chrome would be it.

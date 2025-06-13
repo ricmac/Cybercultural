@@ -7,7 +7,7 @@ tags: ['web20', 'memoir', '2004']
 featureImage: "/assets/images/b355a7e0-ccf7-4464-83c0-2c3251ea3a0b_1280x720.jpg"
 ---
 
-![](/assets/images/b355a7e0-ccf7-4464-83c0-2c3251ea3a0b_1514x1126.jpg){loading="eager"}
+![ReadWriteWeb website, November 15, 2004](/assets/images/b355a7e0-ccf7-4464-83c0-2c3251ea3a0b_1514x1126.jpg){loading="eager"}
 *My Tim O’Reilly interview after the first Web 2.0 Conference, Nov 2004.*
 
 I hadn’t gone to the first Web 2.0 Conference in October 2004, but I monitored it from afar. I was intrigued by the potential start of a new movement on the web, so I reached out to Tim O’Reilly and asked to [interview him for my blog](https://web.archive.org/web/20041116101331/http://www.readwriteweb.com/archives/002434.php). He agreed and in November 2004, we did a Skype call.

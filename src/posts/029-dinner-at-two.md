@@ -1,13 +1,13 @@
 ---
-title: "Dinner at TWO, But With Which Acquirer?"
-description: "I continue negotiations with two potential acquirers of ReadWriteWeb: CMP and Ziff Davis Enterprise. One invites me to dinner, but it turns out three's a crowd."
+title: "Dinner at TWO, But With Which Acquirer? A Zany Night in SF"
+description: "I continue negotiations with two potential acquirers of ReadWriteWeb: CMP and Ziff Davis Enterprise. One invites me to dinner at a trendy SoMA restaurant, but it turns out three's a crowd."
 date: 2024-04-16
 permalink: "p/029-dinner-at-two/"
 tags: ['web20', 'memoir', '2008']
-featureImage: "/assets/images/two_sf_2007.jpeg"
+featureImage: "/assets/images/two-restaurant-2008-1000x563.jpg"
 ---
 
-![The Two restaurant](/assets/images/two_sf_2007.jpeg){loading="eager"}
+![The Two restaurant](/assets/images/two-restaurant-2008-1000x563.jpg){loading="eager"}
 
 Mike Azzara from Ziff Davis Enterprise had arranged a dinner for three people—he’d be bringing along a new ZDE editor named Stephen Wellman, whom he’d just hired from (of course) CMP. The dinner reservation was at a restaurant called [TWO](https://web.archive.org/web/20080415154709/http://www.two-sf.com/), in the trendy SoMa district of San Francisco, apparently in the original 1922 headquarters of the [San Francisco Newspaper Company](https://web.archive.org/web/20080415154709/http://www.two-sf.com/). Perhaps this was why, as I would soon discover, it was popular with media people.
 
