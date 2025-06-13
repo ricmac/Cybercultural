@@ -4,7 +4,7 @@ description: "I take another long series of flights to New York City for ReadWri
 date: 2024-10-02
 permalink: "p/051-realtimeweb-summit-nyc-2010/"
 tags: ['web20', 'memoir', '2010']
-featureImage: "/assets/images/ricmac-rwrealtime-summit-june2010.jpg"
+featureImage: "/assets/images/ricmac-rwrealtime-summit-june2010-1280x720.jpg"
 ---
 
 ![Richard MacManus at RWW Real-Time Web Summit, NYC, June 2010](/assets/images/ricmac-rwrealtime-summit-june2010.jpg){loading="eager"}

@@ -1,10 +1,10 @@
 ---
 title: "SXSW Music Blues and RWW Community Manager Departs"
-description: "After not seeing ReadWriteWeb's Community Manager during SXSW Interactive, we mutually agree to part ways. Afterwards, I try to enjoy the earsplitting attractions of SXSW Music 2010."
+description: "After not seeing ReadWriteWeb's Community Manager during SXSW Interactive, we mutually agree to part ways. Afterwards, I try to enjoy the earsplitting attractions of SXSW Music 2010 in Austin."
 date: 2024-08-28
 permalink: "p/047-sxsw-music-2010/"
 tags: ['web20', 'memoir', '2010']
-featureImage: "/assets/images/sxsw_music_2010_bandofskulls.jpg"
+featureImage: "/assets/images/sxsw_music_2010_bandofskulls-1200x675.jpg"
 ---
 
 ![SXSW Music 2010](/assets/images/sxsw_music_2010_bandofskulls.jpg){loading="eager"}

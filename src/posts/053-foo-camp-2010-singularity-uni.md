@@ -4,10 +4,10 @@ description: "I finish up my big 2010 US trip with my first experience of O’Re
 date: 2024-10-16
 permalink: "p/053-foo-camp-2010-singularity-uni/"
 tags: ['web20', 'memoir', '2010']
-featureImage: "/assets/images/foo-camp-tents-2010b.jpg"
+featureImage: "/assets/images/4736535257_b9b423909f_o-1280x720.jpg"
 ---
 
-![Foo Camp, June 2010](/assets/images/foo-camp-tents-2010b.jpg){loading="eager"}
+![Foo Camp, June 2010](/assets/images/4736535257_b9b423909f_o-1280x720.jpg){loading="eager"}
 
 After my trips to [New York](/p/051-realtimeweb-summit-nyc-2010/) and [Portland](/p/052-ricmac-in-portland-2010/), I flew back to San Francisco. I first attended the SemTech conference for the second year running. However, the most interesting event I went to that week was at Singularity University (SU), located at the NASA Ames Research Park near Mountain View.
 
@@ -57,7 +57,7 @@ I wasn’t entirely sure about the camping part—I’d never been an outdoor pe
 
 We arrived at the O’Reilly campus around 5:30 p.m. The day was still hot and the sky blue and clear, so it felt like we were arriving for summer camp. The main O’Reilly office was a large, nondescript brown building, which we all filed into. In the emails leading up to the event, we’d been told there were some vacant office rooms available for bunking down—“on a carpeted floor”—but that most of us would have to pitch tents in the field out back. Nate and I soon made our way out to the field, which apparently used to be an apple orchard, and set up the tent on the rocky, uneven ground.
 
-![Foo Camp grounds](/assets/images/foo-camp-grounds-2010b.jpg)
+![Foo Camp grounds](/assets/images/4743805146_40271d0fe0_o-1280x800.jpg)
 *Foo Camp grounds; photo [by Scott Beale / Laughing Squid](https://laughingsquid.com/photos-foo-camp-2010/).*
 
 We then went back to the gathering area in the backyard of the office building. By this time most of the [250 or so](https://web.archive.org/web/20100716063735/http://foocamp10.wiki.oreilly.com/wiki/index.php/Foo_Campers) attendees had arrived and were milling around, chatting and drinking beer from plastic cups. I saw a bunch of people I knew—Mike Arrington (who told me he wasn’t camping and instead had booked a nearby hotel), Robert Scoble, Scott Beale, Brady Forrest, Tom Coates, Kevin Marks, Dave McClure, and others. As usual with tech events at that time, most of the attendees were men, and most were white, too.

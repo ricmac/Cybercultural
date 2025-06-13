@@ -4,7 +4,7 @@ description: "In June 2010, I make my first trip to Portland, Oregon, where many
 date: 2024-10-08
 permalink: "p/052-ricmac-in-portland-2010/"
 tags: ['web20', 'memoir', '2010']
-featureImage: "/assets/images/teamrww-portland-june2010a.jpg"
+featureImage: "/assets/images/teamrww-portland-june2010a-1000x563.jpg"
 ---
 
 ![RWW's coworking day at Urban Grind](/assets/images/teamrww-portland-june2010a.jpg){loading="eager"}

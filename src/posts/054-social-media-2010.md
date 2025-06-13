@@ -4,7 +4,7 @@ description: "By mid-2010, social referrers like Facebook, Digg and StumbleUpon 
 date: 2024-10-23
 permalink: "p/054-social-media-2010/"
 tags: ['web20', 'memoir', '2010']
-featureImage: "/assets/images/rww-twitter-aug2010.jpg"
+featureImage: "/assets/images/rww-twitter-aug2010-1280x720.jpg"
 ---
 
 ![ReadWriteWeb Twitter account, 31 August 2010](/assets/images/rww-twitter-aug2010.jpg){loading="eager"}

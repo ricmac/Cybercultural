@@ -1,19 +1,19 @@
 ---
 title: "New York Times HQ Visit and Emergence of Influencer Culture"
-description: "On my latest trip to New York City, in May 2010, Sean and I attend Creative Week to scope out the venue for ReadWriteWeb's next event, we meet VC Fred Wilson, and visit the New York Times skyscraper."
+description: "On my latest trip to New York City, in May 2010, Sean and I attend Creative Week to scope out the venue for our next event, meet VC Fred Wilson, and visit the New York Times skyscraper."
 date: 2024-09-18
 permalink: "p/050-meeting-new-york-times-2010/"
 tags: ['web20', 'memoir', '2010']
-featureImage: "/assets/images/ny-times-building-2009.jpg"
+featureImage: "/assets/images/12148250806_09eff9ecc6_o-1000x675.jpg"
 ---
 
-![New York Times Building](/assets/images/ny-times-building-2009.jpg){loading="eager"}
+![New York Times Building](/assets/images/12148250806_09eff9ecc6_o-1000x675.jpg){loading="eager"}
 
 I think Sean was more excited to meet Fred Wilson than I was. As a wannabe VC, he was in awe of Fred and had tried (unsuccessfully) to interview him for the *ReadWriteTalk* podcast. I certainly knew about Fred and subscribed to his blog in Google Reader, but it felt like we lived in different neighborhoods of the blogosphere. We only rarely ran into each other, virtually speaking—one of us would comment on the other’s blog occasionally, but that was it.
 
 If I’d been one of the first professional tech bloggers, Fred had pioneered the art of VC blogging. He religiously blogged every day on AVC&#46;com and had a loyal, business-focused audience who hung on his every word. He’d been an investor in Feedburner before it was sold to Google, but ironically he [didn’t use an RSS reader](https://web.archive.org/web/20100525155723/http://www.avc.com/a_vc/2010/05/going-direct.html). In that respect, he was an unusual ambassador for the read/write web, since he published to the web but didn’t subscribe to other bloggers. I knew that RWW was on his blogroll, however, along with the likes of TechCrunch and Business Insider—so I guessed he probably visited our website every now and then to check the news. But I didn’t get the sense that Fred knew much about me personally, as a fellow blogger.
 
-![Cosmic 140](/assets/images/cosmic_140.jpg)
+![Cosmic 140](/assets/images/cosmic_140-1280.jpg)
 *The Cosmic 140: the "the 140 most influential people on twitter" in May 2010, according to [Information Architects, Inc.](https://web.archive.org/web/20100524215805/http://informationarchitects.jp/c140/) (creators of the [Web Trend Map](/p/037-googleplex-2009-rww-channels/)). Fred and I were at least in the same galaxy.* 
 
 I’d been introduced to Fred over email by (who else?) Alex Iskold, and we’d arranged to meet him in his Union Square Ventures office at 915 Broadway, between Twentieth and Twenty-First. By coincidence, Sean and I had bumped into him earlier that day in a Manhattan café. So when we entered his fourteenth-floor office at 3:00 p.m. on Tuesday, it was our second encounter.
