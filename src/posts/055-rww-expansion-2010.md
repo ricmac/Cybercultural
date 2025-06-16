@@ -1,10 +1,10 @@
 ---
-title: "ReadWriteWeb Growing Pains and Managing the Writing Team"
+title: "ReadWriteWeb Growing Pains and Managing Bloggers"
 description: "As we continue to grow ReadWriteWeb over the second half of 2010, I struggle with our inability to hire US writers full-time because it’s a non-US company. This creates unease amongst our bloggers."
 date: 2024-10-30
 permalink: "p/055-rww-expansion-2010/"
 tags: ['web20', 'memoir', '2010']
-featureImage: "/assets/images/rww-screenshot-sep2010-feature.jpg"
+featureImage: "/assets/images/rww-screenshot-sep2010-feature-1215x683.jpg"
 ---
 
 ![Screenshot of ReadWriteWeb in September 2010](/assets/images/rww-screenshot-sep2010-feature.jpg){loading="eager"}

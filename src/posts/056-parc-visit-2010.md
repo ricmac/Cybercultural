@@ -4,7 +4,7 @@ description: "In October 2010, I visit Silicon Valley again but skip the Web 2.0
 date: 2024-11-06
 permalink: "p/056-parc-visit-2010/"
 tags: ['web20', 'memoir', '2010']
-featureImage: "/assets/images/ricmac-sf-oct2010b.jpg"
+featureImage: "/assets/images/ricmac-sf-oct2010b-1200x675.jpg"
 ---
 
 ![ricmac at PARC and at SF dinner, 2010](/assets/images/ricmac-sf-oct2010b.jpg){loading="eager"}
@@ -34,7 +34,7 @@ In truth, none of what I saw at i-stage inspired me as much as some of the Web 2
  
 The highlight of my latest Silicon Valley trip was a journey down the 101 to Palo Alto to visit PARC—the Palo Alto Research Center, formerly known as Xerox PARC. The visit had been organized by Sonal Chokshi, who had originally emailed me in late August about attending PARC’s fortieth anniversary celebration event in September. While I couldn’t attend that, I was grateful to her for organizing this tour of PARC—to take in the history of the place—and a few meetings to see what the present-day PARC was working on.
 
-![PARC, Nov 2009](/assets/images/parc-sign-2009b.jpg)
+![PARC, Nov 2009](/assets/images/parc-sign-2009c.jpg)
 *PARC complex, Palo Alto; photo [by Kazuhisa Otsubo](https://www.flickr.com/photos/cytech/4111466377/) (taken Nov 2009).*
 
 In 2002 PARC had been turned from a division of Xerox into a wholly owned subsidiary company. It was basically a research-for-hire firm, trading on its illustrious reputation from the 1970s. It had become famous in its first decade for inventing a host of technologies that led to the internet age—including the Alto personal computer, the graphical user interface (GUI, famously appropriated by Apple and Microsoft in the early eighties), object-oriented programming (via the Smalltalk programming language), Ethernet, and laser printing.

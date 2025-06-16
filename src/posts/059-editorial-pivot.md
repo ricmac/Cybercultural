@@ -4,10 +4,10 @@ description: "Our writer woes are not getting better and it’s impacting page v
 date: 2024-11-27
 permalink: "p/059-editorial-pivot/"
 tags: ['web20', 'memoir', '2011']
-featureImage: "/assets/images/internet-week-2011b.jpg"
+featureImage: "/assets/images/internet-week-2011c.jpg"
 ---
 
-![Digital Archaeology exhibit at Internet Week 2011](/assets/images/internet-week-2011b.jpg){loading="eager"}
+![Digital Archaeology exhibit at Internet Week 2011](/assets/images/internet-week-2011c.jpg){loading="eager"}
 *Digital Archaeology exhibit at Internet Week 2011; [photo](https://www.flickr.com/photos/laughingsquid/5804861284/) by [Scott Beale / Laughing Squid](http://laughingsquid.com/).*
 
 Before I left for New York in the first week of June 2011, I reviewed our May traffic. It was dismal. We’d had our lowest monthly total page views since last November. Even worse, our unique visitors were the lowest they’d been since last July. 

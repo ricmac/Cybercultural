@@ -4,7 +4,7 @@ description: "Our two-day conference in the summer of 2011 in New York City has 
 date: 2024-12-03
 permalink: "p/060-rww-2way-summit-nyc-2011/"
 tags: ['web20', 'memoir', '2011']
-featureImage: "/assets/images/2way-summit-feature.jpeg"
+featureImage: "/assets/images/ricmac-mikemccue-2011-1000x563.jpg"
 ---
 
 ![The ReadWriteWeb 2WAY Summit NYC, 2011](/assets/images/2way-summit-feature.jpeg){loading="eager"}

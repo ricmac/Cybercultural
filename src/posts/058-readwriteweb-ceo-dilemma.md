@@ -4,10 +4,10 @@ description: "During my trip to Austin in March 2011, I catch up with ReadWriteW
 date: 2024-11-20
 permalink: "p/058-readwriteweb-ceo-dilemma/"
 tags: ['web20', 'memoir', '2011']
-featureImage: "/assets/images/rww-mgmt-team-march2011.jpg"
+featureImage: "/assets/images/5522014914_63f994243f_o-1280x720.jpg"
 ---
 
-![RWW management team, SXSW 2011](/assets/images/rww-mgmt-team-march2011.jpg){loading="eager"}
+![RWW management team, SXSW 2011](/assets/images/rww-mgmt-team-march2011b.jpg){loading="eager"}
 *RWW management team, SXSW 2011; from left to right: Richard MacManus, Sean Ammirati, Marshall Kirkpatrick; photo [by Shashi Bellamkonda](https://www.flickr.com/photos/drbeachvacation/5522014914/).*
 
 After the ReadWriteWeb management meetings and in-between the SXSW partying, I met up with Sarah Perez to talk about the editorial issues. She was pleased to hear that Abraham would be moving into a more hands-on role in the news team, and she seemed enthused by her proposed role helping me with the evergreen content plan. While she had some critiques of both Marshall and me, especially regarding story allocation and daily communication, she offered them in a constructive manner. Overall, she was positive and promised to lend her support to [the editorial changes](/p/057-sxsw-2011/).
