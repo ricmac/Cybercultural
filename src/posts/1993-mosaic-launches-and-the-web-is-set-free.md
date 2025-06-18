@@ -1,13 +1,14 @@
 ---
-title: "1993: Mosaic Launches and the Web is Set Free"
-description: "On 14 January 1993, Marc Andreessen put a call out on the WWW-Talk mailing list for people to test a new WWW browser in development: X Mosaic."
+title: "1993: Mosaic Launches and the Web Becomes Open Source"
+description: "On 21 April 1993, Marc Andreessen announces NCSA Mosaic 1.0, the first version of its multimedia browser. Just over a week later, CERN gifts the World Wide Web to the world as open source software."
 date: 2021-12-08
 permalink: "p/1993-mosaic-launches-and-the-web-is-set-free/"
 tags: ['dotcom', '1993']
-featureImage: "/assets/images/wdh/mosaic_feature.jpg"
+featureImage: "/assets/images/wdh/mosaic.1.0.2-1280x720.jpg"
 ---
 
-![Mosaic X](/assets/images/wdh/mosaic_feature.jpg){loading="eager"}
+![Mosaic X](/assets/images/wdh/mosaic.1.0.2-1280x720.jpg){loading="eager"}
+*Original NCSA Mosaic Version 1.0 web browser home page; [via NCSA](https://www.ncsa.illinois.edu/research/project-highlights/ncsa-mosaic/).*
 
 On 14 January 1993, Marc Andreessen put [a call out](http://1997.webhistory.org/www.lists/www-talk.1993q1/0073.html) on the WWW-Talk mailing list for people to test a new WWW browser in development. It was initially “hypertext only,” he wrote, “but will soon have multimedia capabilities also.” He followed up on 23 January 1993 with the [announcement](http://1997.webhistory.org/www.lists/www-talk.1993q1/0099.html) of “alpha/beta version 0.5” of the browser, which he called X Mosaic. The X signified that it was built for the X Window System, which meant that it only worked on a few platforms — notably, not yet including Microsoft Windows or Apple Macintosh.
 
@@ -21,7 +22,7 @@ The [first to reply](http://1997.webhistory.org/www.lists/www-talk.1993q1/0103.h
 
 Andreessen sent [progress](http://1997.webhistory.org/www.lists/www-talk.1993q1/0117.html) [reports](http://1997.webhistory.org/www.lists/www-talk.1993q1/0121.html) to WWW-Talk over the [coming](http://1997.webhistory.org/www.lists/www-talk.1993q1/0156.html) [weeks](http://1997.webhistory.org/www.lists/www-talk.1993q1/0158.html), along with a “[solicitation for widgets](http://1997.webhistory.org/www.lists/www-talk.1993q1/0120.html).” He also began adding the name of his programming partner at NCSA, Eric Bina, to the announcements.
 
-Mosaic 1.0, Including Embedded Images
+Including Embedded Images
 -------------------------------------
 
 This all happened before Andreessen’s [famous message](http://1997.webhistory.org/www.lists/www-talk.1993q1/0182.html) in WWW-Talk dated 25 February 1993, in which he proposes a new HTML tag: IMG. With this simple message, he kickstarts the multimedia web by requesting a way to embed images inside an HTML page. Up till this point, web browsers were text-based — you could add a text link that pointed to an image file, but it would open in a separate window.
@@ -41,7 +42,7 @@ The [very next message](http://1997.webhistory.org/www.lists/www-talk.1993q2/012
 
 The ViolaWWW browser, as discussed in [my previous post](/p/1992-web-vs-gopher/), was developed by Pei-Yuan Wei — who at this point in 1993 was getting funding from tech publisher O’Reilly & Associates. This may’ve been the time that ViolaWWW was the preferred browser at CERN, the home of the early Web. Regardless, it’s clear from the discussions on WWW-Talk that Mosaic would be a formidible new entrant to the web browser market.
 
-The Web is Gifted to the Public Domain
+Web Gifted to Public Domain
 --------------------------------------
 
 Just over a week after Mosaic 1.0 was released, CERN gifted the Web to the world as open source software. As of 30 April 1993, the still relatively new Internet communications platform was suddenly free for anyone to use, with no strings attached.
@@ -73,7 +74,7 @@ One of the topics of discussion was the founding of a Web consortium, which Bern
 
 “I got a lot of things out of it,” wrote Berners-Lee in [his notes](https://www.w3.org/History/1994/WWW/WorkingNotes/1993_Workshop/TimNotes.html) from the W5 event, adding that he “was glad to see the support for a consortium.”
 
-Non-Academic Websites Emerge
+Non-Academic Websites
 ----------------------------
 
 By late 1993, a handful of websites that reflected the wider culture had began to emerge on the WWW. Often they’d started out as resources on the likes of Gopher, and then made the move onto the Web. One example was the [Internet Underground Music Archive](https://web.archive.org/web/19961022175511/http://www.iuma.com/) (IUMA), which offered the first glimpse of the future of online music.
@@ -95,7 +96,7 @@ You type in the IUMA link (you’ve most likely been told about it and made a no
 
 This process is a long way off from the seamless streaming services we enjoy today on the web. But from late 1993 and into 1994, listening to music on IUMA was time-consuming and also could take up a decent chunk of your monthly ISP bandwidth allocation (which was maybe around 100MB, depending on how much you paid).
 
-Mosaic is Ready For the Mainstream
+Mosaic Ready For Mainstream
 ----------------------------------
 
 The world of online music was far from the minds of the Mosaic developers, though. Marc Andreessen and Eric Bina just wanted to get working versions of their browser onto all the common platforms of the time: X Window System, Microsoft Windows and Macintosh. They achieved this by September 1993.

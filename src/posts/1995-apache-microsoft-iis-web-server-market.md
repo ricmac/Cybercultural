@@ -1,13 +1,14 @@
 ---
-title: "1995: Apache and Microsoft IIS Shake Up the Web Server Market"
-description: "The Apache project was publicly announced in April 1995. It was followed soon after by Microsoft's first web server software, Internet Information Server (IIS)."
+title: "1995: Apache and Microsoft IIS Shake Up Web Server Market"
+description: "The Apache Web Server Project announced a new 'public-domain HTTP server' in April 1995. That was followed soon after by Microsoft's first web server software, Internet Information Server."
 date: 2021-08-31
 permalink: "p/1995-apache-microsoft-iis-web-server-market/"
 tags: ['dotcom', '1995']
-featureImage: "/assets/images/wdh/1995_apache_iis_feature.jpg"
+featureImage: "/assets/images/wdh/apache-logo-1000x563.jpg"
 ---
 
-![Apache and IIS](/assets/images/wdh/1995_apache_iis_feature.jpg){loading="eager"}
+![Apache and IIS](/assets/images/wdh/apache-logo-1000x563.jpg){loading="eager"}
+*Apache logo; [via Wayback Machine](https://web.archive.org/web/20001109032200/http://httpd.apache.org/).*
 
 From January 1995 through till the end of December, the Web [grew from](https://www.mit.edu/people/mkgray/growth/) just over 10,000 websites to 100,000. But in order to publish a website at that time, you needed to host it on a web server. In simple terms, a web server is a piece of software that specializes in delivering a web page to a client (the browser) using the HTTP protocol. Not only does it _serve_ web pages, it quite literally _serves_ the client’s wishes. As [The Web Server Book](https://archive.org/details/webserverbooktoo00magi), published in July 1995 by Jonathan Magid, R. Douglas Matthews and Paul Jones, put it, “A server is usually an automatic program that waits for client requests.”
 

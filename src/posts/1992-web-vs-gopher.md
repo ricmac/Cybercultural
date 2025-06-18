@@ -1,13 +1,14 @@
 ---
 title: "1992: The Web vs Gopher, and the First External Browsers"
-description: "Three new, non-CERN web browsers were released over 1992, at a time when there were less than twenty websites in the world. It was a turning point for the young Web."
+description: "Three non-CERN web browsers were released over 1992 — Erwise, ViolaWWW and MidasWWW — at a time when there were less than 20 websites in the world. It was a turning point for the young Web."
 date: 2021-11-18
 permalink: "p/1992-web-vs-gopher/"
 tags: ['dotcom', '1992']
-featureImage: "/assets/images/wdh/viola_erwise_880.jpg"
+featureImage: "/assets/images/wdh/MidasWWW_Solaris-1000x563.jpg"
 ---
 
-![1992 web browsers](/assets/images/wdh/viola_erwise_880.jpg){loading="eager"}
+![1992 web browsers](/assets/images/wdh/MidasWWW_Solaris-1000x563.jpg){loading="eager"}
+*MidasWWW browser in 1992; [via Ancient Web Browsers](https://browsers.flanigan.us/browsers/midaswww/).*
 
 Throughout 1992, there were just a scattering of websites on the World Wide Web — somewhere between [ten and twenty](https://en.wikipedia.org/wiki/List_of_websites_founded_before_1995). A W3C page from late 1992 lists [less than 30](https://www.w3.org/History/19921103-hypertext/hypertext/DataSources/WWW/Servers.html) web servers online at the time (not all of them had web sites attached to them). So the Web in 1992 was still a niche system, used almost entirely by academics. However, there were signs that the Web was starting to get noticed by people who used other internet protocols, like Gopher.
 
@@ -83,6 +84,9 @@ When Berners-Lee [briefly compared](https://www.w3.org/History/19921103-hypertex
 > “These products are both aimed at the same market, but they have quite different feel to them. The level of functionality is very similar. Both look neat, in different ways. Both crashed with certain x-servers in beta test. Both have obvious hooks for smart extensions. Both were produced by students, one as a degree project, one as a fun project.”
 
 But in [another note](https://www.w3.org/People/Berners-Lee/FAQ.html#browser), Berners-Lee acknowledges the larger influence that ViolaWWW had on the early web. He wrote that “there was a year or so when Viola was the best way to browse the web, was the engine driving the installation of new servers, and the recommended browser at CERN for example.”
+
+![Viola browser](/assets/images/wdh/viola-browser-1992.jpg)
+*Viola browser in early 1993.*
 
 Building a New Publication Medium
 ---------------------------------

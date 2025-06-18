@@ -4,7 +4,7 @@ description: "It's December 9, 1968, and Douglas Engelbart is about to showcase 
 date: 2021-01-13
 permalink: "p/1968-the-mother-of-all-demos/"
 tags: ['preweb', '1968']
-featureImage: "/assets/images/wdh/doug_engelbart_1968demo1-1.jpg"
+featureImage: "/assets/images/wdh/doug_engelbart_1968demo1-1-1280x720.jpg"
 ---
 
 ![Doug Engelbart](/assets/images/wdh/doug_engelbart_1968demo1-1.jpg){loading="eager"}

@@ -1,15 +1,15 @@
 ---
-title: "1995: PHP Quietly Launches as a CGI Scripts Toolset"
-description: "If CGI scripts were the start of interactive programming on the web, then Personal Home Page Tools (PHP Tools) was the natural next step — at least on the server-side."
+title: "1995: PHP Launches As Server-Side CGI Scripts Toolset"
+description: "In mid-1995, a toolset called Personal Home Page Tools (PHP Tools) was launched — and hardly anyone noticed. PHP wasn’t a scripting language at this point, but it would eventually become one."
 date: 2021-04-13
 permalink: "p/1995-php-quietly-launches-as-a-cgi-scripts-toolset/"
 tags: ['dotcom', '1995']
-featureImage: "/assets/images/wdh/php_elephant_wdh.jpg"
+featureImage: "/assets/images/wdh/php_elephant_wdh-1280x720.jpg"
 ---
 
 ![PHP elephant logo](/assets/images/wdh/php_elephant_wdh.jpg){loading="eager"}
 
-If CGI scripts were [the start of interactive programming on the web](/p/1993-cgi-scripts-and-early-server-side-web-programming/), then PHP was the natural next step — at least on the server-side. Just a month after Brendan Eich [created the JavaScript scripting language](/p/1995-the-birth-of-javascript/) at Netscape, an independent developer from Canada named Rasmus Lerdorf released the first version of a toolset he called Personal Home Page Tools (PHP Tools). At this point, it wasn’t a scripting language (although it would eventually become one). As of June 1995, when Lerdorf [announced the project](https://groups.google.com/g/comp.infosystems.www.authoring.cgi/c/PyJ25gZ6z7A/m/M9FkTUVDfcwJ) to the _comp.infosystems.www.authoring.cgi_ mailing list, it was a utility library and templating engine for the Common Gateway Interface (CGI). In modern terms, we can think of it as similar to a JavaScript library like React — although obviously much less complicated, since this was 1995.
+If CGI scripts were [the start of interactive programming on the web](/p/1993-cgi-scripts-and-early-server-side-web-programming/), then PHP was the natural next step — at least on the server-side. Just a month after Brendan Eich [created the JavaScript scripting language](/p/1995-the-birth-of-javascript/) at Netscape, an independent developer from Canada named Rasmus Lerdorf released the first version of a toolset he called Personal Home Page Tools (PHP Tools). At this point, it wasn’t a scripting language (but it would eventually become one). As of June 1995, when Lerdorf [announced the project](https://groups.google.com/g/comp.infosystems.www.authoring.cgi/c/PyJ25gZ6z7A/m/M9FkTUVDfcwJ) to a CGI mailing list, it was a utility library and templating engine for the Common Gateway Interface (CGI). In modern terms, we can think of it as similar to a JavaScript library like React — although obviously much less complicated, since this was 1995.
 
 Lerdorf described PHP Tools as “a set of small tight cgi binaries written in C” that would perform common CGI scripting functionality — such as creating a form, using form data elsewhere on the website, password-protecting pages, logging page view statistics, tracking referrers, displaying last access information on a web page, and “performing server-side includes without needing server support for it.”
 
@@ -53,7 +53,7 @@ So why didn’t Lerdorf use Perl, which was the most common way to produce CGI s
 
 > “The web server where I had my resume was extremely overloaded and had constant problems forking processes. I rewrote the Perl wrapper in C to get rid of the considerable overhead of having to fork Perl each time my resume was accessed.”
 
-1995: Minor Adoption and Eventual Public Release
+1995: Minor Adoption and Public Release
 ------------------------------------------------
 
 Lerdorf used the tools he’d developed for his own work from late-1994 and into 1995, as a self-described “IT consultant” and web programmer in Toronto. This soon piqued the interest of other web programmers, as he explained [a few years later](https://web.archive.org/web/19990117005231/http://www.webtechniques.com/features/1998/02/lerdorf/lerdorf.shtml):
@@ -82,8 +82,8 @@ This was the first public mention of the scripting language in PHP Tools (at lea
 
 Another likely reason for the lack of uptake of PHP Tools in 1995 is that Perl was the default method of writing CGI scripts at the time, as discussed in [my previous post](/p/1993-cgi-scripts-and-early-server-side-web-programming/). So Perl programming and its relation to the CGI spec was what a lot of CGI scripters were focused on in 1995 — for example check out [this mailing list thread](https://groups.google.com/g/comp.infosystems.www.authoring.cgi/c/FUf8lZqH0Sc/m/XiYSW5kKGnwJ) from October, which discussed problems using Sendmail with Perl CGI scripts. Aside: the infamous Perl CGI directory [Matt’s Script Archive](https://web.archive.org/web/19980415235300/http://worldwidemart.com/scripts/) started around this time too (his Guestbook script is listed as being released in October 1995).
 
-Foundations Were Set, But PHP Still Had a Ways To Go
-----------------------------------------------------
+Foundations Set, But PHP Not Yet Popular
+----------------------------------------
 
 PHP didn’t start to gain traction until after the release of the second generation of PHP in April 1996, which Lerdorf called PHP/FI (as noted above, the FI stood for “Forms Interpreter” — one of the initial tools he’d created). When [announcing this new version](https://groups.google.com/g/comp.infosystems.www.authoring.cgi/c/GiQYyXLUijs/m/AvSFDw7msYYJ), Lerdorf called PHP/FI “a server-side HTML embedded scripting language.” He said it was “most likely the fastest and simplest tool available for creating database-enabled web sites.”
 

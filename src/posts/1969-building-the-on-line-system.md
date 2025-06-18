@@ -4,7 +4,7 @@ description: "On October 1, 1969, ten months after the historic Mother Of All De
 date: 2021-02-02
 permalink: "p/1969-building-the-on-line-system/"
 tags: ['preweb', '1969']
-featureImage: "/assets/images/wdh/de_1969_nls.jpg"
+featureImage: "/assets/images/wdh/de_1969_nls-1279x719.jpg"
 ---
 
 ![Doug Engelbart](/assets/images/wdh/de_1969_nls.jpg){loading="eager"}

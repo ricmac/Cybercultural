@@ -4,10 +4,11 @@ description: "JavaScript was invented in a two-week flurry in May 1995 by Brenda
 date: 2020-12-22
 permalink: "p/1995-the-birth-of-javascript/"
 tags: ['dotcom', '1995']
-featureImage: "/assets/images/wdh/netscape_browser_1995.jpg"
+featureImage: "/assets/images/wdh/Netscape_Navigator_2_Screenshot-1117x628.jpg"
 ---
 
-![Netscape browser 1995](/assets/images/wdh/netscape_browser_1995.jpg){loading="eager"}
+![Netscape browser 1995](/assets/images/wdh/Netscape_Navigator_2_Screenshot.png){loading="eager"}
+*Netscape Navigator 2, which featured the first version of JavaScript; image [via Wikimedia](https://commons.wikimedia.org/wiki/File:Netscape_Navigator_2_Screenshot.png).*
 
 JavaScript was invented in a two-week flurry in May 1995 by [Brendan Eich](https://brendaneich.com/), at the time a newly hired developer at browser company Netscape. The project was initiated by Netscape because of a desire to extend the early Web beyond the limits of HTML, the declarative markup language that web pages are written in. In particular, Netscape wanted to add interactivity to websites. JavaScript ended up being the solution and this post explores how that came to be.
 
@@ -51,9 +52,7 @@ This time though, Netscape couldn’t just tweak the HTML spec. That’s because
 
 As told in [JavaScript: The First Twenty Years](https://zenodo.org/record/3707008#.X6XOHVMzbDo), Brenden Eich joined Netscape in April 1995. He was hired because of his background developing “small special-purpose languages that supported kernel and networking programming tasks.” He’d actually been offered a job at Netscape when the company had launched, in April 1994 — likely because he’d previously worked for Netscape co-founder Jim Clark at Silicon Graphics. He’d turned it down back then, but took the job a year later when given the chance to implement a scripting language for web pages.
 
-However, Eich didn’t think he’d have to write a new language from scratch. There were existing options available — such as the research language, Scheme, or a Unix-based language like Perl or Python. So when he joined, Eich “was expecting to implement Scheme in the browser.” But the increasingly fractious politics of the software companies of the day (it was, basically, everyone against Microsoft) soon saw the project take a more creative turn.
-
-(Aside: It’s not my intention in this _Web Development History_ project to get into the politics of each era; rather, I’d prefer to focus on the technical reasons around why a project was started and how it was then developed. So in this case, long story short, Netscape created an alliance with a fellow Microsoft competitor, Sun Microsystems.)
+However, Eich didn’t think he’d have to write a new language from scratch. There were existing options available — such as the research language, Scheme, or a Unix-based language like Perl or Python. So when he joined, Eich “was expecting to implement Scheme in the browser.” But the increasingly fractious politics of the software companies of the day (it was, basically, everyone against Microsoft) soon saw the project take a more creative turn. Long story short, Netscape created an alliance with Sun Microsystems.
 
 On 23 May 1995, Sun Microsystems launched a new programming language into the world: Java. As part of the launch, Netscape announced that it would license Java for use in the browser. This was all well and good, but Java didn’t really fit the bill for the web. Java is a general-purpose programming language that promised Write Once, Run Anywhere (WORA) functionality, but it was too complicated for web designers and other non-programmers to use. So Netscape decided it needed a scripting language, which was a trendy term at the time for a smaller, easier to learn programming language.
 

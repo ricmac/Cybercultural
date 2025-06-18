@@ -1,22 +1,24 @@
 ---
-title: "1995: MySQL Arrives, Completing the LAMP Stack"
+title: "1995: MySQL Debuts and Web Databases Slowly Emerge"
 description: "By the end of 1995, the foundational pieces of the open source LAMP stack for web development (Linux, Apache, MySQL, PHP/Perl/Python) were in place. However, MySQL was not initially open source."
 date: 2021-09-15
 permalink: "p/1995-mysql-lamp-stack/"
 tags: ['dotcom', '1995']
-featureImage: "/assets/images/wdh/mysql_logo_1280.jpg"
+featureImage: "/assets/images/wdh/mysql-logo-1000x563.jpg"
 ---
 
-![MySql logo](/assets/images/wdh/mysql_logo_1280.jpg){loading="eager"}
+![MySql logo](/assets/images/wdh/mysql-logo-1000x563.jpg){loading="eager"}
 
-By the end of 1995, the foundational pieces of the open source LAMP stack for web development (Linux, Apache, MySQL, PHP/Perl/Python) were in place. The acronym itself would not be coined for another few years, but the technology had arrived — albeit at varying stages of maturity and adoption. Version 1.0 of Linux had been [released in 1994](https://en.wikipedia.org/wiki/History_of_Linux) and commercial Linux distribution makers, like Red Hat and SUSE, were off to the races. Perl was the [go-too web programming language](/p/1994-perl-yahoo/) for web developers in 1995, although [PHP launched that year](/p/1995-php-quietly-launches-as-a-cgi-scripts-toolset/) and soon began pulling developers away. [Apache arrived in 1995 too](/p/1995-apache-microsoft-iis-web-server-market/), and quickly ramped up. All of these were open source technologies. MySQL, although it too debuted in 1995, was _not_ initially open source — which is why it took the longest of the LAMP technologies to mature and become widely adopted.
+The LAMP stack (Linux, Apache, MySQL, PHP/Perl/Python) would not be coined as an acronym for another few years, but all the pieces were in place by the end of 1995 — albeit at varying stages of maturity and adoption. Version 1.0 of Linux had been [released in 1994](https://en.wikipedia.org/wiki/History_of_Linux) and commercial Linux distribution makers, like Red Hat and SUSE, were off to the races. Perl was the [go-too web programming language](/p/1994-perl-yahoo/) for web developers in 1995, although [PHP launched that year](/p/1995-php-quietly-launches-as-a-cgi-scripts-toolset/) and soon began pulling developers away. [Apache arrived in 1995 too](/p/1995-apache-microsoft-iis-web-server-market/), and quickly ramped up. All of these were open source technologies. 
+
+MySQL, although it too debuted in 1995, was _not_ initially open source — which is why it took the longest of the LAMP technologies to mature and become widely adopted.
 
 MySQL was initially an internal database system used by a Swedish company called TcX, from May 1995 onwards. It had been created by Michael (Monty) Widenius, who was later joined by David Axmark to partially open source it [in 1996](https://web.archive.org/web/20100326075814/http://dev.mysql.com/tech-resources/interviews/david-axmark.html). Finally, in 2000, MySQL was released under a full, GPL-based license (General Public License). Not coincidentally, its usage skyrocketed after 2000. Many famous web businesses of the 2000s adopted MySQL, including Facebook, YouTube, Twitter and Flickr. MySQL was seen by these and other startups as a cheap (can’t get cheaper than free!), lightweight and fast relational database system for websites and applications. It also supported the leading web programming languages, such as C, Perl and Java.
 
 ![LAMP Stack nowadays](/assets/images/wdh/1600px-LAMP_software_bundle.svg_-1024x576.png)
 *LAMP Stack nowadays; source: [Wikipedia](https://en.wikipedia.org/wiki/File:LAMP_software_bundle.svg)*
 
-The Web Database Market in the 1990s
+Web Databases in the 1990s
 ------------------------------------
 
 Databases took longer than other web-related software to gather momentum as open source products. In 1995, databases tended to be proprietary and expensive pieces of software. Oracle, Microsoft, IBM, Sybase and Informix were the [leading database vendors](https://www.eweek.com/database/is-ibm-a-player-in-the-relational-database-market/) of that time. There were simply no open source alternatives powerful enough to match them. As noted, MySQL wouldn’t be made publicly available until 1996 — which was also the year PostgreSQL launched. But back in 1995, early web startups had little choice but to pay the likes of Oracle or Microsoft if they needed a database. For instance Amazon, founded in 1994, started out using Oracle databases. Amazon “was built on traditional relational databases from the beginning,” according to an article (sponsored by AWS) [in The Register](https://www.theregister.com/2021/07/20/how_amazon_broke_free_from_oracle/). It used Oracle “to support its consumer operations, handling the core of its retail transactional systems.”
@@ -45,7 +47,7 @@ But mSQL had a major flaw too: it didn’t support indices, which of course UNIR
 
 And thus MySQL was born.
 
-MySQL’s Slow Rise to the Big League
+MySQL’s Slow Rise
 -----------------------------------
 
 Although MySQL was just an internal tool for TcX in 1995, after it was more widely released in 1996 it began to slowly build traction. It surpassed mSQL in popularity by 1999, and it was consistently more popular than the more sophisticated open source database system, PostgreSQL (even to this day). Part of the reason for its popularity was its wide compatibility, as Widenius explained in [a 2000 interview](https://web.archive.org/web/20000510110724/http://zend.com/zend/hof/widenius.php) with Zend:
@@ -73,7 +75,5 @@ I don’t usually end these historical posts with a note about the far future, b
 Just days after the MySQL AB sale in 2008, Monty Widenius was [writing about](https://monty-says.blogspot.com/2008/01/maria-engine-is-released.html) his brand new database project: MariaDB. Widenius initially [wanted](https://monty-says.blogspot.com/2008/01/maria-engine-is-released.html?showComment=1201856220000#c2593997869801622074) to make MariaDB the “default transactional engine for MySQL,” because (he noted in a presentation [a few months later](https://docs.huihoo.com/mysql/2008/Future-Design-Hurdles-to-Tackle-in-the-MySQL-Server.pdf)) “MySQL/Sun doesn’t have it’s \[sic\] own transactional storage engine.” Later, after he’d [left Sun](https://monty-says.blogspot.com/2009/02/time-to-move-on.html) to start his own company based on MariaDB, he [described](http://www.josetteorama.com/from-mysql-to-mariadb-michael-%E2%80%9Cmonty%E2%80%9D-widenius-talks-about-databases-and-his-projects/) MariaDB as “a full compatible and binary drop-in replacement of MySQL.”
 
 But despite intense competition from its own creator, MySQL remains the ‘M’ in LAMP to this day.
-
-
 
 Read next: [1996: JavaScript Annoyances and Meeting the DOM](/p/1996-javascript-annoyances-and-meeting-the-dom/)

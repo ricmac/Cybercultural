@@ -4,7 +4,7 @@ description: "In the final few months of 1990, Tim Berners-Lee and his colleague
 date: 2021-11-01
 permalink: "p/1990-programming-the-world-wide-web/"
 tags: ['dotcom', '1990']
-featureImage: "/assets/images/wdh/tbl_code.jpg"
+featureImage: "/assets/images/wdh/tbl_code-1280x720.jpg"
 ---
 
 ![Tim Berners-Lee invents the web](/assets/images/wdh/tbl_code.jpg){loading="eager"}

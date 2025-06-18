@@ -1,13 +1,14 @@
 ---
 title: "1993: CGI Scripts and Early Server-Side Web Programming"
-description: "A couple of years before JavaScript was invented, a specification called the Common Gateway Interface (CGI) enabled an early form of interactivity for web pages."
+description: "The Common Gateway Interface (CGI) in 1993 was the start of web applications. On the early Web, it typically took the form of Perl scripts for features like contact forms and guest books."
 date: 2021-03-24
 permalink: "p/1993-cgi-scripts-and-early-server-side-web-programming/"
 tags: ['dotcom', '1993']
-featureImage: "/assets/images/wdh/1993_cgi_mosaic.jpg"
+featureImage: "/assets/images/wdh/cgi-feature.jpg"
 ---
 
-![CGI Mosaic](/assets/images/wdh/1993_cgi_mosaic.jpg){loading="eager"}
+![CGI logo](/assets/images/wdh/cgi-feature.jpg){loading="eager"}
+*CGI logo created by the NCSA at the University of Illinois; [via Wikipedia](https://en.wikipedia.org/wiki/File:Common_Gateway_Interface_logo.svg).*
 
 A couple of years before [JavaScript was invented](/p/1995-the-birth-of-javascript/), a specification called the Common Gateway Interface (CGI) enabled an early form of interactivity for web pages. But whereas JavaScript performed interactive tasks **inside** the browser (that is, on the client-side), CGI scripts ran via an external program on a server (server-side). After a CGI script was executed on a server, the result was sent back to the originating web page as HTML code. So while a CGI script wasn’t a dynamic component in the browser, like JavaScript was, it did allow early web users in 1993 and 1994 to run interactive programs. In many ways then, it was CGI — not JavaScript — that was the start of web applications.
 
@@ -29,6 +30,9 @@ A couple of days later, after some initial feedback from the mailing list, [McCo
 
 > “I was thinking about it, and this is not really a protocol but an interface.  
 What do you all think about changing it to CGI/1.0?”
+
+![Mosaic browser](/assets/images/wdh/Mosaic-browser-NCSA-home-page.png)
+*Mosaic browser showing NCSA home page; [via ResearchGate](https://www.researchgate.net/figure/Screenshot-of-the-Mosaic-browser-displaying-the-NCSAs-home-page-The-browser-was_fig1_304300437).*
 
 After a minor grumble from someone about the term “gateway,” [McCool clarified](http://1997.webhistory.org/www.lists/www-talk.1993q4/0563.html) that it referred to “an interface to external server programs which allow you to interface with services you may not normally have access to.”
 
@@ -96,9 +100,5 @@ One of the themes of web development in the mid-1990s, which I have explored in 
 But CGI in many ways routed around this movement towards complexity, by providing an easy way to access backend functionality via a web page. The “gateway” was really just that — a virtual pipe from the browser to a server, that executed a script and then sent the result back to the browser. This simplicity enabled influential 1990s websites like Yahoo!, eBay and Craigslist to flourish, without necessarily needing to buy into either of Netscape or Microsoft’s vision for the web.
 
 But another theme of web development is that things don’t stay still for long! 1994 saw the emergence of a new scripting language that was based on CGI: [PHP](https://www.php.net/manual/en/history.php.php), which initially stood for “Personal Home Page Tools.” Over time, PHP became a replacement for Perl CGI scripts in many cases. I’ll delve into _that_ story in [the next post in this series](/p/1995-php-quietly-launches-as-a-cgi-scripts-toolset/) about server-side web development.
-
-*Lead image via [researchgate.net](https://www.researchgate.net/figure/Screenshot-of-the-Mosaic-browser-displaying-the-NCSAs-home-page-The-browser-was_fig1_304300437) and [Wikipedia](https://en.wikipedia.org/wiki/File:Common_Gateway_Interface_logo.svg).*
-
-
 
 Read next: [1994: How Perl Became the Foundation of Yahoo](/p/1994-perl-yahoo/)

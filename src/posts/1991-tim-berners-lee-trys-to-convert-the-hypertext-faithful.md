@@ -4,10 +4,11 @@ description: "After a year and a half of stalling from CERN management, Tim Bern
 date: 2021-11-10
 permalink: "p/1991-tim-berners-lee-trys-to-convert-the-hypertext-faithful/"
 tags: ['dotcom', '1991']
-featureImage: "/assets/images/wdh/9112021_01.jpg"
+featureImage: "/assets/images/wdh/9112021_01-1000x563.jpg"
 ---
 
-![Tim Berners-Lee demonstrates the World Wide Web to delegates at the Hypertext 1991 conference in San Antonio, Texas](/assets/images/wdh/9112021_01.jpg){loading="eager"}
+![Tim Berners-Lee at the Hypertext 1991 conference](/assets/images/wdh/9112021_01.jpg){loading="eager"}
+*Tim Berners-Lee demonstrates the World Wide Web to delegates at the Hypertext 1991 conference in San Antonio, Texas; via [CERN](https://cds.cern.ch/record/1164398)*
 
 After a year and a half of stalling from CERN management, followed by a flurry of development activity [over the final quarter of 1990](/p/1990-programming-the-world-wide-web/), Tim Berners-Lee and his close colleague Robert Cailliau must’ve hoped the momentum they’d gathered at the end of 1990 would continue into the new year. They were sadly mistaken. This passage from Berners-Lee’s book, [Weaving the Web](https://www.w3.org/People/Berners-Lee/Weaving/), shows his growing frustration with CERN:
 
@@ -85,9 +86,5 @@ By the end of 1991, even despite the lack of enthusiasm from CERN staff and Hype
 The Web at the end of 1991 was still a tiny niche product used primarily by European academics, but it was primed to expand. The software was globally available via certain mailing lists, it was free to download and experiment with, its read/write browser application was engaging and simple to use, and the ability to click on a link to ‘jump’ to a web server across the world meant that the World Wide Web promised global access to information. All it needed was more people to test it out.
 
 In the next post, focused on 1992, we’ll look at the first external web browsers to be released and the worldwide growth that finally began to occur for the Web.
-
-*Featured image: Tim Berners-Lee demonstrates the World Wide Web to delegates at the Hypertext 1991 conference in San Antonio, Texas. Source and ©: [CERN](https://cds.cern.ch/record/1164398)*
-
-
 
 Read next: [1992: The Web vs Gopher, and the First External Browsers](/p/1992-web-vs-gopher/)

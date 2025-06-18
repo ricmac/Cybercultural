@@ -1,10 +1,10 @@
 ---
-title: "The Time I Met Bill English"
-description: "I interviewed Bill English in May 2014, about six years before his death on 26 July, 2020, at age 91. English was Doug Engelbart’s right-hand man in the Mother of All Demos in 1968."
+title: "The Time I Met Bill English, Co-Creator of the Mouse"
+description: "I interviewed Bill English in May 2014, about six years before his death on 26 July, 2020, at age 91. English was Doug Engelbart’s right-hand man in the Mother of All Demos in 1968 and helped develop the mouse."
 date: 2021-07-26
 permalink: "p/the-first-web-developer/"
 tags: ['preweb']
-featureImage: "/assets/images/wdh/SRI_Bill_English_1968_1280.jpg"
+featureImage: "/assets/images/wdh/SRI_Bill_English_1968_1280x720.jpg"
 ---
 
 ![Bill English](/assets/images/wdh/SRI_Bill_English_1968_1280.jpg){loading="eager"}

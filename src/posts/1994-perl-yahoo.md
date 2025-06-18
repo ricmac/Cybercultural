@@ -4,7 +4,7 @@ description: "The founding of Yahoo is one of the iconic Silicon Valley business
 date: 2021-08-10
 permalink: "p/1994-perl-yahoo/"
 tags: ['dotcom', '1994']
-featureImage: "/assets/images/wdh/yahoo_94_feature.jpg"
+featureImage: "/assets/images/wdh/yahoo_94_feature-1280x720.jpg"
 ---
 
 ![1994: How Perl Became the Foundation of Yahoo](/assets/images/wdh/yahoo_94_feature.jpg){loading="eager"}
@@ -75,7 +75,7 @@ So there was balance of manual labour (filtering and categorizing the data) and 
 ![Pre-Yahoo directory, March 1994](/assets/images/wdh/yahoo_mar94-1024x752.png)
 *Pre-Yahoo directory, [March 1994](https://web.archive.org/web/20020306054244/http://public.yahoo.com/~filo/stanford/940324/); via [Andy Baio](https://twitter.com/waxpancake/status/1381343947985805313)*
 
-What Else Was Going on in 1994?
+1994: What Else Was Going On?
 -------------------------------
 
 1994 was a time of experimentation — the [dot-com boom](/dotcom/) was a year away and most people were still trying to figure out if (not when) the web would go mainstream. Even the web application that Yahoo was built on top of, the web browser, wasn’t yet a viable market. Yang and Filo were developing the bones of Yahoo before corporate browsers like Netscape and Internet Explorer came along — they were reliant on the Mosaic browser, which (like Yahoo) was built by college students. As it turned out though, Netscape the company was founded in April 1994 — around the time the Yahoo name was first attached to Yang and Filo’s directory.
