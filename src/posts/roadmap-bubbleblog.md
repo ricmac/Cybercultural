@@ -1,6 +1,6 @@
 ---
 title: 'Bubble Blog, My Web 2.0 Book: Table of Contents'
-description: "A chronological table of contents for my memoir, 'Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution'."
+description: "A chronological table of contents for my memoir, Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution. Each chapter is a series of posts, usually about three to four."
 date: 2023-11-01
 permalink: "p/roadmap-bubbleblog/"
 tags: ['web20', 'memoir']
@@ -18,15 +18,12 @@ Or search for "Bubble Blog MacManus" on your local online bookstore.
 
 If you are looking for a good overview of my book project, see [my launch post](/p/bubble-blog-web20-memoir).
 
-The following is a chronological table of contents. Each chapter is a series of posts, usually about three to four.
-
-### Introduction
+## Introduction
 
 *   [001\. Introduction to Bubble Blog](/p/001-introduction-to-bubble-blog-book)
     
 
-PART 1: 2004-2006
----------------
+## PART 1: 2004-2006
 
 ### 1\. Amateur Journo
 
@@ -81,8 +78,7 @@ PART 1: 2004-2006
 
 *   [020\. Betting on Web 2.0: High Stakes Blogging](/p/020-betting-on-web20/)
 
-PART 2: 2007-2009
----------------
+## PART 2: 2007-2009
 
 ### 7\. Rapid Growth
 
@@ -127,8 +123,7 @@ PART 2: 2007-2009
 *    [043. Team RWW in Silicon Valley and a Tense Meeting With My COO](/p/043-team-rww-palo-alto-2009/)
 *    [044. Web 2.0 Summit 2009 and ReadWriteWeb Hires New COO](/p/044-web20-summit-2009/)
 
-PART 3: 2010–2011
----------------
+## PART 3: 2010–2011
 
 ### 14\. Meeting Weiwei
 *    [045. SXSW 2010 and RWW Co-Hosts a Party at Austin City Limits](/p/045-sxsw-2010/)
@@ -165,7 +160,7 @@ PART 3: 2010–2011
 *    [064. SAY Media Offers To Acquire ReadWriteWeb](/p/064-saymedia-offer-for-readwriteweb/)
 *    [065. The Deal Is Done: ReadWriteWeb Sells to SAY Media](/p/065-selling-readwriteweb/)
 
-### Epilogue
+## Epilogue
 *    [066. 2012: The Transition From ReadWriteWeb to ReadWrite](/p/066-readwriteweb-2012/)
 *    [067. The End of Web 2.0 — One Bubble Deflates, Another Starts Up](/p/067-end-of-web20/)
 

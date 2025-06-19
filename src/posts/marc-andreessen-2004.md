@@ -1,10 +1,10 @@
 ---
 title: 'Marc Andreessen in 2004: Adapting to a New Web Era'
-description: "How Netscape founder Marc Andreessen moved from enterprise software to the emerging social software market over 2004, with a new startup called Ning."
+description: "How Netscape founder Marc Andreessen moved from enterprise software (his second company, Opsware) to the emerging social software market over 2004, with a new startup called Ning."
 date: 2023-11-10
 permalink: "p/marc-andreessen-2004/"
 tags: ['web20', '2004']
-featureImage: "/assets/images/marc-andreessen-time-cover-1996.jpg"
+featureImage: "/assets/images/marc-andreessen-time-cover-1996-1200x675.jpg"
 ---
 
 ![Marc Andreessen on the cover of TIME magazine in Feb 1996](/assets/images/marc-andreessen-time-cover-1996.jpg){loading="eager"}

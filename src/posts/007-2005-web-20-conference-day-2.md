@@ -1,5 +1,5 @@
 ---
-title: 'Day 2 of the 2005 Web 2.0 Conference'
+title: 'Day 2 of the 2005 Web 2.0 Conference; Plus Pre-Web Memories'
 description: "I watch entrepreneur Jason Calacanis celebrate selling his Web 2.0 blog business to AOL; later I have a drink by myself at the House of Shields, and think about pre-internet days."
 date: 2023-11-22
 permalink: "p/007-2005-web-20-conference-day-2/"

@@ -1,15 +1,15 @@
 ---
 title: "Flickr Before Smartphones and Instagram"
-description: "What was it like using Flickr in early Web 2.0, in the age of digital cameras and before Instagram changed everything? 📸"
+description: "What was it like using Flickr in early Web 2.0, before smartphones came along and before Instagram changed everything? It was an age of digital cameras and low-quality PXTs from mobile phones 📸"
 date: 2023-01-26
 permalink: "p/flickr-before-smartphones-and-instagram/"
 tags: ['web20']
-featureImage: "/assets/images/afa564c2-3abd-4863-b538-f061085548e4_1200x800.jpg"
+featureImage: "/assets/images/afa564c2-3abd-4863-b538-f061085548e4_1200x675.jpg"
 ---
 
 ![Flickr image from 2008](/assets/images/afa564c2-3abd-4863-b538-f061085548e4_1200x800.jpg){loading="eager"}
 
-As I’ve been writing my “Web 2.0 memoir” this year, I’ve been using Flickr a lot to look at old photos from that era — mainly conferences I went to, people I met and places I visited, but also occasionally I will get lost down a rabbit hole of someone’s Flickr photos from the 2004-07 range (which are the years I’ve written about so far). Flickr has been like a visual version of the Internet Archive’s Wayback Machine for me; a way to remember what it was like living through a now bygone web era.
+As I’ve been writing my [“Web 2.0 memoir”](/p/roadmap-bubbleblog/) this year, I’ve been using Flickr a lot to look at old photos from that era — mainly conferences I went to, people I met and places I visited, but also occasionally I will get lost down a rabbit hole of someone’s Flickr photos from the 2004-07 range (which are the years I’ve written about so far). Flickr has been like a visual version of the Internet Archive’s Wayback Machine for me; a way to remember what it was like living through a now bygone web era.
 
 One of the distinguishing features about Flickr in early Web 2.0 was that it was a time before smartphone cameras. Most of the photos uploaded by people back then were taken on a digital camera. Sometimes you used the crappy quality camera on your mobile phone, which output these rough things called “PXTs”. Either way, to get photos onto Flickr, usually you connected your camera or phone to your computer by cable, downloaded your photos to your computer, and _then_ uploaded them to Flickr. There was no sync straight to the cloud back then.
 
