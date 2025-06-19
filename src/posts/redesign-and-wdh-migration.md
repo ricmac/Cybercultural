@@ -1,10 +1,10 @@
 ---
-title: "Cybercultural Redesign and Web Development History Migration"
-description: "Details of a redesign here at Cybercultural, including upgrading to Eleventy v3.0. Also, my previous blog Web Development History has been folded into Cybercultural."
+title: "Cybercultural Redesign and Adding WDH Content"
+description: "Details of a redesign here at Cybercultural, including upgrading to Eleventy v3.0. Also, my previous blog Web Development History has been folded into Cybercultural — adding more dot-com articles."
 date: 2024-09-26
 permalink: "p/redesign-and-wdh-migration/"
 tags: ['notes']
-featureImage: "/assets/images/cybercultural_wdh-sep24.jpg"
+featureImage: "/assets/images/cybercultural_wdh-sep24b-1280x720.jpg"
 ---
 
 ![Web Development History integrated with Cybercultural, September 2024](/assets/images/cybercultural_wdh-sep24b.jpg){loading="eager"}

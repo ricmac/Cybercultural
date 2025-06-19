@@ -1,13 +1,13 @@
 ---
-title: "A Visit to the Physical Internet Archive"
-description: "In a behind-the-scenes tour of the Internet Archive, founder Brewster Kahle explains how it preserves both digital and physical media."
+title: "Preserving Media: A Visit to the Physical Internet Archive"
+description: "In a behind-the-scenes tour of the Internet Archive, founder Brewster Kahle explains how it preserves both digital and physical media — everything from books to websites to 78 RPM records."
 date: 2023-10-26
 permalink: "p/physical-internet-archive/"
 tags: ['notes']
-featureImage: "/assets/images/brewster_oct2023.jpg"
+featureImage: "/assets/images/brewster_oct2023-1280x720.jpg"
 ---
 
-![Brewster Kahle scanning books at the Internet Archive](/assets/images/brewster_oct2023.jpg){loading="eager"}
+![Brewster Kahle scanning books at the Internet Archive](/assets/images/brewster_oct2023-1280x720.jpg){loading="eager"}
 
 While I was in San Francisco for a tech conference this month, I took the opportunity to visit the [Internet Archive](https://archive.org/) — the actual physical archive in the California town of Richmond, about twenty minutes drive from San Francisco.
 

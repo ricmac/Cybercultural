@@ -1,13 +1,13 @@
 ---
-title: "The Decade in Culture-Tech: Streaming, Binging, Opining"
-description: "From 2010-2019, the largely desktop-based social software innovations of Web 2.0 gave way to an era defined by smartphones, social media, and streaming entertainment."
+title: "The Decade in Culture Tech: Streaming, Binging, Opining"
+description: "From 2010-2019, the social software innovations of Web 2.0 gave way to an era defined by smartphones, social media and streaming. Life is good for consumers, but what about creators?"
 date: 2019-12-12
 permalink: "p/2010s-decade-in-culture-tech/"
 tags: ['enshittocene']
-featureImage: "/assets/images/9e5483ef-55ef-4949-a9e7-9a9ab80e3e49_1280x853.jpg"
+featureImage: "/assets/images/9e5483ef-55ef-4949-a9e7-9a9ab80e3e49_1280x720.jpg"
 ---
 
-![2010s culture-tech](/assets/images/9e5483ef-55ef-4949-a9e7-9a9ab80e3e49_1280x853.jpg){loading="eager"}
+![2010s culture-tech](/assets/images/9e5483ef-55ef-4949-a9e7-9a9ab80e3e49_1280x720.jpg){loading="eager"}
 
 At the start of 2010 I was running [ReadWriteWeb](https://ricmac.org/career-archive/readwriteweb/), a tech blog that helped define and chronicle the Web 2.0 era. We had run our first conference the previous year, in Mountain View in the heart of Silicon Valley. The site was growing in leaps and bounds, the online advertising revenue was flowing in, and I’d just hired a new COO in December 2009. It was peak Web 2.0…at least it feels that way to me now, with the benefit of hindsight.
 

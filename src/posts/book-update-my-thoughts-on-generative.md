@@ -1,13 +1,13 @@
 ---
-title: 'Book Update + My Thoughts on Generative AI and Writing'
-description: "An update on my Web 2.0 memoir (draft 1 finished!), plus thoughts on ChatGPT and its impact on society — especially on writers."
+title: 'Book Update Plus My Thoughts on ChatGPT and Generative AI'
+description: "An update on my book, a 100%-human written memoir about my experiences during Web 2.0 (draft 1 finished!). Also, thoughts on ChatGPT and its impact on society — especially for writers."
 date: 2023-06-23
 permalink: "p/book-update-my-thoughts-on-generative/"
 tags: ['notes']
-featureImage: "/assets/images/4fa6afa2-ed85-4a5a-8a75-46de0e98b1f1_1024x1024.jpg"
+featureImage: "/assets/images/4fa6afa2-ed85-4a5a-8a75-46de0e98b1f1_1024x576.jpg"
 ---
 
-![AI generated image of a book reader](/assets/images/4fa6afa2-ed85-4a5a-8a75-46de0e98b1f1_1024x1024.jpg){loading="eager"}
+![AI generated image of a book reader](/assets/images/4fa6afa2-ed85-4a5a-8a75-46de0e98b1f1_1024x576.jpg){loading="eager"}
 
 This month I finished the first draft of my “Web 2.0 memoir,” which weighed in at 153,000 words. I’ve been working on this book for the past eight months; every weekday, before breakfast in the early morning. My plan is still to serialize the book here on Cybercultural, which I’m hoping to start within 2-3 months.
 

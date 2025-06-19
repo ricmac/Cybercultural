@@ -1,10 +1,10 @@
 ---
-title: 'Comparing Wayback Machine Copies of ReadWriteWeb to Old Screenshots'
-description: "As I get ready to launch the serialization of my book, I discover that old Wayback Machine copies of ReadWriteWeb aren't always reliable."
+title: 'ReadWriteWeb on Wayback Machine vs. Old Screenshots'
+description: "As I get ready to launch my book serialization, I compare Wayback Machine copies of ReadWriteWeb to the few old screenshots I have — and discover there's sometimes a big difference."
 date: 2023-10-04
 permalink: "p/wayback-machine-vs-screenshots/"
 tags: ['notes']
-featureImage: "/assets/images/6e2a5035-07c2-4b31-a74d-cfe0f50f5530_1024x742.jpg"
+featureImage: "/assets/images/6e2a5035-07c2-4b31-a74d-cfe0f50f5530_1024x576.jpg"
 ---
 
 ![Wayback Machine screenshot](/assets/images/6e2a5035-07c2-4b31-a74d-cfe0f50f5530_1024x742.jpg){loading="eager"}
@@ -36,7 +36,7 @@ That’s just the top half, and there is a lot of whitespace there (coincidental
 
 …if I scroll even further, finally we see the main content:
 
-![Main content screenshot](/assets/images/2180e6b8-c96f-4202-910a-12461f3f01c1_1986x1400.jpg)
+![Main content screenshot](/assets/images/2180e6b8-c96f-4202-910a-12461f3f01c1_1280.jpg)
 
 To confirm: this is the same version of RWW as the screenshot at the top of this post. It has the same top stories and even the same number of comments. So why does the Wayback version look so very different to my screenshot? (Also note that the Feedburner badge is from the future; it has over 29,000 readers in the Wayback version, but I know from the screenshot that it was actually 4,351.)
 
@@ -45,7 +45,7 @@ Wayback Forensics
 
 Here’s what I can tell you about that Wayback version. Firstly, it’s using a style that I introduced around November 2005. I think it initially had a few kinks in it, but [by the end of 2005](https://web.archive.org/web/20051231151629if_/http://www.readwriteweb.com/) it looked how it should (not a great design by any means, but at this time I was still rolling my own):
 
-![Distorted RWW screenshot](/assets/images/426dc9e7-beb1-44ee-a799-9b3e555c21df_2118x1374.jpg)
+![Distorted RWW screenshot](/assets/images/426dc9e7-beb1-44ee-a799-9b3e555c21df_1280.jpg)
 
 You can see that the header background — which, again, I didn’t introduce until sometime in November — has somehow found itself in the Wayback copy from late September 2005. It’s a header from the near future; the same situation as the Feedburner badge.
 
@@ -55,7 +55,7 @@ I looked at the source code for the Wayback Machine copy from 24 Sep 2005 and qu
 
 As for the header, this is the source code, which points to the style sheet URL for September 2005:
 
-![header source code screenshot](/assets/images/f5a91e83-6b9d-44ef-8882-04865fec7871_2642x336.jpg)
+![header source code screenshot](/assets/images/f5a91e83-6b9d-44ef-8882-04865fec7871_1280.jpg)
 
 But again, that 24 Sep 2005 version of styles-site.css no longer exists. When I clicked on the URL, it re-directed to the next earliest version, which happens to be dated 11 December 2005:
 

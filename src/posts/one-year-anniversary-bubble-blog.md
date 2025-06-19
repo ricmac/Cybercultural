@@ -1,6 +1,6 @@
 ---
 title: "Serializing a Book Online: Lessons From My Web 2.0 Memoir"
-description: "On the first anniversary of launching my serialized book, I reflect on what I've learned — including the pros and cons of my pivot from Substack newsletter to indie website."
+description: "On the first anniversary of launching my serialized book, I reflect on what I've learned — including the pros and cons (mostly pros) of my pivot from Substack newsletter to indie website."
 date: 2024-10-29
 permalink: "p/online-serialization-thoughts/"
 tags: ['notes']

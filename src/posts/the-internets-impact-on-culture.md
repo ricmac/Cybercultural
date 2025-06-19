@@ -1,13 +1,13 @@
 ---
 title: "The Internet’s Impact on Culture"
-description: "Marc Andreessen says the internet's impact on culture is just beginning and that it will set the culture going forward. But what does he mean by that?"
+description: "Marc Andreessen says the internet's impact on culture is just beginning and that it will set the culture going forward. But what does that mean? The answer is found by looking back at internet history."
 date: 2020-01-29
 permalink: "p/the-internets-impact-on-culture/"
 tags: ['enshittocene']
-featureImage: "/assets/images/kym-ellis-zgPzWSAiY48-unsplash.jpg"
+featureImage: "/assets/images/kym-ellis-zgPzWSAiY48-unsplash-1280x720.jpg"
 ---
 
-![internet culture](/assets/images/kym-ellis-zgPzWSAiY48-unsplash.jpg){loading="eager"}
+![internet culture](/assets/images/kym-ellis-zgPzWSAiY48-unsplash-1280x720.jpg){loading="eager"}
 
 “It feels like the internet’s impact on culture is just beginning. A world in which culture is based on the internet, which is what I think is happening, is just the very start. Right, ’cause it had to get universal before it could set the culture.”
 
