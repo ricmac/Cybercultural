@@ -4,10 +4,10 @@ description: "News aggregator Moreover was born in the late 1990s, at the same t
 date: 2015-03-17
 permalink: "p/moreover/"
 tags: ['dotcom']
-featureImage: "/assets/images/moreover_header2.png"
+featureImage: "/assets/images/moreover-featureimage.jpg"
 ---
 
-![Moreover](/assets/images/moreover_header2.png){loading="eager"}
+![Moreover](/assets/images/moreover-featureimage.jpg){loading="eager"}
 
 The late 1990s was the middle of the Dot Com boom. Looking back, we tend to associate this period of intense growth with e-commerce startups. During 1998, eBay went public, Paypal was founded, Amazon.com was spending big to [“expand its reach”](http://money.cnn.com/1998/07/22/technology/amazon/) and Pets.com launched. Also started in the late 90s, but with much less noise, were two pioneering information management businesses. In 1998, two Stanford University students working from a Menlo Park garage were testing a new search engine, called Google. At about the same time, three Englishmen joined forces to create a “news aggregator” called [Moreover](http://www.moreover.com/).
 

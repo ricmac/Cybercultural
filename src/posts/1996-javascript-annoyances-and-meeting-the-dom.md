@@ -4,19 +4,17 @@ description: "Other than homepages sprinkled with little animations, scrolling t
 date: 2021-01-05
 permalink: "p/1996-javascript-annoyances-and-meeting-the-dom/"
 tags: ['dotcom', '1996']
-featureImage: "/assets/images/wdh/brendans_world_header2.png"
+featureImage: "/assets/images/wdh/brendans-web-world-medium.jpg"
 ---
 
-![Brendans Web World](/assets/images/wdh/brendans_world_header2.png){loading="eager"}
+![Brendans Web World](/assets/images/wdh/brendans-web-world-medium.jpg){loading="eager"}
+*“Hi, I’m Brendan Eich, welcome to my homepage.” [Via Wayback Machine](https://web.archive.org/web/19981207072942/people.netscape.com/brendan/).*
 
 The Netscape Navigator 2.0 browser was finally released in March 1996, almost a year after Brendan Eich joined Netscape with the express purpose of creating a scripting language for the web. He’d [developed the prototype of JavaScript](/p/1995-the-birth-of-javascript/) over a ten day period in May 1995 and spent the rest of the year embedding it into the browser. JavaScript was publicly announced at the end of 1995, as part of Netscape’s beta launch of Navigator 2.0.
 
 As well as JavaScript, Navigator 2.0 [added support for](https://web.archive.org/web/19970614000538/http://home.netscape.com/eng/mozilla/2.0/relnotes/windows-2.0.html) Java applets, plug-ins, frames (“multiple documents on one page”) and more. It was a significant leap forward in functionality from the last major Navigator release, 1.22 in August 1995.
 
 For all of the technical wizardry in Netscape Navigator 2.0, when it was first released JavaScript was put to use in fairly trivial ways — scrolling text, silly animations, tricks with colors (fading, rainbow effects, and so on). As Eich put it in [a 2005 presentation](https://www-archive.mozilla.org/js/language/ICFP-Keynote.ppt), “JS caught on like a bad cold (per plan!).” He bemoaned the proliferation of “annoyances” that JavaScript enabled, a complaint that likely prompted his Netscape colleagues to create [a satirical web homepage](http://web.archive.org/web/19981207072942/people.netscape.com/brendan/) for him.
-
-![Brendan Eich satirical homepage](/assets/images/wdh/brendans_web_world-1024x575.jpg)
-*“Hi, I’m Brendan Eich, welcome to my homepage.”*
 
 Other than homepages sprinkled with little animations, scrolling text, and embedded digital clocks, some of the more adventurous corporate webmasters began to experiment with JavaScript in early 1996. Sometimes to the befuddlement of their website users.
 

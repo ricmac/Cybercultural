@@ -1,13 +1,13 @@
 ---
-title: "1997: Netscape Crossware vs the Windows Web"
+title: "1997: Netscape Crossware vs. the Windows Web"
 description: "After Microsoft upped the ante in the browser market in 1996 by integrating Internet Explorer 3.0 into Windows, Netscape began the new year with a renewed focus on the open web."
 date: 2021-03-09
 permalink: "p/1997-netscape-crossware-vs-the-windows-web/"
 tags: ['dotcom', '1997']
-featureImage: "/assets/images/wdh/Screen-Shot-2021-03-10-at-10.27.55-AM.png"
+featureImage: "/assets/images/wdh/crossware-1230x692.jpg"
 ---
 
-![Netscape ONE](/assets/images/wdh/Screen-Shot-2021-03-10-at-10.27.55-AM.png){loading="eager"}
+![Netscape ONE](/assets/images/wdh/crossware-1230x692.jpg){loading="eager"}
 
 After [Microsoft upped the ante](/p/1996-microsoft-activates-the-internet-with-activex-jscript/) in the browser market in 1996 by integrating Internet Explorer 3.0 into Windows, Netscape began the new year with a renewed focus on the open web. Co-founder and CTO Marc Andreessen, along with the Netscape product team, introduced [a new strategy](https://web.archive.org/web/19970716152026/http://www101.netscape.com/comprod/at_work/white_paper/vision/print.html) called “crossware”:
 

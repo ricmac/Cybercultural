@@ -1,13 +1,13 @@
 ---
-title: "1998: Open Season with Mozilla, W3C’s DOM, and WaSP"
-description: "1998 was the year the web started to open up. It was when open source projects like Mozilla and open standards like DOM began to steer the web towards a more open, equitable future."
+title: "1998: The Open Web With Mozilla, W3C’s DOM, and WaSP"
+description: "1998 was the year the web started to open up. It was when projects like Mozilla and organizations like the W3C and The Web Standards Project began to steer the web towards a more equitable future."
 date: 2021-06-30
 permalink: "p/1998-mozilla-w3c-dom-wasp/"
 tags: ['dotcom', '1998']
-featureImage: "/assets/images/wdh/wdh_1998_feature2.jpg"
+featureImage: "/assets/images/wdh/1998-wdh-feature-1280x720.jpg"
 ---
 
-![1998 web open source](/assets/images/wdh/wdh_1998_feature2.jpg){loading="eager"}
+![1998 web open source](/assets/images/wdh/1998-wdh-feature-1280x720.jpg){loading="eager"}
 
 By the start of 1998, Netscape was preparing to make a drastic move. Not only was its arch-nemesis Microsoft rapidly catching up in the browser market, Internet Explorer was also arguably a superior technical platform for web development. After 1997, [the year of DHTML](/p/1997-the-year-of-dhtml/), Microsoft’s powerful document object model (DOM) had become the foundation for a new web standard that would define interactive content for years to come: the W3C’s DOM specification.
 
@@ -24,8 +24,8 @@ It was effectively the end of Netscape. On November 24, 1998, America Online (AO
 
 It may seem like Microsoft won the browser war (despite the court case), but looking back we can see that 1998 was the year the web started to open up. It was when open source projects like Mozilla and open standards like DOM began to steer the web towards a more open, equitable future. It was also the year that a coalition of independent web developers arrived on the scene to promote open standards — The Web Standards Project (WaSP). All of these developments would impact the web’s direction for years to come.
 
-Netscape’s Angst and Strangled Ambition
----------------------------------------
+Netscape’s Strangled Ambition
+-----------------------------
 
 1998 was very challenging for one company in particular, though: Netscape. A [June 1998 “interview”](https://web.archive.org/web/19990501111953/http://www10.netscape.com/columns/techvision/innovators_be.html) between Marc Andreessen and his star developer, JavaScript inventor Brendan Eich, is illustrative of how Netscape had become resigned to its commercial fate and was now seeking solace in open source — including JavaScript. (It was less of an interview, by the way, and more of an article by Eich with an introduction by his boss.)
 

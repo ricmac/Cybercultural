@@ -4,10 +4,10 @@ description: "There were two stylistically opposed approaches to web design in t
 date: 2021-09-29
 permalink: "p/1996-flash-css-web-design/"
 tags: ['dotcom', '1996']
-featureImage: "/assets/images/wdh/flash_css_1996.jpg"
+featureImage: "/assets/images/wdh/flash_css_1996-1195x672.jpg"
 ---
 
-![Flash and CSS](/assets/images/wdh/flash_css_1996.jpg){loading="eager"}
+![Flash and CSS](/assets/images/wdh/flash_css_1996-1195x672.jpg){loading="eager"}
 
 After the birth of web apps in 1993 with [CGI scripts](/p/1993-cgi-scripts-and-early-server-side-web-programming/), followed by startups like Yahoo [using Perl code](/p/1994-perl-yahoo/) to create dynamic websites in 1994, and then client-side interactivity arriving in 1995 with [Netscape’s JavaScript](/p/1995-the-birth-of-javascript/), the web was evolving fast into a full-stack programming platform. During the same time period, there were experiments happening on the presentation side of the web; what eventually became known as web design.
 

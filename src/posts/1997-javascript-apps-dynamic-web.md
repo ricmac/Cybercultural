@@ -1,13 +1,13 @@
 ---
-title: "1997: JavaScript Grows Up and Developers Push the Boundaries"
-description: "Pointy-headed technical analysis of JavaScript was not what was required in 1997. Developers of that era needed practical guidance and code samples."
+title: "1997: JavaScript Grows Up, Developers Push Boundaries"
+description: "Pointy-headed technical analysis of JavaScript was not what was required in 1997. Developers of that era needed practical guidance and code samples. Also, Brendan Eich moves on from Netscape."
 date: 2021-05-04
 permalink: "p/1997-javascript-apps-dynamic-web/"
 tags: ['dotcom', '1997']
-featureImage: "/assets/images/wdh/javascript_1997_lead.jpg"
+featureImage: "/assets/images/wdh/javascript_1997-1120x630.jpg"
 ---
 
-![JavaScript in 1997](/assets/images/wdh/javascript_1997_lead.jpg){loading="eager"}
+![JavaScript in 1997](/assets/images/wdh/javascript_1997-1120x630.jpg){loading="eager"}
 
 By the start of 1997, JavaScript had become a regular topic for tech reference websites and books. Nick Heinle was perhaps the epitome of this, as he began 1997 with a column on WebReference.com called [JavaScript Tip of the Week](https://web.archive.org/web/19970405160934/http://www.webreference.com/javascript/), released an O’Reilly book in August 1997 entitled [Designing with Javascript: Creating Dynamic Web Pages](https://web.archive.org/web/19970728132057/http://www.ora.com/catalog/designjs/), and ended the year running a website called [WebCoder.com](https://web.archive.org/web/19990127181404/http://www.webcoder.com/about.html) (owned by [CMP](https://www.referenceforbusiness.com/history2/1/CMP-Media-Inc.html), the computer magazine publisher).
 
@@ -39,8 +39,8 @@ Another Dortch creation from 1996 was [ColorCenter](http://sooliman.jove.prohost
 
 Dortch noted that “by later in 1996” he had “moved on to mainly Java back-end work.” A pity, as he was clearly pushing the boundaries of JavaScript.
 
-Learning the New Tricks of JavaScript
--------------------------------------
+The New Tricks of JavaScript
+----------------------------
 
 By the time Nick Heinle’s JavaScript textbook was released in August 1997, Netscape had released version 4.0 of its browser. Microsoft IE 4.0 would be released a couple of months later, but Heinle made sure to account for both new browsers in his book.
 

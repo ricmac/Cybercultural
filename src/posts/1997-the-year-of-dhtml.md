@@ -4,7 +4,7 @@ description: "DHTML, or Dynamic HTML, was essentially a combination of HTML, Jav
 date: 2021-06-02
 permalink: "p/1997-the-year-of-dhtml/"
 tags: ['dotcom', '1997']
-featureImage: "/assets/images/wdh/DHMTL_1997_feature.jpg"
+featureImage: "/assets/images/wdh/DHMTL_1997_feature-1280x720.jpg"
 ---
 
 ![DHTL](/assets/images/wdh/DHMTL_1997_feature.jpg){loading="eager"}
@@ -29,8 +29,8 @@ If this sounds familiar to developers of Single Page Applications (SPAs) today, 
 ![Inside Dynamic HTML](/assets/images/wdh/Isaacs_book1.jpg)
 *Source: Inside Dynamic HTML; Scott Isaacs (1997)*
 
-Inching Toward a DOM Standard
------------------------------
+Toward a DOM Standard
+---------------------
 
 When Microsoft announced its new browser, Internet Explorer 4.0, [in April 1997](https://news.microsoft.com/1997/04/08/microsoft-announces-microsoft-internet-explorer-4-0/), it called DHTML “an open, language-independent object model.” This object model directly inspired the emergence of the W3C standard called the DOM — although there was some prior art that came from Netscape.
 

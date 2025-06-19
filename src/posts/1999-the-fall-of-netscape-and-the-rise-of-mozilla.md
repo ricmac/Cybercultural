@@ -1,13 +1,13 @@
 ---
-title: "1999: The Fall of Netscape and the Rise of Mozilla"
+title: "1999: Netscape’s Fall and the Rise of the Mozilla Browser"
 description: "By 1999, not only had Netscape fallen behind Microsoft in browser technology, it also had trouble navigating relationships — with both its parent AOL and the developers of its open source project, Mozilla."
 date: 2021-10-13
 permalink: "p/1999-the-fall-of-netscape-and-the-rise-of-mozilla/"
 tags: ['dotcom', '1999']
-featureImage: "/assets/images/wdh/Screen-Shot-2021-10-13-at-3.47.43-PM.png"
+featureImage: "/assets/images/wdh/mozilla-browser-1999-feature.jpg"
 ---
 
-![Mozilla 1999](/assets/images/wdh/Screen-Shot-2021-10-13-at-3.47.43-PM.png){loading="eager"}
+![Mozilla 1999](/assets/images/wdh/mozilla-browser-1999-feature.jpg){loading="eager"}
 
 At the beginning of 1999, one company had all the momentum on the Web: Microsoft. While Netscape was adjusting to corporate life with new owner AOL and trying to figure out its browser strategy, Microsoft was preparing to release version 5 of its browser, Internet Explorer. Like the version before it, IE5 would become the default browser on Windows — further expediting the rise of IE as the dominant browser in the market. Indeed, by the end of 1999, IE had up to 80% of the browser market.
 
@@ -40,7 +40,7 @@ Given how fast Microsoft IE was growing in the browser market and the impending 
 
 After the acquisition, though, it became clear that corporate politics would cause problems in the development of Mozilla. Even the naming of things was contentious, with Netscape announcing [in early December 1998](https://web.archive.org/web/20030414005121/http://wp.netscape.com/newsref/pr/newsrelease711.html) that its new browser engine — based on NGLayout — would be called Gecko. This branding rankled some Mozilla developers, who also [disliked](https://web.archive.org/web/20110629154746/http://www.mozilla.org/newlayout/gecko.html) Netscape calling the engine “NGT” rather than NGLayout. But as history records, the Gecko name won out in the end (to this day, it’s the name of the Firefox browser engine).
 
-1999: Mozilla’s Slow and Steady Milestones
+Slow and Steady Milestones
 ------------------------------------------
 
 As of early 1999, the open source browser name was Mozilla 5.0. The full suite — including the browser client, email and newsgroups, HTML editor, instant messaging, and more — went under the code name [SeaMonkey](https://web.archive.org/web/19990827034637/http://www.mozilla.org/projects/seamonkey/). Publicly, Netscape was saying that SeaMonkey would form the basis of Netscape Communicator 5, its would-be competitor to Microsoft’s range of web-based products.
