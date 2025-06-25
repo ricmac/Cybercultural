@@ -8,6 +8,7 @@ featureImage: "/assets/images/bowienet-feature-1280x720.jpg"
 ---
 
 ![BowieNet screenshot](/assets/images/4885bea4-9610-427e-a9d3-c16c984c48bd_1966x1415.jpg){loading="eager"}
+*David Bowie's website circa August-September 1998.*
 
 In late 1996, just before his 50th birthday concert at Madison Square Garden and before his latest album ‘Earthling’ was released, David Bowie had quietly approved the development of what was to become his biggest internet legacy: BowieNet. It was to be more than [Bowie’s official website](/p/david-bowie-website-1995-1997/); it would also do business as an Internet Service Provider (ISP), meaning it would provide internet access and an email address to users. Most importantly, it would be an officially endorsed online community for his fans.
 
@@ -191,3 +192,12 @@ On the big day, he posts a final message at 5pm a couple of hours before go-live
 He thanks his website designers, Nettmedia, “for putting up with my constant fidgeting and last minute changes and additions and moans,” and ends with “...and here we go.”
 
 *Image credits: [YouTube video](https://www.youtube.com/watch?v=utRNomjKytk) of David Bowie interview on ZDTV's Internet Tonight, June 1999.*
+
+***
+
+This is part of a series of posts about BowieNet and David Bowie's website in the mid-to-late 1990s:
+
+1. [David Bowie’s Early Websites, 1995–1997: Outside to Earthling](/p/david-bowie-website-1995-1997/)
+2. [Telling Lies: Bowie and Online Music Distribution in 1996](/p/online-music-distribution-1996/)
+3. BowieNet: The Inside Story of Its Creation
+4. [Launch of BowieNet and the First Inklings of Social Networks](/p/bowienet-launch-1998/)

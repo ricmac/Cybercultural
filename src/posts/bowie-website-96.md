@@ -111,4 +111,13 @@ During the time Bowie’s website was being redeveloped, the concept of web port
 
 Bowie had also noticed the popularity of fan sites dedicated to his own music and career. He later [told Computerworld](https://www.computerworld.com/article/3021176/david-bowie-tech-visionary-predicted-social-medias-rise.html) that he “discussed the idea of integrating them somehow” into his website. That idea “evolved into a sort of quirky portal; an individualized portal that revolves around me and music.” Bowie had recognised that the internet enabled people to create global communities based around specific topics — including himself. 
 
-Over the coming year, Bowie and his managers would begin working on the next iteration of his website: [what eventually became BowieNet](/p/bowienet-the-inside-story/).
+Over the coming year, Bowie and his managers would begin working on the next iteration of his website: what eventually became BowieNet.
+
+***
+
+This is part of a series of posts about BowieNet and David Bowie's website in the mid-to-late 1990s:
+
+1. David Bowie’s Early Websites, 1995–1997: Outside to Earthling
+2. [Telling Lies: Bowie and Online Music Distribution in 1996](/p/online-music-distribution-1996/)
+3. [BowieNet: The Inside Story of Its Creation](/p/bowienet-the-inside-story/)
+4. [Launch of BowieNet and the First Inklings of Social Networks](/p/bowienet-launch-1998/)
