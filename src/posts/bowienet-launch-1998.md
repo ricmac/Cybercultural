@@ -8,7 +8,7 @@ featureImage: "/assets/images/bowiehome_full-1998-1200x675.jpg"
 ---
 
 ![BowieNet homepage](/assets/images/bowiehome_full-1998.jpg){loading="eager"}
-*BowieNet homepage on launch; [via Wayback Machine](https://web.archive.org/web/19990209041644/http://www.davidbowie.com/contest/#expand).*
+*BowieNet homepage on launch; [via Wayback Machine](https://web.archive.org/web/20000605083503fw_/http://www.davidbowie.com/contest/why.html).*
 
 BowieNet launched as an ISP in North America on September 1, 1998 for $19.95 per month; and if you lived elsewhere, as a “[premium content](https://web.archive.org/web/19990220174240/http://www.davidbowie.com:80/reg595/reg1/)” service for $5.95 per month. If you had visited davidbowie.com on that day, you’d have been greeted by these words from the man himself:
 
