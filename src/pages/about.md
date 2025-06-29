@@ -5,9 +5,9 @@ description: About Cybercultural — Internet History and Its Impact on Our Cult
 layout: page
 ---
 
-[Cybercultural](https://cybercultural.com/) is a website about **internet history and its impact on our culture**. It was founded in 2019 by [Richard MacManus](https://ricmac.org/) (@ricmac on [Mastodon](https://mastodon.social/@ricmac) and [Bluesky](https://bsky.app/profile/ricmac.cybercultural.com)).
+[Cybercultural](https://cybercultural.com/) is a website about **internet history and its impact on our culture**. It was founded in 2019 by me, [Richard MacManus](https://ricmac.org/) (@ricmac on [Mastodon](https://mastodon.social/@ricmac) and [Bluesky](https://bsky.app/profile/ricmac.cybercultural.com)). It's 100% [free to read](/subscribe).
 
-MacManus was the founder and Editor-in-Chief of [ReadWriteWeb](https://ricmac.org/career-archive/readwriteweb/) (RWW), a pioneering tech blog from 2003-2012. RWW was ranked among the top 10 blogs in the world by Technorati and was syndicated by The New York Times.
+Previously I was the founder and Editor-in-Chief of [ReadWriteWeb](https://ricmac.org/career-archive/readwriteweb/) (RWW), a pioneering tech blog from 2003-2012. RWW was ranked among the top 10 blogs in the world by Technorati and was syndicated by The New York Times.
 
 See the [site colophon](/uses) for details on how this website was created.
 
@@ -27,7 +27,7 @@ See the [site colophon](/uses) for details on how this website was created.
 "I’m greatly enjoying Richard’s look back on those strangely heady days of the post-mortgage-crisis tech bubble that began to take full advantage of gradients, APIs, and that still somewhat new Cloud infrastructure thing."  
 *[Rick Turoczy](https://siliconflorist.com/2024/04/09/web-2-0-nostalgia-remembering-marshall-kirkpatricks-early-days-at-readwriteweb/), Silicon Florist, April 2024*
 
-**Note:** MacManus also authored WebDevelopmentHistory&#46;com (2020-21), a blog about the early years of the web from a developer perspective. It has since been [migrated to Cybercultural](/dotcom/).
+**Note:** I also authored WebDevelopmentHistory&#46;com (2020-21), a blog about the early years of the web from a developer perspective. All of its content has since been [migrated to Cybercultural](/dotcom/).
 
 !["I’ve said it many times but I’ll say it again. Don’t sleep on this series if you work in tech and want to understand history." Vicki Boykis](/assets/images/c38fbe37-9903-4529-8dc4-ae14403d7c9b_1178x616.png)
 ([link](https://twitter.com/vboykis/status/1427778555153354756))
