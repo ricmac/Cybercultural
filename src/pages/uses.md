@@ -5,7 +5,7 @@ description: Tools used to create the Cybercultural website
 layout: page
 ---
 
-This website is custom built with [Eleventy](https://www.11ty.dev/), a static site generator created and maintained by [Zach Leatherman](https://www.zachleat.com/).
+This website is built with [Eleventy](https://www.11ty.dev/), a static site generator created and maintained by [Zach Leatherman](https://www.zachleat.com/).
 
 Cybercultural's design is custom-made, based on a template called [Eleventy Excellent](https://github.com/madrilene/eleventy-excellent) by [Lene Saile](https://www.lenesaile.com/en/), who was in turn inspired by [buildexcellentwebsit.es](https://buildexcellentwebsit.es/) by [Andy Bell](https://andy-bell.co.uk/).
 

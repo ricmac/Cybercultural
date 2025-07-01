@@ -25,7 +25,7 @@ By 1996, the [retail part of online music existed](/p/state-of-online-music-1996
 
 Although the pioneering [Internet Underground Music Archive](/p/iuma-1994/) had proven that downloading music as a digital file was possible, the low bandwidth of the era made it hugely impractical. But Rosen thought that, eventually, records would be able to be “electronically transmitted” over the internet — “you would take those sounds and convert them into bits and send them to somebody on the other end, on a global basis, and they would store it.” 
 
-![CDnow 1996](/assets/images/cdnow-october1996.jpg)
+![CDnow 1996](/assets/images/cdnow-oct1996-edited.jpg)
 *CDnow website, October 1996; [via Wayback Machine](https://web.archive.org/web/19961031125406/http://cdnow.com/).*
 
 (Incidentally, IUMA co-founder [Rob Lord became](https://groups.google.com/g/alt.fan.david-bowie/c/Jqho_639Z34/m/WwwZNRrQOFsJ?pli=1) “the new Vice President of Rock Sites for N2K Entertainment” at around the same time N2K acquired Rocktropolis.)
