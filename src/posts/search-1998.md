@@ -73,7 +73,7 @@ The first mention of Google in Danny Sullivan's Search Engine Watch (SEW) was an
 > "The last time some students at Stanford University got involved with categorizing the web, it turned into a little site you may have heard of called Yahoo. That alone makes me surprised someone hasn't yet swooped in to carry off Google developers Larry Page, Sergey Brin and Craig Silverstein into portal heaven. Even more so is the fact that the engine they've put together is really good and even has a catchy name."
 
 ![](/assets/images/google-standford-nov1998.jpg)
-*Exclamation points aplenty! Screenshot of [google.stanford.edu](https://web.archive.org/web/19981111183552/http://google.stanford.edu/) on 11 November 1998.*
+*Exclamation marks aplenty! Screenshot of [google.stanford.edu](https://web.archive.org/web/19981111183552/http://google.stanford.edu/) on 11 November 1998.*
 
 Despite the potential of Google, which Sullivan clearly picks up on, it is "portal heaven" news that occupies SEW's attention for the rest of 1998. On November 4, it reported on [the latest AltaVista features](https://web.archive.org/web/19990505220249/http://searchenginewatch.com/sereport/9811-altavista.html):
 
