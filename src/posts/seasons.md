@@ -9,7 +9,7 @@ featureImage: "/assets/images/seasons-1280x720.jpg"
 
 ![seasons](/assets/images/seasons-1280x720.jpg){loading="eager"}
 
-One of the innovations of podcasting is its concepts of "seasons," which originally comes from the world of television. The idea is that you have a time-bounded series of podcast episodes — sometimes with a set theme, but other times the season boundary is simply a given time period. 
+One of the innovations of podcasting is its concept of "seasons," which originally comes from the world of television. The idea is that you have a time-bounded series of podcast episodes — sometimes with a set theme, but other times the season boundary is simply a given time period. 
 
 I first became aware of 'seasons' in podcasts with [Serial](https://serialpodcast.org/season-one/) in 2014, which used the term to indicate a series of episodes on a certain topic. Each season (there have just been 4) starts an entirely new storyline. But another podcast I enjoy, by the writer [Bret Easton Ellis](https://www.patreon.com/c/breteastonellispodcast/), has "seasons" that are demarcated by calendar years. He's currently in season 9, which began on January 7, 2025 (season 8 ended December 31, 2024).
 
