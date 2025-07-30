@@ -39,7 +39,7 @@ More intriguingly, the internet enabled Bowie to play with personas once more �
 
 In a January 1999 [interview with The Guardian](https://www.theguardian.com/technology/1999/jan/15/internet1), Bowie tried to explain his approach to the internet as an artist. 
 
-> “Interaction on the Web is a little like a mirror, like communicating with a manifestation of yourself,” he said. “Because it is so chaotic, so decentralised, I find that using the Web becomes like communicating with a hardware version of me. It’s not exactly a doppelgänger, but an alternative version of myself.”
+> “Interaction on the Web is a little like a mirror, like communicating with a manifestation of yourself. Because it is so chaotic, so decentralised, I find that using the Web becomes like communicating with a hardware version of me. It’s not exactly a doppelgänger, but an alternative version of myself.”
 
 ![Back cover of Bowie's Hours album](/assets/images/david-bowie-hours-backcover.jpg)
 *Multiple Bowies on the back cover of his 1999 album, Hours; [via Tanja Stark](https://tanjastark.com/david-bowie-hours-trasera/).*
