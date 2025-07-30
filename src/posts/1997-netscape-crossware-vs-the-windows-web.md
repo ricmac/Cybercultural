@@ -3,7 +3,7 @@ title: "1997: Netscape Crossware vs. the Windows Web"
 description: "After Microsoft upped the ante in the browser market in 1996 by integrating Internet Explorer 3.0 into Windows, Netscape began the new year with a renewed focus on the open web."
 date: 2021-03-09
 permalink: "p/1997-netscape-crossware-vs-the-windows-web/"
-tags: ['dotcom', '1997']
+tags: ['dotcom', '1997', 'season2']
 featureImage: "/assets/images/wdh/crossware-1230x692.jpg"
 ---
 

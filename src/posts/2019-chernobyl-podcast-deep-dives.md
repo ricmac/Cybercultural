@@ -3,7 +3,7 @@ title: "The Chernobyl Podcast and the Value of Internet Deep Dives"
 description: "Listening to The Chernobyl Podcast reminded me that in the digital era of entertainment, enjoying a favorite tv show or movie is about much more than simply watching it."
 date: 2019-06-12
 permalink: "p/chernobyl-podcast-deep-dives/"
-tags: ['enshittocene']
+tags: ['enshittocene', 'season1']
 featureImage: "/assets/images/933e9ab9-ba3f-4c0b-82dc-14d092e6fab9_1200x675.jpg"
 ---
 

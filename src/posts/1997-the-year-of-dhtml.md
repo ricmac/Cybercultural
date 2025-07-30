@@ -3,7 +3,7 @@ title: "1997: The Year of DHTML"
 description: "DHTML, or Dynamic HTML, was essentially a combination of HTML, JavaScript, the newly released CSS standard, and an emerging web programming model called the DOM (Document Object Model)."
 date: 2021-06-02
 permalink: "p/1997-the-year-of-dhtml/"
-tags: ['dotcom', '1997']
+tags: ['dotcom', '1997', 'season2']
 featureImage: "/assets/images/wdh/DHMTL_1997_feature-1280x720.jpg"
 ---
 

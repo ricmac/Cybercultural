@@ -3,7 +3,7 @@ title: "Are We Doing Enough To Archive Digital Culture?"
 description: "I look at the problem of archiving cultural content from magazines, blogs, musicians and video gamers — and why it matters. Our digital culture is valuable, so we must do better to preserve it."
 date: 2019-08-14
 permalink: "p/are-we-doing-enough-to-archive-digital-culture/"
-tags: ['enshittocene']
+tags: ['enshittocene', 'season1']
 featureImage: "/assets/images/back-to-the-future-1200x675.jpg"
 ---
 

@@ -3,7 +3,7 @@ title: "1992: The Web vs Gopher, and the First External Browsers"
 description: "Three non-CERN web browsers were released over 1992 — Erwise, ViolaWWW and MidasWWW — at a time when there were less than 20 websites in the world. It was a turning point for the young Web."
 date: 2021-11-18
 permalink: "p/1992-web-vs-gopher/"
-tags: ['dotcom', '1992']
+tags: ['dotcom', '1992', 'season2']
 featureImage: "/assets/images/wdh/MidasWWW_Solaris-1000x563.jpg"
 ---
 

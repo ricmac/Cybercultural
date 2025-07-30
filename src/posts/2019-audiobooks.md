@@ -3,7 +3,7 @@ title: "Audiobook Sales Are Surging, While Print and Ebooks Decline"
 description: "Despite worrying times for print books and ebooks, digital audiobooks in the 2010s have given the book industry reason to be optimistic. The big question is how much more can audiobooks grow."
 date: 2019-05-31
 permalink: "p/audiobooks-continue-strong-growth/"
-tags: ['enshittocene']
+tags: ['enshittocene', 'season1']
 featureImage: "/assets/images/audiobook-3106986_1280x720.jpg"
 ---
 

@@ -3,7 +3,7 @@ title: "How Photo Sharing Is Impacting the Cultural Industries"
 description: "Image and video were the primary formats for social media in the 2010s, in large part driven by Instagram’s steep growth throughout the decade and new short video formats like 'Stories'."
 date: 2019-06-17
 permalink: "p/photo-sharing-cultural-industries/"
-tags: ['enshittocene']
+tags: ['enshittocene', 'season1']
 featureImage: "/assets/images/people-2604832_1280x720.jpg"
 ---
 

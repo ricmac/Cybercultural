@@ -3,7 +3,7 @@ title: "GeoCities in 1995: Building a Home Page on the Internet"
 description: "GeoCities, known throughout most of 1995 as Beverly Hills Internet, was one of the first commercial internet services to make it easy for people to publish a home page on the World Wide Web."
 date: 2025-03-07
 permalink: "p/geocities-1995/"
-tags: ['dotcom', '1995']
+tags: ['dotcom', '1995', 'season4']
 featureImage: "/assets/images/beverly-hills-internet-1995.jpg"
 ---
 

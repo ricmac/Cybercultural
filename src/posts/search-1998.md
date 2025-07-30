@@ -3,7 +3,7 @@ title: "Search Engines in 1998, Before Google Takes the Spotlight"
 description: "Google makes the transition from Stanford project to company over 1998, but it is portals like Yahoo! and portal-wannabes like AltaVista that feature in Danny Sullivan's Search Engine Watch that year."
 date: 2025-07-08
 permalink: "p/search-1998/"
-tags: ['dotcom', '1998']
+tags: ['dotcom', '1998', 'season4']
 featureImage: "/assets/images/google-garage-1998b.jpg"
 ---
 

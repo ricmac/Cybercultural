@@ -3,7 +3,7 @@ title: "Cyberspace Movies in 1995: Silicon Valley Meets Hollywood"
 description: "Three Hollywood movies were released in 1995 with internet themes: the Keanu Reeves cyberpunk film Johnny Mnemonic (with an accompanying website), The Net with Sandra Bullock, and Hackers."
 date: 2025-03-12
 permalink: "p/cyberspace-movies-1995/"
-tags: ['dotcom', '1995']
+tags: ['dotcom', '1995', 'season4']
 featureImage: "/assets/images/JohnnyMnemonic-poster.jpg"
 youtube: "true"
 ---

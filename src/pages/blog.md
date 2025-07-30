@@ -1,6 +1,6 @@
 ---
 title: Notes
-description: "Old-school blogging — opinionated and conversational, with the occasional admin post."
+description: "These posts aren't necessarily about internet history and are a mix of personal and admin."
 layout: blog
 permalink: /notes{% if pagination.pageNumber > 0 %}/page/{{ pagination.pageNumber + 1 }}{% endif %}/index.html
 pagination:

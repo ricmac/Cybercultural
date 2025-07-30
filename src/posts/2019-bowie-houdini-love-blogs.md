@@ -3,7 +3,7 @@ title: "Bowie, Houdini & Other Reasons I Love Blogs and Newsletters"
 description: "Art and culture is meant to be enjoyed and savoured, as well as make you think about the world from different viewpoints. Blogs and newsletters are the best online tools to help us do that."
 date: 2019-09-10
 permalink: "p/reasons-i-love-blogs-and-newsletters/"
-tags: ['enshittocene']
+tags: ['enshittocene', 'season1']
 featureImage: "/assets/images/bowie-blogs-feature-2019-1000x563.jpg"
 ---
 

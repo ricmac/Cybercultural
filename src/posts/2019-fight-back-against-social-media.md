@@ -3,7 +3,7 @@ title: "How Blogs and Newsletters Can Fight Back at Social Media"
 description: "Social networking built around cultural content: while blogs, Tumblr and email newsletters cannot compete with social media for popular attention, we can build an alternative world with these tools."
 date: 2019-09-04
 permalink: "p/blogs-newsletters-and-tumblr-fight-back/"
-tags: ['enshittocene']
+tags: ['enshittocene', 'season1']
 featureImage: "/assets/images/fightback-feature-1000x563.jpg"
 ---
 

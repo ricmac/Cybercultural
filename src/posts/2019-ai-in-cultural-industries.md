@@ -3,7 +3,7 @@ title: "AI in the Cultural Industries: Uses and Limitations"
 description: "Examining the real-world impact of AI software across the cultural sectors. While sometimes useful, AI music or articles will never replace the added value delivered by human composers and writers."
 date: 2019-06-21
 permalink: "p/ai-in-the-cultural-industries-uses/"
-tags: ['enshittocene']
+tags: ['enshittocene', 'season1']
 featureImage: "/assets/images/AI-cultural-industries-2019-1243x699.jpg"
 ---
 

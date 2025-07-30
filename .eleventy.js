@@ -55,6 +55,9 @@ export default function(eleventyConfig) {
   eleventyConfig.addLayoutAlias('preweb', 'preweb.njk');
   eleventyConfig.addLayoutAlias('blog', 'blog.njk');
   eleventyConfig.addLayoutAlias('enshittocene', 'enshittocene.njk');
+  eleventyConfig.addLayoutAlias('season1', 'season1.njk');
+  eleventyConfig.addLayoutAlias('season2', 'season2.njk');
+  eleventyConfig.addLayoutAlias('season4', 'season4.njk');
 
   // Custom filters
   eleventyConfig.addFilter('limit', limit);
@@ -128,6 +131,9 @@ export default function(eleventyConfig) {
           post.data.tags.includes("dotcom") ||
           post.data.tags.includes("notes") ||
           post.data.tags.includes("enshittocene") ||
+          post.data.tags.includes("season1") ||
+          post.data.tags.includes("season2") ||
+          post.data.tags.includes("season4") ||
           post.data.tags.includes("preweb") ||
           post.data.tags.includes("memoir") ||
           post.data.tags.includes("year") ||

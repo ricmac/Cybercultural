@@ -3,7 +3,7 @@ title: "Portals in 1998: The Rise and Fall of Excite and Netcenter"
 description: "1998 was the year of the portal: Excite, Netscape Netcenter, Yahoo, AOL, MSN and others all competing for eyeballs and trying to be sticky. But with so many portals, some inevitably failed."
 date: 2025-06-18
 permalink: "p/portals-1998/"
-tags: ['dotcom', '1998']
+tags: ['dotcom', '1998', 'season4']
 featureImage: "/assets/images/excite-1998-1280x720.jpg"
 ---
 

@@ -3,7 +3,7 @@ title: "Netscape in 1994: The Rise of the Webuloids"
 description: "By the time Netscape Navigator was released in December 1994, the World Wide Web was beginning to overcome bandwidth restrictions and live up to its potential as a multimedia portal to the internet."
 date: 2025-02-19
 permalink: "p/netscape-1994/"
-tags: ['dotcom', '1994']
+tags: ['dotcom', '1994', 'season4']
 featureImage: "/assets/images/netscape-1994-feature-1280.jpg"
 ---
 

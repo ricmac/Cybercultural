@@ -3,7 +3,7 @@ title: "Music Distribution in the Streaming and Social Media Era"
 description: "The challenge for cultural creators in the 2010s is finding an audience. Here's how musicians use TuneCore, an independent music distributer, and create their own narrative in the Spotify era."
 date: 2019-05-29
 permalink: "p/beyond-music-distribution-cybercultural/"
-tags: ['enshittocene']
+tags: ['enshittocene', 'season1']
 featureImage: "/assets/images/buskers-3370295_1280x720.jpg"
 ---
 

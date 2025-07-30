@@ -3,7 +3,7 @@ title: "Internet Amnesia: Clive James & His Website"
 description: "In addition to his many books and tv shows, the late writer and cultural critic Clive James considered websites a viable way to preserve cultural content. But has his own website survived?"
 date: 2020-02-26
 permalink: "p/clive-james-website/"
-tags: ['enshittocene']
+tags: ['enshittocene', 'season1']
 featureImage: "/assets/images/clivejames_computer.jpeg"
 ---
 

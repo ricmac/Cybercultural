@@ -3,7 +3,7 @@ title: "Launch of BowieNet and the First Inklings of Social Networks"
 description: "When BowieNet launched in 1998, it became the default online community for David Bowie fans. It also anticipated the social networks that would emerge in the 2000s, like Facebook and Reddit."
 date: 2025-06-25
 permalink: "p/bowienet-launch-1998/"
-tags: ['dotcom', '1998']
+tags: ['dotcom', '1998', 'season4']
 featureImage: "/assets/images/bowiehome_full-1998-1200x675.jpg"
 ---
 

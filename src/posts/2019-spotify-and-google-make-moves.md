@@ -3,7 +3,7 @@ title: "Rise of Podcasting: Spotify and Google Make Moves"
 description: "Podcasting is a tiny industry compared to radio, but recent moves by both Spotify and Google are beginning to lay the foundation for podcasting to eat into radio’s massive annual revenue over time."
 date: 2019-05-20
 permalink: "p/spotify-and-google-make-moves-in-podcasting/"
-tags: ['enshittocene']
+tags: ['enshittocene', 'season1']
 featureImage: "/assets/images/Spotify-office-Reception.jpg"
 ---
 

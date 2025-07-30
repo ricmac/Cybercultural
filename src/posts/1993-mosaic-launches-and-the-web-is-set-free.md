@@ -3,7 +3,7 @@ title: "1993: Mosaic Launches and the Web Becomes Open Source"
 description: "On 21 April 1993, Marc Andreessen announces NCSA Mosaic 1.0, the first version of its multimedia browser. Just over a week later, CERN gifts the World Wide Web to the world as open source software."
 date: 2021-12-08
 permalink: "p/1993-mosaic-launches-and-the-web-is-set-free/"
-tags: ['dotcom', '1993']
+tags: ['dotcom', '1993', 'season2']
 featureImage: "/assets/images/wdh/mosaic.1.0.2-1280x720.jpg"
 ---
 

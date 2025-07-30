@@ -3,7 +3,7 @@ title: "Audio vs. Text: The Rise of Podcasts and Audiobooks"
 description: "Media formats evolve over time, as do business models. This is the age of audio, of that there’s no doubt. But the written word — like the article you're about to read — isn’t going away."
 date: 2019-09-26
 permalink: "p/audio-vs-text-rise-of-podcasts-audiobooks/"
-tags: ['enshittocene']
+tags: ['enshittocene', 'season1']
 featureImage: "/assets/images/audio-vs-text-feature-1000x563.jpg"
 ---
 

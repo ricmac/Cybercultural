@@ -3,7 +3,7 @@ title: "The Decade in Culture Tech: Streaming, Binging, Opining"
 description: "From 2010-2019, the social software innovations of Web 2.0 gave way to an era defined by smartphones, social media and streaming. Life is good for consumers, but what about creators?"
 date: 2019-12-12
 permalink: "p/2010s-decade-in-culture-tech/"
-tags: ['enshittocene']
+tags: ['enshittocene', 'season1']
 featureImage: "/assets/images/9e5483ef-55ef-4949-a9e7-9a9ab80e3e49_1280x720.jpg"
 ---
 

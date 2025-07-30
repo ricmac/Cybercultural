@@ -3,7 +3,7 @@ title: "How Interactive Media Fits Into the Cultural Landscape"
 description: "Online gaming, virtual reality experiences and mixed reality apps — interactive media — are among the fastest growing parts of the digital economy. But are they what we’d traditionally label as 'culture'?"
 date: 2019-08-21
 permalink: "p/interactive-media-2019/"
-tags: ['enshittocene']
+tags: ['enshittocene', 'season1']
 featureImage: "/assets/images/interactive-media-feature-2019-1200x675.jpg"
 ---
 

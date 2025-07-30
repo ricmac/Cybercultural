@@ -26,4 +26,6 @@ I think this way of thinking about Cybercultural's information architecture work
 
 Regardless of whether or not it's part of this site's visible structure, I do think the 'seasons' approach to running a website / blog is an interesting twist on the traditional way to order a blog — reverse-chronological. Perhaps the seasons concept has more in common with the [digital garden](https://maggieappleton.com/garden-history/) pattern for websites in 2025? Let me know your thoughts on [Mastodon](https://mastodon.social/@ricmac) or [Bluesky](https://bsky.app/profile/ricmac.cybercultural.com).
 
+**Update, 30 July 2025:** I have now added [seasons](/seasons/) to the site's navigation, via the tagging system.
+
 *Feature image: Ales Krivec [via Unsplash](https://unsplash.com/photos/a-hillside-covered-in-lots-of-colorful-trees-PaHPTMCqxZQ).*

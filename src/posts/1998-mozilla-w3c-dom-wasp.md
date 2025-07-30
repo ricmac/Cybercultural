@@ -3,7 +3,7 @@ title: "1998: The Open Web With Mozilla, W3C’s DOM, and WaSP"
 description: "1998 was the year the web started to open up. It was when projects like Mozilla and organizations like the W3C and The Web Standards Project began to steer the web towards a more equitable future."
 date: 2021-06-30
 permalink: "p/1998-mozilla-w3c-dom-wasp/"
-tags: ['dotcom', '1998']
+tags: ['dotcom', '1998', 'season2']
 featureImage: "/assets/images/wdh/1998-wdh-feature-1280x720.jpg"
 ---
 

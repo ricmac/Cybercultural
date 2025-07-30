@@ -3,7 +3,7 @@ title: "Top 5 Culture-Tech Trends of 2019: Rise of Digital Culture"
 description: "From the rule of audio formats to the increasing popularity of social video shorts, 'culture-tech' has thrived this year. There's no doubt that digital technology is transforming the cultural industries."
 date: 2019-12-03
 permalink: "p/top-5-culture-tech-trends-of-2019/"
-tags: ['enshittocene']
+tags: ['enshittocene', 'season1']
 featureImage: "/assets/images/Culture-Tech-Trends-2019-1000x563.jpg"
 ---
 

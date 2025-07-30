@@ -3,7 +3,7 @@ title: "The State of Podcasting: A Golden Age for Online Audio"
 description: "I look at the distribution dynamics of podcasting (increasingly a battle between Apple and Spotify, with Google doing some flexing too), how the podcast content market is shaping up, and revenue statistics."
 date: 2019-10-08
 permalink: "p/the-state-of-podcasting/"
-tags: ['enshittocene']
+tags: ['enshittocene', 'season1']
 featureImage: "/assets/images/state-of-podcasting-1000x563.jpg"
 ---
 

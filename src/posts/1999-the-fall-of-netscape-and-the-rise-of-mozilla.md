@@ -3,7 +3,7 @@ title: "1999: Netscape’s Fall and the Rise of the Mozilla Browser"
 description: "By 1999, not only had Netscape fallen behind Microsoft in browser technology, it also had trouble navigating relationships — with both its parent AOL and the developers of its open source project, Mozilla."
 date: 2021-10-13
 permalink: "p/1999-the-fall-of-netscape-and-the-rise-of-mozilla/"
-tags: ['dotcom', '1999']
+tags: ['dotcom', '1999', 'season2']
 featureImage: "/assets/images/wdh/mozilla-browser-1999-feature.jpg"
 ---
 

@@ -3,7 +3,7 @@ title: "The Golden Age of Microblogging, With Soup.io and Tumblr"
 description: "I take a nostalgic trip back to 2007-11, when Tumblr, Soup.io, FriendFeed and other microblogging apps roamed the web. Also: are activity streams poised to make a comeback on the fediverse? 🍲"
 date: 2023-03-22
 permalink: "p/the-golden-age-of-microblogging/"
-tags: ['web20']
+tags: ['web20', '2007']
 featureImage: "/assets/images/d5131350-70d9-4804-a905-ab391eadb615_1280x720.jpg"
 ---
 

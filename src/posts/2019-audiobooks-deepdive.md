@@ -3,7 +3,7 @@ title: "Audiobooks Deep Dive: Latest Statistics and Trends"
 description: "While Audible and other audiobook products have done some experiments with popular authors, there’s been nothing on the scale of what Spotify has done to music or Netflix to TV and movies."
 date: 2019-10-02
 permalink: "p/audiobooks-deep-dive-latest-statistics/"
-tags: ['enshittocene']
+tags: ['enshittocene', 'season1']
 featureImage: "/assets/images/audiobooks-deepdive-2019-1000x563.jpg"
 ---
 
