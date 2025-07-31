@@ -31,3 +31,11 @@ to change how empty grid tracks are handled */
   --grid-placement: auto-fit;
   --grid-min-item-size: clamp(16rem, 50vw, 28rem);
 }
+
+.grid[data-layout='50-50']:has(> li:only-child) {
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.grid[data-layout='50-50']:has(> li:only-child) > li {
+  grid-column: span 1;
+}
