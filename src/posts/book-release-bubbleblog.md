@@ -1,5 +1,5 @@
 ---
-title: "Buy the Book: Bubble Blog Now Available As Paperback, eBook"
+title: "Bubble Blog Now Available as a Book"
 description: "Announcing the release of my memoir as a paperback and eBook. Fourteen months after I began serialising my book online, here on Cybercultural, you can now purchase a paper copy." 
 date: 2024-12-20
 permalink: "p/book-release-bubbleblog/"
@@ -9,14 +9,28 @@ featureImage: "/assets/images/bubble-blog-cover-1280x720.jpg"
 
 ![Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution](/assets/images/33d48ded-f999-4173-8440-9d752446428b_3400x2134.jpg){loading="eager"}
 
-I’m thrilled to announce that my book, *Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution*, is now available to purchase as a paperback or eBook. Click on any of these links to order your copy:
+I’m thrilled to announce that my book, *Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution*, is now available to purchase as a paperback or eBook. Click on any of these links to buy your copy:
 
 *   Paperback, US$19.99: [Amazon](https://www.amazon.com/Bubble-Blog-Outsider-Insider-Revolution/dp/B0DQKRB3P5?&linkCode=ll1&tag=richardmacman-20&linkId=b38f92f2c0bd2c9f05cda3a07413fd40&language=en_US&ref_=as_li_ss_tl){target="_blank"}; [Bookshop.org](https://bookshop.org/p/books/bubble-blog-from-outsider-to-insider-in-silicon-valley-s-web-2-0-revolution-richard-macmanus/22135084){target="_blank"}
 *   eBook, US$9.99: [Amazon Kindle Store](https://www.amazon.com/Bubble-Blog-Outsider-Insider-Revolution-ebook/dp/B0DQJQ4LJ9?&linkCode=ll1&tag=richardmacman-20&linkId=63e982f1c9d1ded8c83666d8b6917ff7&language=en_US&ref_=as_li_ss_tl){target="_blank"}; [Apple Books](http://books.apple.com/us/book/id6739734992){target="_blank"}; [Google Play](https://play.google.com/store/books/details?id=Sug5EQAAQBAJ){target="_blank"}
 
-Or search for "Bubble Blog MacManus" on your local online bookstore.
+Or search for "Bubble Blog MacManus" on your local online bookstore. 
 
-I’ve been calling *Bubble Blog* my “Web 2.0 memoir,” but it’s also an internet history book about the rise of digital culture in the 2000's. Certainly, it's the definitive story of the blog I founded, ReadWriteWeb — and some might say it's the definitive story of Web 2.0 itself.
+You can still read [the serialized version of Bubble Blog](/p/roadmap-bubbleblog/) online for free, but purchasing a copy of the book helps support Cybercultural (all revenue gets plowed back into the site!). 
+
+## Testimonials
+
+I’ve been calling *Bubble Blog* my “Web 2.0 memoir,” but it’s also an internet history book about the rise of digital culture in the 2000's. Certainly, it's the definitive story of the blog I founded, ReadWriteWeb (RWW) — and some might say it's the definitive story of Web 2.0 itself. Here are some nice things people have said about the book:
+
+"RWW was blogosphere royalty. They had readership in the hundreds of thousands of people, published deep original content, had a staff of editors, and really helped push the web through this period. I was a huge fan of the site, followed it closely, and I often referred to a seminal article on publishing that appeared there in 2008 in a popular conference talk I gave for many years. **Bubble Blog** is the story of RWW, and – through that lens – it becomes the story of that entire period in the evolution of the web."  
+— *[Deane Barker](https://deanebarker.net/library/titles/bubble-blog/), author of the 2016 O’Reilly Media book ‘Web Content Management: Systems, Features, and Best Practices’*
+
+"Richard MacManus’ memoir of his experiences running his tech blog, ReadWriteWeb, during the first decade of the 2000s, is a great read. Richard was smart and engaged back then – and still is – so this memoir offers both wonderful retellings about key moments and key people, and an honest look back and appraisal."  
+— *[Susan Mernit](https://susanmernit.substack.com/p/41-cyb-ai-web-memoirs-and-wintery), former executive at Netscape, AOL, Yahoo, and other internet and media companies*
+
+"I highly recommend Richard's current Cybercultural newsletter as well as his recent book, Bubble Blog, both are excellent!"  
+— *[John Musser](https://www.linkedin.com/feed/update/urn:li:activity:7336143785615077377/), Senior Director of Engineering at Ford and founder of ProgrammableWeb*
+
 
 ## More Publishing Details
 
@@ -24,7 +38,7 @@ I’ve been calling *Bubble Blog* my “Web 2.0 memoir,” but it’s also an in
 
 If you're curious about what I'll earn from each sale, as an indie publisher, here are those details. Since it's a hefty book (386 pages), the price points I've chosen give me the following estimated profit margins: US$5.63 per paperback, US$6.92 per eBook. I chose to publish directly to Amazon, as that was by far the easiest and most cost efficient method.
 
-Finally, a note on the online serialization of *Bubble Blog*, which [began back in October 2023](/p/bubble-blog-web20-memoir/). I've published [65 installments of the book](/p/roadmap-bubbleblog/) since then, with the remaining two installments (the epilogue) to be posted early next week. If you've followed my Web 2.0 memoir journey throughout the past 14 months, or have just dipped in from time to time when a particular installment has piqued your interest, I hope you will enjoy the final product: the paperback and eBook versions.
+Finally, a note on the online serialization of *Bubble Blog*, which [began back in October 2023](/p/bubble-blog-web20-memoir/). I've published [67 installments of the book](/p/roadmap-bubbleblog/) since then. If you've followed my Web 2.0 memoir journey throughout the past 14 months, or have just dipped in from time to time when a particular installment has piqued your interest, I hope you will enjoy the final product: the paperback and eBook versions.
 
 ## Full Book Blurb
 
