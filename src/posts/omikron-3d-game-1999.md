@@ -130,4 +130,4 @@ The NYT reviewer, J. C. Herz, unfavorably compared Omikron's "stagy" characters 
 
 Herz's critique feels even more true a quarter of a century later. Everquest, which debuted in 1999, is now regarded as the first fully 3D MMORPG to gain major popularity. World of Warcraft, released in 2004, took it to another level again. After that, user-generated content games like Minecraft and Roblox brought even more "human presence" to gaming.
 
-But while Omikron is now largely forgotten, Bowie's "virtual album" — which morphed into the wistful *Hours* — has only become more beloved over time. Especially for middle-aged webheads like me.
+But while Omikron is now largely forgotten, Bowie's "virtual album" — which morphed into the introspective *Hours* — has only become more beloved over time. Especially for middle-aged webheads like me.
