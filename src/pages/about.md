@@ -5,7 +5,7 @@ description: About Cybercultural — Internet History and Its Impact on Our Cult
 layout: page
 ---
 
-[Cybercultural](https://cybercultural.com/) is a website about **internet history and its impact on our culture**. It was founded in 2019 by me, [Richard MacManus](https://ricmac.org/) (@ricmac on [Mastodon](https://mastodon.social/@ricmac) and [Bluesky](https://bsky.app/profile/ricmac.cybercultural.com)). It's 100% [free to read](/subscribe).
+[Cybercultural](https://cybercultural.com/) is a weekly online magazine exploring the **history of the internet and its cultural impact**. It was founded in 2019 by me, [Richard MacManus](https://ricmac.org/) (@ricmac on [Mastodon](https://mastodon.social/@ricmac) and [Bluesky](https://bsky.app/profile/ricmac.cybercultural.com)). It's [free to read](/subscribe).
 
 Previously I was the founder and Editor-in-Chief of [ReadWriteWeb](https://ricmac.org/career-archive/readwriteweb/) (RWW), a pioneering tech blog from 2003-2012. RWW was ranked among the top 10 blogs in the world by Technorati and was syndicated by The New York Times.
 
