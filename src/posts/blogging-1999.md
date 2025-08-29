@@ -36,7 +36,7 @@ Blood started her own weblog in April 1999; and it was shortly after that the wo
 ![peterme on 28 April 1999](/assets/images/peterme-april1999.png)
 *A screenshot of [Peter Merholz's site](https://web.archive.org/web/19990428161312/http://peterme.com/index.html) on 28 April 1999 (before he'd added the blog definition).*
 
-Around the same time, John Barger — another early weblogger with his site Robot Wisdom — was pondering the utility of the format. On [May 5, 1999](https://web.archive.org/web/20000817182749/http://www.robotwisdom.com/log1999m05.html), he wrote in a "meta" note:
+Around the same time, Jorn Barger — another early weblogger with his site Robot Wisdom — was pondering the utility of the format. On [May 5, 1999](https://web.archive.org/web/20000817182749/http://www.robotwisdom.com/log1999m05.html), he wrote in a "meta" note:
 
 > "My ideal for weblogs is that everybody should keep one-- publicly or privately-- as the most efficient way of archiving good bookmarks. (Since I started keeping mine, I've hardly ever lost an URL!) If this means you copy 90% of my links, I don't mind at all if you also: 1&#41; write your own comments rather than copying mine, and 2&#41; include a link to me from time to time that will let your readers choose whether they want to follow RWWL here, directly."
 
