@@ -8,7 +8,7 @@ featureImage: "/assets/images/blogger-october1999-feature.png"
 youtube: "true"
 ---
 
-![Napster founders Shawn Fanning and Sean Parker in 1999](/assets/images/blogger-october1999.png){loading="eager"}
+![Blogger website 1999](/assets/images/blogger-october1999.png){loading="eager"}
 *[Blogger](https://web.archive.org/web/19991012022531/http://blogger.com/), soon after its launch in August 1999.*
 
 On January 26, 1999, Cameron Barrett — who ran a website called Camworld — [pondered the meaning](https://web.archive.org/web/20061015133239/http://www.camworld.org/journal/rants/99/01/26.html) of a new term he’d recently discovered:
