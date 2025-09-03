@@ -11,7 +11,7 @@ youtube: "true"
 ![Napster founders Shawn Fanning and Sean Parker in 1999](/assets/images/napster-founders-1999-1280x720.jpg){loading="eager"}
 *Napster founders Shawn Fanning and Sean Parker in 1999; via [trailer for 'Downloaded'](https://www.youtube.com/watch?v=ip8HJ4-IBbA), a 2013 documentary by Alex Winter.*
 
-On December 6, 1999, the Recording Industry Association of America (RIAA) sued Napster, the first major MP3 file sharing platform of the internet age, for contributory and vicarious copyright infringement. It was a flashpoint between the cultural industries and the internet startups that had dared to challenge decades-old institutions like Universal Music Group , Sony Music, and Warner Music Group. 
+On December 6, 1999, the Recording Industry Association of America (RIAA) sued Napster, the first major MP3 file sharing platform of the internet age, for contributory and vicarious copyright infringement. It was a flashpoint between the cultural industries and the internet startups that had dared to challenge decades-old institutions like Universal Music Group, Sony Music, and Warner Music Group. 
 
 The fact that the lawsuit arrived right at the end of the twentieth century was apt — the online future was an existential threat to those analog-based record companies. The “majors” would eventually adapt, but they needed more time to do it.
 
