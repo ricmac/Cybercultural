@@ -1,6 +1,6 @@
 ---
 title: "What the Internet Was Like in 2011"
-description: "The internet in 2011 saw power plays in social networking, mobile apps, cloud computing, and streaming. Facebook was challenged by Google+, while new powers like Netflix and Spotify emerged."
+description: "The internet in 2011 sees power plays in social networking, mobile apps, cloud computing, and streaming. Facebook is challenged by Google+, while new powers like Netflix and Spotify emerge."
 date: 2025-01-10
 permalink: "p/internet-2011/"
 tags: ['web20', 'year', '2011']

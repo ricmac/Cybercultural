@@ -1,6 +1,6 @@
 ---
 title: "Tumblr in 2012 and How the Gifset Redefined Blogging"
-description: "By 2012, Tumblr was one of the world's top websites — mostly thanks to pop culture fans posting animated gifs of their favorite music, tv and movie stars. Blogging would never be the same again."
+description: "By 2012, Tumblr is one of the world's top websites — mostly thanks to pop culture fans posting animated gifs of their favorite music, tv and movie stars. Blogging will never be the same again."
 date: 2025-02-26
 permalink: "p/tumblr-2012/"
 tags: ['web20', '2012']

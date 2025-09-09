@@ -1,6 +1,6 @@
 ---
 title: "Telling Lies: Bowie and Online Music Distribution in 1996"
-description: "Online music retail was thriving by 1996, thanks to sites like Music Boulevard and CDnow. But music downloads and streaming was more of a challenge — as David Bowie discovered in September 1996."
+description: "Online music retail is thriving by 1996, thanks to sites like Music Boulevard and CDnow. But music downloads and streaming is more of a challenge — as David Bowie discovers in September 1996."
 date: 2025-05-07
 permalink: "p/online-music-distribution-1996/"
 tags: ['dotcom', '1996', 'season4']

@@ -1,6 +1,6 @@
 ---
 title: "What the Internet Was Like in 1999"
-description: "By 1999, Microsoft had vanquished Netscape in the browser war, Google was starting to show up competing search engines, and Napster and Blogger had arrived to shake up our culture."
+description: "In 1999, Microsoft vanquishes Netscape in the browser war, Google starts to show up competing search engines, Blogger launches, and Napster loudly arrives to shake up our culture."
 date: 2025-09-03
 permalink: "p/internet-1999/"
 tags: ['dotcom', 'year', '1999']

@@ -1,6 +1,6 @@
 ---
 title: "1993: CGI Scripts and Early Server-Side Web Programming"
-description: "The Common Gateway Interface (CGI) in 1993 was the start of web applications. On the early Web, it typically took the form of Perl scripts for features like contact forms and guest books."
+description: "The Common Gateway Interface (CGI) in 1993 is the start of web applications. On the early Web, it typically takes the form of Perl scripts for features like contact forms and guest books."
 date: 2021-03-24
 permalink: "p/1993-cgi-scripts-and-early-server-side-web-programming/"
 tags: ['dotcom', '1993', 'season2']

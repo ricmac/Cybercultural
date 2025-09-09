@@ -1,6 +1,6 @@
 ---
 title: "Google in 1999: Search Engines Escape the Portal Matrix"
-description: "Like Morpheus in The Matrix, Google gave web users a stark choice in 1999: take the red pill and experience a new world of search quality, or choose the blue pill and stick with the bloated world of portal search."
+description: "Like Morpheus in The Matrix, Google gives web users a stark choice in 1999: take the red pill and experience a new world of search quality, or choose the blue pill and stick with the bloated world of portal search."
 date: 2025-07-23
 permalink: "p/google-1999/"
 tags: ['dotcom', '1999', 'season4']

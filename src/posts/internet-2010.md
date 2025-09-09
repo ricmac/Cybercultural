@@ -1,6 +1,6 @@
 ---
 title: "What the Internet Was Like in 2010"
-description: "2010 was the year of mobile apps — Instagram's launch, the rise of Foursquare, the release of the iPad, and the rapid growth of Facebook and Twitter via apps. The internet also impacted political uprisings."
+description: "2010 is the year of mobile apps — Instagram's launch, the rise of Foursquare, the release of the iPad, and the rapid growth of Facebook and Twitter via apps. The internet also impacts political uprisings."
 date: 2024-11-15
 permalink: "p/internet-2010/"
 tags: ['web20', 'year', '2010']

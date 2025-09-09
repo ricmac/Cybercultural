@@ -1,6 +1,6 @@
 ---
 title: "David Bowie’s 1999 Gaming Adventure and Virtual Album"
-description: "Continuing his exploration of virtual personas, in 1999 David Bowie played two 3D characters in a game called 'Omikron: The Nomad Soul'. The songs he contributed were later added to his album, Hours."
+description: "Continuing his exploration of virtual personas, in 1999 David Bowie plays two 3D characters in a game called 'Omikron: The Nomad Soul'. The songs he contributes are later added to his album, Hours."
 date: 2025-08-05
 permalink: "p/bowie-1999-omikron/"
 tags: ['dotcom', '1999', 'season4']

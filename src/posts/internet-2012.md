@@ -1,6 +1,6 @@
 ---
 title: "What the Internet Was Like in 2012"
-description: "Internet culture pivoted to images and videos over 2012, with the growing popularity of image sharing apps like Instagram and Pinterest, video creators on YouTube, and pictures on Reddit."
+description: "Internet culture pivots to images and videos over 2012, with the growing popularity of image sharing apps like Instagram and Pinterest, video creators on YouTube, and pictures on Reddit."
 date: 2025-02-05
 permalink: "p/internet-2012/"
 tags: ['web20', 'year', '2012']

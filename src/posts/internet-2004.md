@@ -1,6 +1,6 @@
 ---
 title: "What the Internet Was Like in 2004"
-description: "A look back at web technology in 2004 — when Flickr and Gmail launched, blogging plus RSS was the new social software, Google IPOed, and the first Web 2.0 Conference happened." 
+description: "The next era of web technology starts in 2004 — when Flickr and Gmail launch, blogging plus RSS becomes the new social software, Google IPOs, and the first Web 2.0 Conference happens." 
 date: 2024-05-20
 permalink: "p/internet-2004/"
 tags: ['web20', 'year', '2004']

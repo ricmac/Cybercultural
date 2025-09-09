@@ -1,6 +1,6 @@
 ---
 title: "1991: Tim Berners-Lee Tries to Convert the Hypertext Faithful"
-description: "After a year and a half of stalling from CERN management, Tim Berners-Lee must’ve hoped the momentum he’d gathered at the end of 1990 would continue into the new year. He was sadly mistaken."
+description: "After a year and a half of stalling from CERN management, Tim Berners-Lee hopes the momentum at the end of 1990 will continue into the new year. But disappointment soon follows."
 date: 2021-11-10
 permalink: "p/1991-tim-berners-lee-trys-to-convert-the-hypertext-faithful/"
 tags: ['dotcom', '1991', 'season2']

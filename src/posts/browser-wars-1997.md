@@ -1,6 +1,6 @@
 ---
 title: "Best Experienced With: MTV.com and the 90s Browser War"
-description: "MTV's website in 1997 was a hodgepodge of technologies: Java, JavaScript, frames and more. The quality of your user experience depended on which browser you used: Netscape or IE."
+description: "MTV's website in 1997 is a hodgepodge of technologies: Java, JavaScript, frames and more. The quality of your user experience depends on which browser you use: Netscape or IE."
 date: 2025-06-04
 permalink: "p/browser-war-1990s/"
 tags: ['dotcom', '1997', 'season4']

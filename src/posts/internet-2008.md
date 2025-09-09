@@ -1,6 +1,6 @@
 ---
 title: "What the Internet Was Like in 2008"
-description: "The launch of app stores by Apple and Google shook up the web ecosystem in 2008. Now there were potential gatekeepers. Although Google also launched its Chrome browser, so it covered all bases."
+description: "The launch of app stores by Apple and Google shakes up the web ecosystem in 2008 — now there are potential gatekeepers. Although Google also launches its Chrome browser, so it covers all bases."
 date: 2024-08-02
 permalink: "p/internet-2008/"
 tags: ['web20', 'year', '2008']

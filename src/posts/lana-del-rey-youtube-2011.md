@@ -1,6 +1,6 @@
 ---
 title: "How Lana Del Rey Found Internet Fame on YouTube in 2011"
-description: "With YouTube growing fast in 2011, struggling musician Lizzy Grant decided to re-launch her career with a new name and image, new social media accounts, and a self-made video."
+description: "With YouTube growing fast in 2011, struggling musician Lizzy Grant decides to re-launch her career with a new name and image, new social media accounts, and a self-made video."
 date: 2025-01-30
 permalink: "p/lana-del-rey-youtube-2011/"
 tags: ['web20', '2011']

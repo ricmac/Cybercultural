@@ -1,6 +1,6 @@
 ---
 title: "Duran Duran and the Dawn of Digital Music Sales in 1997"
-description: "In July 1997, N2K and Liquid Audio announced a way to sell digital songs online for 99 cents a pop. Soon after, Duran Duran became the first major label artist to release an online single for sale."
+description: "In July 1997, N2K and Liquid Audio announce a way to sell digital songs online for 99 cents a pop. Soon after, Duran Duran becomes the first major label artist to release an online single for sale."
 date: 2025-05-14
 permalink: "p/digital-music-sales-1997/"
 tags: ['dotcom', '1997', 'season4']

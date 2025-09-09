@@ -1,6 +1,6 @@
 ---
 title: "The Age of Buffering: Video Streaming and Webcasts in 1997"
-description: "During 1997, video streaming came to web browsers through plug-ins like RealVideo, VDOLive and Microsoft's NetShow. David Bowie even attempted to 'cybercast' one of his concerts that year."
+description: "During 1997, video streaming comes to web browsers through plug-ins like RealVideo, VDOLive and Microsoft's NetShow. David Bowie even attempts to 'cybercast' one of his concerts this year."
 date: 2025-05-21
 permalink: "p/video-streaming-1997/"
 tags: ['dotcom', '1997', 'season4']

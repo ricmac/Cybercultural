@@ -1,6 +1,6 @@
 ---
 title: "David Bowie’s Early Websites, 1995–1997: Outside to Earthling"
-description: "During the mid-90s, David Bowie's website went from a storytelling structure for the Outside album, into a striking, grunge-inspired design for Earthling. At the same time, Bowie fan sites emerged."
+description: "During the mid-90s, David Bowie's website goes from a storytelling structure for the Outside album, to a striking, grunge-inspired design for Earthling. At the same time, Bowie fan sites emerge."
 date: 2025-04-02
 permalink: "p/david-bowie-website-1995-1997/"
 tags: ['dotcom', '1995', '1996', '1997', 'season4']

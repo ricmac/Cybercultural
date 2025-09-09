@@ -1,6 +1,6 @@
 ---
 title: "1995: Apache and Microsoft IIS Shake Up Web Server Market"
-description: "The Apache Web Server Project announced a new 'public-domain HTTP server' in April 1995. That was followed soon after by Microsoft's first web server software, Internet Information Server."
+description: "In April 1995, the Apache Web Server Project announces a new 'public-domain HTTP server'. Soon after, Microsoft announces its first web server software, Internet Information Server."
 date: 2021-08-31
 permalink: "p/1995-apache-microsoft-iis-web-server-market/"
 tags: ['dotcom', '1995', 'season2']

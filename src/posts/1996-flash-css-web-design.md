@@ -1,6 +1,6 @@
 ---
 title: "1996: Flash and CSS Bring Design to the Web"
-description: "There were two stylistically opposed approaches to web design in the 1990s, epitomized by two distinct — and utterly different — technologies, both of which debuted in 1996."
+description: "There are two stylistically opposed approaches to web design in the 1990s, epitomized by two distinct — and utterly different — technologies, both of which debut in 1996."
 date: 2021-09-29
 permalink: "p/1996-flash-css-web-design/"
 tags: ['dotcom', '1996', 'season2']

@@ -1,6 +1,6 @@
 ---
 title: "Second Life and the Beginnings of the Metaverse in 1999"
-description: "After seeing the movie 'The Matrix', Philip Rosedale started a dot-com company and attempted to build a full-body virtual reality rig. He soon pivoted to creating a virtual world on the Web."
+description: "After seeing the movie 'The Matrix', Philip Rosedale starts a dot-com company and attempts to build a full-body virtual reality rig. He soon pivots to creating a virtual world on the Web."
 date: 2025-08-12
 permalink: "p/second-life-metaverse-1999/"
 tags: ['dotcom', '1999', 'season4']

@@ -1,6 +1,6 @@
 ---
 title: "1996: JavaScript Annoyances and Meeting the DOM"
-description: "Other than homepages sprinkled with little animations, scrolling text, and embedded digital clocks, adventurous corporate webmasters began to experiment with JavaScript in early 1996."
+description: "Other than homepages sprinkled with little animations, scrolling text, and embedded digital clocks, adventurous corporate webmasters begin to experiment with JavaScript in early 1996."
 date: 2021-01-05
 permalink: "p/1996-javascript-annoyances-and-meeting-the-dom/"
 tags: ['dotcom', '1996', 'season2']

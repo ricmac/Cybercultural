@@ -1,6 +1,6 @@
 ---
 title: "From BowieWorld to Facebook: How Online Identity Evolved"
-description: "Exploring different personas on the web was a widespread trend in the late-1990s. Later, Facebook would neuter online identity, but in 1999 you could invent virtual characters on sites like BowieWorld."
+description: "Exploring different personas on the web is a widespread trend by the late-1990s. Later, Facebook will neuter online identity, but in 1999 you can invent virtual characters on sites like BowieWorld."
 date: 2025-07-30
 permalink: "p/online-identity-bowieworld-1999/"
 tags: ['dotcom', '1999', 'season4']

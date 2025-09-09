@@ -1,6 +1,6 @@
 ---
 title: "1997: JavaScript Grows Up, Developers Push Boundaries"
-description: "Pointy-headed technical analysis of JavaScript was not what was required in 1997. Developers of that era needed practical guidance and code samples. Also, Brendan Eich moves on from Netscape."
+description: "Pointy-headed technical analysis of JavaScript is not what is required in 1997. Developers of this era need practical guidance and code samples. Also, Brendan Eich moves on from Netscape."
 date: 2021-05-04
 permalink: "p/1997-javascript-apps-dynamic-web/"
 tags: ['dotcom', '1997', 'season2']
