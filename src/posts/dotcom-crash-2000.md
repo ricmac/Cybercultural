@@ -10,7 +10,7 @@ featureImage: "/assets/images/startupfailures-august2000.jpg"
 ![*Startupfailures.com](/assets/images/startupfailures-august2000.jpg){loading="eager"}
 *Startupfailures.com, August 2000; [via Wayback Machine](https://web.archive.org/web/20000815111548/http://www.startupfailures.com/).*
 
-On Tuesday, 11 January, 2000, the front page of The New York Times announced [a corporate merger](https://www.nytimes.com/2000/01/11/business/media-megadeal-overview-america-online-agrees-buy-time-warner-for-165-billion.html) that seemed to confirm the Internet’s cultural ascendency. “America Online Agrees to Buy Time Warner for $165 Billion,” the headline blared. Under the subhead “Internet Triumph,” the NYT noted that it “would be the biggest merger in history and the best evidence yet that old and new media are converging.”
+On Tuesday, 11 January, 2000, the front page of The New York Times announced [a corporate merger](https://www.nytimes.com/2000/01/11/business/media-megadeal-overview-america-online-agrees-buy-time-warner-for-165-billion.html) that seemed to confirm the internet’s cultural ascendency. “America Online Agrees to Buy Time Warner for $165 Billion,” the headline blared. Under the subhead “Internet Triumph,” the NYT noted that it “would be the biggest merger in history and the best evidence yet that old and new media are converging.”
 
 ![NYT announcement of AOL-Time Warner deal, 11 January 2000](/assets/images/nyt-aol-timewarner-news-jan2000b.jpg)
 *The New York Times front page on 11 January 2000.*
@@ -26,12 +26,12 @@ This did indeed happen…for another couple of months. But the tech-heavy Nasdaq
 
 ## Wired: What to Cheerlead?
 
-The “Internet bubble” didn’t immediately burst; it slowly deflated over the year, and then continued deflating the following year. The Internet’s chief cheerleader, *Wired* magazine, chose to acknowledge the downturn with whimsical humour. In its [August 2000 edition](https://archive.org/details/eu_Wired-2000-08_OCR/page/n85/mode/2up?view=theater), it reported on a new website called Startupfailures.com, “a Web site for dotcom flops and other busted ventures,” which had “been drawing about 2,500 visitors a day since it was launched in May.”
+The dot-com bubble didn’t immediately burst; it slowly deflated over the year, and then continued deflating the following year. The internet’s chief cheerleader, *Wired* magazine, chose to acknowledge the downturn with whimsical humour. In its [August 2000 edition](https://archive.org/details/eu_Wired-2000-08_OCR/page/n85/mode/2up?view=theater), it reported on a new website called Startupfailures.com, “a Web site for dotcom flops and other busted ventures,” which had “been drawing about 2,500 visitors a day since it was launched in May.”
 
 ![Dot Gone Wired article, August 2000](/assets/images/wired-dotgone-aug2000b.jpg)
 *"Dot Gone" article in Wired magazine, August 2000; via Internet Archive.*
 
-But Wired wasn’t about to abandon its future-oriented format. Even if the stock market was in decline, there was still plenty of would-be Internet disruption to report on. For example, in the August edition, Wired wrote about an “eNewspaper” prototype by IBM. Powered by a new “digital ink” technology, the device would “start invading the turf of traditional papers in four to five years,” said an IBM spokesman.
+But Wired wasn’t about to abandon its future-oriented format. Even if the stock market was in decline, there was still plenty of would-be internet disruption to report on. For example, in the August edition, Wired wrote about an “eNewspaper” prototype by IBM. Powered by a new “digital ink” technology, the device would “start invading the turf of traditional papers in four to five years,” said an IBM spokesman.
 
 Ironically, the hype angle to that story was provided by a *Time* magazine employee. One of its editors, Dan Okrent, had given a speech at the Columbia School of Journalism last December, in which he declared that “all forms of print are dead.” Wired gleefully printed the entire quote: 
 
@@ -63,7 +63,7 @@ These days we’d say that Loudcloud was a Software as a Service company that sp
 ![Loudcloud, August 2000](/assets/images/loudcloud-aug2000.jpg)
 *Loudcloud website, August 2000; [via Wayback Machine](https://web.archive.org/web/20000815053452/http://loudcloud.com/).*
 
-Since the technology was difficult to grasp, there was little for *Wired* to build a story around...except for Andreessen himself. The narrative thus became: Loudcloud was Andreessen’s “act 2” and he would “seek redemption” in Silicon Valley through it. Tales of his youthful and exciting Netscape life abound in the article, but it’s all to illustrate Andreessen’s hard-won maturity. The story equates Andreessen’s business transformation to the arc of the internet itself. In 2000, you *can* build a proper business on the Internet, the article argues — and Marc Andreessen is here to prove it.
+Since the technology was difficult to grasp, there was little for *Wired* to build a story around...except for Andreessen himself. The narrative thus became: Loudcloud was Andreessen’s “act 2” and he would “seek redemption” in Silicon Valley through it. Tales of his youthful and exciting Netscape life abound in the article, but it’s all to illustrate Andreessen’s hard-won maturity. The story equates Andreessen’s business transformation to the arc of the internet itself. In 2000, you *can* build a proper business on the internet, the article argues — and Marc Andreessen is here to prove it.
 
 Sheff ends the story almost as if it’s a modern-day business fable:
 
@@ -74,4 +74,4 @@ Sheff ends the story almost as if it’s a modern-day business fable:
 
 Loudcloud did indeed become a successful business over the next several years; or, at least, it managed to ride out the dot-com bust and come out the other side. To do so, it had to change its business model (pivoting from services to selling back-end software) and also its name (to the decidedly more boring OpsWare), but the company was eventually sold to Hewlett-Packard in 2007 for $1.6 billion. 
 
-So it wasn’t all doom and gloom once the Internet bubble began deflating in March 2000 — some internet companies were still building value. With that said, we never heard about IBM’s “eNewspaper” technology again.
+So it wasn’t all doom and gloom once the internet bubble began deflating in March 2000 — some internet companies were still building value. With that said, we never heard about IBM’s “eNewspaper” technology again.
