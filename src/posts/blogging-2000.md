@@ -24,7 +24,7 @@ On her site, [Anita Rowland commented](https://web.archive.org/web/2000041704403
 
 On 18 May 2000, Blood and two other bloggers went on an NPR radio show called The Connection, hosted by Christopher Lydon (who used the occasion to [start a blog](https://web.archive.org/web/20000619005103/http://www.wbur.org/connection/archive/2000/05/0518b.shtml) for the show, complete with blogroll). Also [on the radio](http://archives.wbur.org/theconnection/2000/05/18/web-logging.html) that day were Brad Graham, creator of Bradlands.com, and Evan Williams, CEO of Blogger.com. 
 
-Graham had actually [coined the term “blogosphere”](https://www.npr.org/2010/01/06/122277812/the-man-is-gone-but-long-live-the-blogosphere) back in September 1999 — albeit jokingly. However, the term didn’t gain traction until 2002, when it was “recoined” by William Quick. So on the day Lydon interviewed him, the “blogosphere” wasn’t mentioned. (Tragically, Graham died [in January 2010](https://www.npr.org/2010/01/06/122277812/the-man-is-gone-but-long-live-the-blogosphere), aged just 41.)
+Graham had actually [coined the term “blogosphere”](https://www.npr.org/2010/01/06/122277812/the-man-is-gone-but-long-live-the-blogosphere) back in September 1999 — albeit jokingly. However, the term didn’t gain traction until 2002, when it was “recoined” by William Quick. So on the day Lydon interviewed him, the “blogosphere” wasn’t mentioned. (Tragically, Graham died in January 2010, aged just 41.)
 
 During the radio show in May 2000, Graham said that he felt a personal connection to the blogs he liked. At one point Lydon asked if he’d met any webloggers in person?
 
