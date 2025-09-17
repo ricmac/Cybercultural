@@ -10,7 +10,7 @@ featureImage: "/assets/images/twitter_oprah_2009-optimized.jpg"
 ![Oprah Winfrey on Twitter, 2009](/assets/images/twitter_oprah_2009-optimized.jpg){loading="eager"}
 *Oprah's first tweet, April 2009.*
 
-The internet in 2009 was all about the [real-time web](/p/042-readwrite-realtime-web-summit-2009/) and the mainstreaming of social media, mostly on Facebook and Twitter. In addition, smartphone apps became prolific—especially with the release of the [iPhone 3GS](https://web.archive.org/web/20090611050937/http://www.readwriteweb.com/archives/live_from_apples_wwdc_2009.php) (the “S” stood for Speed) and an [avalanche](https://techcrunch.com/2009/10/19/android-galore-a-complete-list-of-the-android-phones-and-their-specs-droid-best/) of new Android models, such as HTC Magic, Samsung Galaxy, and Motorola Droid.
+The internet in 2009 was all about the [real-time web](/p/042-readwrite-realtime-web-summit-2009/) and the mainstreaming of social media, mostly on Facebook and Twitter. In addition, smartphone apps became prolific — especially with the release of the [iPhone 3GS](https://web.archive.org/web/20090611050937/http://www.readwriteweb.com/archives/live_from_apples_wwdc_2009.php) (the “S” stood for Speed) and an [avalanche](https://techcrunch.com/2009/10/19/android-galore-a-complete-list-of-the-android-phones-and-their-specs-droid-best/) of new Android models, such as HTC Magic, Samsung Galaxy, and Motorola Droid.
 
 But 2009 was also when big tech began to [exert control over the Web 2.0 revolution](/p/040-web20-big-tech-control-2009/). Facebook's acquisition of trendy geek app FriendFeed showed that the open web was vulnerable to corporate control. Meanwhile, "content farms" began to overtake blogs as producers of content on the internet.
 
@@ -21,16 +21,16 @@ The "real-time web" (as we web geeks called it) was a huge trend in 2009. From a
 ![Ashton Kutcher, Twitter, April 2009](/assets/images/twitter_aplusk_apr09.jpg)
 *Ashton Kutcher's [Twitter account](https://web.archive.org/web/20090416020430/http://twitter.com//aplusk) just before it went over 1 million followers on April 17, 2009.* 
 
-By November 2009, a site called &#58;//URLFAN—which ranked websites by popularity based on blog mentions—[claimed](https://web.archive.org/web/20091126192306/http://www.readwriteweb.com/archives/the_most_influential_websites_in_the_world.php) that Twitter was the fourth most influential website in the world. This put it behind only Wikipedia, YouTube and Flickr (and *above* Google). While this was clearly a subjective ranking, it did show that Twitter was no longer just a geek plaything by 2009. 
+By November 2009, a site called &#58;//URLFAN — which ranked websites by popularity based on blog mentions — [claimed](https://web.archive.org/web/20091126192306/http://www.readwriteweb.com/archives/the_most_influential_websites_in_the_world.php) that Twitter was the fourth most influential website in the world. This put it behind only Wikipedia, YouTube and Flickr (and *above* Google). While this was clearly a subjective ranking, it did show that Twitter was no longer just a geek plaything by 2009. 
 
 ![RWW Twitter, 1 July 2009](/assets/images/rww_1july2009.jpg)
 *Thanks to Twitter's new "Suggested User List" (SUL), my blog's Twitter account went from 13,300 followers in [mid-May 2009](https://web.archive.org/web/20090514175811/https://twitter.com/rww) to 256,000 by the [end of June](https://web.archive.org/web/20090701011822/https://twitter.com/rww). By year's end, we'd matched Ashton Kutcher with over [one million followers](https://web.archive.org/web/20100104162858/https://twitter.com/rww).*
 
 Meanwhile, in August, [Facebook purchased](https://web.archive.org/web/20090821001313/http://www.readwriteweb.com/archives/facebook_just_bought_friendfeed.php) the trendy geek app FriendFeed. This was to have profound implications on the future of the social web. 
 
-FriendFeed had a small but avid user base, but it had two innovations that Mark Zuckerberg coveted for his own product. One was the Like button. While it wasn't unique to FriendFeed (indeed, Facebook had already copied the feature [in February](https://web.archive.org/web/20090213220151/http://readwriteweb.com/archives/last_night_facebook_added_a.php)), it had much more of [a social twist](https://web.archive.org/web/20090821014751/http://www.readwriteweb.com/archives/facebook_users_-_heres_what_friendfeed_brings_to_t.php) than similar buttons on Facebook, Flickr and Digg. The second innovation FriendFeed had was real-time updating, which Facebook would soon incorporate into its News Feed—allowing users to see updates from their friends in real time, as they were posted.
+FriendFeed had a small but avid user base, but it had two innovations that Mark Zuckerberg coveted for his own product. One was the Like button. While it wasn't unique to FriendFeed (indeed, Facebook had already copied the feature [in February](https://web.archive.org/web/20090213220151/http://readwriteweb.com/archives/last_night_facebook_added_a.php)), it had much more of [a social twist](https://web.archive.org/web/20090821014751/http://www.readwriteweb.com/archives/facebook_users_-_heres_what_friendfeed_brings_to_t.php) than similar buttons on Facebook, Flickr and Digg. The second innovation FriendFeed had was real-time updating, which Facebook would soon incorporate into its News Feed — allowing users to see updates from their friends in real time, as they were posted.
 
-These innovations helped expand connections between FriendFeed users, which helped to increase “engagement”—quickly becoming the key metric of the social web.
+These innovations helped expand connections between FriendFeed users, which helped to increase “engagement” — quickly becoming the key metric of the social web.
 
 ![Facebook homepage redesign, March 2009](/assets/images/fb_redesign_mar09.jpg)
 *In [March 2009](https://web.archive.org/web/20090312061558/https://www.facebook.com/sitetour/homepage_tour.php), Facebook re-designed its home page, part of its "move fast and break things" [motto](https://www.snopes.com/fact-check/move-fast-break-things-facebook-motto/) at the time.*
@@ -62,7 +62,7 @@ As RWW's Frederic Lardinois wrote [in December](https://web.archive.org/web/2009
 
 ## Content Farms and Web 2.0 Capitalism
 
-Although 2009 was largely defined by the rise of social media and smartphone apps, there was also a worrying new trend on the web: content farms. As I wrote in [a December 2009 post](https://web.archive.org/web/20091217173420/http://www.readwriteweb.com/archives/content_farms_impact.php) on RWW, companies like Demand Media and Answers&#46;com were creating "thousands of pieces of content per day and are making a big impact on the Web." Both of those two companies were firmly inside the top 20 Web properties in the US by the end of that year—ahead of big media properties like the New York Times and Viacom Digital.
+Although 2009 was largely defined by the rise of social media and smartphone apps, there was also a worrying new trend on the web: content farms. As I wrote in [a December 2009 post](https://web.archive.org/web/20091217173420/http://www.readwriteweb.com/archives/content_farms_impact.php) on RWW, companies like Demand Media and Answers&#46;com were creating "thousands of pieces of content per day and are making a big impact on the Web." Both of those two companies were firmly inside the top 20 Web properties in the US by the end of that year — ahead of big media properties like the New York Times and Viacom Digital.
 
 ![Demand Studios, 2009](/assets/images/demand_media_editorial.jpg)
 *Screenshot of Demand Studios, 2009.*
@@ -72,7 +72,7 @@ Based on interviews with the company I conducted at the Web 2.0 Summit in Septem
 ![YouTube and Demand Media collab, Nov 2009](/assets/images/youtube_demandmedia_2009.jpg)
 *By the end of 2009, the commercialization of Web 2.0 was in full force. This Target promo on YouTube featured content by Demand Media.*
 
-Content farming would become much more sophisticated over the years, but 2009 was the first time it had been carried out at such scale. It was an early warning that the social web wasn't all about cool apps like Facebook and Twitter—it could also be exploited for profit by VC-funded corporations.
+Content farming would become much more sophisticated over the years, but 2009 was the first time it had been carried out at such scale. It was an early warning that the social web wasn't all about cool apps like Facebook and Twitter — it could also be exploited for profit by VC-funded corporations.
 
 *Lead image: Oprah tweet screenshot [by Cambodia4kids.org Beth](https://www.flickr.com/photos/cambodia4kidsorg/3452723780/).*
 

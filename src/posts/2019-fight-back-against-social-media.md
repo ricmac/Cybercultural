@@ -53,7 +53,7 @@ But here’s where Tumblr might provide the key. Despite its recent traffic decl
 
 Some people think it won’t be enough. In [a Wall St Journal article](https://www.wsj.com/articles/tumblr-and-the-end-of-the-eyeballs-are-everything-era-11566014411) last month, Christopher Mims compared blogging and Tumblr to vinyl records:
 
-> “WordPress.com is committed to supporting an activity—blogging—that can seem quaint in an era where if something isn’t shared on social media, it didn’t happen. It’s entirely possible, as we saw with vinyl, wooden toys and email, that blogging—and, by extension, Tumblr—could make a comeback, or at least hang on as a valuable place for more thoughtful creation and engagement.”
+> “WordPress.com is committed to supporting an activity — blogging — that can seem quaint in an era where if something isn’t shared on social media, it didn’t happen. It’s entirely possible, as we saw with vinyl, wooden toys and email, that blogging — and, by extension, Tumblr — could make a comeback, or at least hang on as a valuable place for more thoughtful creation and engagement.”
 
 While I agree that blogs will never again be as popular as social media, I think the vinyl comparison is unfair. 
 

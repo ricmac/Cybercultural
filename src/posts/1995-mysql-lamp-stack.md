@@ -43,7 +43,7 @@ One of the users of mSQL was Michael (Monty) Widenius, the lead developer of wha
 
 But mSQL had a major flaw too: it didn’t support indices, which of course UNIREG did. The O’Reilly book takes up the story from here:
 
-> “Widenius contacted David Hughes—the author of mSQL—to see if Hughes would be interested in connecting mSQL to UNIREG’s B+ ISAM handler. Hughes was already well on his way to mSQL 2, however, and already had his indexing infrastructure in place. TcX decided to create a database server that was more compatible with its requirements.”
+> “Widenius contacted David Hughes — the author of mSQL — to see if Hughes would be interested in connecting mSQL to UNIREG’s B+ ISAM handler. Hughes was already well on his way to mSQL 2, however, and already had his indexing infrastructure in place. TcX decided to create a database server that was more compatible with its requirements.”
 
 And thus MySQL was born.
 

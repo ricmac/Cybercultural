@@ -64,7 +64,7 @@ Over time, the “HTML-centric” view of the DOM as a tree became the most comm
 
 Sometimes it takes years to arrive at this kind of accepted wisdom. One can only imagine the arguments over technical minutiae that Wood had to manage in all those face-to-face working group meetings. In [a 2007 O’Reilly Media article](https://web.archive.org/web/20070911033621/http://www.oreillynet.com/pub/a/womenintech/2007/09/07/working-for-standards.html), which ran as part of a ‘Women in Technology’ series, Wood remarked that “working on standards committees poses special challenges.” She elaborated:
 
-> “It takes persistence, patience, and a special sense of humor—the type of qualities you also find in caregivers for three-year-olds. (And believe me, sometimes committee members throw tantrums, just like kids. Although the tantrums are quieter, and there’s no rolling around on the floor screaming, they’re tantrums nonetheless.)”
+> “It takes persistence, patience, and a special sense of humor — the type of qualities you also find in caregivers for three-year-olds. (And believe me, sometimes committee members throw tantrums, just like kids. Although the tantrums are quieter, and there’s no rolling around on the floor screaming, they’re tantrums nonetheless.)”
 
 Other than back and forth over technical issues like “[the behaviour of NodeIterators](https://lists.w3.org/Archives/Public/www-dom/1998AprJun/0000.html),” progress was smooth on the DOM spec over 1997 and through the first half of 1998. On 20 July 1998, Wood [sent a message](https://lists.w3.org/Archives/Public/www-dom/1998JulSep/0034.html) to the www-dom@w3.org mailing list:
 

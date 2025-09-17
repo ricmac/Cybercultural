@@ -24,7 +24,7 @@ It's been personally satisfying to publish this project on the web, although I h
 I’ve been very pleased with the serialization as a legacy project. One of the reasons for writing this book was to lay down a record of what I created, its context (the Web 2.0 era), what ReadWriteWeb stood for back then, and what it was like building for the web in the first decade of the 21st century. One of the quotes I will use to open the paperback book is this, from Herman Melville's poem 'Clarel':
 
 > Come, thou who makest such hot haste\
-To forge the future—weigh the past.
+To forge the future — weigh the past.
 
 Weighing the past isn’t something the tech industry has traditionally done well. I hope I’m doing my bit to change that, with both this book and my Cybercultural website in general (its focus is internet history).
 

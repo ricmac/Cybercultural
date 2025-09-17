@@ -22,7 +22,7 @@ In an exchange on the W3C www-html public mailing list in February 1996, someone
 
 *“Ok I’ve been listening in to many conversations lately about different types of web pages. I recently took a look at Rogers Telecommunications based in Toronto Canada. ould someone PLEASE tell me how in the heck they were able to send information to me through the ADDRESS line in the Netscape browser? they also had multiple images over each other…*
 
-*Could someone please tell me how they did that—? And how the heck can I DO THAT??”*
+*Could someone please tell me how they did that — ? And how the heck can I DO THAT??”*
 
 ![www.rogers.com, Nov 1996](/assets/images/wdh/rogers_dotcom_nov96-1024x983.jpg)
 *www.rogers.com, Nov 1996.*

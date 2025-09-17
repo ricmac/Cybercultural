@@ -35,7 +35,7 @@ Interestingly, of the three cyber-films, *Johnny Mnemonic* was the only one to b
 
 ## William Gibson’s Yardshow
 
-The screenwriter of *Johnny Mnemonic* was none other than William Gibson, the father of cyberpunk (the movie was based on a 1981 short story of his). But ironically, Gibson wasn’t an early internet user — far from it. In a [June 1995 profile](https://web.archive.org/web/20201231113705/https://archive.macleans.ca/article/1995/6/5/mind-games-with-willam-gibson), the author told Maclean’s magazine that he had not surfed the Net and was in no hurry to. The article noted that Gibson “uses a relatively ancient Macintosh SC/30 computer—without a modem.”
+The screenwriter of *Johnny Mnemonic* was none other than William Gibson, the father of cyberpunk (the movie was based on a 1981 short story of his). But ironically, Gibson wasn’t an early internet user — far from it. In a [June 1995 profile](https://web.archive.org/web/20201231113705/https://archive.macleans.ca/article/1995/6/5/mind-games-with-willam-gibson), the author told Maclean’s magazine that he had not surfed the Net and was in no hurry to. The article noted that Gibson “uses a relatively ancient Macintosh SC/30 computer — without a modem.”
 
 ![William Gibson magazine story, 1995](/assets/images/william-gibson-magazine-1995.jpg)
 *William Gibson profiled in Maclean’s magazine, June 1995; images [via Tumblr](https://posthumanwanderings.tumblr.com/post/678982320354639872/william-gibson-macleans-june-5-1995).*

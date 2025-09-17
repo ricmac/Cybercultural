@@ -18,7 +18,7 @@ Lerdorf described PHP Tools as “a set of small tight cgi binaries written in C
 
 Although Lerdorf had no plans at this time to turn PHP Tools into a scripting language, he did have ambitions to extend it. In a 2002 book he co-authored for O’Reilly Media, [he wrote](https://www.oreilly.com/library/view/programming-php/1565926102/ch01s02.html):
 
-> “The announcement talks only about the tools that came with PHP, but behind the scenes the goal was to create a framework to make it easy to extend PHP and add more tools. The business logic for these add-ons was written in C—a simple parser picked tags out of the HTML and called the various C functions. It was never my plan to create a scripting language.”
+> “The announcement talks only about the tools that came with PHP, but behind the scenes the goal was to create a framework to make it easy to extend PHP and add more tools. The business logic for these add-ons was written in C — a simple parser picked tags out of the HTML and called the various C functions. It was never my plan to create a scripting language.”
 
 Lerdorf [later joked](https://www.infoworld.com/article/2933858/php-at-20-from-pet-project-to-powerhouse.html) that “in 1995, I thought I had unleashed a C API upon the Web. Obviously, that’s not what happened, or we’d all be C programmers.”
 
@@ -38,7 +38,7 @@ So the PHP acronym originally stood for ‘Personal Home Page’, because its fi
 
 Lerdorf tells more about the origin story of PHP Tools in an [IEEE Computer Society article](https://www.researchgate.net/publication/260584004_Inventing_PHP_Rasmus_lerdorf) from 2012:
 
-> “I wrote the same code over and over—basically, CGI \[Common Gateway Interface\] scripts written in C. I wrote code to handle forms, POST data, filtering, and other common Web things that you have to write in C when you’re writing CGI programs. It was kind of tedious and boring, so if I could reduce the amount of time I had to spend programming, maximize the output, and get to the solution quicker, then that was my goal with PHP. I put all my common stuff into a C library, hacked it into the NCSA \[National Center for Computing Applications\] webserver, and then added a templating system on top of it to let me easily call into it.”
+> “I wrote the same code over and over — basically, CGI \[Common Gateway Interface\] scripts written in C. I wrote code to handle forms, POST data, filtering, and other common Web things that you have to write in C when you’re writing CGI programs. It was kind of tedious and boring, so if I could reduce the amount of time I had to spend programming, maximize the output, and get to the solution quicker, then that was my goal with PHP. I put all my common stuff into a C library, hacked it into the NCSA \[National Center for Computing Applications\] webserver, and then added a templating system on top of it to let me easily call into it.”
 
 Again, it’s striking from a 2021 perspective how similar this sounds (at least in purpose) to many of the JavaScript libraries and frameworks we’re familiar with today. But remember, JavaScript itself was brand new in mid-1995 and was not released publicly until later that year. At the time, it was CGI scripts that were the go-to tool for web developers or designers to add interactive elements to their web pages. PHP Tools was one of the first library and templating tools — what we now commonly call a framework — built on top of the CGI system that Rob McCool and others had specced out at the end of 1993.
 

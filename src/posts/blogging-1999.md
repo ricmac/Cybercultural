@@ -5,7 +5,6 @@ date: 2025-08-29
 permalink: "p/blogs-rss-1999/"
 tags: ['dotcom', '1999', 'season4']
 featureImage: "/assets/images/blogger-october1999-feature.png"
-youtube: "true"
 ---
 
 ![Blogger website 1999](/assets/images/blogger-october1999.png){loading="eager"}
@@ -141,7 +140,9 @@ Netscape seemed to lose interest in RSS after this (the company had been [acquir
 
 Needless to say, the RSS format wars were far from over — this was just the beginning, in fact. But the unsettled nature of the formats in the second half of 1999 probably explains why Blogger didn't provide RSS feeds to its users.
 
-By the end of 1999, then, blogging was off to the races and fast becoming a mainstream web activity. RSS was slow out of the gates in comparison, but at least it had made a start. I'll cover more history of blogging and RSS in upcoming posts here on Cybercultural (and you can [subscribe to our RSS feed](/feed.xml) to be notified!).
+By the end of 1999, then, blogging was off to the races and fast becoming a mainstream web activity. RSS was slow out of the gates in comparison, but at least it had made a start.
+
+*Next in this series: [2000: Bloggers Make Friends, but RSS Format Wars Kick Off](/p/blogs-rss-2000/)*
 
 
 

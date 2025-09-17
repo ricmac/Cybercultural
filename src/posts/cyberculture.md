@@ -29,7 +29,7 @@ In 1963, [Hilton published a book](https://archive.org/details/logiccomputingma0
 > “The word "automation," in its broadest sense, encompasses far more than the commonly used, narrow definition implying more or less "automatic", i.e., machine-directed, production methods. Reluctant as I am to add to the deluge of new terms, I do not find an existing word for this vast new phenomenon with all its ramifications, i.e., the socio-economic and cultural aspects of the scientific-technological revolution in progress, and I shall call it the *cybercultural revolution*. In the word "cyberculture”, cybernetics, the science of control, and culture, the way of life of a society, are combined.”
 
 ![Hilton advert](/assets/images/AMF-advert-june1963-1000.jpg)
-*"What can computers do to—as well as for—mankind?" Advert for Hilton's book in the June 1963 edition of [Physics Today](https://pubs.aip.org/physicstoday/article-abstract/16/6/76/423506/Quantum-Theory-of-Scattering?redirectedFrom=PDF).*
+*"What can computers do to — as well as for — mankind?" Advert for Hilton's book in the June 1963 edition of [Physics Today](https://pubs.aip.org/physicstoday/article-abstract/16/6/76/423506/Quantum-Theory-of-Scattering?redirectedFrom=PDF).*
 
 The following year, Hilton founded *The Institute for Cybercultural Research*, a forum to discuss computers and the future of work. [^1]
 

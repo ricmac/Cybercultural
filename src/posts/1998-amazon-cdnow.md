@@ -27,7 +27,7 @@ At this time, early 1998, Amazon was still only selling books. However, in its [
 
 Sure enough, around April 1998 Amazon began testing a new online music section. Suddenly Jeff Bezos became a real threat to CDnow and N2K. Not that you would know it from [a book published later that year](https://archive.org/details/cdnowstoryragsto0000olim/page/184/mode/2up?q=n2k&view=theater) by CDnow’s founders, twin brothers Jason and Matthew Olim. In the book, entitled "The CDnow Story: Rags to Riches on the Internet," it was N2K and *not* Amazon that the brothers focused on:
 
-> “Our major competitors are Music Boulevard (which is owned by N2K), Tower Records and Blockbuster—and very recently Amazon.com joined the fray.”
+> “Our major competitors are Music Boulevard (which is owned by N2K), Tower Records and Blockbuster — and very recently Amazon.com joined the fray.”
 
 ![CDnow book, 1998](/assets/images/cdnow-book-pages-1998.jpg)
 *CDnow comparing its website favorably to Tower Records; "The CDnow Story".*

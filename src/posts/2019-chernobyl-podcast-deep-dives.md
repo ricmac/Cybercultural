@@ -51,7 +51,7 @@ It’s not just podcasts that do deep dives on tv shows and movies. The A.V. Clu
 
 What’s fun about unofficial deep divers is that their world view can be quite different from the show’s creators. In her review of the [third season finale](https://www.avclub.com/in-its-third-season-finale-mr-robot-rejects-the-revol-1821236741) in December 2017, Alex McLevy writes this overly serious yet also insightful character analysis:
 
-> “That internal struggle is just the most overt manifestation of a battle every character is going through, as are we all. Everyone lives with the contradictions within ourselves, and when we do something wrong—when we give birth to that regret I mentioned above—it’s up to us not only to make it right, but to make peace with ourselves for the wrong we’ve done, and grow from the experience. No one encounters this problem more starkly than Angela.”
+> “That internal struggle is just the most overt manifestation of a battle every character is going through, as are we all. Everyone lives with the contradictions within ourselves, and when we do something wrong — when we give birth to that regret I mentioned above — it’s up to us not only to make it right, but to make peace with ourselves for the wrong we’ve done, and grow from the experience. No one encounters this problem more starkly than Angela.”
 
 Whether or not you agree with that rather earnest take on one of Mr Robot’s lead characters, it at least takes you out of your sofa slumber and makes you think more about the tv show you just watched. Also, McLevy’s writeup received over 100 comments. So plenty of people jumped in to add their thoughts, adding a community feel to this particular deep dive. 
 

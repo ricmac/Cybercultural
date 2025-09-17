@@ -71,7 +71,7 @@ The Release of IE4
 
 When Internet Explorer 4 was released in October 1997, it was the first browser to demonstrate a full-page object model — as described above, basically a prototype of the W3C DOM spec that would be released a year later. In these respects, IE4 was a revolutionary product for web developers. As [described in 2011](https://code.tutsplus.com/articles/the-things-internet-explorer-got-right--net-18861) by Jeremy McPeak:
 
-> “IE4’s designers wanted to turn the browser into a platform for Web applications. So they approached IE4’s API like an operating system’s—providing a near complete object model that represented each element (and an element’s attributes) as an object that could be accessed with a scripting language (IE4 supported both JavaScript and VBScript).”
+> “IE4’s designers wanted to turn the browser into a platform for Web applications. So they approached IE4’s API like an operating system’s — providing a near complete object model that represented each element (and an element’s attributes) as an object that could be accessed with a scripting language (IE4 supported both JavaScript and VBScript).”
 
 Netscape Navigator 4 had a limited DOM by comparison. It was perhaps most noticeable in how each browser moved elements around a web page. Netscape used a proprietary technology called “layers,” which animated content on a web page using JavaScript (as discussed in [our previous post](/p/1997-javascript-apps-dynamic-web/)). Compare this to how IE4 did it, as explained here [by Scott Isaacs](https://www.gemeindenblick.ch/online_tech.htm):
 

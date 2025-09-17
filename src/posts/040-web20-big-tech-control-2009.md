@@ -12,14 +12,14 @@ featureImage: "/assets/images/friendfeed-ricmac_aug09-1280x720.jpg"
 
 In July 2009, RWW had 2,650,000 page views, of which nearly 1.3 million were unique visitors. Nearly half (49 percent) of visits were from Firefox users, with 25 percent using IE. Safari (12.5 percent) and Chrome (8.5 percent) were the next most popular.
 
-That Firefox dominated our statistics in 2009 indicated that our readers were tech-savvy and likely to be open-source supporters. In the much wider home and office market, Microsoft still had nearly 70 percent web-browser market share with IE; Firefox was second, at [just over 20 percent](https://en.wikipedia.org/wiki/Usage_share_of_web_browsers). But Firefox users were *our people*, and our people were the early adopters who pointed to where the market was heading. It was obvious IE was toast, if you looked at our stats and read our browser posts—which highlighted the [innovations in Chrome](https://web.archive.org/web/20090417222536/http://www.readwriteweb.com/archives/chrome_experiments_google_launches_new_site_to_sho.php) and [Firefox](https://web.archive.org/web/20090417222536/http://www.readwriteweb.com/archives/the_future_of_firefox_no_tabs_built_in_ubiquity.php), and the [lack thereof in IE](https://web.archive.org/web/20090419125226/http://www.readwriteweb.com/archives/internet_explorer_8_has_arrived_1.php).
+That Firefox dominated our statistics in 2009 indicated that our readers were tech-savvy and likely to be open-source supporters. In the much wider home and office market, Microsoft still had nearly 70 percent web-browser market share with IE; Firefox was second, at [just over 20 percent](https://en.wikipedia.org/wiki/Usage_share_of_web_browsers). But Firefox users were *our people*, and our people were the early adopters who pointed to where the market was heading. It was obvious IE was toast, if you looked at our stats and read our browser posts — which highlighted the [innovations in Chrome](https://web.archive.org/web/20090417222536/http://www.readwriteweb.com/archives/chrome_experiments_google_launches_new_site_to_sho.php) and [Firefox](https://web.archive.org/web/20090417222536/http://www.readwriteweb.com/archives/the_future_of_firefox_no_tabs_built_in_ubiquity.php), and the [lack thereof in IE](https://web.archive.org/web/20090419125226/http://www.readwriteweb.com/archives/internet_explorer_8_has_arrived_1.php).
 
 ![RWW in IE8, March 2009](/assets/images/ie8_rww-mar09.png)
 *Screenshot of RWW in IE8 from March 2009, by Frederic Lardinois.*
 
 The real question was would Firefox be the next mainstream browser of choice, or would it be Google’s Chrome (released last September)? The answer to that question was becoming more obvious in 2009.
 
-Back in March, [when I had visited the Googleplex](/p/037-googleplex-2009-rww-channels/), I’d also walked over to the adjacent Mozilla headquarters—a rather drab mud-brown building that stood in stark contrast to Google’s shiny, colorful new complex. At this time, around 85 percent of Mozilla’s revenue came from Google, in exchange for Google being the default home page and search engine of Firefox. Frankly, Mozilla was under Google’s thumb, and now it had to compete against Google’s impressive new Chrome browser too. 
+Back in March, [when I had visited the Googleplex](/p/037-googleplex-2009-rww-channels/), I’d also walked over to the adjacent Mozilla headquarters — a rather drab mud-brown building that stood in stark contrast to Google’s shiny, colorful new complex. At this time, around 85 percent of Mozilla’s revenue came from Google, in exchange for Google being the default home page and search engine of Firefox. Frankly, Mozilla was under Google’s thumb, and now it had to compete against Google’s impressive new Chrome browser too. 
 
 ![Mozilla offices, circa March 2009](/assets/images/Mozillaheadquarters-1000x750.jpg)
 *Former Mozilla office next to the Googleplex; they moved to the other side of Mountain View [in July 2009](https://eu.gainesville.com/story/news/2009/07/26/for-mozilla-and-google-group-hugs-get-tricky/31715569007/), just a few months after my visit. Photo by Coolcaesar [via Wikimedia](https://commons.wikimedia.org/wiki/File:Mozillaheadquarters.jpg).*
@@ -35,7 +35,7 @@ Regardless, for those in the know (that is, RWW readers), it was clear that Chro
 
 ## Emergence of the Big Five
 
-By mid-2009 it was noticeable, at least to RWW readers, that the internet winds were shifting. The big internet companies were encroaching more and more into Web 2.0—and Google in particular was positioning itself well; it was poised to take major steps in the desktop-browser market and also building an open-source smartphone OS. 
+By mid-2009 it was noticeable, at least to RWW readers, that the internet winds were shifting. The big internet companies were encroaching more and more into Web 2.0 — and Google in particular was positioning itself well; it was poised to take major steps in the desktop-browser market and also building an open-source smartphone OS. 
 
 Apple iOS was only third in the smartphone OS market at this point, behind Nokia’s Symbian and the Blackberry. But everyone knew Apple had the most advanced smartphone and mobile-app marketplace on the planet.
 
@@ -44,9 +44,9 @@ Apple iOS was only third in the smartphone OS market at this point, behind Nokia
 
 It wasn’t just at the browser or device level that internet bigcos were making their presence felt. Amazon was the early leader in the nascent cloud computing market, while Facebook was now the leading social network (it had [surpassed MySpace](https://en.wikipedia.org/wiki/Myspace#:~:text=In%20May%202009%2C%20Facebook%20surpassed,had%20dropped%20to%20seven%20million) in number of unique US visitors in May 2009). 
 
-Microsoft remained a late adopter in Web 2.0—for example, it launched a search engine called Bing in May. While taking on Google in search was almost impossible by this point, Microsoft’s war chest of Windows revenue ensured that it would continue to be a major web player. 
+Microsoft remained a late adopter in Web 2.0 — for example, it launched a search engine called Bing in May. While taking on Google in search was almost impossible by this point, Microsoft’s war chest of Windows revenue ensured that it would continue to be a major web player. 
 
-Together, these five companies—Google, Apple, Facebook, Amazon, Microsoft—would come to dominate the internet within a decade. And it all started to coalesce for them in 2009.
+Together, these five companies — Google, Apple, Facebook, Amazon, Microsoft — would come to dominate the internet within a decade. And it all started to coalesce for them in 2009.
 
 ## Facebook Buys FriendFeed
 
@@ -57,12 +57,12 @@ I’d argue it was Facebook’s purchase of the trendy geek app FriendFeed [in A
 
 It was Facebook’s first major acquisition. In 2007 Zuckerberg’s company had acquired a “WebOS” system called Parakey, which had been developed by two Firefox engineers, and it had bought out ConnectU in 2008, but neither was a strategic product acquisition. FriendFeed had a small but avid user base along with a couple of significant product innovations that Zuckerberg coveted for his own product.
 
-One was the Like button. While FriendFeed didn’t invent it (Flickr had a Favorite button and Digg had a Digg It button, for instance), it had much more of [a social twist](https://web.archive.org/web/20090821014751/http://www.readwriteweb.com/archives/facebook_users_-_heres_what_friendfeed_brings_to_t.php) than the others. FriendFeed’s implementation more widely shared Likes, which helped to expand connections between users, which helped to increase “engagement”—quickly becoming the key metric of the social web. Facebook had already copied the Like button earlier [in 2009](https://web.archive.org/web/20090213220151/http://readwriteweb.com/archives/last_night_facebook_added_a.php), but it didn’t immediately have the subtleties of FriendFeed. 
+One was the Like button. While FriendFeed didn’t invent it (Flickr had a Favorite button and Digg had a Digg It button, for instance), it had much more of [a social twist](https://web.archive.org/web/20090821014751/http://www.readwriteweb.com/archives/facebook_users_-_heres_what_friendfeed_brings_to_t.php) than the others. FriendFeed’s implementation more widely shared Likes, which helped to expand connections between users, which helped to increase “engagement” — quickly becoming the key metric of the social web. Facebook had already copied the Like button earlier [in 2009](https://web.archive.org/web/20090213220151/http://readwriteweb.com/archives/last_night_facebook_added_a.php), but it didn’t immediately have the subtleties of FriendFeed. 
 
 ![FriendFeed post on RWW, Feb 2009](/assets/images/rww-friendfeed-feb09.png)
 *Sarah's February post about Facebook 'borrowing' FriendFeed's Like button. Early adopters were right to be concerned!*
 
-The second innovation FriendFeed had was real-time updating, which Facebook would soon incorporate into its News Feed—allowing users to see updates from their friends in real time, as they were posted.
+The second innovation FriendFeed had was real-time updating, which Facebook would soon incorporate into its News Feed — allowing users to see updates from their friends in real time, as they were posted.
 
 While the acquisition would undoubtedly improve Facebook, many early adopters of FriendFeed were dismayed at the news. Bloggers especially loved FriendFeed, as it was a place on the web where they could aggregate all their blog feeds and social software activity. It also allowed them to monitor which trendy services others were using and talking about. 
 
@@ -78,7 +78,7 @@ The sentiment among FriendFeed users about the acquisition was overwhelmingly ne
 ![FriendFeed cofounder Bret Taylor, Aug 2009](/assets/images/friendfeed-bret-taylor-aug09.png)
 *The comments on FriendFeed cofounder Bret Taylor's post said it all.*
 
-I don’t think that commenter meant it was the end of Web 2.0 entirely, but—to me, at least—it signaled the end of a certain innocence. It was unavoidable now that some companies were getting more and more powerful, at the expense of both open-source projects (like Firefox) and niche products (like FriendFeed).
+I don’t think that commenter meant it was the end of Web 2.0 entirely, but — to me, at least — it signaled the end of a certain innocence. It was unavoidable now that some companies were getting more and more powerful, at the expense of both open-source projects (like Firefox) and niche products (like FriendFeed).
 
 * * *
 

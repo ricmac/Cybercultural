@@ -26,7 +26,7 @@ By the end of 2008, I noted in [a roundup post on ReadWriteWeb](https://web.arch
 ![iphone 3G, 2008](/assets/images/2658033947_dee891a84b_h.jpg)
 *The white-shelled iPhone 3G; photo [by Yutaka Tsutano](https://www.flickr.com/photos/ivyfield/2658033947).*
 
-Google's open mobile OS platform, Android, quickly became a rival to Apple's closed iPhone platform over 2008. Google spent a lot of time encouraging developers to create applications for Android during the year. This led to many third-party apps and multiple App Stores. The first Android phone - the "T-Mobile G1 With Google" — was launched in September, followed by a Blackberry-like phone in December. Throughout all this, Android apps showed steady growth over 2008.
+Google's open mobile OS platform, Android, quickly became a rival to Apple's closed iPhone platform over 2008. Google spent a lot of time encouraging developers to create applications for Android during the year. This led to many third-party apps and multiple App Stores. The first Android phone — the "T-Mobile G1 With Google" — was launched in September, followed by a Blackberry-like phone in December. Throughout all this, Android apps showed steady growth over 2008.
 
 ![Android Market](/assets/images/android_market_combo_aug08.png)
 *A promotional image for Android Market, August 2008; [via CNet](https://www.cnet.com/tech/mobile/google-announces-android-market-for-phone-apps/).*

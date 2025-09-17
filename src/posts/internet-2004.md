@@ -48,7 +48,7 @@ Speaking of browsers, the first version of Mozilla’s Firefox launched in Novem
 
 Fortunately, there was important momentum happening towards web standards, thanks in large part to [The Web Standards Project](https://web.archive.org/web/20040618182045/http://webstandards.org/) (Wasp), led at the time by Molly Holzschlag. Even Microsoft was starting to get the message, as t[his post in August 2004](https://meyerweb.com/eric/thoughts/2004/08/27/microsoft-migration/) by Eric Meyer noted:
 
-“Microsoft’s home page has been redesigned and uses standards-oriented design principles, eschewing tables and spacer GIFs for CSS-driven layout.  The weight of their home page’s HTML document dropped by almost three-quarters—it’s 27.5% the size of the IE-specific version of the previous design, and 30.5% the size of the non-IE version.”
+“Microsoft’s home page has been redesigned and uses standards-oriented design principles, eschewing tables and spacer GIFs for CSS-driven layout.  The weight of their home page’s HTML document dropped by almost three-quarters — it’s 27.5% the size of the IE-specific version of the previous design, and 30.5% the size of the non-IE version.”
 
 ![Microsoft website, Aug 2004](/assets/images/microsoft_aug04.jpg)
 *[Microsoft website](https://web.archive.org/web/20040827075804/http://www.microsoft.com:80/), 27 August 2004.*

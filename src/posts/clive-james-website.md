@@ -27,7 +27,7 @@ I have no doubt that’s true about James’ essays and thoughts about literatur
 
 The internet theorist Doc Searls wrote in [a recent essay](https://blogs.harvard.edu/doc/2020/02/10/commons/):
 
-> “Today the World Wide Web, which began as a kind of growing archive—a public set of published goods we could browse as if it were a library—is being lost. Forgotten. That’s because search engines are increasingly biased to index and find pages from the present and recent past, and by following the tracks of monitored browsers. It’s forgetting what’s old. Archival goods are starting to disappear, like snow on the water. Why? Ask the algorithm.”
+> “Today the World Wide Web, which began as a kind of growing archive — a public set of published goods we could browse as if it were a library — is being lost. Forgotten. That’s because search engines are increasingly biased to index and find pages from the present and recent past, and by following the tracks of monitored browsers. It’s forgetting what’s old. Archival goods are starting to disappear, like snow on the water. Why? Ask the algorithm.”
 
 We can certainly blame the algorithms of Big Tech for burying the past, but we must also apportion some of the blame on the software used to build websites – often developed by those same corporations. Previously trendy but now defunct Web technologies like Flash and Shockwave have made many websites from the 1990s and early 2000s inaccessible now – even on the Internet Archive, which is otherwise a global treasure of online culture from our recent history. 
 
