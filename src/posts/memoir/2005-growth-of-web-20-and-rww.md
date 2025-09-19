@@ -3,7 +3,7 @@ title: 'ReadWriteWeb Growth in 2005, Before First US Trip'
 description: "I first visit Silicon Valley and the US in late September 2005. For the nine months prior, my tech blog Read/WriteWeb rapidly grew and was starting to evolve into a professional blog business."
 date: 2023-11-17
 permalink: "p/2005-growth-of-web-20-and-rww/"
-tags: ['web20', '2005']
+tags: ['web20', '2005', 'memoir']
 featureImage: "/assets/images/b811ca8a-7408-4f06-81a8-53f101bf82a0_1000x563.jpg"
 ---
 

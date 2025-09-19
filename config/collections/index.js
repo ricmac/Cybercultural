@@ -1,6 +1,6 @@
 /** All blog posts as a collection. */
 export function getAllPosts(collectionApi) {
-  return collectionApi.getFilteredByGlob('./src/posts/*.md');
+  return collectionApi.getFilteredByGlob('./src/posts/**/*.md');
 }
 
 /** All markdown files as a collection for sitemap.xml */
