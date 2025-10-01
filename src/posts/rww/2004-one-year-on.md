@@ -71,10 +71,10 @@ _January 2004:_ I came up with a concept called [The Fractal Blogosphere](https:
 
 _February 2004:_ I got all excited by the possibilites of [Information Flow](https://web.archive.org/web/20040701133310/http://www.readwriteweb.com/2004/02/21.html#a205) as a kind of bottom-up Knowledge Management.
 
-_March 2004:_ My most successful post yet, an [interview with Marc Canter](https://web.archive.org/web/20040701133310/http://www.readwriteweb.com/2004/03/29.html#a218). It got [Slashdotted](https://web.archive.org/web/20040701133310/http://slashdot.org/articles/04/03/30/2333258.shtml?tid=126&tid=185&tid=95), which caused a big spike in hits. But most importantly, it showed I have what it takes to be an 'amateur journalist'. Now I've just got to work out how to get paid for doing it ;-)
+_March 2004:_ My most successful post yet, an [interview with Marc Canter](https://web.archive.org/web/20040701133310/http://www.readwriteweb.com/2004/03/29.html#a218). It got [Slashdotted](https://web.archive.org/web/20040701133310/http://slashdot.org/articles/04/03/30/2333258.shtml?tid=126&tid=185&tid=95), which caused a big spike in hits. But most importantly, it showed I have what it takes to be an 'amateur journalist'. Now I've just got to work out how to get paid for doing it ;-&#41;
 
 ## The Future
 
 Content-wise, I can't predict what the future of Read/Write Web holds. That's what makes blogging so exciting! But there may be changes in infrastructure. I'm working on a re-design, with a new CSS layout and possibly a new weblog authoring tool (Movable Type). Stay tuned.
 
-*This post was originally published on my tech blog ReadWriteWeb, which ran from 2003-2012.*
+*Originally published on my tech blog ReadWriteWeb, which ran from 2003-2012. Replanted on Cybercultural in September 2025.*

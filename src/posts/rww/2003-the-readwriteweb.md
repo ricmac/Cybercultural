@@ -28,4 +28,4 @@ The Read/Write Web means that ordinary people can now easily publish their 2 cen
 
 The web is now much like the CD Writer found in most modern computer desktop packages. It can be browsed and read, plus written and recorded to. With weblogs and other XML technologies, we can easily publish information to the web and interact with other websites. The Read/Write Web is the next generation of web publishing, and we're in the middle of creating it!
 
-*This post was originally published on my tech blog ReadWriteWeb, which ran from 2003-2012.*
+*Originally published on my tech blog ReadWriteWeb, which ran from 2003-2012. Replanted on Cybercultural in September 2025.*

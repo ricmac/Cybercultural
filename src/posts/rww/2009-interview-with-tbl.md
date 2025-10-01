@@ -1,6 +1,6 @@
 ---
 title: "My Interview With Tim Berners-Lee, June 2009"
-description: "During a trip to Cambridge, MA, in June 2009, I visit the MIT headquarters of the World Wide Web Consortium (W3C). There I interview its director, and the web's inventor, Tim Berners-Lee."
+description: "During a trip to Cambridge, MA in June 2009, I visit the MIT headquarters of the World Wide Web Consortium (W3C). There I interview its director, and the web's inventor, Tim Berners-Lee."
 date: 2009-07-08
 permalink: "p/tim-berners-lee-interview-2009/"
 tags: ['web20', '2009', 'rww']
@@ -157,4 +157,4 @@ Richard's Conclusion
 
 The over-riding message in this interview with Tim Berners-Lee, is for companies and organizations to **make their data available online**. Preferably as Linked Data, which uses a subset of Semantic Web technologies. But Berners-Lee noted that he'd even be happy with the data in CSV format.
 
-*Editor's note: this interview was originally published as a two-part series on my former tech blog, ReadWriteWeb, over 8-9 July 2009 [[1](https://web.archive.org/web/20020401170332/http://www.readwriteweb.com/archives/interview_with_tim_berners-lee_part_1.php), [2](https://web.archive.org/web/20020401170332/http://www.readwriteweb.com/archives/readwriteweb_interview_with_tim_berners-lee_part_2.php)]. I have re-published the full interview here, as one post, because the original articles have either been deleted or mangled.*
+*Originally published as a two-part series over 8-9 July 2009 [[1](https://web.archive.org/web/20020401170332/http://www.readwriteweb.com/archives/interview_with_tim_berners-lee_part_1.php), [2](https://web.archive.org/web/20020401170332/http://www.readwriteweb.com/archives/readwriteweb_interview_with_tim_berners-lee_part_2.php)] on my tech blog ReadWriteWeb, which ran from 2003-2012. Replanted on Cybercultural in September 2025.*
