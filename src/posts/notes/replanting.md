@@ -24,7 +24,7 @@ You’ll notice that I use the original publish date, 20 April 2003. That's beca
 
 > “Originally published on my tech blog ReadWriteWeb, which ran from 2003-2012. Replanted on Cybercultural in September 2025.”
 
-Another feature in my replanting is to use a screenshot from the Wayback Machine as the lead image for the article. I think it's important to show what the post looked like in its original context.
+Another feature in my replanting is to use a screenshot from the Wayback Machine as the lead image for the article (or placed elsewhere if there's a better lead image). I think it's important to show what the post looked like in its original context.
 
 I want to emphasise here that I am replanting a&#41; articles that I originally wrote and published; and b&#41; only in cases where the original article has either disappeared from the web or is currently in a neglected state on the original site. This is about saving heritage web pages. It's also about reclaiming something that is important to me, but clearly is not important to the current operator of my old site.
 

@@ -158,3 +158,6 @@ Richard's Conclusion
 The over-riding message in this interview with Tim Berners-Lee, is for companies and organizations to **make their data available online**. Preferably as Linked Data, which uses a subset of Semantic Web technologies. But Berners-Lee noted that he'd even be happy with the data in CSV format.
 
 *Originally published as a two-part series over 8-9 July 2009 [[1](https://web.archive.org/web/20020401170332/http://www.readwriteweb.com/archives/interview_with_tim_berners-lee_part_1.php), [2](https://web.archive.org/web/20020401170332/http://www.readwriteweb.com/archives/readwriteweb_interview_with_tim_berners-lee_part_2.php)] on my tech blog ReadWriteWeb, which ran from 2003-2012. Replanted on Cybercultural in September 2025.*
+
+![Screenshot of TBL interview on ReadWriteWeb, July 2009](/assets/images/rww-tbl-interview-july2009-screenshot.png)
+*This post as it looked on original publication, [in July 2009](https://web.archive.org/web/20090709061506/http://www.readwriteweb.com//archives//interview_with_tim_berners-lee_part_1.php).*
