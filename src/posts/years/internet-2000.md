@@ -38,7 +38,7 @@ However, exuberance in web design was far from finished in 2000. Flash was incre
 Flash 5 was launched in August 2000, adding ActionScript — a scripting language modeled on JavaScript. This enabled web designers to do more than just animation. Soon interactive menus, games and ads began to appear across the web. It was the first time ordinary users expected motion and sound as part of a webpage’s design, a dramatic shift from the static sites of just a few years earlier.
 
 ![ActionScript 2000](/assets/images/Flash-ActionScript-2000.jpg)
-*Interactive menu using ActionScript; via [Flash ActionScript](https://archive.org/details/flashactionscrip0000sand/mode/1up) by William Sanders (2000).*
+*Interactive buttons using ActionScript; via [Flash ActionScript](https://archive.org/details/flashactionscrip0000sand/mode/1up) by William Sanders (2000).*
 
 Some websites didn't really need so much Flash (e.g. BowieNet), but others couldn't have operated otherwise. Homestar Runner was an example of the latter — it was a comedy animated web series created with Flash by Mike and Matt Chapman, and launched on New Year's Day 2000. 
 
