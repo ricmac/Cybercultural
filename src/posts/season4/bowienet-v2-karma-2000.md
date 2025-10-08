@@ -8,7 +8,7 @@ featureImage: "/assets/images/google-founders-tin-foil-capes-2000.jpg"
 youtube: "true"
 ---
 
-![*Slashdot, 20 June 2000](/assets/images/slashdot-june2000-1280x720b.jpg){loading="eager"}
+![Slashdot, 20 June 2000](/assets/images/slashdot-june2000-1280x720b.jpg){loading="eager"}
 *Slashdot homepage, 20 June 2000; [via Wayback Machine](https://web.archive.org/web/20000620214346/http://64.28.67.48/).*
 
 For the first several months of 2000, David Bowie’s website was a work in progress. BowieNet was undergoing a redesign, which had originally been [scheduled](https://www.davidbowie.com/2000/2000/01/28/bowienet-v2-update) to go-live at the end of January. But like many other software projects before and since, it got delayed. Finally, in May, the new version of BowieNet was [launched](https://www.davidbowie.com/2000/2000/05/08/whats-new-on-bowienet). 
