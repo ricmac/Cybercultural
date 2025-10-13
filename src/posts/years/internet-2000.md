@@ -4,12 +4,12 @@ description: "In 2000, Flash websites proliferate, blogging expands, social news
 date: 2025-10-08
 permalink: "p/internet-2000/"
 tags: ['dotcom', 'year', '2000']
-featureImage: "/assets/images/homestar-runner-feature-2000.png"
+featureImage: "/assets/images/macromedia-june2000.jpg"
 youtube: "true"
 ---
 
-![Homestar Runner 2000](/assets/images/homestar-runner-feature-2000.png){loading="eager"}
-*Still from a 2000 Homestar Runner Flash toon; [via Internet Archive](https://archive.org/details/marshmallow2).*
+![Macromedia, June 2000 2000](/assets/images/macromedia-june2000.jpg){loading="eager"}
+*Macromedia homepage, June 2000; [via Internet Archive](https://web.archive.org/web/20000622064512/http://www.macromedia.com/).*
 
 After the hype and fear of Y2K (a.k.a. the Millenium bug) quickly faded in January 2000, the internet continued its mostly joyful rise in the culture. Sure, the dot-com bubble got pricked in March and then slowly deflated, but the web itself didn't stop growing.
 
