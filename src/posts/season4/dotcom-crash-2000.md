@@ -7,7 +7,7 @@ tags: ['dotcom', '2000', 'season4']
 featureImage: "/assets/images/startupfailures-august2000.jpg"
 ---
 
-![*Startupfailures.com](/assets/images/startupfailures-august2000.jpg){loading="eager"}
+![Startupfailures.com](/assets/images/startupfailures-august2000.jpg){loading="eager"}
 *Startupfailures.com, August 2000; [via Wayback Machine](https://web.archive.org/web/20000815111548/http://www.startupfailures.com/).*
 
 On Tuesday, 11 January, 2000, the front page of The New York Times announced [a corporate merger](https://www.nytimes.com/2000/01/11/business/media-megadeal-overview-america-online-agrees-buy-time-warner-for-165-billion.html) that seemed to confirm the internet’s cultural ascendency. “America Online Agrees to Buy Time Warner for $165 Billion,” the headline blared. Under the subhead “Internet Triumph,” the NYT noted that it “would be the biggest merger in history and the best evidence yet that old and new media are converging.”
