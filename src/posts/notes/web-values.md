@@ -44,4 +44,6 @@ To sum up, I’ve outlined here several web values that are very important to me
 
 I’ve focused on web values in this post, not other ethical or moral values (such as the aforementioned hate content on Substack, or Elon Musk’s overtly political motivations). But I think web values are just as important. Or at least, they are to me, since the open web has been a vital part of my life and career.
 
-In short: X doesn’t line up with my values, and that’s why I don’t feed my words into it.
+In short: X doesn’t align with my values, and that’s why I don’t feed my words into it.
+
+**Update, 3 July 2025:** I have now [quit Threads too](https://mastodon.social/@ricmac/114791576425111014).
