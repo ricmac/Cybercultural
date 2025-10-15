@@ -1,5 +1,5 @@
 ---
-title: "Best LittleCo of 2008 and Most Promising for 2009"
+title: "Best LittleCo of 2008 and Most Promising"
 description: "For best web startup of 2008, we chose a 'little company that could' in the enterprise space. Our pick for Most Promising is something you could be using a lot on your mobile phone next year."
 date: 2008-12-22
 permalink: "p/best-littleco-2008/"
