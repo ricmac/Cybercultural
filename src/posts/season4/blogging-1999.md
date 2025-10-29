@@ -142,8 +142,15 @@ Needless to say, the RSS format wars were far from over — this was just the be
 
 By the end of 1999, then, blogging was off to the races and fast becoming a mainstream web activity. RSS was slow out of the gates in comparison, but at least it had made a start.
 
-*Next in this series: [2000: Bloggers Make Friends, but RSS Format Wars Kick Off](/p/blogs-rss-2000/)*
+***
 
+**The history of blogging and RSS series:**
+
+1. 1999: Blogs Burst Onto the Scene, but RSS Is Slow To Settle
+2. [2000: Bloggers Make Friends, but RSS Format Wars Kick Off](/p/blogs-rss-2000/)
+3. [2001: Blogging Gets Serious With Warblogs and Movable Type](/p/blogs-rss-2001/)
+
+[Subscribe here](/subscribe/) to continue tracking this series.
 
 
 

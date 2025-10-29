@@ -110,3 +110,13 @@ Winer responded to RSS 1.0 by publishing RSS 0.92 near the end of December. In h
 This set the stage for a battle between two opposing RSS formats as 2001 dawned. 
 
 Bear in mind that at this time, most bloggers — including established ones like Barrett, Kottke and Blood — had yet to adopt either format. So there was still much work to be done to bring RSS to blogging.
+
+***
+
+**The history of blogging and RSS series:**
+
+1. [1999: Blogs Burst Onto the Scene, but RSS Is Slow To Settle](/p/blogs-rss-1999/)
+2. 2000: Bloggers Make Friends, but RSS Format Wars Kick Off
+3. [2001: Blogging Gets Serious With Warblogs and Movable Type](/p/blogs-rss-2001/)
+
+[Subscribe here](/subscribe/) to continue tracking this series.
