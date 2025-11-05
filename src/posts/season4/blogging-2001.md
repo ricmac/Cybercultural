@@ -106,8 +106,8 @@ By late 2001, RSS was spreading across the web, in particular via tech-focused b
 
 Alongside RSS came new experiments in blog infrastructure. In July 2001, MIT researcher Cameron Marlow launched Blogdex, a tool that tracked the most-linked URLs across thousands of weblogs.
 
-![Bloddex, 30 November 2001](/assets/images/blogdex-30nov2001.png)
-*Bloddex, 30 November 2001; [via Wayback Machine](https://web.archive.org/web/20011130071527/http://blogdex.media.mit.edu/).*
+![Blogdex, 30 November 2001](/assets/images/blogdex-30nov2001.png)
+*Blogdex, 30 November 2001; [via Wayback Machine](https://web.archive.org/web/20011130071527/http://blogdex.media.mit.edu/).*
 
 On the [information page](https://web.archive.org/web/20011130071757/http://blogdex.media.mit.edu/info.asp) for BlogDex, you could sense the shift in how blogs had become a more journalistic tool over 2001 — "democratic media" — albeit one still rooted in the personal:
 
