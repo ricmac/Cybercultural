@@ -118,5 +118,6 @@ Bear in mind that at this time, most bloggers — including established ones lik
 1. [1999: Blogs Burst Onto the Scene, but RSS Is Slow To Settle](/p/blogs-rss-1999/)
 2. 2000: Bloggers Make Friends, but RSS Format Wars Kick Off
 3. [2001: Blogging Gets Serious With Warblogs and Movable Type](/p/blogs-rss-2001/)
+4. [2002: The Blogosphere Takes Shape, Along With RSS 2.0](/p/blogs-rss-2002/)
 
 [Subscribe here](/subscribe/) to continue tracking this series.
