@@ -93,7 +93,7 @@ Blogging software by this time was both sophisticated and relatively easy to use
 ![PlasticBag, November 2002](/assets/images/plastic-bag-nov2002.png)
 *Tom Coates' [PlasticBag](https://web.archive.org/web/20021121110255/http://plasticbag.org/) was one of the more visually impressive blogs of this era.*
 
-In some ways, 2002 was the peak of desktop-PC blog design. Many blogs of this time had a narrow main column of text and a sidebar stuffed with blogrolls, RSS buttons, photos, biographical information, and more. It was personal expression meets online community — a.k.a. "[the blogosphere](https://web.archive.org/web/20020604065327/http://www.microcontentnews.com/articles/blogosphere.htm)."
+In some ways, 2002 was the peak of desktop-PC blog design. Many blogs of this time had a narrow main column of text and a sidebar stuffed with a blogroll, RSS links, photos, biographical information, and more. It was personal expression meets online community — a.k.a. "[the blogosphere](https://web.archive.org/web/20020604065327/http://www.microcontentnews.com/articles/blogosphere.htm)."
 
 ***
 
