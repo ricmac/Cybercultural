@@ -27,7 +27,7 @@ The site was rich in streaming media, though — including on-demand music video
 ![MTV, August 2002](/assets/images/mtv-aug2002.jpg)
 *MTV homepage, [8 August 2002](https://web.archive.org/web/20020808174847/http://mtv.com/).*
 
-However, Flash and Shockwave — both popular Adobe multimedia technologies — were used heavily for MTV's tv show microsites and its interactive promos. One example was an interactive microsite for The Osbournes, built using Shockwave:
+However, Flash and Shockwave — two popular multimedia technologies from Macromedia — were used heavily for MTV's tv show microsites and its interactive promos. One example was an interactive microsite for The Osbournes, built using Shockwave:
 
 {% youtube "oIvFXaFPZJk", "The Osbournes website in 2002" %}
 
