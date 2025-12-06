@@ -56,7 +56,7 @@ Blogging software by this time was both sophisticated and relatively easy to use
 
 In an influential article [on Microcontent News](https://web.archive.org/web/20020604065327/http://www.microcontentnews.com/articles/blogosphere.htm), John Hiler popularized the notion of a "blogosphere," which he defined as an "emerging media ecosystem." 
 
-Hiler gave the credit for coining the word [to William Quick](https://web.archive.org/web/20020603131137/http://www.iw3p.com/DailyPundit/2001_12_30_dailypundit_archive.php#8315120), who first used it at the end of 2001. But Hiler was the one who positioned blogs in the larger media ecosystem:
+Hiler gave the credit for coining the word [to William Quick](https://web.archive.org/web/20020603131137/http://www.iw3p.com/DailyPundit/2001_12_30_dailypundit_archive.php#8315120), who first used it at the end of 2001. In fact it was [Brad Graham who coined *blogosphere*](/p/blogs-rss-2000/), albeit jokingly, in September 1999. In any case, Hiler was the one who positioned blogs in the larger media ecosystem:
 
 > "The word was meant as a clever pun combining "Blog" with "logos", a Greek word meaning logic and reason.  And while bloggers do often use logic in dissecting arguments, I love the word Blogosphere because it happens to capture another truth: the Blogosphere is a biosphere of its own, a Media Ecosystem that lives and breathes just like any other biological system."
 
