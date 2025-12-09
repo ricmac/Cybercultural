@@ -8,7 +8,7 @@ featureImage: "/assets/images/david-bowie-2003-feature.png"
 youtube: "true"
 ---
 
-![MySpace in September 2003](/assets/images/david-bowie-2003-main.png){loading="eager"}
+![BowieNet version 3, 2003](/assets/images/david-bowie-2003-main.png){loading="eager"}
 *[BowieNet version 3](https://web.archive.org/web/20030925082658/http://davidbowie.com/). Screenshot circa September 2003, [via Web Design Museum](https://www.webdesignmuseum.org/gallery/david-bowie-2003).*
 
 At the end of July 2003, in the lead-up to the release of David Bowie's latest album, *Reality*, BowieNet [teased members](https://www.davidbowie.com/2003/2003/07/26/new-bowienet-splash-page-reality-jukebox-and-more) with a promotional splash page and a new feature called the “Reality Jukebox.” The latter turned out to be a Flash page featuring multimedia promotions for the new album:
