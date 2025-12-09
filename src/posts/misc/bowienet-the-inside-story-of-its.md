@@ -195,9 +195,11 @@ He thanks his website designers, Nettmedia, “for putting up with my constant f
 
 ***
 
-This is part of a series of posts about BowieNet and David Bowie's website in the mid-to-late 1990s:
+This is part of a series about the history of BowieNet and David Bowie's website:
 
-1. [David Bowie’s Early Websites, 1995–1997: Outside to Earthling](/p/david-bowie-website-1995-1997/)
-2. [Telling Lies: Bowie and Online Music Distribution in 1996](/p/online-music-distribution-1996/)
-3. BowieNet: The Inside Story of Its Creation
-4. [Launch of BowieNet and the First Inklings of Social Networks](/p/bowienet-launch-1998/)
+1. [1995-1997: David Bowie’s Early Websites: Outside to Earthling](/p/david-bowie-website-1995-1997/)
+2. [1996: Telling Lies; Bowie and Online Music Distribution](/p/online-music-distribution-1996/)
+3. 1996-1998: BowieNet, The Inside Story of Its Creation
+4. [1998: Launch of BowieNet and the First Inklings of Social Networks](/p/bowienet-launch-1998/)
+5. [2000: BowieNet Version 2 and its Karma System](/p/karma-2000-slashdot-bowienet-v2/)
+6. [2003: BowieNet Version 3, a Flash Reality](/p/bowienet-v3-flash-2003/)

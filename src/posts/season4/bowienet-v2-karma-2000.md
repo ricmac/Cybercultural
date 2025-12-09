@@ -131,3 +131,14 @@ Someone must have said, "Let's slow him down"
 Slow down  
 Slow down  
 It's pictured on the arms of the karma man
+
+***
+
+This is part of a series about the history of BowieNet and David Bowie's website:
+
+1. [1995-1997: David Bowie’s Early Websites: Outside to Earthling](/p/david-bowie-website-1995-1997/)
+2. [1996: Telling Lies; Bowie and Online Music Distribution](/p/online-music-distribution-1996/)
+3. [1996-1998: BowieNet, The Inside Story of Its Creation](/p/bowienet-the-inside-story/)
+4. [1998: Launch of BowieNet and the First Inklings of Social Networks](/p/bowienet-launch-1998/)
+5. 2000: BowieNet Version 2 and its Karma System
+6. [2003: BowieNet Version 3, a Flash Reality](/p/bowienet-v3-flash-2003/)
