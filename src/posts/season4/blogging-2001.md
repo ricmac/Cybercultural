@@ -130,5 +130,4 @@ The arrival of services like Blogdex and Weblogs.com helped turn blogging into a
 2. [2000: Bloggers Make Friends, but RSS Format Wars Kick Off](/p/blogs-rss-2000/)
 3. 2001: Blogging Gets Serious With Warblogs and Movable Type
 4. [2002: The Blogosphere Takes Shape, Along With RSS 2.0](/p/blogs-rss-2002/)
-
-[Subscribe here](/subscribe/) to continue tracking this series.
+5. [2003: The Blogosphere Blossoms As RSS Readers Catch On](/p/blogosphere-2003/)

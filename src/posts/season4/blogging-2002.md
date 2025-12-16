@@ -86,7 +86,7 @@ Soon, the idea was extended by other bloggers. Ian Hickson, a prominent W3C cont
 
 ## The Blogosphere
 
-By the end of 2002, blogging had blossomed into a thriving ecosystem of colourful personal sites that interconnected to each other via RSS, trackback and blogrolls. 
+By the end of 2002, blogging had turned into a thriving ecosystem of colourful personal sites that interconnected to each other via RSS, trackback and blogrolls.
 
 Blogging software by this time was both sophisticated and relatively easy to use. In its [version 2.51](https://web.archive.org/web/20021207200657/http://www.movabletype.org/features.shtml), as well as trackback Movable Type had multiple template options, entry categorization, built-in comments, and more. The original mainstream blog platform, Blogger, was also [still going strong](https://web.archive.org/web/20021202091911/http://www.blogger.com/) — indeed it would soon be acquired by Google, in February 2003. Other blog software options included Radio Userland (which I would soon dive into again), LiveJournal and Xanga.
 
@@ -103,9 +103,7 @@ In some ways, 2002 was the peak of desktop-PC blog design. Many blogs of this ti
 2. [2000: Bloggers Make Friends, but RSS Format Wars Kick Off](/p/blogs-rss-2000/)
 3. [2001: Blogging Gets Serious With Warblogs and Movable Type](/p/blogs-rss-2001/)
 4. 2002: The Blogosphere Takes Shape, Along With RSS 2.0
-
-Stay tuned for the next post covering 2003 in blogging and RSS, featuring the emergence of RSS Readers and the continuing expansion of the blogosphere. [Subscribe to be notified](/subscribe/).
-
+5. [2003: The Blogosphere Blossoms As RSS Readers Catch On](/p/blogosphere-2003/)
 
 
 
