@@ -10,7 +10,7 @@ featureImage: "/assets/images/josue-sanchez-dlhpGNkNFh4-unsplashb.jpg"
 ![record store](/assets/images/josue-sanchez-dlhpGNkNFh4-unsplashb.jpg){loading="eager"}
 *Browsing the indie web is like browsing a record store; you'll be surprised at the treasures you find. Photo [by Josué Sánchez](https://unsplash.com/photos/woman-browsing-vinyl-records-in-a-store-dlhpGNkNFh4).*
 
-I've always liked doing annual wrapup posts, from the [Best Web 2.0 Companies](/rww/) posts on ReadWriteWeb in Web 2.0 through to the "[What the Internet Was Like in {Year}](/year/)" posts on Cybercultural today. So as we approach the end of 2025, I thought I'd turn my attention to the independent web — and in particular, my place on it. 
+I've always liked doing annual wrapup posts, from the [Best Web 2.0 Companies](/rww/) posts on ReadWriteWeb during the 2000s through to the "[What the Internet Was Like in {Year}](/year/)" posts on Cybercultural today. So as we approach the end of 2025, I thought I'd turn my attention to the independent web — and in particular, my place in it.
 
 This website, Cybercultural, has continued to grow over 2025; but it's also been a perilous time for indie websites, due to the rise of AI and the decline of SEO. I'll start by noting some traffic trends from this year, since an indie website can only flourish if people actually visit it (or at the very least [subscribe via RSS or email](/subscribe)).
 
