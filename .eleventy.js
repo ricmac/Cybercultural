@@ -78,6 +78,7 @@ export default function(eleventyConfig) {
   eleventyConfig.addFilter('keys', Object.keys);
   eleventyConfig.addFilter('values', Object.values);
   eleventyConfig.addFilter('entries', Object.entries);
+  eleventyConfig.addFilter("limit", (arr, n) => (arr || []).slice(0, n));
   eleventyConfig.addFilter("regexReplace", function(content, pattern, replacement) {
     const regex = new RegExp(pattern, "gis"); // "g" = global, "i" = case-insensitive, "s" = dot matches newlines
     return content.replace(regex, replacement);

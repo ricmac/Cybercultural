@@ -15,7 +15,7 @@ excludeFromSitemap: true
   <author>
     <name>Richard MacManus</name>
   </author>
-  {%- for post in postslist %}
+  {%- for post in postslist | limit(20) %}
     {%- set absolutePostUrl = post.url | absoluteUrl(meta.url) %}
     <entry>
       <title>{{ post.data.title }}</title>
