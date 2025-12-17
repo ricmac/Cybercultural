@@ -68,7 +68,7 @@ My top traffic source, "Direct", basically means Google Analytics doesn't know h
 
 Google Discover has become a prime source of traffic for some publishers, especially as search traffic has decreased *for everyone* because of Google's AI Overviews and AI Mode. The common theory, which I believe, is that Google has ramped up Discover traffic to (some) publishers to compensate for taking away their search traffic.
 
-Unfortunately for me, my site hasn't been blessed by the Google Discover gods! I got a pitiful 112 clicks in total from Discover this year. I don't know why Discover doesn't like my site, but it's possibly just because I'm a very small publisher. I do know that larger tech sites, including my employer, now get a great deal of traffic from Discover — much more than from search traffic.
+Unfortunately for me, my site hasn't been blessed by the Google Discover gods! I got a pitiful 112 clicks in total from Discover this year. I don't know why Discover doesn't like my site, but it's possibly just because I'm a very small publisher. I do know that larger tech sites, including my employer, now get a great deal of traffic from Discover — much more than from search.
 
 ![cybercultural-discover-2025.png](/assets/images/cybercultural-discover-2025.png)
 
