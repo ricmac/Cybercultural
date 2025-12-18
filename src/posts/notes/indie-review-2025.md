@@ -64,9 +64,9 @@ I'll add that I am very grateful to Mastodon, Bluesky and Flipboard for not down
 
 ## The Google Discover Gods
 
-My top traffic source, "Direct", basically means Google Analytics doesn't know how to categorize the referral. So it could be anything, including traffic from email newsletters and privacy-conscious services like Mastodon. But it also usually includes most of the Google Discover traffic a site might collect; although some of that traffic might be categorized under "Organic Search" too.
+My top traffic source, "Direct", basically means Google Analytics doesn't know how to categorize the referral. So it could be anything, including traffic from email newsletters and privacy-conscious services like Mastodon. But it also usually includes most of the Google Discover traffic a site might collect; although some of that might be categorized under "Organic Search" too.
 
-Google Discover has become a prime source of traffic for some publishers, especially as search traffic has decreased *for everyone* because of Google's AI Overviews and AI Mode. The common theory, which I believe, is that Google has ramped up Discover traffic to (some) publishers to compensate for taking away their search traffic.
+Google Discover has become a prime source of traffic for some publishers, especially as referrals from search have decreased *for everyone* because of Google's AI Overviews and AI Mode. The common theory, which I believe, is that Google has ramped up Discover traffic to (some) publishers to compensate for taking away their search clickthroughs.
 
 Unfortunately for me, my site hasn't been blessed by the Google Discover gods! I got a pitiful 112 clicks in total from Discover this year. I don't know why Discover doesn't like my site, but it's possibly just because I'm a very small publisher. I do know that larger tech sites, including my employer, now get a great deal of traffic from Discover — much more than from search.
 
