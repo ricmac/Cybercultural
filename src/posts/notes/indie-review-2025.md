@@ -78,7 +78,7 @@ I'll be praying to the Google Discover gods again in 2026, because coverage ther
 
 ## It's Not a Blog...So What Is It?
 
-This year I've been pondering what Cybercultural *is*, exactly. It's not a blog, like ReadWriteWeb was back in the day, because it doesn't have some of the main features I associate with a blog. I write formal articles on Cybercultural, whereas blogs always have a slightly informal, more personal quality to them (even with a group blog like RWW, each blogger had their own unique online personality). And Cybercultural doesn't have comments or trackbacks like a blog; I have experimented with [Webmentions](https://indieweb.org/Webmention), an open standard for cross-blog discussions, but I decided against them in the end — they just felt out of place on Cybercultural.
+This year I've been pondering what Cybercultural *is*, exactly. It's not a blog, like ReadWriteWeb was back in the day, because it doesn't have some of the main features I associate with a blog. I write formal, yet also opinionated, articles on Cybercultural; whereas blogs always have a slightly informal, more personal quality to them (even with a group blog like RWW, each blogger had their own unique online personality). And Cybercultural doesn't have comments or trackbacks like a blog; I have experimented with [Webmentions](https://indieweb.org/Webmention), an open standard for cross-blog discussions, but I decided against them in the end — they just felt out of place on Cybercultural.
 
 ![Cybercultural homepage, December 2025](/assets/images/cybercultural-homepage-17dec2025.png)
 *Cybercultural homepage, December 2025.*
