@@ -95,4 +95,9 @@ With a new year around the corner, it was clear that millions more people would 
 ![IUMA circa 1994/95](/assets/images/iuma-aug94b.jpg)
 *IUMA website by the end of 1994; image via David Beach and Jeff Patterson.*
 
-Read next: [More year-by-year overviews of internet history](/year/)
+***
+
+**More year-by-year overviews of internet history:** 
+
+1. Dot-com: 1994 &#183; [1995](/p/internet-1995/) &#183; [1996](/p/internet-1996/) &#183; [1997](/p/internet-1997/) &#183; [1998](/p/internet-1998/) &#183; [1999](/p/internet-1999/) &#183; [2000](/p/internet-2000/) &#183; [2001](/p/internet-2001/) &#183; [2002](/p/internet-2002/) &#183; [2003](/p/internet-2003/)
+2. Web 2.0: [2004](/p/internet-2004/) &#183; [2005](/p/internet-2005/) &#183; [2006](/p/internet-2006/) &#183; [2007](/p/internet-2007/) &#183; [2008](/p/internet-2008/) &#183; [2009](/p/internet-2009/) &#183; [2010](/p/internet-2010/) &#183; [2011](/p/internet-2011/) &#183; [2012](/p/internet-2012/)

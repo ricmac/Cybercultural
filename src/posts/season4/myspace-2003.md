@@ -61,7 +61,7 @@ Not only that, but Friendster restricted what you could even see on the site. As
 
 ## MySpace Growth Spurt
 
-MySpace grew quickly. By October, it had over one hundred thousand users. It was still small fry compared to Friendster, which had around three million registered users by the fall of 2003. But MySpace users were clearly having more fun than Friendster’s users. Partly this was because MySpace allowed users to edit the HTML in their profiles — which meant they could add colourful backgrounds and fonts, and use images and GIFs [like on Geocities](/p/geocities-1995/). 
+MySpace grew quickly. By October, it had over one hundred thousand users. It was still small fry compared to Friendster, which had around three million registered users by the fall of 2003. But MySpace users were clearly having more fun than Friendster users. Partly this was because MySpace allowed people to edit the HTML in their profiles — which meant they could add colourful backgrounds and fonts, and use images and GIFs [like on Geocities](/p/geocities-1995/). 
 
 Tom Anderson wrote in [an October blog post](https://web.archive.org/web/20040603020144/http://www.myspace.com:80/misc/news.html) that he was “glad to see how creative people are with HTML in their profiles.” He added a note of caution, though. “Be careful to code properly. If you don't close your tags, you'll botch the page and won't be able to view your friends and comments.”
 
