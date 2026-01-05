@@ -1,7 +1,7 @@
 ---
 title: "2003: MP3 Blogs and Pitchfork Shake Up Music Media"
 description: "Online music and blogging were two key trends in the first decade of digital culture. In 2003, they combine in the form of MP3 blogs. Together with Pitchfork, they revolutionize music journalism."
-date: 2025-12-30
+date: 2025-12-30T15:42:00Z
 permalink: "p/mp3-blogs-2003/"
 tags: ['dotcom', '2003', 'season4']
 featureImage: "/assets/images/pitchfork-rapture-review-2003.png"

@@ -20,8 +20,11 @@ excludeFromSitemap: true
     <entry>
       <title>{{ post.data.title }}</title>
       <link href="{{ absolutePostUrl }}" />
-      <updated>{{ post.date | dateToRfc3339 }}</updated>
       <id>{{ absolutePostUrl }}</id>
+      <author>
+        <name>Richard MacManus</name>
+      </author>
+      <updated>{{ post.date | dateToRfc3339 }}</updated>
       <content xml:lang="en-US" type="html">
         <![CDATA[
           {{ post.templateContent 
