@@ -11,7 +11,7 @@ excludeFromSitemap: true
   <link href="https://cybercultural.com/" rel="alternate" type="text/html" />
   {% set postslist = collections.posts | reverse %}
   <updated>{{ postslist | getNewestCollectionItemDate | dateToRfc3339 }}</updated>
-  <id>{{ meta.url }}/</id>
+  <id>https://cybercultural.com/feed.xml</id>
   <author>
     <name>Richard MacManus</name>
   </author>
