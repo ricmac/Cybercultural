@@ -123,3 +123,4 @@ This is part of a series about the history of BowieNet and David Bowie's website
 4. [1998: Launch of BowieNet and the First Inklings of Social Networks](/p/bowienet-launch-1998/)
 5. [2000: BowieNet Version 2 and its Karma System](/p/karma-2000-slashdot-bowienet-v2/)
 6. [2003: BowieNet Version 3, a Flash Reality](/p/bowienet-v3-flash-2003/)
+7. [After BowieNet, David Bowie Goes Dark and Shuns Social Media](/p/bowienet-2004-2016/)
