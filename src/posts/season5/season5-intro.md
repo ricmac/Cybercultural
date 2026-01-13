@@ -74,7 +74,7 @@ But don't worry, this history will also explore in-depth how the open web contin
 
 A key design trend was "progressive enhancement," originally coined in 2003, which helped deal with web development complexity — especially due to JavaScript. Then in 2010, "responsive web design" became a rallying cry for web designers, allowing them to create websites that scaled down or up based on a user's display size. I'll be getting into the details of these and other web design approaches during this history.
 
-![Ethan Marcotte, 2010](/assets/images/Ethan-Marcotte-2010.jpg)
+![Ethan Marcotte, 2010](/assets/images/ethan-marcotte-2010.jpg)
 *Ethan Marcotte, who coined 'responsive web design'; [photo by David Rutledge](https://www.flickr.com/photos/superpope/4835935126/) in 2010.*
 
 Another key trend — especially towards the end of the period I'll be covering — is that the underlying web platform became more sophisticated. That was partly thanks to Google's stewardship, via the Chromium project; but also due to the rising influence of the Web Hypertext Application Technology Working Group (WHATWG), a group of browser vendors founded in 2004 that currently includes Google, Mozilla, Apple and Microsoft.
