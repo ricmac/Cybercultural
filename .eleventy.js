@@ -58,6 +58,7 @@ export default function(eleventyConfig) {
   eleventyConfig.addLayoutAlias('season1', 'season1.njk');
   eleventyConfig.addLayoutAlias('season2', 'season2.njk');
   eleventyConfig.addLayoutAlias('season4', 'season4.njk');
+  eleventyConfig.addLayoutAlias('season5', 'season5.njk');
   eleventyConfig.addLayoutAlias('rww', 'rww.njk');
 
   // Custom filters
@@ -136,6 +137,7 @@ export default function(eleventyConfig) {
           post.data.tags.includes("season1") ||
           post.data.tags.includes("season2") ||
           post.data.tags.includes("season4") ||
+          post.data.tags.includes("season5") ||
           post.data.tags.includes("rww") ||
           post.data.tags.includes("preweb") ||
           post.data.tags.includes("memoir") ||
