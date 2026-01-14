@@ -97,7 +97,7 @@ The feature image of that post was a photo of "my well-thumbed copies of three c
 
 Finally, I'd like to invite you to also follow an alt Mastodon account I run called [Classic Web](https://indieweb.social/@classicweb), which is hosted on the appropriately named IndieWeb.Social instance. As it says on the tin, this account posts screenshots of classic websites and blogs from Dot-Com, Web 2.0 and the 2010s. You can also follow Classic Web [on Bluesky](https://bsky.app/profile/did:plc:bfn5wnzid6keiqyjnj45i35m) (via a service called Bridgy Fed, which syndicates the Mastodon feed over to Bluesky).
 
-I started the Classic Web account last March and it currently has around 2,400 followers on Mastodon and 800 on Bluesky. it's semi-automated, in that I have a Python script that gathers screenshots from the Wayback Machine on a regular cadence — via GitHub Actions — and posts them for me privately to Mastodon. I then manually curate the feed, so that only the best screenshots are posted publicly (e.g. I get a lot of broken images in the firehose feed, so I filter those out).
+I started the Classic Web account last March and it currently has around 2,400 followers on Mastodon and 800 on Bluesky. It's semi-automated, in that I have a Python script that gathers screenshots from the Wayback Machine on a regular cadence — via GitHub Actions — and posts them for me privately to Mastodon. I then manually curate the feed, so that only the best screenshots are posted publicly (e.g. I get a lot of broken images in the firehose feed, so I filter those out).
 
 ![Classic Web Mastodon account](/assets/images/classic-web-mastodon-dec25.png)
 *The [Classic Web Mastodon account](https://indieweb.social/@classicweb).*
