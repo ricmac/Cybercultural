@@ -70,7 +70,9 @@ It had been a long trip — in [a trying year, personally](/p/038-twitter-sul-20
 
 Amy gave my phone back and then took a hardback copy of Tim’s book, *Weaving the Web*, off one of the shelves. She handed it to Tim along with a black marker pen. He opened it up and wrote on the title page: “Richard, Thank you for ReadWriteWeb. KUTGW.” I didn’t know what the acronym meant until I looked it up back at my hotel: “keep up the good work.” 
 
-That gave me the boost of adrenaline I sorely needed as I embarked on the long plane journey back home.
+(I later discovered he'd used that same acronym [in a January 1993 message](http://1997.webhistory.org/www.lists/www-talk.1993q1/0104.html) of encouragement to then college student Marc Andreessen, about the [NCSA X Mosaic 0.5 release](/p/1993-mosaic-launches-and-the-web-is-set-free/): "Every new browser is sexier than the last. There is a lot of cross-fertilisation going on, which is very good. KUTGW everyone...")
+
+This gave me the boost of adrenaline I sorely needed as I embarked on the long plane journey back home.
 
 ![My signed TBL book](/assets/images/tbl-signed-book-rww.jpg)
 
