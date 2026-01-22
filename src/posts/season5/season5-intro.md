@@ -1,5 +1,5 @@
 ---
-title: "The History of Web Design, 1993–2012: Season 5 Launch"
+title: "The history of web design, 1993–2012: season 5 launch"
 description: "Introducing Cybercultural's history of web design, from the grey web pages of 1993 to the colorful, mobile-centric web designs of 2012. A celebration of the peak years of personal websites and blogs."
 date: 2026-01-13T14:00:00Z
 permalink: "p/history-of-web-design/"
@@ -14,7 +14,7 @@ Welcome to season 5 of Cybercultural, which will be a history of web design from
 
 This history of web design will cover two eras of the internet: dot-com and Web 2.0. I decided not to move into the rest of the 2010s, partly because that's an era when smartphone apps began to dominate — and so the web struggled. But also, in my view the first two decades of the web represent the very best of online creativity and experimentation. Because during that time, personal websites and blogs flourished.
 
-## Season 5 Structure
+## Season 5 structure
 
 Before I describe the main themes, here's how this history of web design will play out over the coming months. As noted, I'll be covering 20 years — and each year will get its own overview post. In addition, I'll be profiling at least 28 individual web designers. Each will get their own article.
 
@@ -39,7 +39,7 @@ I expect some variance to emerge as I actually write the articles for season 5, 
 
 Now let's look at a few of the main themes of this season.
 
-## Personal vs. Platforms
+## Personal vs. platforms
 
 From the initial years of the web until the early-2000s, web design was all about individuality, creativity, self-expression, openness, and control over your publishing tools. It was also increasingly about contributing to a distributed network — at first via web rings and constructs like [GeoCities neighbourhoods](/p/geocities-1995/), then with the emergence of a more decentralised [blogosphere](/p/blogs-rss-2002/).
 
@@ -57,7 +57,7 @@ Of course, there was a design cost to the growing influence of social media. It 
 
 In summary then, social media resulted in bland design, stifled imaginations, and — most importantly — less user agency due to corporate algorithms and feeds. Now, this didn't stop individual web designers from continuing to produce remarkable work, but it's fair to say that social media platforms began to take control of the internet during the latter part of Web 2.0.
 
-## Smartphone Power Shift
+## Smartphone power shift
 
 At about the same time social media gained traction, web design as a profession took another hit as smartphone apps became the preferred application type. Smartphone apps weren't built with web technologies and weren't distributed on the open web. Instead they used native OS technologies and were distributed on proprietary app stores owned by Apple and Google — both [launched in 2008](/p/internet-2008/).
 
@@ -68,7 +68,7 @@ This transition to apps took a few years to play out, because at first it was th
 
 I don't want to dwell on the rise of centralized platforms over the latter part of my chosen time period (1993-2012), but it is an important influence in the history of web design. That's because big technology companies slowly began to control the design space during this time: not only via social media and smartphone app stores, but through browsers that didn’t fully support web standards (looking at you, Internet Explorer 6!). This trend even continued with Google Chrome and Google Reader — which were strong technical products and supported standards, but they gave Google ever more power on the open web, especially once Chrome had vanquished Microsoft's IE.
 
-## The Web Platform Fights Back
+## The web platform fights back
 
 But don't worry, this history will also explore in-depth how the open web continued to evolve through the years — first to address increasing complexity in web development, then to counter the rise of smartphone apps.
 
@@ -84,7 +84,7 @@ Last but not least, despite the rising dominance of proprietary social media pla
 ![Indie Web crew, 2016](/assets/images/indieweb-2016-tante.jpg)
 *"Last week’s Homebrew Website Club SF was a bit chaotic. CSS guru Eric Meyer demonstrated float:right, while the rest of us attempted various z-index and transform properties." Photo and caption [by Tantek Çelik](https://www.flickr.com/photos/tantek/30221454454/), 2016.*
 
-## Classic Web Inspiration
+## Classic Web inspiration
 
 So what inspired me to write a history of web design?
 
@@ -104,8 +104,8 @@ I started the Classic Web account last March and it currently has around 2,400 f
 
 People seem to enjoy the Classic Web feed, and I love curating it each day — the account has developed its own personality over the past 10 or so months. Throughout 2026, as I write season 5 of Cybercultural, I will try to complement each article with a set of matching screenshots on the Classic Web feed. So I encourage you to follow the Classic Web account on [Mastodon](https://indieweb.social/@classicweb) or [Bluesky](https://bsky.app/profile/did:plc:bfn5wnzid6keiqyjnj45i35m) if this interests you.
 
-## Stay Tuned
+## Stay tuned
 
 If you're not already subscribed to Cybercultural and would like to be notified of all articles in this history of web design, please [sign up via email](/subscribe/) or add the [RSS feed](/feed.xml) to your RSS Reader. The articles will come out weekly, with the occasional break, and typically on a Tuesday or Wednesday.
 
-See you next week for the first post, beginning way back in 1993!
+See you next week for [the first post, beginning way back in 1993](/p/1993-mtv-internet/)!

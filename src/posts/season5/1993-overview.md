@@ -1,5 +1,5 @@
 ---
-title: "1993: Web Browsers Add Multimedia and MTV.com Goes Online"
+title: "1993: Web browsers add multimedia and MTV.com goes online"
 description: "Mosaic adds an image tag to HTML and becomes the first modern web browser in 1993. Soon after, MTV VJ Adam Curry builds one of the world's first commercial websites — not that his bosses care."
 date: 2026-01-21T14:20:00Z
 permalink: "p/1993-mtv-internet/"
@@ -36,7 +36,7 @@ Version 1.0 of X Mosaic was [launched in April](http://1997.webhistory.org/www.l
 
 Now the web was off to the races: the platform was free to use and build on, and it had at least one [multimedia-capable browser](/p/1993-mosaic-launches-and-the-web-is-set-free/) that could be used on mainstream operating systems.
 
-## Early Web Designs
+## Early web designs
 
 Even though I'm starting this history of web design in 1993, the fact is that web design didn't even exist at this point. It couldn't, because the first versions of HTML — the web's markup language — only described the structure of a web page, not its presentation. Look no further than web page backgrounds in 1993, which were almost always grey. That's because there was no way to control the background colour, since there was no bgcolor attribute in HTML. So early browsers used the default background colour of operating system windows — which was usually grey, even in Apple computers.
 
@@ -52,7 +52,7 @@ One of the more exciting examples of an academic web page was NCSA's 'What's New
 
 Even with the earliest non-academic web pages, which began to turn up on the NCSA 'What's New' page towards the end of the year, there wasn't much in the way of a layout. Typically there was descriptive text to explain the purpose of the site, along with a bunch of blue, underlined hypertext links (often the most colourful thing on the page). Occasionally there were large images, as seen in the science website screenshot above. But because of bandwidth restrictions, in most cases images were just small graphics — for example, of the site or brand name.
 
-## The Birth of MTV.com
+## The birth of MTV.com
 
 Given that web design hadn't yet been born, it makes sense that one of the earliest commercial web pages on the internet wasn't created by a designer. Rather, MTV.com was set up by a tech tinkerer who worked in traditional media. 
 
@@ -112,7 +112,7 @@ The link pointed to an index.html page. Unfortunately, there is no known copy or
 
 Again, this was a side project for Curry and not an official MTV internet site. In an undated ["What is MTV.com" file](http://www.textfiles.com/internet/aboutmtv.txt) that probably comes from the FTP server, Curry writes that "this is my hobby, and you get what you pay for when you connect to this server."
 
-## MTV.com Becomes a Website
+## MTV.com becomes a website
 
 Things moved fast after October and more web pages were added to MTV.com over the next few weeks. An entry on NCSA's 'What's New' page dated [November 21, 1993](https://www.aber.ac.uk/~dcswww/Public/Misc/mosaic-docs/old-whats-new/whats-new-1193.html) lists several hyperlinks (which I've included here, even though they're all now broken links):
 
@@ -127,6 +127,6 @@ As for Adam Curry, even though he was no web designer and was just as interested
 
 In the next post in this [history of web design series](/season5/), I'll profile someone who also built one of the world's first websites in 1993 — but in their case, did go on to become a full-fledged web designer.
 
-*Related: [Best Experienced With: MTV.com and the 90s Browser War](/p/browser-war-1990s/)*
+*Related: [Best experienced with: MTV.com and the 90s browser war](/p/browser-war-1990s/)*
 
 

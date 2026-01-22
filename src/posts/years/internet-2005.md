@@ -1,5 +1,5 @@
 ---
-title: 'What the Internet Was Like in 2005'
+title: "What the Internet Was Like in 2005"
 description: "2005 is the year Web 2.0 business begins to boom, with the acquisitions of Flickr and MySpace, the launch of YouTube and Reddit, and new innovations in RSS and web development."
 date: 2024-06-01
 permalink: "p/internet-2005/"
