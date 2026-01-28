@@ -27,7 +27,7 @@ Apple has revolutionized two major industries in recent years, using Web technol
 
 The iPhone was first launched in January 2007 and in last year's awards we gave Apple an 'Honorable Mention' for it, noting that it was the biggest product launch of 2007 and a catalyst for a lot of new Mobile Web development activity. However it wasn't until 2008 that the iPhone truely reached a mainstream audience, when the new [3G iPhone was announced](https://web.archive.org/web/20081219131450/http://www.readwriteweb.com/archives/iphone_20_big_in_bubbleland.php) in June and then [launched to much acclaim](https://web.archive.org/web/20081219131450/http://www.readwriteweb.com/archives/iphone_3g_in_the_flesh.php) in July.
 
-![WWDC keynote 2008](https://web.archive.org/web/20081219131450im_/http://www.last100.com/wp-content/uploads/2008/06/wwdc-keynote_054.jpg)
+![WWDC keynote 2008](/assets/images/wwdc-keynote_054.jpg)
 
 Perhaps even more significant than the phone itself (which featured 3G, black or white shell and a more rounded design, plus cheaper pricing for U.S. customers) was the simultaneous [launch of the Apple App Store](https://web.archive.org/web/20081219131450/http://www.readwriteweb.com/archives/apples_iphone_app_store_launch.php). There were 552 applications available at launch and at time of writing that's risen to [over 10,000 applications](https://web.archive.org/web/20081219131450/http://news.cnet.com/8301-13579_3-10114894-37.html). So in less than 6 months, the number and variety of iPhone apps has expanded greatly. Indeed, any startup worth its salt has an iPhone version of its web app.
 
