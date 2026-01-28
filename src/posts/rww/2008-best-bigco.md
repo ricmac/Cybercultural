@@ -78,7 +78,7 @@ Other Internet bigcos mostly had good years, but without any major breakthroughs
 
 Microsoft released a couple of major Web platforms in [Live Mesh](https://web.archive.org/web/20081219131450/http://www.readwriteweb.com/archives/microsoft_live_mesh_first_look.php) and [Azure](https://web.archive.org/web/20081219131450/http://www.readwriteweb.com/archives/microsoft_azure_redefine_os.php), so it'll be interesting to watch how those evolve next year. Windows Live, its clumsily branded Internet division, continued to ripple away without making too many waves. Last year we remarked in the BigCo post that "in 2008 we're hoping to see more _product evidence_ of the undoubted ability of Ray Ozzie and co to innovate on the Web." We don't think we quite saw that though. Maybe in 2009!
 
-![Firefox 2008](https://web.archive.org/web/20081219131450im_/http://www.readwriteweb.com/firefox_logo.jpg)
+![Firefox 2008](/assets/images/bestbigco2008-firefox_logo.jpg)
 
 Meanwhile Amazon's web services stack [continued to evolve](https://web.archive.org/web/20081219131450/http://www.readwriteweb.com/archives/amazon_web_services_seeks_publ.php), Mozilla's Firefox went [from strength to strength](https://web.archive.org/web/20081219131450/http://www.readwriteweb.com/archives/firefox_reaches_20_market_shar.php), AOL [bought Bebo](https://web.archive.org/web/20081219131450/http://www.readwriteweb.com/archives/aol_acquires_bebo.php) and later [launched a development platform](https://web.archive.org/web/20081219131450/http://www.readwriteweb.com/archives/aol_quietly_launches_one_of_th.php). We can't say that any of those companies overly impressed, but each had decent years.
 
