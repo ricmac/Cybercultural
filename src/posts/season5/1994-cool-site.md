@@ -57,7 +57,7 @@ What was "cool" was an arbitrary decision, though. According to [a 2014 analysis
 
 > "Browsing the archive of Cool Sites selected in 1994, one might surmise that the element of surprise is partly related to the vast range of content that is featured—a hodgepodge so arbitrary that it appears hard to draw out any defining characteristics of cool."
 
-But it was a formula that worked. Within a year, according to [a later New York Times article](https://www.nytimes.com/2002/03/28/technology/as-the-web-matures-fun-is-hard-to-find.html), more than 20,000 people a day were visiting CSotD and Davis had become "a Web celebrity, giving interviews to online magazines and fending off gifts from Webmasters who were desperately seeking his recommendation of their sites."
+But it was a formula that worked. By the end of 1994, CSotD was getting [10,000 visits a day](https://web.archive.org/web/20210923165935/https://www.washingtonpost.com/archive/lifestyle/1994/12/29/in-the-throws-of-winter/93f61bfb-d97a-4fae-8eac-28a64483858b/) and then [20,000 per day](https://www.nytimes.com/2002/03/28/technology/as-the-web-matures-fun-is-hard-to-find.html) within a year of its launch. By that point, Davis had become "a Web celebrity, giving interviews to online magazines and fending off gifts from Webmasters who were desperately seeking his recommendation of their sites."
 
 ## The punk ethos of web design
 
