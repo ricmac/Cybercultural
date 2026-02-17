@@ -61,7 +61,7 @@ But it was a formula that worked. By the end of 1994, CSotD was getting [10,000 
 
 ## The punk ethos of web design
 
-But it wasn't just web browsing that Davis encouraged with CSotD. Even though he himself wasn't a designer, his belief was that anyone could design a web page. There was a punk spirit to this — you don't have to be a professional, just open up your browser and copy what you see. In [a 1999 interview](https://zeldman.com/15/davisf.html) with his WaSP cofounder Jeffrey Zeldman (who *was* a professional designer), Davis said that "anyone can build a great website."
+It wasn't just web browsing that Davis encouraged with CSotD. Even though he himself wasn't a designer, his belief was that anyone could design a web page. There was a punk spirit to this — you don't have to be a professional, just open up your browser and copy what you see. In [a 1999 interview](https://zeldman.com/15/davisf.html) with his WaSP cofounder Jeffrey Zeldman (who *was* a professional designer), Davis said that "anyone can build a great website."
 
 "That's my belief," he continued. "It just takes a bit of guidance and access to understandable knowledge. That word 'understandable,' it's important. You don't introduce people to website building by using geek-speak. You have to talk human to human..."
 
