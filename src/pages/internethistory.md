@@ -14,7 +14,7 @@ To explore Cybercultural's archive of internet history articles, you can browse 
 
 [Yearly reviews](/year) provide an overview of internet history in a certain year (e.g. [1995](/p/internet-1995/) or [2004](/p/internet-2004/)).
 
-You can also browse by [seasons](/seasons/). Each season of Cybercultural is a time-bounded series of posts with a specific theme. We are currently in [season 4](/season4/), about 'the birth of digital culture' in the dot-com period.
+You can also browse by [seasons](/seasons/). Each season of Cybercultural is a time-bounded series of posts with a specific theme. We are currently in [season 5](/season5/), about the history of web design from 1993-2012.
 
 Other pages you might like to explore:
 

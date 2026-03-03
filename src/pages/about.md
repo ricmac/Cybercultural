@@ -5,13 +5,15 @@ description: About Cybercultural — Internet History and Its Impact on Our Cult
 layout: page
 ---
 
-[Cybercultural](https://cybercultural.com/) is a weekly online magazine exploring the **history of the internet and its cultural impact**. It was founded in 2019 by me, [Richard MacManus](https://ricmac.org/) (@ricmac on [Mastodon](https://mastodon.social/@ricmac) and [Bluesky](https://bsky.app/profile/ricmac.cybercultural.com)). It's [free to read](/subscribe).
+Welcome to Cybercultural, my independent blog exploring **the history of the internet and its cultural impact**. 
 
-Previously I was the founder and Editor-in-Chief of [ReadWriteWeb](https://ricmac.org/career-archive/readwriteweb/) (RWW), a pioneering tech blog from 2003-2012. RWW was ranked among the top 10 blogs in the world by Technorati and was syndicated by The New York Times.
+I'm [Richard MacManus](https://ricmac.org/), and I started this site in 2019 as a continuation of my long-standing work documenting the evolution of the web. From 2003 to 2012, I founded and led [ReadWriteWeb](https://ricmac.org/career-archive/readwriteweb/), one of the pioneering tech blogs of its era. It was ranked among the world's top 10 blogs by Technorati and syndicated by The New York Times.
 
-See the [site colophon](/uses) for details on how this website was created.
+Cybercultural is [free to read](/subscribe), but you can support the project via a small donation on [my Ko-fi page](https://ko-fi.com/cybercultural):
 
-<script src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script>kofiwidget2.init('Support me on Ko-fi', '#b80103', 'F1F61AI58P');kofiwidget2.draw();</script> 
+<script src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script>kofiwidget2.init('Support Cybercultural', '#b80103', 'F1F61AI58P');kofiwidget2.draw();</script> 
+
+See the [site colophon](/uses) for details on how I built Cybercultural.
 
 ## Testimonials
 

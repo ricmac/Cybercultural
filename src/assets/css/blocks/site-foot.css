@@ -19,3 +19,52 @@
   block-size: 0.9em;
   inline-size: 0.9em;
 }
+
+.site-foot__subscribe {
+  margin-top: var(--space-xs);
+  display: flex;
+  justify-content: center;
+}
+
+.site-foot__subscribe-form {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: var(--space-xs);
+  flex-wrap: wrap;
+}
+
+.site-foot__subscribe-label {
+  opacity: 0.9;
+}
+
+.site-foot__subscribe-form input[type="email"] {
+  padding: 0.4rem 0.6rem;
+  border-radius: 6px;
+  border: 1px solid rgba(255,255,255,0.3);
+  background: transparent;
+  color: inherit;
+  min-inline-size: 220px;
+}
+
+.site-foot__subscribe-form input[type="submit"] {
+  padding: 0.4rem 0.7rem;
+  border-radius: 6px;
+  border: 1px solid rgba(255,255,255,0.3);
+  background: transparent;
+  color: inherit;
+  cursor: pointer;
+}
+
+.site-foot__subscribe-form input[type="email"]:focus-visible,
+.site-foot__subscribe-form input[type="submit"]:focus-visible,
+.site-foot__subscribe-form input[type="submit"]:hover {
+  outline: none;
+  border-color: rgba(255,255,255,0.6);
+}
+
+@media (max-width: 520px) {
+  .site-foot__subscribe-form input[type="email"] {
+    min-inline-size: min(320px, 85vw);
+  }
+}

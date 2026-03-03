@@ -76,20 +76,12 @@ Maybe it will take more time for Google's Discover algorithms to give my site a 
 
 I'll be praying to the Google Discover gods again in 2026, because coverage there would give my site a big boost. Do I like that web publishers are now reliant on an opaque algorithm from Google for traffic? No! But it's the web publishing reality we all now live in.
 
-## It's Not a Blog...So What Is It?
-
-This year I've been pondering what Cybercultural *is*, exactly. It's not a blog, like ReadWriteWeb was back in the day, because it doesn't have some of the main features I associate with a blog. I write formal, yet also opinionated, articles on Cybercultural; whereas blogs always have a slightly informal, more personal quality to them (even with a group blog like RWW, each blogger had their own unique online personality). And Cybercultural doesn't have comments or trackbacks like a blog; I have experimented with [Webmentions](https://indieweb.org/Webmention), an open standard for cross-blog discussions, but I decided against them in the end — they just felt out of place on Cybercultural.
-
-![Cybercultural homepage, December 2025](/assets/images/cybercultural-homepage-17dec2025.png)
-*Cybercultural homepage, December 2025.*
-
-Email newsletters are still the trendy tool for indie publishers (but please [don't call them "a Substack"](https://www.anildash.com/2024/11/19/dont-call-it-a-substack/!)). While I do publish Cybercultural as an email too, via Buttondown, it isn't my preferred platform. The web is first and foremost where Cybercultural is published; I put a lot of effort into my website design and how each article looks. Ideally, I want people to read my posts on the site — but I also offer the full content via email and RSS too.
-
-Eventually, I decided to call Cybercultural an **online magazine**. The site has a weekly cadence, kind of like an old-school magazine, and a topical focus (internet history). Admittedly, using the term "online magazine" does make me an outlier on the indie web — blogs and "digital gardens" are much more common in this ecosystem. But as Popeye famously said, I yam what I yam.
-
 ## Seasons and Replanting
 
 This year has been [season 4](/season4/) of Cybercultural. Its theme was 'the birth of digital culture' during the dot-com period. I began on January 16 with a post about [multimedia in 1994](/p/multimedia-gulch-1994/); and now in December I'm finishing up the 2003 series of posts.
+
+![Cybercultural homepage, December 2025](/assets/images/cybercultural-homepage-17dec2025.png)
+*Cybercultural homepage, December 2025.*
 
 I [introduced 'seasons'](/p/seasons/) in July, as an alternative way to organize Cybercultural's content. I've always liked the concept of seasons in podcasts (which in turn borrowed it from tv shows), because it allows a show to explore a specific theme or topic for a while, then change things up with a different theme or topic for the next season. I don't think seasons are common yet in web publications, but I've found that it gives me a focus to build a store of content around. Also, a season can be a kind of creative impetus to dive deeper on a subject.
 
@@ -102,7 +94,7 @@ As an extension to these legacy measures, this year I also introduced the concep
 ![RWW replanted](/assets/images/rww-tbl-2009-replanted.png)
 *A classic RWW post [replanted into Cybercultural](/p/tim-berners-lee-interview-2009/).*
 
-## My Home on the Open Web
+## The Open Social Web
 
 One thing I really miss about the Web 2.0 era, when blogs ruled, was the feeling that you were part of a large and thriving community: [the blogosphere](/p/blogosphere-2003/). The closest approximation to that now is the fediverse, the decentralized web movement that has Mastodon as its epicenter (although there are other types of services available too, such as Pixelfed and PeerTube). If you include Bluesky as well, then you can expand the circle and call it the "open social" movement. 
 
@@ -112,6 +104,14 @@ In 2025, it felt like centralized services like X and Facebook/Instagram remaine
 
 However, I still think of the web as a platform for creativity and independent thought, which was what initially attracted me to the web in the 1990s when I was a young man. Ok, in 2025 the web is more of a refuge than the catch-all I had hoped it would become in Web 2.0. But the open web as a refuge for creativity and independent thought...heck, that's still something worth fighting for.
 
+## My Home on the Open Web
+
+For an indie web publisher, distribution is vital. Unfortunately, it's difficult to achieve with all forms of social media now. That's why an email newsletter is currently the most popular distribution format (just [don't call it "a Substack"](https://www.anildash.com/2024/11/19/dont-call-it-a-substack/!)) — it's one of the few distribution mechanisms still under our direct control. 
+
+While I do publish Cybercultural as an email, via Buttondown, it isn't my preferred platform. The web is first and foremost where Cybercultural is published; I put a lot of effort into my website design and how each article looks. Ideally, I want people to read my posts on the site — but I also offer the full content via email and RSS too.
+
 To conclude this wrapup of my indie web experience in 2025: more than ever, I still regard the open web as my online home. There are communities I feel like I belong to within it — like the 'open social' community, the Mastodon community, the Eleventy community, etc. Maybe there will eventually be a Cybercultural community! 
 
 Regardless, I'll keep posting my original content to my indie website every week, while also praying to the Google Discover gods and hoping AI doesn't completely eat my lunch. Being an indie web publisher is all I know how to be, and the open web is the only place I feel like I belong.
+
+*Update, 3 February 2026: I edited this post, to clarify some thoughts and better organize it.*

@@ -3,15 +3,9 @@
 <footer class="site-foot">
   <div class="wrapper">
     <div class="site-foot__inner">
-      <nav id="footernav" class="site-foot__inner text-step-0" aria-label="Footer">&copy; {% year %} <a href="/" {% if activePage === '/' %} aria-current="page" {% endif %}>{{ meta.siteName }}</a>
-
-        {% for item in navigation.bottom %}
-
-<a href="{{ item.url }}" {{ helpers.getLinkActiveState(item.url, page.url) | safe }}>{{ item.text }}</a>
-
-        {% endfor %}
-      </nav>
-
+<nav id="footernav" class="site-foot__inner text-step-0" aria-label="Footer">
+  &copy; {% year %} <a href="/" {% if activePage === '/' %} aria-current="page" {% endif %}>{{ meta.siteName }}</a>
+</nav>
       <nav id="social" class="site-foot__inner" aria-label="Social links">
 
       <!--! Font Awesome Free 6.7.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc. -->
@@ -41,11 +35,34 @@
       </a>
 
 <a href="/uses/">
-  <img eleventy:ignore src="/assets/images/built-with-eleventy.gif" alt="Built with Eleventy" style="image-rendering: pixelated;">
+  <img eleventy:ignore src="/assets/images/built-with-eleventy.gif" title="Site Colophon" desc="Link to my site colophon" alt="Built with Eleventy" style="image-rendering: pixelated;">
 </a>
         </nav>
 
     </div>
+
+    <div class="site-foot__subscribe text-step-0">
+      <form
+        action="https://buttondown.email/api/emails/embed-subscribe/ricmac"
+        method="post"
+        target="popupwindow"
+        onsubmit="window.open('https://buttondown.email/ricmac', 'popupwindow')"
+        class="site-foot__subscribe-form"
+      >
+        <label for="bd-email-footer" class="site-foot__subscribe-label">Email updates:</label>
+
+        <input
+          type="email"
+          name="email"
+          id="bd-email-footer"
+          placeholder="Your email address"
+          required
+        />
+
+        <input type="submit" value="Subscribe" />
+      </form>
+    </div>
+
   </div>
 
 </footer>
