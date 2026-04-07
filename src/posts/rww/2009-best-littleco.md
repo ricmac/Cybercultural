@@ -5,6 +5,7 @@ date: 2009-12-21
 permalink: "p/best-littleco-2009/"
 tags: ['web20', '2009', 'rww']
 featureImage: "/assets/images/best-littleco-2009.jpg"
+canonical: "https://ricmac.org/2009/12/21/best-littleco-of-2009-most-promising-for-2010/"
 ---
 
 ![This post as it looked in 2009](/assets/images/best-littleco-2009.jpg){loading="eager"}

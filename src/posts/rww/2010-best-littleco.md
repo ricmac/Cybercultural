@@ -5,6 +5,7 @@ date: 2010-12-20
 permalink: "p/best-littleco-2010-tumblr/"
 tags: ['web20', '2010', 'rww']
 featureImage: "/assets/images/rww-best-littleco-2010.jpg"
+canonical: "https://ricmac.org/2010/12/20/best-littleco-of-2010-tumblr/"
 ---
 
 ![This post as it looked in 2010](/assets/images/rww-best-littleco-2010.jpg){loading="eager"}

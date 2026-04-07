@@ -5,6 +5,7 @@ date: 2008-12-18
 permalink: "p/best-bigco-2008-apple/"
 tags: ['web20', '2008', 'rww']
 featureImage: "/assets/images/rww-best-bigco-2008-apple.jpg"
+canonical: "https://ricmac.org/2008/12/18/best-bigco-of-2008-apple/"
 ---
 
 ![This post as it looked in 2008](/assets/images/rww-best-bigco-2008-apple.jpg){loading="eager"}

@@ -5,6 +5,7 @@ date: 2005-12-22
 permalink: "p/best-web20-companies-2005/"
 tags: ['web20', '2005', 'rww']
 featureImage: "/assets/images/best-web20-companies-2005-1280x720.jpg"
+canonical: "https://ricmac.org/2005/12/22/best-web-companies-and-innovators-of-2005/"
 ---
 
 ![This post as it looked in 2005](/assets/images/best-web20-companies-2005-large.jpg){loading="eager"}

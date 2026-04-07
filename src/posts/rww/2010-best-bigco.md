@@ -5,6 +5,7 @@ date: 2010-12-22
 permalink: "p/best-bigco-2010-facebook/"
 tags: ['web20', '2010', 'rww']
 featureImage: "/assets/images/best-bigco-2010.jpg"
+canonical: "https://ricmac.org/2010/12/22/best-bigco-of-2010-facebook/"
 ---
 
 ![This post as it looked in 2010](/assets/images/best-bigco-2010.jpg){loading="eager"}

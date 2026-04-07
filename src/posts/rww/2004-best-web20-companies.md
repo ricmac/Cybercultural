@@ -5,6 +5,7 @@ date: 2004-12-30
 permalink: "p/best-web20-companies-2004/"
 tags: ['web20', '2004', 'rww']
 featureImage: "/assets/images/rww-best-web20-companies-2004-1280x720.jpg"
+canonical: "https://ricmac.org/2004/12/30/best-web-2-0-companies-of-2004/"
 ---
 
 ![This post as it looked in 2004](/assets/images/rww-best-web20-companies-2004-large.jpg){loading="eager"}

@@ -5,6 +5,7 @@ date: 2011-12-19
 permalink: "p/best-littleco-2011-dropbox/"
 tags: ['web20', '2011', 'rww']
 featureImage: "/assets/images/best-littleco-2011.jpg"
+canonical: "https://ricmac.org/2011/12/19/best-littleco-of-2011/"
 ---
 
 ![This post as it looked in 2011](/assets/images/best-littleco-2011.jpg){loading="eager"}

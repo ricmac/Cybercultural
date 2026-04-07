@@ -5,6 +5,7 @@ date: 2006-12-22
 permalink: "p/best-web20-littleco-2006-youtube/"
 tags: ['web20', '2006', 'rww']
 featureImage: "/assets/images/best-littleco-2006-small.jpg"
+canonical: "https://ricmac.org/2006/12/22/best-web-littleco-of-2006-and-most-promising-for-2007/"
 ---
 
 ![This post as it looked in 2006](/assets/images/best-littleco-2006-large.jpg){loading="eager"}

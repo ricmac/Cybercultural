@@ -5,6 +5,7 @@ date: 2007-12-13
 permalink: "p/best-web-littleco-2007-twitter/"
 tags: ['web20', '2007', 'rww']
 featureImage: "/assets/images/rww-best-littleco-2007-small.jpg"
+canonical: "https://ricmac.org/2007/12/13/best-web-littleco-of-2007-twitter/"
 ---
 
 ![This post as it looked in 2007](/assets/images/rww-best-littleco-2007-large.jpg){loading="eager"}

@@ -5,6 +5,7 @@ date: 2010-12-13
 permalink: "p/my-top-10-web-products-of-2010/"
 tags: ['web20', '2010', 'rww']
 featureImage: "/assets/images/ricmac-top-10-2010.jpg"
+canonical: "https://ricmac.org/2010/12/13/richard-macmanus-top-10-web-products-of-2010/"
 ---
 
 ![This post as it looked in 2010](/assets/images/ricmac-top-10-2010.jpg){loading="eager"}

@@ -5,6 +5,7 @@ date: 2011-12-20
 permalink: "p/my-top-10-web-products-of-2011/"
 tags: ['web20', '2011', 'rww']
 featureImage: "/assets/images/ricmac-top-web-products-2011.jpg"
+canonical: "https://ricmac.org/2011/12/20/richards-top-10-web-products-of-2011/"
 ---
 
 ![This post as it looked in 2011](/assets/images/ricmac-top-web-products-2011.jpg){loading="eager"}

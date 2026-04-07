@@ -5,6 +5,7 @@ date: 2004-04-22
 permalink: "p/one-year-blogging-anniversary-2004/"
 tags: ['web20', '2004', 'rww']
 featureImage: "/assets/images/one-year-on-2004-1280x720.jpg"
+canonical: "https://ricmac.org/2004/04/22/one-year-on-part-1/"
 ---
 
 ![This post as it looked in 2004](/assets/images/one-year-on-2004-1280x793.jpg){loading="eager"}

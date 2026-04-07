@@ -5,6 +5,7 @@ date: 2003-04-20
 permalink: "p/the-readwriteweb-2003/"
 tags: ['web20', '2003', 'rww']
 featureImage: "/assets/images/rww-first-post-1280x720.jpg"
+canonical: "https://ricmac.org/2003/04/20/the-read-write-web/"
 ---
 
 ![This post as it looked in 2003](/assets/images/rww-first-post-1280x800.jpg){loading="eager"}

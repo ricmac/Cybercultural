@@ -5,6 +5,7 @@ date: 2008-12-22
 permalink: "p/best-littleco-2008/"
 tags: ['web20', '2008', 'rww']
 featureImage: "/assets/images/rww-best-littleco-2008.jpg"
+canonical: "https://ricmac.org/2008/12/22/best-littleco-of-2008-most-promising-for-2009/"
 ---
 
 ![This post as it looked in 2008](/assets/images/rww-best-littleco-2008.jpg){loading="eager"}

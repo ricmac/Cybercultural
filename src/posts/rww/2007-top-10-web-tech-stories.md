@@ -5,6 +5,7 @@ date: 2007-12-31
 permalink: "p/2007-top-10-web-tech-stories/"
 tags: ['web20', '2007', 'rww']
 featureImage: "/assets/images/top-web-tech-stories-2007-1280x720.jpg"
+canonical: "https://ricmac.org/2007/12/31/top-10-web-tech-stories-of-2007/"
 ---
 
 ![This post as it looked in 2007](/assets/images/top-web-tech-stories-2007-1280x720.jpg){loading="eager"}

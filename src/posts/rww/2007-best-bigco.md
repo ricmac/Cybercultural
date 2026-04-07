@@ -5,6 +5,7 @@ date: 2007-12-10
 permalink: "p/best-web-bigco-2007-facebook/"
 tags: ['web20', '2007', 'rww']
 featureImage: "/assets/images/best-bigco-2007-small.jpg"
+canonical: "https://ricmac.org/2007/12/10/best-web-bigco-of-2007-facebook/"
 ---
 
 ![This post as it looked in 2007](/assets/images/best-bigco-2007-large.jpg){loading="eager"}

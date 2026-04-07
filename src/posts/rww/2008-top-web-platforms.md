@@ -5,6 +5,7 @@ date: 2008-12-21
 permalink: "p/top-10-web-platforms-2008/"
 tags: ['web20', '2008', 'rww']
 featureImage: "/assets/images/rww-top-platforms-2008.jpg"
+canonical: "https://ricmac.org/2008/12/21/top-10-web-platforms-of-2008/"
 ---
 
 ![This post as it looked in 2008](/assets/images/rww-top-platforms-2008.jpg){loading="eager"}

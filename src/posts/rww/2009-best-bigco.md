@@ -5,6 +5,7 @@ date: 2009-12-16
 permalink: "p/best-bigco-2009-google/"
 tags: ['web20', '2009', 'rww']
 featureImage: "/assets/images/rww-best-bigco-2009.jpg"
+canonical: "https://ricmac.org/2009/12/16/best-bigco-of-2009/"
 ---
 
 ![This post as it looked in 2009](/assets/images/rww-best-bigco-2009.jpg){loading="eager"}

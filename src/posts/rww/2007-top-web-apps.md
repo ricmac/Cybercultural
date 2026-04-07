@@ -5,6 +5,7 @@ date: 2007-12-26
 permalink: "p/top-web-apps-2007/"
 tags: ['web20', '2007', 'rww']
 featureImage: "/assets/images/top-web-apps-2007-1280x720.jpg"
+canonical: "https://ricmac.org/2007/12/26/top-web-apps-sites-of-2007/"
 ---
 
 ![This post as it looked in 2007](/assets/images/top-web-apps-2007-1280x730.jpg){loading="eager"}

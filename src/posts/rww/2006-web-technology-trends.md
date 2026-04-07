@@ -5,6 +5,7 @@ date: 2006-12-11
 permalink: "p/2006-web-technology-trends/"
 tags: ['web20', '2006', 'rww']
 featureImage: "/assets/images/rww-webtrends-2006-small.jpg"
+canonical: "https://ricmac.org/2006/12/11/2006-web-technology-trends/"
 ---
 
 ![This post as it looked in 2006](/assets/images/rww-webtrends-2006-large.jpg){loading="eager"}

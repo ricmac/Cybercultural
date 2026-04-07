@@ -5,6 +5,7 @@ date: 2006-12-21
 permalink: "p/best-web20-bigco-2006-google/"
 tags: ['web20', '2006', 'rww']
 featureImage: "/assets/images/rww-best-bigco-2006-small.jpg"
+canonical: "https://ricmac.org/2006/12/21/best-web-bigco-of-2006-google/"
 ---
 
 ![This post as it looked in 2006](/assets/images/rww-best-bigco-2006-large.jpg){loading="eager"}

@@ -5,6 +5,7 @@ date: 2011-12-21
 permalink: "p/best-bigco-2011-amazon/"
 tags: ['web20', '2011', 'rww']
 featureImage: "/assets/images/bestbigco-2011-1280x720.jpg"
+canonical: "https://ricmac.org/2011/12/21/best-bigco-of-2011/"
 ---
 
 ![This post as it looked in 2011](/assets/images/bestbigco-2011-1280x720.jpg){loading="eager"}
