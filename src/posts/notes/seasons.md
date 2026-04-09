@@ -24,7 +24,7 @@ What I'm doing with Cybercultural seasons is a mix of those two approaches. I ha
 
 I think this way of thinking about Cybercultural's information architecture works, at least for me as the site proprietor. As a (free) subscriber of my content, I think it'll also make sense for you too, going forward. I haven't yet made seasons a part of the navigation structure, as I think segmenting content by eras (dot-com, Web 2.0, 2010s) works best for now. But perhaps I will add the seasons to the website structure in due course.
 
-Regardless of whether or not it's part of this site's visible structure, I do think the 'seasons' approach to running a website / blog is an interesting twist on the traditional way to order a blog — reverse-chronological. Perhaps the seasons concept has more in common with the [digital garden](https://maggieappleton.com/garden-history/) pattern for websites in 2025? Let me know your thoughts on [Mastodon](https://mastodon.social/@ricmac) or [Bluesky](https://bsky.app/profile/ricmac.cybercultural.com).
+Regardless of whether or not it's part of this site's visible structure, I do think the 'seasons' approach to running a website / blog is an interesting twist on the traditional way to order a blog — reverse-chronological. Perhaps the seasons concept has more in common with the [digital garden](https://maggieappleton.com/garden-history/) pattern for websites in 2025? Let me know your thoughts on [Mastodon](https://mastodon.social/@ricmac) or [Bluesky](https://bsky.app/profile/ricmac.org).
 
 **Update, 30 July 2025:** I have now added [seasons](/seasons/) to the site's navigation, via the tagging system.
 

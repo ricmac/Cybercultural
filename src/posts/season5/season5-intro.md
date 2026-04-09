@@ -35,7 +35,7 @@ The resulting book should come out in 2027. Incidentally, another of my projects
 ![Jeffrey Zeldman, 2009](/assets/images/jeffrey-zeldman-2009.jpg)
 *Jeffrey Zeldman, An Event Apart conference, San Francisco, 2009; [photo by Kris Krüg](https://www.flickr.com/photos/kk/4166625195/in/album-72157622956264784).*
 
-I expect some variance to emerge as I actually write the articles for season 5, but you can get a sense of the topics I'll hit from the outline. I'm also very open to feedback as I go along, so please feel free to email me (richard AT cybercultural.com) or tag me on [Mastodon](https://mastodon.social/@ricmac), [Bluesky](https://bsky.app/profile/ricmac.cybercultural.com) or [LinkedIn](https://www.linkedin.com/in/ricmac) at any time with suggestions, corrections, etc.
+I expect some variance to emerge as I actually write the articles for season 5, but you can get a sense of the topics I'll hit from the outline. I'm also very open to feedback as I go along, so please feel free to email me (richard AT cybercultural.com) or tag me on [Mastodon](https://mastodon.social/@ricmac), [Bluesky](https://bsky.app/profile/ricmac.org) or [LinkedIn](https://www.linkedin.com/in/ricmac) at any time with suggestions, corrections, etc.
 
 Now let's look at a few of the main themes of this season.
 
