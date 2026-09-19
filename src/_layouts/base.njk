@@ -15,6 +15,10 @@
 
 {% if schema == 'blog' %}
 {%- include "schemas/blogpost-schema.njk" -%}
+{% elif schema == 'webpage' %}
+{%- include "schemas/webpage-schema.njk" -%}
+{% elif schema == 'collection' %}
+{%- include "schemas/collectionpage-schema.njk" -%}
 {% endif %}
 
     <link rel="stylesheet" href="/assets/css/global.css?{{ assetHash }}" />
