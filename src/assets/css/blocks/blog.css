@@ -14,3 +14,33 @@
   max-inline-size: var(--max-img-width, 100%);
   block-size: auto;
 }
+
+/**
+ * The subscribe/book block sits outside <article class="region blog">
+ * (see post.njk) so it isn't indexed as part of the post body. That
+ * split means it picks up its own margin-top from `main.flow > * + *`
+ * (utilities/flow.css) on top of the article's own trailing `.region`
+ * padding — doubling the gap above it — while having no padding of
+ * its own before the footer. Restore the bottom padding the article
+ * used to provide when this content lived inside it, and cancel the
+ * doubled top margin. The margin-block-start override needs the extra
+ * specificity: utilities/*.css loads after blocks/*.css in global.css,
+ * so a bare `.post-extras` rule here loses to `.flow > * + *` on equal
+ * specificity.
+ */
+.post-extras {
+  padding-block-end: var(--region-space-bottom, var(--space-s-m));
+}
+
+.region.blog + .post-extras {
+  margin-block-start: 0;
+}
+
+/* The <hr> is now post-extras' first child, so it no longer matches
+   `.flow > * + *` and falls back to the browser's own ~0.5em default
+   margin-top, adding to the article's padding above it. Zero it so
+   the gap above the hr is controlled by the article's padding alone,
+   same as before this block lived outside the article. */
+.post-extras > hr {
+  margin-block-start: 0;
+}
