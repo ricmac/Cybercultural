@@ -16,6 +16,7 @@ import { getAllPosts, onlyMarkdown } from './config/collections/index.js';
 import markdownIt from 'markdown-it'; // Import markdown-it
 import markdownItAttrs from 'markdown-it-attrs'; // Import markdown-it-attrs
 import markdownItFootnote from "markdown-it-footnote"; // enable footnotes
+import markdownItAnchor from 'markdown-it-anchor'; // give headings linkable ids
 import { EleventyRenderPlugin } from '@11ty/eleventy';
 import syntaxHighlight from '@11ty/eleventy-plugin-syntaxhighlight';
 import { slugifyString } from './config/utils/index.js';
@@ -98,7 +99,14 @@ export default function(eleventyConfig) {
     html: true // Allow raw HTML
   })
   .use(markdownItAttrs)
-  .use(markdownItFootnote);
+  .use(markdownItFootnote)
+  .use(markdownItAnchor, {
+    slugify: slugifyString,
+    tabIndex: false,
+    permalink: markdownItAnchor.permalink.headerLink({
+      class: 'heading-anchor'
+    })
+  });
   eleventyConfig.setLibrary('md', markdown);
 
   // Add Eleventy Image Plugin

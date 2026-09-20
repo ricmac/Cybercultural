@@ -3,7 +3,7 @@
 <meta name="description" content="{% if seo.description %}{{ seo.description | default('') }}{% elif description %}{{ description | default('') }}{% else %}{{ meta.siteDescription | default('') }}{% endif %}" />
 
 <meta name="theme-color" content="{{ meta.themeColor | default('#ffffff') }}" />
-<meta name="robots" content="index, follow, max-image-preview:large" /><!-- All Search Engines -->
+<meta name="robots" content="{% if noindex %}noindex, follow{% else %}index, follow, max-image-preview:large{% endif %}" /><!-- All Search Engines -->
 <meta name="generator" content="{{ eleventy.generator | default('Eleventy') }}" /><!-- thank you, Zach -->
 <!-- Disable automatic detection and formatting of possible phone numbers -->
 <meta name="format-detection" content="telephone=no" />
@@ -39,6 +39,7 @@
 <meta property="article:author" content="{{ meta.author.name }}" />
 <meta property="fediverse:creator" content="@ricmac@mastodon.social" />
 
+<meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="{% if title %}{{ title | default('') }}{% else %}{{ meta.siteName | default('') }}{% endif %}">
 <meta name="twitter:description" content="{% if description %}{{ description | default('') }}{% else %}{{ meta.siteDescription | default('') }}{% endif %}">
 <meta name="twitter:image" content="{% if featureImage %}{{ (meta.url | default('')) ~ (featureImage | default('')) }}{% else %}{{ (meta.url | default('')) ~ (meta.defaultimage | default('')) }}{% endif %}">
