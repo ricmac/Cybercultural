@@ -50,6 +50,7 @@ Net effect: item 0 (measurement baseline) was added because of Daniel Mercer's p
 | 12 | Add llms.txt | Speculative | Trivial | Not started |
 | 13 | Fix the missing twitter:card tag | Not AEO — just a bug | Trivial | **Done** |
 | 14 | Stand up the AEO research routine — monthly, not weekly | swyx's actual point | Small | Not started |
+| 15 | Reframe titles/descriptions on broad-entity posts to match searcher intent | Strong, from query+page data | Content, ~6 posts, needs Richard | Not started — recommendations only |
 
 ---
 
@@ -100,6 +101,37 @@ So "every one of the six worst-converting pages has zero subheadings" was an art
 - Before bulk-editing those 14, test the hypothesis on the two posts just changed. If CTR on them does not move, this item is not worth 45 posts of hand-editing.
 - Anything that *does* get headings: write 3–6 `##` per post, phrased concretely ("How BowieNet got built") not as generic labels. Heading IDs already work (item 2 is done), so every new heading is automatically linkable. Avoid "Conclusion" — two of the setext posts already use it, and it is exactly the generic label that gives an answer engine nothing.
 - Optional cleanup, no rendered change: converting the 57 setext posts to `##` would stop this miscount recurring. Purely cosmetic in the output.
+
+## Item 15 — Reframe titles/descriptions on broad-entity posts to match searcher intent
+
+**Status: not started — this is investigation and recommendations, not a content edit. Titles are Richard's own writing/branding; nothing below has been changed on the pages themselves.**
+
+Item 1 flagged this as the likely real explanation once the subheading correlation fell apart. This item tests it properly by joining the baseline's top-50 queries against its top-50 pages by title, since Search Console's own query-per-page breakdown wasn't captured.
+
+**The `internet-[year]` titles are near-literal copies of the queries that drive them.** All 19 posts share one title template, `What the Internet Was Like in [Year]`, against query variants like "what was the internet like in 1996", "internet in 1996", "1996 internet". A searcher scanning the results page sees their own question restated as the title — that's an unusually strong signal to click, and this series averages ~1.3% CTR against the site's 0.6% baseline.
+
+**The six worst-converting high-impression posts are titled as narratives about a moment, not as answers to a query — and the query data suggests most of their impressions come from broad, generic head terms rather than anything narrative-shaped:**
+
+| Post | Impressions | CTR | Title | Best-guess driving query (from top-50) |
+|---|---|---|---|---|
+| `the-golden-age-of-microblogging` | 57,409 | 0.06% | "The Golden Age of Microblogging, With Soup.io and Tumblr" | none in top 50 — likely broad "tumblr"/"microblogging" terms outside it |
+| `marc-andreessen-2004` | 45,801 | 0.19% | "Marc Andreessen in 2004: Adapting to a New Web Era" | "marc andreessen" — 34,845 impr, 0.17% CTR on its own, i.e. almost the entire page |
+| `1995-the-birth-of-javascript` | 40,777 | 0.39% | "1995: The Birth of JavaScript" | "when/why was javascript created" sum to only 1,487 impr — the other ~39,000 are from queries not in the top 50 |
+| `wayback-machine-launch-2001` | 13,706 | 0.09% | "2001: The Internet Gets a Memory With the Wayback Machine" | none in top 50 — likely "wayback machine" itself, a huge generic term |
+| `1993-mosaic-launches-and-the-web-is-set-free` | 11,658 | 0.09% | "1993: Mosaic Launches and the Web Becomes Open Source" | none in top 50 — likely "mosaic browser" |
+| `bowienet-the-inside-story` | 5,426 | 0.39% | "BowieNet: The Inside Story of Its Creation" | "bowienet" — 2,284 impr, less than half the page's total |
+
+Where the query is identifiable ("marc andreessen"), it confirms the pattern directly: it's a single, enormous, generic proper-noun search, and this page's 0.17% CTR on it *is* basically the page's overall 0.19% CTR. Someone typing "marc andreessen" is very likely after who he is now (bio, current company, net worth) — not a specific week in 2004 when he was easing out of Opsware. The title correctly describes the article; it just isn't what a generic-name searcher is expecting, so most of them don't click, and an AI Overview answering "who is Marc Andreessen" from broader sources doesn't need this page either.
+
+The other five plausibly follow the same shape even without a matching top-50 query: they rank for a well-known name or thing (Tumblr, the Wayback Machine, Mosaic, BowieNet) at huge volume, but the title signals a narrow historical vignette rather than the general "what is this" answer most of that volume wants.
+
+**This is a different problem from item 1's subheadings, and only partly fixable by editing titles.** For a head term this broad, some of the CTR gap may be structural — Cybercultural's angle is deliberately narrow and historical, and a chunk of that traffic was never going to click through regardless of title. What a title/description change can realistically do is filter better, not convert everything:
+
+- Lead the meta `description` (the part of the snippet Google swaps in most often) with a plain factual answer to the broad query before the historical angle — e.g. for BowieNet, open with what it was and when, then pivot to "the inside story of its creation," so both the quick-answer searcher and the deep-dive searcher recognize a match.
+- Where a title can signal the narrow angle without costing the broad match, do it (e.g. "...His Ning Pivot Before Web 2.0" tells a "marc andreessen" searcher up front this is a specific story, which won't raise CTR on the broad term but may reduce wasted impressions/improve position over time as engagement quality improves).
+- Test on one post before touching all six, the same way item 1 is being tested on two posts before 14 more — pick the post with the clearest single driving query (`marc-andreessen-2004`, since "marc andreessen" is almost the whole page) and watch whether a description-only change moves its CTR before rewriting titles Richard has already published under.
+
+**Not done here:** no titles or descriptions were changed. Richard should review before anything on this list ships — these are his headlines, and getting them wrong costs more than the status quo.
 
 ## Item 2 — Turn on heading IDs so sections are linkable
 
