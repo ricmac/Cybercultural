@@ -113,6 +113,27 @@ misleading to read later.
 To use it afterwards: **Reports → Acquisition → Traffic acquisition**, change the first
 column's dimension to **Session custom channel group (AI Assistants)**.
 
+**It will not be in that dropdown straight away.** A newly created custom channel group
+takes roughly a day to become available as a reporting dimension — Google doesn't document
+a figure, but 24 to 48 hours is what people consistently report. Until then the dropdown
+shows only the built-in dimensions, which looks like the group failed to save. It didn't;
+check that it's listed under Admin → Data display → Channel groups and then leave it alone
+until tomorrow.
+
+You do **not** need to make it the primary channel group to see it. Leave Primary set to
+"Default channel group" — switching that changes the channel breakdown in every standard
+report, and unlike the custom group itself it does not apply to historical data.
+
+**What to look at in the meantime,** since neither needs the new group:
+
+- **Session default channel group** — already in the dropdown, and it will show Google's
+  built-in **AI Assistant** row if that traffic exists. Not retroactive before May 2026 and
+  no Perplexity, but it's real data today.
+- **Session source** — also already there. Search it for `chatgpt`, `perplexity`, `claude`,
+  `gemini`, `copilot`. This is the raw version of what the channel group will show you, it
+  goes back as far as the report does, and it's the check to run if the channel group ever
+  looks wrong.
+
 Standard GA4 properties allow two custom channel groups, so there is room for one more
 later if you ever want a different cut.
 
