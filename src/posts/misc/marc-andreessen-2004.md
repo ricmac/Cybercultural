@@ -2,6 +2,7 @@
 title: 'Marc Andreessen in 2004: Adapting to a New Web Era'
 description: "Marc Andreessen co-founded Netscape and Andreessen Horowitz. In 2004 he was leaving enterprise software (Opsware) for the emerging social web, with a new startup: Ning."
 date: 2023-11-10
+lastUpdated: 2026-09-21
 permalink: "p/marc-andreessen-2004/"
 tags: ['web20', '2004']
 featureImage: "/assets/images/marc-andreessen-time-cover-1996-1200x675.jpg"

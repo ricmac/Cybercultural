@@ -40,13 +40,13 @@ Net effect: item 0 (measurement baseline) was added because of Daniel Mercer's p
 | 2 | Turn on heading IDs so sections are linkable | Strong | Small, with care | **Done** |
 | 3 | Get the book pitch out of the indexed article body | Strong | Small | **Done** |
 | 4 | Stop claiming About/Search/Subscribe/era pages are blog posts | Strong | Small | **Done** |
-| 5 | Give Richard a real Person entity | Reasonable | Small | Not started |
-| 6 | Fill out BlogPosting: dateModified, about, keywords | Reasonable | Medium | Not started |
+| 5 | Give Richard a real Person entity | Reasonable | Small | **Done** |
+| 6 | Fill out BlogPosting: dateModified, about, keywords | Reasonable | Medium | **Done** |
 | 7 | Serve clean markdown alongside each post | Reasonable | Small | Not started |
 | 8 | Turn `/tags/[year]/` archives into answerable summaries | Narrowed after real data | Content, 27 pages, lighter | Not started |
 | 9 | Add related-post links at the foot of each post | Reasonable | Small | Not started |
-| 10 | Record lastUpdated and surface it | Reasonable | Small + ongoing | Not started |
-| 11 | Name the AI crawlers in robots.txt | Documentary only | Trivial | Not started |
+| 10 | Record lastUpdated and surface it | Reasonable | Small + ongoing | Started — key wired up, 4 posts carry it |
+| 11 | Name the AI crawlers in robots.txt | Documentary only | Trivial | **Done** |
 | 12 | Add llms.txt | Speculative | Trivial | Not started |
 | 13 | Fix the missing twitter:card tag | Not AEO — just a bug | Trivial | **Done** |
 | 14 | Stand up the AEO research routine — monthly, not weekly | swyx's actual point | Small | Not started |
@@ -155,14 +155,24 @@ Bonus fix: `404.md` already had `noindex: true` in its front matter, but `meta-i
 
 ## Item 5 — Give Richard a real Person entity
 
-**Status: not started.** No `Person` entity anywhere in the schema, no `sameAs` links. Add one `Person` node to the `@graph` in `base-schema.njk`, referenced by `@id` from every `BlogPosting` author field:
+**Status: done**, live on `main` (commit 7809d7f). No `Person` entity anywhere in the schema, no `sameAs` links. Add one `Person` node to the `@graph` in `base-schema.njk`, referenced by `@id` from every `BlogPosting` author field:
 - `sameAs`: ricmac.org, mastodon.social/@ricmac, bsky.app/profile/ricmac.org, the ReadWriteWeb career archive, Amazon/Bookshop author pages
 - `knowsAbout`: internet history, Web 2.0, the dot-com era, tech blogging
 - `jobTitle`, `alumniOf`/`worksFor` (ReadWriteWeb as an `Organization`), `author` of *Bubble Blog* as a `Book` node with ISBN
 
 ## Item 6 — Fill out BlogPosting: dateModified, about, keywords
 
-**Status: not started.** `blogpost-schema.njk` currently has only `headline`, `description`, `image`, `inLanguage`, `publisher`, `author`, `datePublished`. Add `dateModified` (needs item 10), `keywords`/`articleSection` (derivable from existing `tags` front matter, template-only), `wordCount`, an `ImageObject` for `image` instead of a bare URL. `about`/`mentions` (linking to Netscape, BowieNet, etc. as entities) is per-post work — do only for posts that matter.
+**Status: done.** `blogpost-schema.njk` now emits, on top of what it had:
+
+- `dateModified` — reads the `lastUpdated` front-matter key that item 10 introduces, falling back to the publication date, so it never claims an edit that didn't happen. It's the same key `sitemap.njk` already honours.
+- `keywords` and `articleSection` — from the post's own tags. No new taxonomy: the labels are the ones already shown in the post byline, now kept in `src/_data/tagMeta.js` and read from there by both the byline and the schema. The season tags are labels for this site's own series and mean nothing to a search engine, so they stay in the byline and out of `keywords`.
+- `about` — a `Thing` per topic tag, with `sameAs` pointing at the matching Wikipedia entity: Web 2.0, the dot-com bubble, internet culture, ReadWriteWeb, and the history of the internet as the fallback for a post whose tags say nothing narrower. Per-post entities (Netscape, BowieNet, Mosaic) are still per-post work and are not done.
+- `wordCount` — counted from the post's markdown source, so the book pitch and subscribe form that item 3 moved out of the article body don't inflate it.
+- `image` as an `ImageObject` with the file's real pixel width and height, read at build time, instead of a bare URL string.
+
+Four posts carry `lastUpdated: 2026-09-21` — the four that were genuinely edited that day (the two that got subheadings, the two that got the generic "Conclusion" heading renamed) — so `dateModified` says something real on the posts that have actually changed, and `sitemap.njk` reports a true `lastmod` for them. That is the beginning of item 10, not the whole of it.
+
+One fix came with it: every string in the JSON-LD now goes through a `toJsonLd` filter. Nunjucks escapes HTML by default, and script contents are not entity-decoded, so an apostrophe in a title or description was reaching the JSON as a literal `&#39;`. That affected the existing `headline` and `description` fields on every post.
 
 ## Item 7 — Serve clean markdown alongside each post
 
@@ -180,11 +190,11 @@ What's actually thin: the 27 files in `src/pages/yearpages/`, which render `/tag
 
 ## Item 10 — Record lastUpdated and surface it
 
-**Status: not started.** All 220 posts have exactly the same six front-matter keys; none has `lastUpdated`, though `sitemap.njk` already uses it if present. Add the convention, feed it into `dateModified` (item 6) and a visible "Updated" line.
+**Status: started.** All 220 posts have exactly the same six front-matter keys; none has `lastUpdated`, though `sitemap.njk` already uses it if present. The key is now read by both `sitemap.njk` and the post schema (item 6), and four posts carry it. Still to do: the convention itself — a habit of setting it on every edit — and a visible "Updated" line on the page.
 
 ## Item 11 — Name the AI crawlers in robots.txt
 
-**Status: not started, low priority.** `robots.njk` is already a bare `User-agent: *` with no relevant disallow — GPTBot, ClaudeBot, PerplexityBot, OAI-SearchBot, Google-Extended and Applebot-Extended are all already permitted. Naming them explicitly grants nothing new; do it only for the documentation value.
+**Status: done.** `robots.njk` now names GPTBot, OAI-SearchBot, ChatGPT-User, ClaudeBot, Claude-User, Claude-SearchBot, PerplexityBot, Perplexity-User, Google-Extended, Applebot-Extended, DuckAssistBot, Amazonbot, MistralAI-User, meta-externalagent and CCBot in a single explicit `Allow: /` group. As predicted this grants nothing the wildcard rule didn't already; the value is that the two opt-in tokens (Google-Extended, Applebot-Extended) are now an explicit yes rather than an absence, and the file says out loud what the site's policy is. The group repeats `Disallow: /404.html`, because a named group replaces the wildcard group rather than adding to it.
 
 ## Item 12 — Add llms.txt
 

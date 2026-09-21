@@ -4,7 +4,7 @@ const pkg = require('./package.json');
 const packageVersion = pkg.version;
 
 // Module import filters
-import { limit, toHtml, where, toISOString, toAbsoluteUrl, stripHtml, minifyCss, minifyJs, mdInline, splitlines } from './config/filters/index.js';
+import { limit, toHtml, where, toISOString, toAbsoluteUrl, stripHtml, minifyCss, minifyJs, mdInline, splitlines, toJsonLd, schemaTags, wordCount, imageDimensions } from './config/filters/index.js';
 
 // Module import shortcodes
 import { liteYoutube } from './config/shortcodes/youtube-lite/index.js'; 
@@ -93,6 +93,12 @@ export default function(eleventyConfig) {
     
   // Register formatDate filter
   eleventyConfig.addFilter('formatDate', formatDate);
+
+  // Schema.org helpers (see src/_includes/schemas/)
+  eleventyConfig.addFilter('toJsonLd', toJsonLd);
+  eleventyConfig.addFilter('schemaTags', schemaTags);
+  eleventyConfig.addFilter('wordCount', wordCount);
+  eleventyConfig.addFilter('imageDimensions', imageDimensions);
 
   // Custom shortcodes
   eleventyConfig.addShortcode('youtube', liteYoutube);

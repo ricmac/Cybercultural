@@ -3,6 +3,9 @@ import dayjs from 'dayjs';
 import CleanCSS from 'clean-css';
 import markdownLib from '../plugins/markdown.js';
 import meta from '../../src/_data/meta.js';
+import taxonomy from '../../src/_data/taxonomy.js';
+import path from 'node:path';
+import {imageSize} from 'image-size';
 import { throwIfNotType } from '../utils/index.js';
 import MarkdownIt from 'markdown-it';
 
@@ -120,4 +123,95 @@ export const splitlines = (input, maxCharLength) => {
   }, []);
 
   return lines;
+};
+/**
+ * Serialises a value for embedding inside <script type="application/ld+json">.
+ * JSON.stringify handles the quoting; the escapes afterwards make sure no
+ * character sequence in the data can close the script element, and they save
+ * the value from Nunjucks' HTML escaping, which would otherwise leave literal
+ * &#39; entities inside the JSON (script contents aren't entity-decoded).
+ */
+export const toJsonLd = value =>
+  JSON.stringify(value ?? null)
+    .replace(/</g, '\\u003c')
+    .replace(/>/g, '\\u003e')
+    .replace(/&/g, '\\u0026');
+
+/**
+ * Turns a post's front-matter tags into the schema.org fields that describe
+ * what it covers: `keywords` (every tag that means something off-site),
+ * `articleSection` (the section it belongs to) and `about` (the entities the
+ * tags stand for). No new taxonomy — it all comes from src/_data/taxonomy.js.
+ */
+export const schemaTags = (tags = []) => {
+  const postTags = (tags || []).filter(tag => tag !== 'posts');
+  const keywords = [];
+  const about = [];
+  let section = null;
+
+  for (const tag of postTags) {
+    const info = taxonomy.tags[tag];
+
+    if (info?.keyword !== false) {
+      keywords.push(info?.label ?? tag);
+    }
+
+    if (info?.about && !about.some(entity => entity.name === info.about.name)) {
+      about.push(info.about);
+    }
+
+    if (!section && info?.label && info.section !== false) {
+      section = info.label;
+    }
+  }
+
+  return {
+    keywords,
+    section,
+    about: about.length ? about : [taxonomy.defaultAbout]
+  };
+};
+
+/** Counts the words in a post's markdown source, ignoring its markup. */
+export const wordCount = (source = '') => {
+  const words = String(source)
+    // Images, link targets and raw HTML aren't words a reader reads.
+    .replace(/!\[[^\]]*\]\([^)]*\)/g, ' ')
+    .replace(/\[([^\]]*)\]\([^)]*\)/g, '$1')
+    .replace(/<[^>]+>/g, ' ')
+    .replace(/[#*_`>|-]/g, ' ')
+    .match(/[\p{L}\p{N}][\p{L}\p{N}'’-]*/gu);
+
+  return words ? words.length : 0;
+};
+
+/**
+ * Reads a site image's real pixel dimensions at build time, so schema.org
+ * ImageObjects can carry width and height. Cached because the same feature
+ * image is asked for on more than one page.
+ */
+const imageDimensionCache = new Map();
+
+export const imageDimensions = imagePath => {
+  if (!imagePath) {
+    return null;
+  }
+
+  if (imageDimensionCache.has(imagePath)) {
+    return imageDimensionCache.get(imagePath);
+  }
+
+  let dimensions = null;
+
+  try {
+    const {width, height} = imageSize(path.join('src', imagePath.replace(/^\//, '')));
+    dimensions = {width, height};
+  } catch {
+    // An image that's missing or in a format we can't read simply goes without
+    // dimensions; the ImageObject is still valid with just its URL.
+    dimensions = null;
+  }
+
+  imageDimensionCache.set(imagePath, dimensions);
+  return dimensions;
 };
