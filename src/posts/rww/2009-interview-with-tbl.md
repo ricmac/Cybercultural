@@ -2,7 +2,6 @@
 title: "My Interview With Tim Berners-Lee, June 2009"
 description: "During a trip to Cambridge, MA in June 2009, I visit the MIT headquarters of the World Wide Web Consortium (W3C). There I interview its director, and the web's inventor, Tim Berners-Lee."
 date: 2009-07-08
-lastUpdated: 2025-10-02
 permalink: "p/tim-berners-lee-interview-2009/"
 tags: ['web20', '2009', 'rww']
 featureImage: "/assets/images/tbl-ricmac-june09-1280x720.jpg"
