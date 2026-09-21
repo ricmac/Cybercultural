@@ -2,6 +2,7 @@
 title: "My 2025 Indie Web Report and Thoughts on the Open Web"
 description: "How my independent website, Cybercultural, has fared during 2025 — a year when AI summaries whittled away search referral traffic and social media continued its war against hyperlinks."
 date: 2025-12-17
+lastUpdated: 2026-03-03
 permalink: "p/indie-web-report-2025/"
 tags: ['notes']
 featureImage: "/assets/images/josue-sanchez-dlhpGNkNFh4-unsplashb.jpg"

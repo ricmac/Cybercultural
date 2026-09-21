@@ -2,6 +2,7 @@
 title: "On Selling Your Website — It's OK to Be a Lifestyle Business"
 description: "Thoughts on whether I should've sold ReadWriteWeb when I did, given what happened to the site over the next decade. In hindsight, running it as a lifestyle business would've been a viable option too."
 date: 2024-05-01
+lastUpdated: 2024-06-04
 permalink: "p/on-selling-your-website/"
 tags: ['notes']
 featureImage: "/assets/images/Whataitai-1280x720.jpg"

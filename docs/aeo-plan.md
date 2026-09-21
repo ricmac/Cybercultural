@@ -45,7 +45,7 @@ Net effect: item 0 (measurement baseline) was added because of Daniel Mercer's p
 | 7 | Serve clean markdown alongside each post | Reasonable | Small | Not started |
 | 8 | Turn `/tags/[year]/` archives into answerable summaries | Narrowed after real data | Content, 27 pages, lighter | Not started |
 | 9 | Add related-post links at the foot of each post | Reasonable | Small | Not started |
-| 10 | Record lastUpdated and surface it | Reasonable | Small + ongoing | Started — key wired up, `npm run check:dates` flags stale ones |
+| 10 | Record lastUpdated and surface it | Reasonable | Small + ongoing | **Done** — key, visible line, `npm run check:dates`, backlog worked through |
 | 11 | Name the AI crawlers in robots.txt | Documentary only | Trivial | **Done** |
 | 12 | Add llms.txt | Speculative | Trivial | Not started |
 | 13 | Fix the missing twitter:card tag | Not AEO — just a bug | Trivial | **Done** |
@@ -205,7 +205,11 @@ So what is automated is the reminder, not the value: **`npm run check:dates`** (
 
 The visible line is now in too: `post.njk` prints "Updated Sep 2026" in the byline, after the publication date, on any post carrying `lastUpdated`. Month and year only — the exact day stays in the `datetime` attribute for machines, since a to-the-day revision date reads like a changelog on a post from 2023. Four posts show it today; the rest are untouched. That was the half of this item that matters most — a modified date the reader can't see is a claim with nothing behind it.
 
-Still to do: work through the 15 posts `check:dates` currently flags.
+**Worked through the 15, 21 September 2026.** Each one's actual diff was read rather than taken on the tool's word. Ten were real revisions and now carry `lastUpdated` set to the date of the revision, not today: `internet-2005` and `2005-growth-of-web-20-and-rww` (both substantially rewritten in the same commit), `book-release-bubbleblog` (retitled, testimonials section added), `indie-review-2025` (sections rewritten), `bubble-blog-web20-memoir` (the subscription-plan passage cut), `bowienet-the-inside-story-of-its` (two intro paragraphs cut), `roadmap-bubbleblog` (book links and TOC rewritten), `on-selling-your-website` (several passages rewritten), `039-tim-berners-lee-2009` (a researched aside added about Berners-Lee using the same acronym to Marc Andreessen in 1993), and `2009-interview-with-tbl` (a screenshot of the original 2009 post added — the borderline one).
+
+Five were not revisions and were deliberately left alone: `blogging-1999` and `blogging-2000` gained the series navigation block when the 2001 post shipped; `014-the-sponsor-ads-era-2006` and `twitter-in-2007-the-open-platform` had broken image markup repaired and alt text added; `internet-2000` had its feature image swapped. None of them changes a word the post says, so none should tell a search engine it was revised.
+
+Those five will keep appearing in `npm run check:dates`, since nothing in the repo records that they were considered and dismissed. If that gets irritating, the fix is a small ignore list rather than a looser threshold.
 
 ## Item 11 — Name the AI crawlers in robots.txt
 

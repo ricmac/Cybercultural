@@ -2,6 +2,7 @@
 title: "Announcing Bubble Blog, My Web 2.0 Memoir"
 description: "The announcement of my latest book, a memoir and internet history to be serialized on Cybercultural. Travel back to the Web 2.0 era and the beginnings of social media, smartphones, and more."
 date: 2023-10-30
+lastUpdated: 2024-06-07
 permalink: "p/bubble-blog-web20-memoir/"
 tags: ['web20', 'memoir']
 featureImage: "/assets/images/bubble-blog-cover-1280x720.jpg"

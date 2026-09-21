@@ -2,6 +2,7 @@
 title: 'Bubble Blog, My Web 2.0 Book: Table of Contents'
 description: "A chronological table of contents for my memoir, 'Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution.' Each chapter is a series of posts, usually about three to four."
 date: 2024-12-25
+lastUpdated: 2025-01-06
 permalink: "p/roadmap-bubbleblog/"
 tags: ['web20', 'memoir']
 featureImage: "/assets/images/bubble-blog-cover-1280x720.jpg"

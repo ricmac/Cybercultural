@@ -2,6 +2,7 @@
 title: "Bubble Blog Now Available as a Book"
 description: "Announcing the release of my memoir as a paperback and eBook. Fourteen months after I began serialising my book online, here on Cybercultural, you can now purchase a paper copy." 
 date: 2024-12-20
+lastUpdated: 2025-08-04
 permalink: "p/book-release-bubbleblog/"
 tags: ['memoir']
 featureImage: "/assets/images/bubble-blog-cover-1280x720.jpg"
