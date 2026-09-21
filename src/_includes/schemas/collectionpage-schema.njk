@@ -4,8 +4,8 @@
     "@type": "CollectionPage",
     "@id": "https://cybercultural.com{{ page.url }}",
     "url": "https://cybercultural.com{{ page.url }}",
-    "name": "{{ title or meta.siteName }}",
-    "description": "{{ description or meta.siteDescription }}",
+    "name": {{ (title or meta.siteName) | toJsonLd | safe }},
+    "description": {{ (description or meta.siteDescription) | toJsonLd | safe }},
     "isPartOf": {
       "@id": "{{ meta.url }}#website"
     },

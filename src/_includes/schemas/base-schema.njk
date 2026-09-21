@@ -6,9 +6,9 @@
       "@type": "WebSite",
       "@id": "https://cybercultural.com#website",
       "url": "https://cybercultural.com/",
-      "name": "Cybercultural",
+      "name": {{ meta.siteName | toJsonLd | safe }},
       "alternateName": "Cybercultural: Internet History Website",
-      "description": "Internet history and its impact on our culture.",
+      "description": {{ meta.siteDescription | toJsonLd | safe }},
       "inLanguage": "en_US",
       "publisher": {
         "@type": "Organization",
@@ -23,25 +23,21 @@
     {
       "@type": "Person",
       "@id": "{{ meta.author.url }}#person",
-      "name": "{{ meta.author.name }}",
+      "name": {{ meta.author.name | toJsonLd | safe }},
       "url": "{{ meta.author.url }}",
-      "jobTitle": "{{ meta.author.jobTitle }}",
-      "sameAs": [
-        {% for link in meta.author.sameAs %}"{{ link }}"{% if not loop.last %}, {% endif %}{% endfor %}
-      ],
-      "knowsAbout": [
-        {% for topic in meta.author.knowsAbout %}"{{ topic }}"{% if not loop.last %}, {% endif %}{% endfor %}
-      ],
+      "jobTitle": {{ meta.author.jobTitle | toJsonLd | safe }},
+      "sameAs": {{ meta.author.sameAs | toJsonLd | safe }},
+      "knowsAbout": {{ meta.author.knowsAbout | toJsonLd | safe }},
       "worksFor": {
         "@type": "Organization",
-        "name": "{{ meta.author.worksFor.name }}",
+        "name": {{ meta.author.worksFor.name | toJsonLd | safe }},
         "url": "{{ meta.author.worksFor.url }}"
       }
     },
     {
       "@type": "Book",
       "@id": "{{ meta.author.book.url }}#book",
-      "name": "{{ meta.author.book.name }}",
+      "name": {{ meta.author.book.name | toJsonLd | safe }},
       "url": "{{ meta.author.book.url }}",
       "author": {
         "@id": "{{ meta.author.url }}#person"

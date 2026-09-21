@@ -39,7 +39,7 @@ Net effect: item 0 (measurement baseline) was added because of Daniel Mercer's p
 | 1 | Add subheadings to the 45 posts that have none | Weaker than first thought | Content, 45 posts | In progress — 2 of 6 starting posts done |
 | 2 | Turn on heading IDs so sections are linkable | Strong | Small, with care | **Done** |
 | 3 | Get the book pitch out of the indexed article body | Strong | Small | **Done** |
-| 4 | Stop claiming About/Search/Subscribe/era pages are blog posts | Strong | Small | **Done** |
+| 4 | Stop claiming About/Search/Subscribe/era pages are blog posts | Strong | Small | **Done** — incl. the follow-up pass on all remaining layouts |
 | 5 | Give Richard a real Person entity | Reasonable | Small | **Done** |
 | 6 | Fill out BlogPosting: dateModified, about, keywords | Reasonable | Medium | **Done** |
 | 7 | Serve clean markdown alongside each post | Reasonable | Small | Not started |
@@ -151,7 +151,14 @@ Side effect found and fixed for free: since Pagefind only indexes inside `data-p
 
 Bonus fix: `404.md` already had `noindex: true` in its front matter, but `meta-info.njk` never read it — 404 has been indexable this whole time despite the declared intent. Wired up (`<meta name="robots">` now honors `noindex`), and set the same flag on `search.md`.
 
-**Left alone, on purpose:** 14 other layouts (season1–5, rww, memoir, internethistory, onthisday, year, yearpages, seasons, blog) also set `schema: blog` and likely have the same bug — but their actual content role wasn't verified in this pass, and the plan only named the four era layouts explicitly. Worth a follow-up pass.
+**Follow-up pass, done 21 September 2026.** The 12 remaining layouts that still set `schema: blog` were checked against what they actually render, and all had the same bug: each one claimed to be a `BlogPosting` whose `datePublished` was the moment of the build, so the date changed on every deploy. Now:
+
+- `CollectionPage` — `blog.njk` (/notes/), `memoir.njk`, `rww.njk`, `year.njk`, `season1.njk`, `season2.njk`, `season4.njk`, `season5.njk`, `yearpages.njk`. All nine paginate a collection of posts, like the four era layouts already converted.
+- `WebPage` — `seasons.njk`, `internethistory.njk`, `onthisday.njk`. Prose or interactive pages that list links rather than paginate a collection.
+
+`post.njk` is now the only layout emitting `BlogPosting`, and a full build confirms it: 220 `BlogPosting` (exactly the 220 posts), 93 `CollectionPage`, 9 `WebPage`.
+
+The same `&#39;` escaping bug found in item 6 applied to the other three schema partials, and hit every page on the site: the Book node's name shipped as "Silicon Valley&#39;s Web 2.0 Revolution" in the `@graph` on all 323 pages. All four partials now use the `toJsonLd` filter.
 
 ## Item 5 — Give Richard a real Person entity
 
