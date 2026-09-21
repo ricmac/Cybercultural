@@ -13,7 +13,10 @@ preloads:
     <h1>{{ title }}</h1>    
     <p>{{ description | safe }}</p>
     <span class="author">By <a href="/about/">Richard MacManus</a> | 
-    {% set definedDate = date %} {% include "partials/date.njk" %}{% if tags %} | Tags:&nbsp;
+    {% set definedDate = date %} {% include "partials/date.njk" %}
+    {#- Shown month-and-year, but the datetime attribute keeps the exact day. -#}
+    {%- if lastUpdated %} | Updated <time datetime="{{ lastUpdated | toIsoString }}">{{ lastUpdated | formatDate('MMM YYYY') }}</time>{% endif -%}
+    {% if tags %} | Tags:&nbsp;
     {%- set nonPostsTags = [] -%}
     {%- for tag in tags -%}
       {%- if tag != "posts" -%}
@@ -22,20 +25,8 @@ preloads:
     {%- endfor -%}
 
     {%- for tag in nonPostsTags -%}
-      {%- set tagTitle = "" -%}
-      {%- if tag == 'web20' -%}{% set tagTitle = "Web 2.0" %}
-      {%- elif tag == 'preweb' -%}{% set tagTitle = "Pre-web" %}
-      {%- elif tag == 'dotcom' -%}{% set tagTitle = "Dot-com" %}
-      {%- elif tag == 'notes' -%}{% set tagTitle = "Notes" %}
-      {%- elif tag == 'enshittocene' -%}{% set tagTitle = "2010s" %}
-      {%- elif tag == 'memoir' -%}{% set tagTitle = "Memoir" %}
-      {%- elif tag == 'year' -%}{% set tagTitle = "Yearly Reviews" %}
-      {%- elif tag == 'season1' -%}{% set tagTitle = "Season 1" %}
-      {%- elif tag == 'season2' -%}{% set tagTitle = "Season 2" %}
-      {%- elif tag == 'season4' -%}{% set tagTitle = "Season 4" %}
-      {%- elif tag == 'season5' -%}{% set tagTitle = "Season 5" %}
-      {%- elif tag == 'rww' -%}{% set tagTitle = "RWW" %}
-      {%- endif -%}
+      {#- Labels live in src/_data/taxonomy.js, shared with the post schema. -#}
+      {%- set tagTitle = taxonomy.tags[tag].label -%}
 
       {%- if tagTitle -%}
         <a href="/{{ tag | slug }}">{{ tagTitle }}</a>

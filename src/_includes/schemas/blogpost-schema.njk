@@ -1,3 +1,7 @@
+{%- set postTagInfo = tags | schemaTags -%}
+{%- set postImage = featureImage or meta.defaultimage -%}
+{%- set postImageSize = postImage | imageDimensions -%}
+{%- set postWordCount = page.rawInput | wordCount -%}
 <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -10,18 +14,36 @@
       "@id": "{{ meta.url }}#website"
     },
     "@id": "https://cybercultural.com{{ page.url }}",
-    "headline": "{{ title or meta.siteName }}",
-    "description": "{{ discover.description or description or meta.siteDescription }}",
-    "image": "{{ meta.url }}{% if featureImage %}{{ featureImage }}{% else %}/assets/images/33d48ded-f999-4173-8440-9d752446428b_3400x2134.jpg{% endif %}",
+    "headline": {{ (title or meta.siteName) | toJsonLd | safe }},
+    "description": {{ (discover.description or description or meta.siteDescription) | toJsonLd | safe }},
+    "image": {
+      "@type": "ImageObject",
+      "url": "{{ meta.url }}{{ postImage }}",
+      "contentUrl": "{{ meta.url }}{{ postImage }}"{% if postImageSize %},
+      "width": {{ postImageSize.width }},
+      "height": {{ postImageSize.height }}{% endif %}
+    },
     "inLanguage": "{{ meta.locale }}",
     "publisher": {
       "@type": "{{ meta.siteType }}",
-      "name": "{{ meta.organization.name }}",
+      "name": {{ meta.organization.name | toJsonLd | safe }},
       "url": "{{ meta.url }}/"
     },
     "author": {
       "@id": "{{ meta.author.url }}#person"
     },
-    "datePublished": "{{ date | toIsoString }}"
+    "datePublished": "{{ date | toIsoString }}",
+    "dateModified": "{{ (lastUpdated or date) | toIsoString }}",
+    {% if postTagInfo.keywords.length %}"keywords": {{ postTagInfo.keywords | toJsonLd | safe }},
+    {% endif %}{% if postTagInfo.section %}"articleSection": {{ postTagInfo.section | toJsonLd | safe }},
+    {% endif %}{% if postWordCount %}"wordCount": {{ postWordCount }},
+    {% endif %}"about": [
+      {% for entity in postTagInfo.about %}{
+        "@type": "Thing",
+        "name": {{ entity.name | toJsonLd | safe }},
+        "sameAs": {{ entity.sameAs | toJsonLd | safe }}
+      }{% if not loop.last %},
+      {% endif %}{% endfor %}
+    ]
   }
 </script>
