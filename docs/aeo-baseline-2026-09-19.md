@@ -71,7 +71,7 @@ what was the internet like in 2001 — 10 — 126
 - **Extremely low CTR on high-impression queries.** "marc andreessen" has 34,845 impressions but only 60 clicks (~0.17% CTR). "burbn" has 9,629 impressions for 14 clicks. "geocities" has 6,345 for 18. These read like queries where an AI Overview or a direct answer box is satisfying the searcher without a click-through — which is the exact AEO problem this plan exists to address, visible in the site's own data rather than inferred.
 - **Year-query demand is already real and already ranking.** Nearly every "internet in [year]" / "[year] internet" phrasing from 1994–2012 appears in the top 50, each with decent impressions and low-but-nonzero clicks. This is direct evidence *for* plan item 8 (turning the year pages into answerable summaries) — the demand these pages should be capturing is already showing up in Search Console.
 - **Question-phrased queries are present and underserved.** "when was javascript created" (1,309 impressions, 10 clicks), "why was javascript created" (178 impressions, 10 clicks), "what was the internet like in [year]" for several years. These are the queries most likely to be answered by an AI system directly rather than clicked.
-- **Not yet captured:** the Pages tab (which URLs are getting the impressions), and an AI-referrer segment in GA4. Still needed to complete item 0.
+- **Not yet captured:** the Pages tab (which URLs are getting the impressions). The GA4 AI-referrer side of item 0 is written up in [`ga4-ai-referrers.md`](./ga4-ai-referrers.md) — the setup is a GA4 custom channel group and an exploration segment, with no site changes required.
 
 ## Top 50 pages by clicks (URL — clicks — impressions — CTR)
 

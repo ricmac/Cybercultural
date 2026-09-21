@@ -35,7 +35,7 @@ Net effect: item 0 (measurement baseline) was added because of Daniel Mercer's p
 
 | # | Change | Evidence | Effort | Status |
 |---|---|---|---|---|
-| 0 | Establish a measurement baseline before changing anything | Prerequisite | Small | **Done** — see baseline file |
+| 0 | Establish a measurement baseline before changing anything | Prerequisite | Small | **Done** — see baseline file; GA4 side in `ga4-ai-referrers.md` |
 | 1 | Add subheadings to the 45 posts that have none | Weaker than first thought | Content, 45 posts | In progress — 2 of 6 starting posts done |
 | 2 | Turn on heading IDs so sections are linkable | Strong | Small, with care | **Done** |
 | 3 | Get the book pitch out of the indexed article body | Strong | Small | **Done** |
@@ -59,7 +59,11 @@ Net effect: item 0 (measurement baseline) was added because of Daniel Mercer's p
 
 Headline: **809,000 impressions, 4,980 clicks, 0.6% CTR, average position 7.** Well below what position 7 should typically yield — the site is shown far more than it's clicked, which is close to a textbook description of the AEO problem, visible in the site's own data.
 
-Still open: a GA4 AI-referrer segment (session source/medium filtered to `chatgpt.com`, `perplexity.ai`, `claude.ai`, `copilot.microsoft.com`, `gemini.google.com`).
+The GA4 AI-referrer half of this item now has a walkthrough of its own: [`ga4-ai-referrers.md`](./ga4-ai-referrers.md). Nothing is needed in the site code — GA4 has recorded the referring hostname on every session all along — so the work is entirely in the GA4 interface.
+
+Two things changed the shape of it. Google added a built-in **AI Assistant** channel on 13 May 2026, so some of this is already happening automatically; but it is not retroactive, it appears to omit Perplexity, and clicks from AI Overviews and AI Mode are still counted as ordinary Google organic and cannot be separated by anyone. The recommended step is therefore a **custom channel group**, which does apply retroactively and does catch Perplexity, plus an exploration segment for seeing which posts AI systems send people to.
+
+Worth holding in mind when the number arrives: it is a floor, not a total. Referrers are stripped by the ChatGPT apps and most in-app browsers, and a citation nobody clicks leaves no trace at all — which, given 809,000 impressions against 4,980 clicks, is the dominant case.
 
 ## Item 1 — Add subheadings to the 45 posts that have none
 
