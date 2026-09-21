@@ -110,8 +110,8 @@ However, the Web was still very small at this point. MIT researcher Matthew Gray
 
 While web site publishing wasn’t quite ready for prime time, the World Wide Web got its [first mention in The New York Times](https://www.nytimes.com/1993/12/08/business/business-technology-a-free-and-simple-computer-link.html) in December 1993. The main focus in the article was Mosaic, which technology reporter John Markoff described as a software program that helped “even novice computer users find their way around the global Internet.” The Web wasn’t mentioned until later in the piece. Markoff had trouble describing it (“an international system of data base “server” computers offering diverse information”), but he perceptively noted that the Web had “fundamentally changed the way information is obtained over the Internet.”
 
-Conclusion
-----------
+Where the Web Stood at the End of 1993
+--------------------------------------
 
 Clearly the Web was still very niche by the end of 1993, but it was pushing on the door of the mainstream. Early adopters in companies like MTV were experimenting with it, while curious reporters were beginning to publicize it.
 

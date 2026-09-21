@@ -149,8 +149,8 @@ The code for this is relatively short. Never mind the technicalities of it at th
     </form>
 ```
 
-Conclusion
-----------
+Where JavaScript Stood at the End of 1995
+-----------------------------------------
 
 By the end of 1995, the leading web browser of the day — Netscape Navigator — had a method to add small, relatively simple, bits of interactivity onto a webpage. This would come to have great ramifications in the years to come, and eventually lead to great complexity! But for now, web designers, developers, and amateur web enthusiasts alike had a new interactive toy to play with. In the next post, we’ll explore how JavaScript was used throughout 1996.
 
