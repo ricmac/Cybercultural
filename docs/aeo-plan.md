@@ -1,6 +1,6 @@
 # Making Cybercultural citable
 
-An AEO (answer engine optimization) plan for Cybercultural. Fifteen changes, ordered by what they're actually likely to buy. The site's problem is not that answer engines can't reach it — they can, today. It's that a 1,700-word post with no subheadings gives them nothing smaller than the whole page to quote.
+An AEO (answer engine optimization) plan for Cybercultural. Fifteen changes, ordered by what they're actually likely to buy. The site's problem is not that answer engines can't reach it — they can, today. It's that the site is shown far more often than it's clicked. (This plan originally pinned that on posts having no subheadings; a re-scan in September 2026 found that claim rested on a faulty count — see item 1.)
 
 Audited from the repo at `main` (dabf37a) · 220 posts, 49 pages · 19 September 2026 · revised against the swyx thread and Search Console data.
 
@@ -36,7 +36,7 @@ Net effect: item 0 (measurement baseline) was added because of Daniel Mercer's p
 | # | Change | Evidence | Effort | Status |
 |---|---|---|---|---|
 | 0 | Establish a measurement baseline before changing anything | Prerequisite | Small | **Done** — see baseline file |
-| 1 | Add subheadings to the 103 posts that have none | Strong | Content, ~100 posts | Not started |
+| 1 | Add subheadings to the 45 posts that have none | Weaker than first thought | Content, 45 posts | In progress — 2 of 6 starting posts done |
 | 2 | Turn on heading IDs so sections are linkable | Strong | Small, with care | **Done** |
 | 3 | Get the book pitch out of the indexed article body | Strong | Small | **Done** |
 | 4 | Stop claiming About/Search/Subscribe/era pages are blog posts | Strong | Small | **Done** |
@@ -61,24 +61,41 @@ Headline: **809,000 impressions, 4,980 clicks, 0.6% CTR, average position 7.** W
 
 Still open: a GA4 AI-referrer segment (session source/medium filtered to `chatgpt.com`, `perplexity.ai`, `claude.ai`, `copilot.microsoft.com`, `gemini.google.com`).
 
-## Item 1 — Add subheadings to the 103 posts that have none
+## Item 1 — Add subheadings to the 45 posts that have none
 
-**Status: not started.** Of 220 posts, 117 have at least one `##` heading and 103 have none at all. Only 2 posts use a third level. Median post is 1,698 words.
+**Status: in progress.** The original count of 103 was wrong, and so was the correlation this item was built on. The scan behind both only counted ATX headings (`## Heading`) and missed setext headings — a line of text underlined with dashes, which CommonMark renders as an `<h2>` just the same. 57 posts use setext exclusively and 4 mix both styles.
 
-**Ranked starting list, from the baseline data — not a guess:**
+Re-scanned by rendering every post through the site's own markdown-it instance and counting `<h2>`–`<h6>` in the output:
 
-| Page | Impressions | CTR | `##` headings |
+| | Posts |
+|---|---|
+| ATX headings only (`##`) | 114 |
+| Setext headings only (underlined) | 57 |
+| Mixed | 4 |
+| **No headings at all** | **45** |
+| Total | 220 |
+
+**The correlation claimed below did not survive this.** Four of the six worst-converting high-impression pages already had subheadings all along:
+
+| Page | Impressions | CTR | Rendered `<h2>` |
 |---|---|---|---|
-| `src/posts/misc/the-golden-age-of-microblogging.md` | 57,409 | 0.06% | 0 |
-| `src/posts/misc/marc-andreessen-2004.md` | 45,801 | 0.19% | 0 |
-| `src/posts/wdh/1995-the-birth-of-javascript.md` | 40,777 | 0.39% | 0 |
-| `src/posts/season4/2001-wayback-machine.md` | 13,706 | 0.09% | 0 |
-| `src/posts/wdh/1993-mosaic-launches-and-the-web-is-set-free.md` | 11,658 | 0.09% | 0 |
-| `src/posts/misc/bowienet-the-inside-story-of-its.md` | 5,426 | 0.39% | 0 |
+| `src/posts/misc/the-golden-age-of-microblogging.md` | 57,409 | 0.06% | 6 (setext) |
+| `src/posts/misc/marc-andreessen-2004.md` | 45,801 | 0.19% | 0 → **6 added** |
+| `src/posts/wdh/1995-the-birth-of-javascript.md` | 40,777 | 0.39% | 5 (setext) |
+| `src/posts/season4/2001-wayback-machine.md` | 13,706 | 0.09% | 0 → **6 added** |
+| `src/posts/wdh/1993-mosaic-launches-and-the-web-is-set-free.md` | 11,658 | 0.09% | 6 (setext) |
+| `src/posts/misc/bowienet-the-inside-story-of-its.md` | 5,426 | 0.39% | 7 (setext) |
 
-Every one of the six worst-converting high-impression pages has zero subheadings. The headed `internet-[year]` posts (see item 8) average roughly 1.3% CTR — more than triple. Six data points is a correlation, not proof, but it's the strongest evidence in this plan and it names the exact posts to start with.
+So "every one of the six worst-converting pages has zero subheadings" was an artifact of the scan, not a finding. Two of six had none. The headed `internet-[year]` posts still average roughly 1.3% CTR against these six at 0.06–0.39%, so *something* separates the two groups — but on this data it is not the presence of subheadings, and this item is no longer the strongest evidence in the plan. Worth considering as alternative explanations: the `internet-[year]` posts answer a question people actually type ("what was the internet like in 2006"), they are a consistent series that interlinks, and their titles match the query almost verbatim. That is a title-and-intent story more than a structure story.
 
-Write 3–6 `##` headings per post, phrased as what a reader would ask ("How BowieNet got built") not as generic labels. Heading IDs already work (item 2 is done), so every new heading is automatically linkable.
+**Done so far:** 6 `##` headings each added to `marc-andreessen-2004.md` and `2001-wayback-machine.md` — the only two of the six that genuinely had none. Additions only; no existing prose was altered.
+
+**Remaining, and worth re-prioritising given the above:**
+
+- 45 posts have no headings, but 31 of them are `src/posts/memoir/` chapters — narrative book chapters where subheadings may be deliberately absent. That is Richard's call, not a mechanical fix. The non-memoir remainder is 14 posts.
+- Before bulk-editing those 14, test the hypothesis on the two posts just changed. If CTR on them does not move, this item is not worth 45 posts of hand-editing.
+- Anything that *does* get headings: write 3–6 `##` per post, phrased concretely ("How BowieNet got built") not as generic labels. Heading IDs already work (item 2 is done), so every new heading is automatically linkable. Avoid "Conclusion" — two of the setext posts already use it, and it is exactly the generic label that gives an answer engine nothing.
+- Optional cleanup, no rendered change: converting the 57 setext posts to `##` would stop this miscount recurring. Purely cosmetic in the output.
 
 ## Item 2 — Turn on heading IDs so sections are linkable
 
@@ -151,7 +168,7 @@ What's actually thin: the 27 files in `src/pages/yearpages/`, which render `/tag
 
 1. **The 22 RWW posts canonical to ricmac.org.** Deliberate, or inherited? Affects who gets cited for that material.
 2. **How much of the About page becomes structured claims** (item 5)? Leaning minimal-but-real.
-3. **Which posts get subheadings first (item 1)** — answered above from real data.
+3. **Which posts get subheadings first (item 1)** — two were done (see item 1). The rest is now an open question, not a settled one: the evidence that subheadings drive the CTR gap did not survive the re-scan, and 31 of the 45 remaining posts are memoir chapters. Measure the two before doing more.
 4. **Do you want the research routine (item 14)?** Monthly, grounded in your own numbers, proposing only.
 
 ---
