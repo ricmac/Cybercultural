@@ -67,28 +67,48 @@ collected, so it can show you AI traffic from before May 2026. It also catches P
 and the long tail that Google's list leaves out, and once it exists it appears as an option
 in the normal reports rather than needing an exploration every time.
 
+The thing to know before you start: when you create a custom channel group, GA4 hands you a
+**copy of the whole default channel list**, and since May 2026 that list already contains an
+**AI Assistant** channel. So you are not adding a channel from scratch — you are widening
+the one that is already sitting there. Do not create a second one alongside it; two channels
+with the same name will confuse you in six months, and the lower of the two will never
+receive a session anyway.
+
 1. **Admin** (the gear icon, bottom left) **→ Data display → Channel groups**.
 2. Click **Create new channel group**.
 3. Name it `AI Assistants`. Description: whatever helps you in six months.
-4. You will see a copy of the default channel list. Click **Add new channel**.
-5. Name the channel `AI Assistants`.
-6. Open **Add new condition**. This first dropdown lists only dimension names — Default
+4. In the list of inherited channels, find **AI Assistant** and open it. Its one condition
+   reads `Default channel group matches exactly AI Assistant` — that is Google's own
+   classification, inherited. **Leave that condition alone.** It is doing useful work, and
+   it will keep improving on its own as Google adds sources to its list.
+5. In the same box, headed *Match AT LEAST ONE rule in this group*, click **Or**.
+6. A new condition row appears. Its first dropdown lists only dimension names — Default
    channel group, Medium, Source, Source platform, Campaign ID, Campaign name. There is no
    "matches regex" in it, and there isn't meant to be. Choose **Source**.
 7. A second dropdown now appears to the right of it, with the match types. Choose
    **matches regex**, then paste the regex from the bottom of this file into the value box.
-8. Click **Apply**, then **Done**.
+8. **Save channel.**
 
    *If "matches regex" isn't offered:* use **contains** instead and add the hosts as separate
    OR conditions. GA4 caps a channel at **10 conditions across all condition groups**, so
-   you'd pick the ten that matter — `chatgpt`, `perplexity`, `claude`, `gemini.google`,
-   `copilot`, `openai`, `grok`, `deepseek`, `mistral`, `meta.ai` — and lose the long tail.
-   The regex has no such limit, which is why it's the better path.
-9. **Drag the new "AI Assistants" channel above "Referral"** in the list. This matters more
-   than anything else on this page: GA4 files each session into the *first* channel whose
-   rule it matches, so if Referral sits above it, Referral swallows everything and the new
-   channel stays empty.
+   you'd pick the ones that matter most — `perplexity`, `chatgpt`, `claude`, `openai`,
+   `grok`, `deepseek`, `mistral`, `meta.ai`, `you.com` — and lose the long tail. The regex
+   has no such limit, which is why it's the better path.
+
+Because the two conditions are joined by **Or**, the channel now means *"Google thinks this
+is an AI assistant, **or** the referring host is on my list."* That union is the point: you
+get Google's recognition, which updates itself, plus retroactive coverage of everything
+before May 2026 and of Perplexity, which Google appears to miss.
+
+9. Back in the channel list, check that **AI Assistant sits above Referral**. GA4 files each
+   session into the *first* channel whose rule it matches, so if Referral is higher it
+   swallows everything and this channel stays empty. Drag it up if needed.
 10. **Save group**.
+
+**If you already created a second `AI Assistant` channel of your own:** delete it (the bin
+icon on its row) and put the regex on the inherited one as above. Keeping both would mean
+whichever sits higher takes every session and the other reports zero — not wrong, just
+misleading to read later.
 
 To use it afterwards: **Reports → Acquisition → Traffic acquisition**, change the first
 column's dimension to **Session custom channel group (AI Assistants)**.
