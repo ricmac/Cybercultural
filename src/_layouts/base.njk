@@ -1,5 +1,3 @@
-{% set assetHash = global.random() %}
-
 <html lang="{{ meta.lang }}">
   <head>
     <!-- charset/http-equiv/viewport -->
@@ -21,7 +19,7 @@
 {%- include "schemas/collectionpage-schema.njk" -%}
 {% endif %}
 
-    <link rel="stylesheet" href="/assets/css/global.css?{{ assetHash }}" />
+    <link rel="stylesheet" href="/assets/css/global.css?v=__ASSET_HASH_CSS__" />
 
     <!-- preloads -->
     <link
@@ -57,7 +55,7 @@
     {% endif %}
 
     <!-- defered js  -->
-    <script type="module" src="/assets/scripts/app.js?{{ assetHash }}"></script>
+    <script type="module" src="/assets/scripts/app.js?v=__ASSET_HASH_JS__"></script>
 
     <!-- everything else: meta tags, icons, open graph etc.  -->
     {% include "partials/meta-info.njk" %}

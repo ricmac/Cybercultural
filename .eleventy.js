@@ -29,6 +29,7 @@ import cssConfigPlugin from './config/template-languages/css-config.js';
 import jsConfigPlugin from './config/template-languages/js-config.js';
 import dayjs from 'dayjs';
 import externalLinks from 'eleventy-plugin-external-links';
+import rewriteAssetHashes from './config/build/asset-hash.js';
 
 // Import Eleventy Image Plugin
 import { eleventyImageTransformPlugin } from "@11ty/eleventy-img";
@@ -37,9 +38,13 @@ import { eleventyImageTransformPlugin } from "@11ty/eleventy-img";
 export const formatDate = (date, format) => dayjs(date).format(format);
 
 export default function(eleventyConfig) {
-  // Pagefind search
-  eleventyConfig.on('eleventy.after', () => {
-    execSync(`npx pagefind --site dist --glob "**/*.html"`, { encoding: 'utf-8' });
+  // Post-build: stamp real asset hashes, then index for search
+  eleventyConfig.on('eleventy.after', ({ dir } = {}) => {
+    const outputDir = dir?.output || 'dist';
+
+    rewriteAssetHashes(outputDir);
+
+    execSync(`npx pagefind --site ${outputDir} --glob "**/*.html"`, { encoding: 'utf-8' });
   });
 
   // Custom Watch Targets
@@ -113,10 +118,16 @@ export default function(eleventyConfig) {
   eleventyConfig.addPlugin(eleventyImageTransformPlugin, {
     extensions: "html",
     formats: ["webp", "jpeg"],
+    // Without this every image is generated once, at whatever size the original
+    // happens to be, so a phone can be sent a 3400px JPEG. Widths above the
+    // original are clamped back to it, so small images stay a single file and
+    // large ones still offer their native size as the top candidate.
+    widths: [400, 800, 1200, 1600],
     defaultAttributes: {
       loading: "lazy",
       decoding: "async",
-      sizes: "(max-width: 768px) 100vw, 1280px",
+      // Post bodies sit in a 55rem (880px) column; below that they run full width.
+      sizes: "(max-width: 950px) 93vw, 880px",
     },
   });
 
