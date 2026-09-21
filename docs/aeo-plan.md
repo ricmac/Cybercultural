@@ -203,7 +203,7 @@ What's actually thin: the 27 files in `src/pages/yearpages/`, which render `/tag
 
 So what is automated is the reminder, not the value: **`npm run check:dates`** (`config/build/check-updated-dates.js`) lists the posts whose text has changed since the date they claim, largest change first. It counts a commit as a revision only if it came after the one that added the post, changed the markdown below the front matter, touched at most three posts, and changed at least 25 words — the last two thresholds being the judgement call, and meant to be tuned. It only ever reports; it is deliberately not part of `npm run build`, and it needs a full clone (`git fetch --unshallow` if git only has a shallow one).
 
-The visible line is now in too: `post.njk` prints "Updated <date>" in the byline, after the publication date, on any post carrying `lastUpdated`. Four posts show it today; the rest are untouched. That was the half of this item that matters most — a modified date the reader can't see is a claim with nothing behind it.
+The visible line is now in too: `post.njk` prints "Updated Sep 2026" in the byline, after the publication date, on any post carrying `lastUpdated`. Month and year only — the exact day stays in the `datetime` attribute for machines, since a to-the-day revision date reads like a changelog on a post from 2023. Four posts show it today; the rest are untouched. That was the half of this item that matters most — a modified date the reader can't see is a claim with nothing behind it.
 
 Still to do: work through the 15 posts `check:dates` currently flags.
 
