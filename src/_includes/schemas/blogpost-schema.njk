@@ -20,9 +20,7 @@
       "url": "{{ meta.url }}/"
     },
     "author": {
-      "@type": "Person",
-      "name": "{{ meta.author.name }}",
-      "url": "https://cybercultural.com/about/"
+      "@id": "{{ meta.author.url }}#person"
     },
     "datePublished": "{{ date | toIsoString }}"
   }

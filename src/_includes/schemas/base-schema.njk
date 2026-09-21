@@ -19,6 +19,33 @@
           "url": "https://cybercultural.com/assets/images/cybercultural-logo-800px.png"
         }
       }
+    },
+    {
+      "@type": "Person",
+      "@id": "{{ meta.author.url }}#person",
+      "name": "{{ meta.author.name }}",
+      "url": "{{ meta.author.url }}",
+      "jobTitle": "{{ meta.author.jobTitle }}",
+      "sameAs": [
+        {% for link in meta.author.sameAs %}"{{ link }}"{% if not loop.last %}, {% endif %}{% endfor %}
+      ],
+      "knowsAbout": [
+        {% for topic in meta.author.knowsAbout %}"{{ topic }}"{% if not loop.last %}, {% endif %}{% endfor %}
+      ],
+      "worksFor": {
+        "@type": "Organization",
+        "name": "{{ meta.author.worksFor.name }}",
+        "url": "{{ meta.author.worksFor.url }}"
+      }
+    },
+    {
+      "@type": "Book",
+      "@id": "{{ meta.author.book.url }}#book",
+      "name": "{{ meta.author.book.name }}",
+      "url": "{{ meta.author.book.url }}",
+      "author": {
+        "@id": "{{ meta.author.url }}#person"
+      }
     }
   ]
 }

@@ -11,7 +11,23 @@ const meta = {
     name: 'Richard MacManus',
     email: 'cybercultural@ricmac.org',
     website: 'https://ricmac.org/',
-    url: 'https://cybercultural.com/about/'
+    url: 'https://cybercultural.com/about/',
+    jobTitle: 'Writer, Internet Historian',
+    sameAs: [
+      'https://ricmac.org/',
+      'https://mastodon.social/@ricmac',
+      'https://bsky.app/profile/ricmac.org',
+      'https://ricmac.org/career-archive/readwriteweb/'
+    ],
+    knowsAbout: ['Internet history', 'Web 2.0', 'the dot-com era', 'tech blogging'],
+    worksFor: {
+      name: 'ReadWriteWeb',
+      url: 'https://ricmac.org/career-archive/readwriteweb/'
+    },
+    book: {
+      name: "Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution",
+      url: 'https://bookshop.org/p/books/bubble-blog-from-outsider-to-insider-in-silicon-valley-s-web-2-0-revolution-richard-macmanus/22135084'
+    }
   },
   organization: {
     name: 'Cybercultural',
