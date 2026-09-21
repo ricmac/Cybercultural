@@ -72,14 +72,23 @@ in the normal reports rather than needing an exploration every time.
 3. Name it `AI Assistants`. Description: whatever helps you in six months.
 4. You will see a copy of the default channel list. Click **Add new channel**.
 5. Name the channel `AI Assistants`.
-6. Set the condition to: **Source** → **matches regex** → paste the regex from the bottom
-   of this file.
-7. Click **Apply**, then **Done**.
-8. **Drag the new "AI Assistants" channel above "Referral"** in the list. This matters more
+6. Open **Add new condition**. This first dropdown lists only dimension names — Default
+   channel group, Medium, Source, Source platform, Campaign ID, Campaign name. There is no
+   "matches regex" in it, and there isn't meant to be. Choose **Source**.
+7. A second dropdown now appears to the right of it, with the match types. Choose
+   **matches regex**, then paste the regex from the bottom of this file into the value box.
+8. Click **Apply**, then **Done**.
+
+   *If "matches regex" isn't offered:* use **contains** instead and add the hosts as separate
+   OR conditions. GA4 caps a channel at **10 conditions across all condition groups**, so
+   you'd pick the ten that matter — `chatgpt`, `perplexity`, `claude`, `gemini.google`,
+   `copilot`, `openai`, `grok`, `deepseek`, `mistral`, `meta.ai` — and lose the long tail.
+   The regex has no such limit, which is why it's the better path.
+9. **Drag the new "AI Assistants" channel above "Referral"** in the list. This matters more
    than anything else on this page: GA4 files each session into the *first* channel whose
    rule it matches, so if Referral sits above it, Referral swallows everything and the new
    channel stays empty.
-9. **Save group**.
+10. **Save group**.
 
 To use it afterwards: **Reports → Acquisition → Traffic acquisition**, change the first
 column's dimension to **Session custom channel group (AI Assistants)**.
