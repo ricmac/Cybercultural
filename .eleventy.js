@@ -30,7 +30,6 @@ import jsConfigPlugin from './config/template-languages/js-config.js';
 import dayjs from 'dayjs';
 import externalLinks from 'eleventy-plugin-external-links';
 import rewriteAssetHashes from './config/build/asset-hash.js';
-import pruneUnusedImages from './config/build/prune-unused-images.js';
 
 // Import Eleventy Image Plugin
 import { eleventyImageTransformPlugin } from "@11ty/eleventy-img";
@@ -39,19 +38,13 @@ import { eleventyImageTransformPlugin } from "@11ty/eleventy-img";
 export const formatDate = (date, format) => dayjs(date).format(format);
 
 export default function(eleventyConfig) {
-  // Post-build: stamp real asset hashes, index for search, drop unlinked originals
-  eleventyConfig.on('eleventy.after', ({ dir, runMode } = {}) => {
+  // Post-build: stamp real asset hashes, then index for search
+  eleventyConfig.on('eleventy.after', ({ dir } = {}) => {
     const outputDir = dir?.output || 'dist';
 
     rewriteAssetHashes(outputDir);
 
     execSync(`npx pagefind --site ${outputDir} --glob "**/*.html"`, { encoding: 'utf-8' });
-
-    // Only on a real build: --serve copies passthrough files incrementally, so
-    // pruning there would leave a locally edited page missing an image.
-    if ((runMode || process.env.ELEVENTY_RUN_MODE) === 'build') {
-      pruneUnusedImages(outputDir);
-    }
   });
 
   // Custom Watch Targets
