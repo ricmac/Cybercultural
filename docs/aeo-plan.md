@@ -42,7 +42,7 @@ Net effect: item 0 (measurement baseline) was added because of Daniel Mercer's p
 | 4 | Stop claiming About/Search/Subscribe/era pages are blog posts | Strong | Small | **Done** — incl. the follow-up pass on all remaining layouts |
 | 5 | Give Richard a real Person entity | Reasonable | Small | **Done** |
 | 6 | Fill out BlogPosting: dateModified, about, keywords | Reasonable | Medium | **Done** |
-| 7 | Serve clean markdown alongside each post | Reasonable | Small | Not started |
+| 7 | Serve clean markdown alongside each post | Reasonable | Small | Done |
 | 8 | Turn `/tags/[year]/` archives into answerable summaries | Narrowed after real data | Content, 27 pages, lighter | Not started |
 | 9 | Add related-post links at the foot of each post | Reasonable | Small | Not started |
 | 10 | Record lastUpdated and surface it | Reasonable | Small + ongoing | **Done** — key, visible line, `npm run check:dates`, backlog worked through |
@@ -183,7 +183,9 @@ One fix came with it: every string in the JSON-LD now goes through a `toJsonLd` 
 
 ## Item 7 — Serve clean markdown alongside each post
 
-**Status: not started.** A second permalink per post — `/p/<slug>/index.md` — outputting raw markdown, advertised via `<link rel="alternate" type="text/markdown">`. Better bet than llms.txt (item 12): it's a mechanism a crawler can actually use today, and it degrades gracefully to a clean reading copy regardless of AI adoption.
+**Status: done.** A second permalink per post — `/p/<slug>/index.md` — outputting raw markdown, advertised via `<link rel="alternate" type="text/markdown">`. Better bet than llms.txt (item 12): it's a mechanism a crawler can actually use today, and it degrades gracefully to a clean reading copy regardless of AI adoption.
+
+Built by `src/post-markdown.11ty.js`, which paginates over `collections.posts` and writes `<post url>index.md` for all 220 posts. The source is cleaned rather than dumped: front matter becomes a short header (title, description, published/updated dates, author, canonical source URL), site-relative links and image paths are made absolute, `markdown-it-attrs` braces are dropped, and `{% youtube %}` shortcodes become plain YouTube links. The `<link rel="alternate" type="text/markdown">` is emitted from `src/_includes/partials/meta-info.njk`, gated on `schema == 'blog'` so only posts advertise one.
 
 ## Item 8 — Turn `/tags/[year]/` archives into answerable summaries
 

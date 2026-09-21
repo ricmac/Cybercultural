@@ -10,6 +10,10 @@
 <!-- Helps prevent duplicate content issues -->
 <link rel="canonical" href="{{ canonical | default((meta.url | default('')) ~ (page.url | default(''))) }}" />
 <link rel="alternate" type="application/rss+xml" title="Cybercultural RSS Feed" href="https://cybercultural.com/feed.xml">
+{% if schema == 'blog' %}
+<!-- Clean markdown copy of this post, for AI crawlers and plain-text readers -->
+<link rel="alternate" type="text/markdown" title="{{ title }} (markdown)" href="{{ (meta.url | default('')) ~ (page.url | default('')) }}index.md" />
+{% endif %}
 
 {% if meta.meta_data.mastodonProfile %}
 <!-- Mastodon verified site -->
