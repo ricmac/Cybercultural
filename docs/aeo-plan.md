@@ -45,7 +45,7 @@ Net effect: item 0 (measurement baseline) was added because of Daniel Mercer's p
 | 7 | Serve clean markdown alongside each post | Reasonable | Small | Not started |
 | 8 | Turn `/tags/[year]/` archives into answerable summaries | Narrowed after real data | Content, 27 pages, lighter | Not started |
 | 9 | Add related-post links at the foot of each post | Reasonable | Small | Not started |
-| 10 | Record lastUpdated and surface it | Reasonable | Small + ongoing | Started — key wired up, 4 posts carry it |
+| 10 | Record lastUpdated and surface it | Reasonable | Small + ongoing | Started — key wired up, `npm run check:dates` flags stale ones |
 | 11 | Name the AI crawlers in robots.txt | Documentary only | Trivial | **Done** |
 | 12 | Add llms.txt | Speculative | Trivial | Not started |
 | 13 | Fix the missing twitter:card tag | Not AEO — just a bug | Trivial | **Done** |
@@ -197,7 +197,13 @@ What's actually thin: the 27 files in `src/pages/yearpages/`, which render `/tag
 
 ## Item 10 — Record lastUpdated and surface it
 
-**Status: started.** All 220 posts have exactly the same six front-matter keys; none has `lastUpdated`, though `sitemap.njk` already uses it if present. The key is now read by both `sitemap.njk` and the post schema (item 6), and four posts carry it. Still to do: the convention itself — a habit of setting it on every edit — and a visible "Updated" line on the page.
+**Status: started.** The key is `lastUpdated`, read by both `sitemap.njk` (as `lastmod`) and the post schema (as `dateModified`, item 6), falling back to the publication date when a post doesn't carry it. Four posts carry it so far.
+
+**Decided 21 September 2026: the date is written by hand, not derived from git.** The question was worth asking, and the repo answers it. Git records every commit that touched a post, and most of them are not revisions a reader would notice: `380d20b` ("re-organized folders") moved 174 files, `dabf37a` ("updated Bluesky domain") changed one link across 6 posts, `16b8d98` ("updating canonical for rww posts") rewrote front matter in 23. Take git at its word and 164 of the 220 posts look modified since the date they claim. Filter down to commits that actually rewrote the prose and it's 15. A script cannot tell a rewritten introduction from a find-and-replace, and a `dateModified` with no visible change behind it is the kind of freshness signal search engines learn to discount.
+
+So what is automated is the reminder, not the value: **`npm run check:dates`** (`config/build/check-updated-dates.js`) lists the posts whose text has changed since the date they claim, largest change first. It counts a commit as a revision only if it came after the one that added the post, changed the markdown below the front matter, touched at most three posts, and changed at least 25 words — the last two thresholds being the judgement call, and meant to be tuned. It only ever reports; it is deliberately not part of `npm run build`, and it needs a full clone (`git fetch --unshallow` if git only has a shallow one).
+
+Still to do: work through the 15 posts it currently flags, and the visible "Updated" line on the page — which matters more than the markup, since a modified date the reader can't see is a claim with nothing behind it.
 
 ## Item 11 — Name the AI crawlers in robots.txt
 
