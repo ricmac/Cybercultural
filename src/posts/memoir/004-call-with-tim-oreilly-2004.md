@@ -59,8 +59,6 @@ The feedback I got from the Tim O’Reilly interview, which I published in three
 ![Part 2 of the Tim O’Reilly interview](/assets/images/fe475259-8a55-449e-bfba-ee253af3d751_1504x1176.png "Part 2 of the Tim O’Reilly interview")
 *Part 2 of the Tim O’Reilly interview.*
 
-* * *
-
 ## The Marqui Sponsorship Experiment
 
 Read/Write Web was far from being a full-time business yet, but I had been experimenting with monetization. At the start of December, I began participating in a sponsorship program that — in retrospect — now looks incredibly clumsy and naive. [I announced](https://web.archive.org/web/20041208185508/http://www.readwriteweb.com/archives/002493.php) on my blog that I’d be “paid US$800 per month for 3 months to write 1 blog post per week about a company called Marqui.” Marc Canter had set this up and there were a group of fifteen bloggers signed up. We were being fed story ideas from Marqui, a product I knew nothing about at first, until I discovered that it was a rather unimpressive content management system for marketers.

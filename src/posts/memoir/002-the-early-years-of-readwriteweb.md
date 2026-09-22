@@ -34,8 +34,6 @@ Silicon Valley seemed very far away at the time, but at least I felt a sense of 
 ![Radio Community Server 3/30/2004](/assets/images/972e2e17-f086-4884-80e6-3c3afcf408a7_1024x738.jpg "Radio Community Server 3/30/2004")
 *Up until May 2004, I ran my blog on Radio Userland, desktop blogging software created by Dave Winer. On this particular day, 30 March 2004, RWW was ranked 8th in the community — just ahead of future Microsoft CTO Ray Ozzie. In early May, I [switched to Movable Type](https://web.archive.org/web/20040701054525/http://www.readwriteweb.com/archives/001838.php), a browser-based blog platform.*
 
-* * *
-
 ## The 2004 Launches That Shaped Web 2.0
 
 During the first half of 2004, I was trying to figure out my role as a tech blogger and what topics I should focus on. I didn’t know it at the time, but there were several pivotal web product launches that would help shape the future of ReadWriteWeb.

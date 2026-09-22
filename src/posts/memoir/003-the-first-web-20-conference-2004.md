@@ -52,8 +52,6 @@ I met Canter in person the following year, during my first trip to the US. He wa
 
 Only now, writing this book as a middle-aged man myself, can I truly empathize with what Marc Canter was going through in 2004. His story during Web 2.0 is just as much a part of Silicon Valley as the young rockstar founder story that both he and Andreessen lived in the 80s and 90s, respectively. Nowadays, we’d say that Canter in middle age still had the hustle and was dedicated to the startup grind, but I don’t think that quite captures what was going on when I met him. He was on the outer then, the same as me. But together, we could _maybe_ get into the inner circle. He innately understood this, but I was just learning it.
 
-* * *
-
 ## Tim O’Reilly’s Oscon 2004 Keynote
 
 In July 2004, the computer book publisher Tim O’Reilly made a keynote speech at that year’s Open Source Convention (Oscon), in Portland, Oregon. I listened to it while I was sitting at my desk in a Wellington city office building, via a podcast site called [IT Conversations](https://web.archive.org/web/20040813040917/http://www.itconversations.com/shows/detail168.html). O’Reilly had built up a successful publishing and conference business since the 1980s, which his own website [describes](https://www.oreilly.com/tim/bio.html) as “providing the picks and shovels of learning to the Silicon Valley gold rush.” As a tech analyst, he was someone I could relate to, since he too had an arts degree — although his was from Harvard, not Wellington.
