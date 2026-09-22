@@ -21,6 +21,8 @@ I was also attracted to his talk about bootstrapping a cool startup and what it 
 
 I was a nobody living in a small country on the opposite side of the world, who was just interested in learning what was next in internet technology. Yet here I was talking to a Silicon Valley pioneer who had created and sold software products in the 1980s. I was a little starstruck, but also my fragile ego had just gotten a boost by this man’s interest in me and my blog.
 
+## My First Slashdotting
+
 The resulting post was the first of mine to get a ton of traffic, after making the front pages of both Slashdot and Boing Boing, two of the leading aggregators of tech news at the time.
 
 ![Radio Community Server stats after my first Slashdotting](/assets/images/3e2fa41d-9daa-4372-a0be-b7d3028420d0_1024x738.jpg "Radio Community Server stats after my first Slashdotting")
@@ -31,6 +33,8 @@ It also resulted in my first article in a noted print publication. I sent it to 
 ![Computerworld, April 2004](/assets/images/0b85f74c-418f-4847-b963-1f09bca3e185_1280x953.jpg "Computerworld, April 2004")
 *Almost my first byline in a print newspaper (except they left my name off the article). Computerworld, April 2004.*
 
+## What Marc Canter Was Really Doing in 2004
+
 There’s no getting around the fact that I was incredibly naive in 2004, though. It took me several years until I understood what Canter was doing back then. Even though he was an outsider in Silicon Valley at that time — no longer in Marc Andreessen’s league as a startup success — he was striving to make himself relevant again. He was a professional insider, using his Silicon Valley history to lure in n00bs like me with his backstory. He exaggerated his past, making it more romantic than it probably was, and glossed over his mistakes.
 
 The reality, as I discovered later, was that Canter had lost all his money in the 1990s. He had taken VC money for MacroMind in 1988, from the legendary venture capital firm Kleiner Perkins Caufield & Byers, and the plan was to do an IPO [in 1991](https://thenewstack.io/the-new-stack-makers-marc-canter-and-the-days-before-macromedia-part-one/). But he was kicked out of the company in 1991, and the IPO plans were then turned into convenient mergers. Canter had been handsomely paid off, but he blew it all over the rest of the 1990s on failed interactive TV startups and parties.
@@ -38,6 +42,8 @@ The reality, as I discovered later, was that Canter had lost all his money in th
 So at the time I interviewed him, Marc Canter was effectively starting from scratch in this new “social web” era and working hard to re-capture his past Silicon Valley success. His latest company was called Broadband Mechanics and it was building a product called PeopleAggregator, which Canter styled as a “digital lifestyle aggregator” (DLA). Naturally, he wanted attention for this new product, and he’d figured out that telling his story to bloggers was a way to get it in this new era.
 
 The Slashdotting was great for Canter, but it was also great for me. My blog was suddenly on the map with Slashdot readers, of which there were a large number back in 2004. So there was a symbiosis to our relationship as blogger and entrepreneur, which I hadn’t fully realized until the Slashdotting resulted in big page views and an increase in subscribers.
+
+## Meeting Marc Canter in Person
 
 I met Canter in person the following year, during my first trip to the US. He was 48 at the time, a large man (over six foot and overweight), mostly bald and wearing a goatee and glasses. He favored bright Hawaiian shirts — daisy chain yellows, electric purples, metallic pinks, tiger oranges — and was just as colorful in conversation. But for all his bluster and stories from the glory days of multimedia, he was also a family man — on his second marriage and with young kids. It made me wonder what was it like to have a meteoric rise in the startup industry when you’re young, but then lose it all and have to scrabble to adapt when you’re older. It was the flip side to the Marc Andreessen story, who had the meteoric rise, but then just kept rising.
 
@@ -47,6 +53,8 @@ I met Canter in person the following year, during my first trip to the US. He wa
 Only now, writing this book as a middle-aged man myself, can I truly empathize with what Marc Canter was going through in 2004. His story during Web 2.0 is just as much a part of Silicon Valley as the young rockstar founder story that both he and Andreessen lived in the 80s and 90s, respectively. Nowadays, we’d say that Canter in middle age still had the hustle and was dedicated to the startup grind, but I don’t think that quite captures what was going on when I met him. He was on the outer then, the same as me. But together, we could _maybe_ get into the inner circle. He innately understood this, but I was just learning it.
 
 * * *
+
+## Tim O’Reilly’s Oscon 2004 Keynote
 
 In July 2004, the computer book publisher Tim O’Reilly made a keynote speech at that year’s Open Source Convention (Oscon), in Portland, Oregon. I listened to it while I was sitting at my desk in a Wellington city office building, via a podcast site called [IT Conversations](https://web.archive.org/web/20040813040917/http://www.itconversations.com/shows/detail168.html). O’Reilly had built up a successful publishing and conference business since the 1980s, which his own website [describes](https://www.oreilly.com/tim/bio.html) as “providing the picks and shovels of learning to the Silicon Valley gold rush.” As a tech analyst, he was someone I could relate to, since he too had an arts degree — although his was from Harvard, not Wellington.
 
@@ -69,11 +77,15 @@ There was no mention of the term “Web 2.0” during O’Reilly’s Oscon keyno
 ![Web 2.0 Conference website, 2 June 2004](/assets/images/01cb160d-9744-4244-a984-a2cda80392f8_1682x1538.jpg "Web 2.0 Conference website, 2 June 2004")
 *[Web 2.0 Conference website](https://web.archive.org/web/20040602111547/http://www.web2con.com/), 2 June 2004*
 
+## The First Web 2.0 Conference, October 2004
+
 By the time October 2004 rolled around, there had been a marked shift in O’Reilly’s attitude to network effects. The Web 2.0 Conference was, of course, where the term “Web 2.0” was introduced; and given the audience, it quickly became a capitalistic rallying cry for the internet industry. So now, network effects were being _embraced_ — not challenged, as in Oscon 2004. It was suddenly business time, not a time for open source advocacy.
 
 In the conference opening, co-chair John Battelle (a media operator in his late 30’s who I would later do business with) talked about the opportunities in the new web era. He referenced one of O’Reilly’s current theories, the “architecture of participation,” explaining that it was “this idea of building your business by letting your customers build your business.” This was another way of saying that a startup could build network effects with user-generated content, which formed what O’Reilly (who loved to dream up new terms) called “collective intelligence.” Battelle pointed to Amazon, Google and eBay — the same few companies O’Reilly had mentioned at Oscon, but this time flipped to be examples that entrepreneurs should strive to emulate.
 
 It was striking how much the tone had changed in the two months between Oscon 2004 in late-July and the first Web 2.0 Conference in early October. Now it wasn’t about challenging the network effects of companies like Amazon and Google, it was about “harnessing” network effects for your own business purposes. Perhaps the Google IPO, which took place in August — in-between Oscon and the Web 2.0 Conference — was the catalyst for this shift in emphasis, from Napsterizing the web to commercializing it instead.
+
+## Andreessen on Data Lock-In and “eBay Envy”
 
 Marc Andreessen’s [panel](https://web.archive.org/web/20040614114254/http://web2con.com/pub/w/32/speakers.html), held on the first day of the conference, was entitled “Lessons Learned, Future Predicted.” This was just a couple of months after Andreessen had quietly founded his latest startup, Ning, which would be attempting to achieve network effects in the “social apps” market. In the session, Andreessen made no mention of having started something new; he was content to reminisce about the past, talk smack about Microsoft, and make generic predictions about the future (as he did regularly in media interviews). He was at this event to network with other entrepreneurs, perhaps raise some VC money, and pick up clues for success in this new web era. He wasn’t here to talk his next book.
 

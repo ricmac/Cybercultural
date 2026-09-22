@@ -14,12 +14,16 @@ I was a long way from Silicon Valley at the beginning of 2004, both geographical
 ![My weblog avatar in January 2004](/assets/images/5fa25a2e-ef88-4fd7-9866-bf939acc998b_640x480.jpg)
 *My weblog avatar in January 2004, age 32.*
 
+## How I Described Myself in January 2004
+
 “I'm a writer, web technology analyst and web producer,” I [described myself](https://web.archive.org/web/20040114183039/http://www.readwriteweb.com/stories/2004/01/08/aboutMe2004.html) on my blog at the beginning of 2004. “The latter one pays the mortgage right now, but I'm working on increasing the influence of the first two in my career.” And that, I wrote, was where my weblog came in. At the time, I worked for Contact Energy, one of New Zealand’s leading power suppliers. As hinted at in my profile page, I found my day-job rather dull — I managed the internal and external websites of the company, using a mix of off-the-shelf content management system software and whatever web publishing products Microsoft and Macromedia had at the time. The topics I wrote about in my blog were many years away from being a part of corporate websites.
 
 Since starting it in April 2003, my weblog had mostly focused on analysis of the latest web technology trends — but it was also a “learn by doing” situation. I’d spent a good deal of time organizing the structure of the blog (creating the navigation, setting up subscription formats, deciding what to put in the sidebars, and so on), and I’d completed a full “[tableless CSS](https://web.archive.org/web/20040111235103/http://www.readwriteweb.com/2003/09/28.html#a123)” redesign in September. But I’d also veered off track at times, such as my participation in NaNoWriMo — National Novel Writing Month — an annual challenge to write a 50,000-word novel in 30 days, over the month of November 2003.
 
 ![Behold, my tableless CSS design. Safari screen capture from 10 January 2004.](/assets/images/c74891d5-b3c0-4b36-b5b1-7e2f4b283144_1024x768.jpg "Behold, my tableless CSS design. Safari screen capture from 10 January 2004.")
 *Behold, my tableless CSS design. Safari screen capture from 10 January 2004.*
+
+## What the Blogosphere Was Like in 2003-04
 
 The “blogosphere” in 2003-04 was largely made up of geeky people like me, who treated the medium as a mix between an online journal and a tech experiment log. I enjoyed testing various new web technologies and applying them to my blog. At one point, I was “diving into XSLT to try and develop something interesting for my weblog's topic-based navigation” (trust me, you don’t need to know what XSLT stands for now). But blogs at that time were also personal, a reflection of their author’s personality. I often referenced literature and music in my posts, such as [comparing](https://web.archive.org/web/20031003045413/http://www.readwriteweb.com/2003/08/09.html) the Semantic Web to the hunt for the white whale in Moby Dick, or starting a post about being a [web generalist](https://web.archive.org/web/20030809063128/http://www.readwriteweb.com/2003/06/07.html) with a review of The Velvet Underground’s song “What goes on” as performed on their 1969 Live album.
 
@@ -31,6 +35,8 @@ Silicon Valley seemed very far away at the time, but at least I felt a sense of 
 *Up until May 2004, I ran my blog on Radio Userland, desktop blogging software created by Dave Winer. On this particular day, 30 March 2004, RWW was ranked 8th in the community — just ahead of future Microsoft CTO Ray Ozzie. In early May, I [switched to Movable Type](https://web.archive.org/web/20040701054525/http://www.readwriteweb.com/archives/001838.php), a browser-based blog platform.*
 
 * * *
+
+## The 2004 Launches That Shaped Web 2.0
 
 During the first half of 2004, I was trying to figure out my role as a tech blogger and what topics I should focus on. I didn’t know it at the time, but there were several pivotal web product launches that would help shape the future of ReadWriteWeb.
 
@@ -46,6 +52,8 @@ I never did get into the beta of the game, probably because by the time I discov
 ![Flickr co-founder Caterina Fake’s Flickr homepage, June 2004](/assets/images/756168ee-7d51-4bbc-8f68-5559ed903a42_1788x1368.jpg "Flickr co-founder Caterina Fake’s Flickr homepage, June 2004")
 *Flickr co-founder Caterina Fake’s Flickr homepage, [June 2004](https://web.archive.org/web/20040624003419/http://www.flickr.com:80/photos/caterina/). Note the “beta” tag on the logo; this became a familiar sight in Web 2.0!*
 
+## Gmail and the Arrival of DHTML Interfaces
+
 But arguably the most impactful web product of 2004, certainly from a usage point of view, was Google’s new web-based email service, Gmail. I joined it in July, a few months after the launch. Gmail was invite-only, but fortunately one of my blogger friends sent me an invitation code. Its most newsworthy feature at the time was the one gigabyte of storage space that Gmail offered, which was more than [100 times](https://www.internetnews.com/enterprise/google-testing-free-webmail/) what Yahoo and Microsoft offered. But what really stood out to new users was Gmail’s use of DHTML (Dynamic HTML), a technique using JavaScript that enabled a webpage to refresh itself in the background.
 
 Funnily enough, Google hadn’t invented this snazzy technique — in fact, it came [from Microsoft in 1997](/p/1997-the-year-of-dhtml/). But Gmail was the first widely used consumer web product to base its user interface around DHTML. Later, in early 2005, a new term would be coined for this functionality: Ajax (“Asynchronous JavaScript and XML”). But regardless of the name, Gmail’s interface seemed magical to many of us in mid-2004 — for the first time, a major web product seemed as sophisticated as a desktop app on Windows PC or Apple Macintosh.
@@ -53,11 +61,15 @@ Funnily enough, Google hadn’t invented this snazzy technique — in fact, it c
 ![Gmail at launch, April 2004](/assets/images/1fb001cd-752c-418a-ba46-9c717c17dc17_826x769.png "Gmail at launch, April 2004")
 *A Gmail screenshot from 2 April 2004, the day after its launch. Via [Kevin Fox](https://web.archive.org/web/20040607065412/http://fury.com/article/1990.php) and [Jason Shellen](https://web.archive.org/web/20040405222707/https://www.shellen.com/), who worked at Google at the time.*
 
+## Marc Andreessen Quietly Starts Ning
+
 As if to prove that a new web era was beginning, Marc Andreessen [quietly launched](https://web.archive.org/web/20040730051549/http://www.24hourlaundry.com/) his third startup around the same time I joined Gmail. No doubt he’d heard all the buzzwords being bandied about within Silicon Valley and by bloggers like me — social software, two-way web, user-generated content, tagging, microcontent, and so on. The question for Andreessen, already a millionaire many times over, was what to do about it. He had dabbled in angel investing already; and indeed would [invest](https://news.linkedin.com/2004/10/linkedin-secures-10-million-in-series-b-funding-led-by-greylock) in his friend Reid Hoffman’s social networking company, LinkedIn, later in the year. One option, then, was to use all his connections and capital, and become a VC. But no, he decided it wasn’t time for that yet. He still wanted to be “in the arena,” as Theodore Roosevelt had once famously put it. (Roosevelt’s full quote — “It is not the critic who counts \[…\] the credit belongs to the man who is actually in the arena” — has since become a rather obnoxious Silicon Valley maxim).
 
 Andreessen’s third act would come to be called Ning. He [later said](https://www.wired.com/2012/04/ff-andreessen/) that at the time he started Ning, he was fascinated with Reed's Law. It’s a form of network effects, stating that a network becomes more valuable when people can easily form subgroups to collaborate. The initial idea of Ning was to allow users to create “social apps” for groups. “Friendster hadn't worked, MySpace was just getting a little bit of traction, and Facebook was still at Harvard,” he explained. “What we knew worked were focused applications: Craigslist, eBay, Monster. So our idea was to bring social into these domains, in the form of apps that groups could run for themselves: their own job boards, their own selling marketplaces, and so on.”
 
 It was this and similar theories of social software that were firing the imaginations of entrepreneurs and bloggers alike in 2004.
+
+## Early Warning Signs of the Social Web
 
 Already, though, I had noticed a dark underside to the nascent social web. For all the geeky excitement and feeling of camaraderie that blogging and early social apps gave me, in my private notebooks I had started to complain about “the social pressures of the blogosphere — the need to be linked (loved), the quest for attention.” Later, in a public post, I mused further on the emerging attention economy. “It may be a democracy of ideas, but sometimes it feels like a horserace,” [I wrote](https://web.archive.org/web/20050210171104/http://www.readwriteweb.com/archives/001795.php).
 

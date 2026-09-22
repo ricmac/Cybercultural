@@ -23,6 +23,8 @@ I would later learn that this was what O’Reilly was like to everyone — he wa
 ![Tim O'Reilly and Jeff Bezos during the 2004 Web 2.0 Conference](/assets/images/d620f1ef-25fe-41ce-8c43-621e6f826268_663x493.jpg "Tim O'Reilly and Jeff Bezos during the 2004 Web 2.0 Conference")
 *Tim O'Reilly and Jeff Bezos during the 2004 Web 2.0 Conference; Photo [by JD Lasica](https://www.flickr.com/photos/jdlasica/153327706/in/album-600477/)*
 
+## O’Reilly on Microsoft and the Commoditization of Software
+
 I asked him about one of his new catchphrases, "the commoditization of software,” and how the 90s software giant Microsoft might adapt to the Web 2.0 era. Microsoft remains committed to locking users in with their software, I said, citing the company’s new operating system work-in-progress, code-named Longhorn (it was re-named Windows Vista the following year). In reply, he compared Microsoft to IBM in the 1980s, which had had to adapt its business in response to the changing tech environment. Microsoft will have to do the same, O’Reilly told me. “They can't keep up with the pace of a web-based offering, where you can roll out new products to all your users without even asking, and update products dynamically,” he said.
 
 This turned out to be spot on; Microsoft eventually morphed into a cloud computing giant in the 2010s, and its office software is now a successful meld of desktop application and online updates.
@@ -32,6 +34,8 @@ This turned out to be spot on; Microsoft eventually morphed into a cloud computi
 
 ![from a 2001 John Baldessari art installation entitled READ/WRITE/THINK/DREAM](/assets/images/1bb012a7-63aa-48e4-aefb-21d5e11d0940_740x414.jpg "from a 2001 John Baldessari art installation entitled READ/WRITE/THINK/DREAM")
 *The original Baldessari artwork; [via UC San Diego Stuart Collection](https://stuartcollection.ucsd.edu/artist/baldessari.html).*
+
+## What O’Reilly Got Wrong About RSS
 
 Other predictions from O’Reilly in 2004 were less accurate, with the benefit of hindsight. One of my questions was about RSS (Really Simple Syndication), an open protocol that was fast evolving into the default method to syndicate content. Importantly, in 2004 it was the way people subscribed to blogs like mine, by copying and pasting an RSS address (a hyperlink) into an RSS Reader — which was either a desktop or a browser application. RSS had a distinctive orange button, which became a feature in the sidebar of all blogs. I also had separate buttons for ‘My Yahoo!’ (Yahoo’s latest portal, which, as of September, now doubled as an RSS Reader) and a product called Bloglines (my preferred RSS Reader, as it was browser-based).
 
@@ -48,12 +52,16 @@ Like almost everyone else, I failed to see the downsides of network effects in 2
 
 (So what happened to RSS? For a time, Google adopted it and released its own browser-based RSS Reader in October 2005. Perhaps Bloglines had seen the writing on the wall, because by then it had sold to the wannabe Google competitor, Ask&#46;com. By 2007, Google Reader had caught up with Bloglines in users, and by 2008 Google Reader was the dominant RSS Reader product on the market. Google continued to vanquish competitors over the next five years, but during this time period social media began to displace blogging as the water cooler of the internet. Then, in 2013, Google suddenly discontinued Reader. It was the death-knell for the entire product category, because now none of the leading internet companies supported RSS in a meaningful way. I tell this quick story to illustrate the vagaries of network effects for end-users, which weren’t yet obvious in 2004.)
 
+## The Response to the Interview
+
 The feedback I got from the Tim O’Reilly interview, which I published in three separate posts over a one-week period in November 2004, was really encouraging. For the first time, it seemed to me, it wasn’t just fellow bloggers leaving comments on my blog, but people in the internet industry who were grateful for the insights.
 
 ![Part 2 of the Tim O’Reilly interview](/assets/images/fe475259-8a55-449e-bfba-ee253af3d751_1504x1176.png "Part 2 of the Tim O’Reilly interview")
 *Part 2 of the Tim O’Reilly interview.*
 
 * * *
+
+## The Marqui Sponsorship Experiment
 
 Read/Write Web was far from being a full-time business yet, but I had been experimenting with monetization. At the start of December, I began participating in a sponsorship program that — in retrospect — now looks incredibly clumsy and naive. [I announced](https://web.archive.org/web/20041208185508/http://www.readwriteweb.com/archives/002493.php) on my blog that I’d be “paid US$800 per month for 3 months to write 1 blog post per week about a company called Marqui.” Marc Canter had set this up and there were a group of fifteen bloggers signed up. We were being fed story ideas from Marqui, a product I knew nothing about at first, until I discovered that it was a rather unimpressive content management system for marketers.
 
@@ -64,12 +72,16 @@ There was a debate happening in the blogosphere about whether the Marqui blogger
 ![Marqui blogosphere program](/assets/images/8ff3c61d-ea5f-4c82-87e4-5ff4a8e13790_1568x1044.png "Marqui blogosphere program")
 *I was searching for a business model for my blog, but this didn’t turn out to be it.*
 
+## Weblog Solutions, With Phil Pearson
+
 Also at this time, I was setting up a new company with a fellow kiwi blogger, Phil Pearson. We may well have been the only two bloggers in New Zealand at that time, so we’d come up with the idea of starting our own services company for social software — principally blogs and wikis. We called it [Weblog Solutions](https://web.archive.org/web/20050116071807/http://weblogsolutions.co.nz/blog/about.php) and the company was registered in December 2004. The idea was to help New Zealand companies set up corporate blogs and advise them on how to use them, whether for marketing, project management or “knowledge management” purposes.
 
 It was a solid business idea, but unfortunately neither Phil nor I were adept at rustling up sales or promoting ourselves. We never did land a client, but we also didn’t try very hard. Both of us had more than enough work on our plates already. He was an in-demand web programmer, while I was a web manager by day and a striving blogger by night (and sometimes during the day, hidden away in conference rooms).
 
 ![WordPress in 2004](/assets/images/73077544-498e-4613-b41c-2809989c80ae_893x381.png "WordPress in 2004")
 *Although ‘Weblog Solutions’ didn’t work out, it did give me a chance to play with WordPress (I used Movable Type for RWW). In 2004, there were controversial changes in Movable Type's licensing, which started the first wave of WordPress adoption. I stuck with MT, as by then I was used to it.*
+
+## Best Web 2.0 Companies of 2004
 
 At the end of the year, I did a post that would become an annual Christmas tradition on Read/Write Web. I titled it “[Best Web 2.0 Companies of 2004](https://web.archive.org/web/20041231030453/http://www.readwriteweb.com/archives/002609.php)” and named Google the best Web 2.0 BigCo, Flickr the best Web 2.0 LittleCo, and Feedburner (an RSS statistics app) most promising.
 

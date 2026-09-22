@@ -18,6 +18,8 @@ My Silicon Valley story began in September 2005, when I took my first trip to th
 ![ReadWriteWeb in September 2005](/assets/images/5fefa11a-2489-4e38-a4ef-48af2ba10cc7_1024x742.jpg "ReadWriteWeb in September 2005")
 *A screen capture of RWW just before I visited Silicon Valley for the first time. The Feedburner RSS badge number indicates this was pre-growth spurt.*
 
+## My Illusions About Silicon Valley
+
 Like anyone who works in tech but has never been to Silicon Valley, I had illusions about the place before I arrived. Some were formed by the books I’d read. I had thought all startup founders were crazy, monomaniacal and heroic; like the Netscape co-founder Jim Clark, as portrayed by Michael Lewis in his book, _The New New Thing_. But the founders I eventually met on the ground were strivers, like me. Many had been humbled by the Dot Com boom and bust, so they were willing to listen to new ideas and new people — even ones from the other side of the world.
 
 Some of my illusions ended up correct on the surface, but ignorant of the deeper nuances. I’d imagined Palo Alto as an idyllic, tree-lined town with a main road full of cafes and burger joints — just like on the tv show _Happy Days_. That one turned out to be largely true, but what I hadn’t conceived of was the long and bumpy, busy and dirty highways you must travel along to get to Palo Alto, and which separate the rich and the poor of California.
@@ -28,6 +30,8 @@ To me, Silicon Valley was the modern embodiment of the American Dream, in that i
 
 ![Richard MacManus in March 2005](/assets/images/f3005330-66f7-4f97-91b6-865741d63d27_480x587.jpg "Richard MacManus in March 2005")
 *The author in all his geeky, naive glory in March 2005.*
+
+## Everyone Is an Outsider When They Arrive
 
 Even Marc Andreessen, the guy who Jim Clark piggy-backed off to launch Netscape in the 1990s, didn’t come from the valley. Andreessen went on to become the internet’s first rock star and the ultimate tech insider, but he was an outsider when he landed in the valley in 1993 (or so the story goes). He’d been raised in Iowa and went to his local University of Illinois, so I imagined his journey west was not unlike that of W. Axl Rose a decade earlier, who famously — but possibly apocryphally — stepped off a greyhound bus from Indiana and onto the hard but glamorous streets of LA.
 
@@ -43,6 +47,8 @@ A couple of years later — a personal dark ages of scrabbling for an identity, 
 
 By the time the Dot Com bubble burst in 2001, I was a Web Manager for Ericsson’s New Zealand branch. Funnily enough, I was even an outsider in that company — they didn’t know whether to put me in the IT team or the marketing team. I ended up in Marketing, but I hung out with the IT guys at coffee and lunch breaks.
 
+## Starting My Blog in 2003
+
 A couple of years later, in April 2003, I started a blog and called it Read/Write Web. Initially it was an outlet for me to explore the cutting edge of internet technology; things I didn’t need to know to do my job, but I wanted to know because I was curious where web technology was headed. I didn’t realize it at the time, but people in Silicon Valley were also curious about this, since it was the depths of the post-Dot Com winter.
 
 ![The first ReadWriteWeb post, April 2003](/assets/images/c4634562-0d3e-4b0b-99a4-ebcc2ac9711c_2158x1160.png "The first ReadWriteWeb post, April 2003")
@@ -51,6 +57,8 @@ A couple of years later, in April 2003, I started a blog and called it Read/Writ
 By 2004, winter was thawing and Silicon Valley was experimenting with the web again. Blogs were one of the emerging technologies, along with wikis and primitive social networks like Friendster and MySpace. Because I was writing about these and other web trends, people from Silicon Valley began reading my blog, commenting on it, and linking to it from their own blogs. Amazingly, these people seemed interested in what an outsider — someone who lived 7,000 miles away, spoke funny, and had not gone to Stanford or Harvard — had to say about their industry.
 
 ***
+
+## Before Tech Took Over the Fortune 500
 
 It’s almost impossible to believe now, but in [2005](https://money.cnn.com/magazines/fortune/fortune500_archive/full/2005/1.html) not one of the top ten companies in the Fortune 500 was a technology company. The highest entry was Hewlett-Packard at number 11, but it had nothing to do with the web. Microsoft, which was coasting along at this point with its dominant Internet Explorer web browser, was number 41, and Intel was 50. It was a long drop then to Apple Computer at 263 and Amazon.com at 303. None of the other companies that would come to dominate our society were present on the 2005 list. Google had gone public in 2004, but it would not break the Fortune 500 until [2006](https://money.cnn.com/magazines/fortune/fortune500/2006/snapshots/3967.html). Facebook was at this time a tiny startup working out of a rented Palo Alto office.
 
@@ -63,6 +71,8 @@ In those intervening years, several major tech trends happened that changed our 
 A geekier revolution was also taking place in Silicon Valley — and indeed the entire tech industry — over this period. The World Wide Web became a full-fledged platform for startups to build on. While web applications began as far back as 1993, with [CGI scripting](/p/1993-cgi-scripts-and-early-server-side-web-programming/), it wasn’t until the 2000s that the computing environment became conducive to multimedia-driven, interactive websites — online video wasn’t really viable until 2005, when YouTube was created. Browser technology settled after Microsoft was forced by the US government to compete in 2001; and, in 2008, took a leap forward when Google released its Chrome product.
 
 Meanwhile, companies like Google and Amazon took advantage of “the wisdom of the crowds” to create powerful web products that increasingly seemed to predict what the user wanted — be it the right search result, or the right consumer product to buy. Some websites became platforms in their own right, allowing other startups to build on top of them (Facebook and Twitter). Also, data began moving to “the cloud” after Amazon launched its first cloud computing service in 2006.
+
+## Where the Term “Web 2.0” Came From
 
 All of this, which I chronicled on my tech blog, was bundled into a term that became a rallying cry for entrepreneurs in Silicon Valley during the 2000s: “Web 2.0.” It was coined in 2004 by O’Reilly Media, a technical books company led by Tim O’Reilly, a shrewd businessman who had built his career on watching carefully what computer programmers did and then documenting it before anyone else. Web 2.0 was a clever term, because it implied that this was a second generation of the internet. It was billed as a renaissance, a re-building of the startup scene after the Dot Com boom and bust. Web 2.0 meant nothing to the outside world, but it didn’t need to — it was a term that startup founders could put in their PowerPoint presentations to angel investors (like Andreessen) and VCs, which in turn helped developers get jobs again in Silicon Valley.
 
@@ -77,6 +87,8 @@ In any case, my blog — ReadWriteWeb, a.k.a. RWW — became one of the defining
 *A parody of the Web 2.0 Meme Map [by Charlie Wood](https://web.archive.org/web/20051026024257/http://bubble20.blogspot.com/2005/10/bubble-2_11.html). Published 11 October 2005. Side note: the very next day, Charlie posted [this quote from me](https://web.archive.org/web/20060507120040/http://bubble20.blogspot.com/2005/10/web-2.html): “OK so there's a lot of hype. So the VCs are throwing money around. So get to work. Build something Web-based that mainstream people will need and want. Now's the time to do it.” ([original RWW post](https://web.archive.org/web/20060103153819/http://www.readwriteweb.com/archives/web_20_land_of.php) where that quote comes from)*
 
 ***
+
+## The Email From Marc Andreessen
 
 I never got to meet Marc Andreessen — the ultimate insider — in person, but we did briefly communicate during my first trip to Silicon Valley.
 
