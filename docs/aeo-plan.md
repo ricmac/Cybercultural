@@ -47,7 +47,7 @@ Net effect: item 0 (measurement baseline) was added because of Daniel Mercer's p
 | 9 | Add related-post links at the foot of each post | Reasonable | Small | Not started |
 | 10 | Record lastUpdated and surface it | Reasonable | Small + ongoing | **Done** — key, visible line, `npm run check:dates`, backlog worked through |
 | 11 | Name the AI crawlers in robots.txt | Documentary only | Trivial | **Done** |
-| 12 | Add llms.txt | Speculative | Trivial | Not started |
+| 12 | Add llms.txt | Speculative | Trivial | **Done** |
 | 13 | Fix the missing twitter:card tag | Not AEO — just a bug | Trivial | **Done** |
 | 14 | Stand up the AEO research routine — monthly, not weekly | swyx's actual point | Small | Not started |
 | 15 | Reframe titles/descriptions on broad-entity posts to match searcher intent | Strong, from query+page data | Content, ~6 posts, needs Richard | Not started — recommendations only |
@@ -219,7 +219,9 @@ Those six will keep appearing in `npm run check:dates`, since nothing in the rep
 
 ## Item 12 — Add llms.txt
 
-**Status: not started, speculative.** No major answer engine has publicly committed to reading it. Cheap and harmless if you want the optionality, but item 7 has an actual mechanism behind it and this doesn't.
+**Status: done, and still speculative.** No major answer engine has publicly committed to reading `/llms.txt`, and the write-ups that have measured it lean towards no detectable effect. It is here for optionality, not for a promised result — item 7 (markdown copies) remains the mechanism with something behind it.
+
+Generated, never hand-written: `src/assets/helperfiles/llms.njk` builds `/llms.txt` from Eleventy collections at build time, so it cannot drift as articles are added. It carries a site summary, the key pages, the four era sections with live counts, the `internet-[year]` overview series, the memoir/RWW/notes/season collections, every article newest-first with its own description, and the 27 `/tags/[year]/` archives. Two collections were added to `.eleventy.js` for it: `yearOverviews` (the `year`-tagged posts sorted by the year in the title) and `yearArchives` (the first pagination page of each `/tags/[year]/`).
 
 ## Item 13 — Fix the missing twitter:card tag
 

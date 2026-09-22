@@ -1,0 +1,76 @@
+---
+permalink: /llms.txt
+eleventyExcludeFromCollections: true
+excludeFromSitemap: true
+---
+{%- set site = meta.url | replace("/$", "") -%}
+{%- set allPosts = collections.posts | reverse -%}
+# Cybercultural
+
+> {{ meta.siteDescription | safe }} Written by {{ meta.author.name | safe }}, who founded and edited ReadWriteWeb from 2003 to 2012. The site covers the internet from the pre-web era through the dot-com years, Web 2.0 and after, in {{ allPosts | length }} articles.
+
+Every article is also published as plain markdown at its own URL plus `index.md` — for example {{ site }}{{ allPosts[0].url }}index.md. This file is generated from the site's content at each build, so it does not go stale.
+
+## Start here
+
+- [Cybercultural home]({{ site }}/): the site's front page, with the latest articles.
+- [About]({{ site }}/about/): who Richard MacManus is and why this site exists.
+- [Explore internet history]({{ site }}/internet-history/): the archive organised by era.
+- [On this day in internet history]({{ site }}/on-this-day/): what happened on today's date.
+- [Subscribe]({{ site }}/subscribe/): free email subscription.
+{%- set eras = [
+  {slug: "preweb", name: "Pre-web", path: "/preweb", note: "the 1960s to the 1980s, before the web existed"},
+  {slug: "dotcom", name: "Dot-com", path: "/dotcom", note: "1990 to 2003, the birth of the web and the boom and bust"},
+  {slug: "web20", name: "Web 2.0", path: "/web20", note: "2004 to 2012, blogging, social media and the read/write web"},
+  {slug: "enshittocene", name: "Enshittocene", path: "/enshittocene", note: "about 2013 to 2021, the platform era"}
+] %}
+
+## Eras
+{% for era in eras %}
+- [{{ era.name }}]({{ site }}{{ era.path }}/): {{ era.note | safe }} ({{ collections[era.slug] | length }} articles).
+{%- endfor %}
+
+## Year-by-year overviews
+
+One article per year summarising what the internet was like that year.
+{% for post in collections.yearOverviews %}
+- [{{ post.data.title | safe }}]({{ site }}{{ post.url }})
+{%- endfor %}
+
+## Collections
+
+- [Memoir]({{ site }}/memoir/): Richard MacManus's first-hand account of building ReadWriteWeb ({{ collections.memoir | length }} chapters).
+- [ReadWriteWeb archive]({{ site }}/rww/): republished articles he wrote for ReadWriteWeb, 2003-2012 ({{ collections.rww | length }} articles).
+- [Web development history]({{ site }}/wdh/timeline.html): a timeline of how web development evolved.
+- [Notes]({{ site }}/notes/): shorter personal and site posts ({{ collections.notes | length }}).
+
+The site's writing is also grouped into seasons, each a run of articles on a theme:
+{% set seasons = [
+  {slug: "season1", name: "Season 1"},
+  {slug: "season2", name: "Season 2"},
+  {slug: "season4", name: "Season 4"},
+  {slug: "season5", name: "Season 5"}
+] %}
+{%- for s in seasons %}{% if collections[s.slug] %}
+- [{{ s.name }}]({{ site }}/{{ s.slug }}/): {{ collections[s.slug] | length }} articles.
+{%- endif %}{% endfor %}
+
+## All articles
+
+Newest first. Each link also has a markdown copy at the same URL plus `index.md`.
+{% for post in allPosts %}
+- [{{ post.data.title | safe }}]({{ site }}{{ post.url }}){% if post.data.description %}: {{ post.data.description | safe | replace("\n", " ") | trim }}{% endif %}
+{%- endfor %}
+
+## Year archives
+
+Every article tagged with the year it covers.
+{% for page in collections.yearArchives %}
+- [{{ page.data.title | safe }}]({{ site }}/tags/{{ page.data.title }}/): {{ page.data.description | safe }}
+{%- endfor %}
+
+## Optional
+
+- [Full sitemap]({{ site }}/sitemap.xml)
+- [RSS feed]({{ site }}/feed.xml)
+- [Search]({{ site }}/search/)

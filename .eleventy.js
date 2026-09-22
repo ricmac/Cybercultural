@@ -146,6 +146,21 @@ export default function(eleventyConfig) {
   eleventyConfig.addCollection('posts', getAllPosts);
   eleventyConfig.addCollection('onlyMarkdown', onlyMarkdown);
 
+  // The "What the Internet Was Like in <year>" overview posts, oldest first.
+  eleventyConfig.addCollection('yearOverviews', (collectionApi) =>
+    collectionApi
+      .getFilteredByTag('year')
+      .sort((a, b) => Number((a.data.title.match(/\d{4}/) || [0])[0]) - Number((b.data.title.match(/\d{4}/) || [0])[0]))
+  );
+
+  // Year archive pages (/tags/<year>/) — first pagination page only, oldest first.
+  eleventyConfig.addCollection('yearArchives', (collectionApi) =>
+    collectionApi
+      .getFilteredByGlob('./src/pages/yearpages/*.md')
+      .filter((page) => /^\/tags\/\d{4}\/$/.test(page.url))
+      .sort((a, b) => Number(a.data.title) - Number(b.data.title))
+  );
+
   // Add a collection for specified categories
   eleventyConfig.addCollection("categorizedPosts", function(collectionApi) {
     const yearTags = ["1968", "1969", "1990", "1991", "1992", "1993", "1994", "1995", "1996", "1997", "1998", "1999", 
