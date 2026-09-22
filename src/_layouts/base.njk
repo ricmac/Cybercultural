@@ -24,6 +24,8 @@
 {%- include "schemas/webpage-schema.njk" -%}
 {% elif schema == 'collection' %}
 {%- include "schemas/collectionpage-schema.njk" -%}
+{% elif schema == 'profile' %}
+{%- include "schemas/profilepage-schema.njk" -%}
 {% endif %}
 
     <link rel="stylesheet" href="/assets/css/global.css?v=__ASSET_HASH_CSS__" />

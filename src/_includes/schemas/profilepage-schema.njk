@@ -1,0 +1,17 @@
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "ProfilePage",
+    "@id": "https://cybercultural.com{{ page.url }}",
+    "url": "https://cybercultural.com{{ page.url }}",
+    "name": {{ (title or meta.siteName) | toJsonLd | safe }},
+    "description": {{ (description or meta.siteDescription) | toJsonLd | safe }},
+    "isPartOf": {
+      "@id": "{{ meta.url }}#website"
+    },
+    "inLanguage": "{{ meta.inLanguage }}",
+    "mainEntity": {
+      "@id": "{{ meta.author.url }}#person"
+    }
+  }
+</script>

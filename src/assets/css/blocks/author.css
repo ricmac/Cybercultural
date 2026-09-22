@@ -1,0 +1,32 @@
+/* Richard's photo on the About page, floated beside the intro text. */
+.page img.about-photo {
+  float: inline-end;
+  inline-size: 10rem;
+  aspect-ratio: 1;
+  margin-inline-start: var(--space-s);
+  margin-block-end: var(--space-s);
+  border: 0;
+  border-radius: 50%;
+}
+
+/* Short author bio shown after every post (see post.njk). */
+.author-box {
+  display: flex;
+  align-items: center;
+  gap: var(--space-s);
+}
+
+.author-box img {
+  flex: none;
+  inline-size: 5rem;
+  block-size: 5rem;
+  border-radius: 50%;
+}
+
+.author-box p {
+  margin: 0;
+}
+
+.author-box picture {
+  flex: none;
+}

@@ -25,6 +25,7 @@
       "@id": "{{ meta.author.url }}#person",
       "name": {{ meta.author.name | toJsonLd | safe }},
       "url": "{{ meta.author.url }}",
+      "image": "{{ meta.url }}{{ meta.author.image }}",
       "jobTitle": {{ meta.author.jobTitle | toJsonLd | safe }},
       "sameAs": {{ meta.author.sameAs | toJsonLd | safe }},
       "knowsAbout": {{ meta.author.knowsAbout | toJsonLd | safe }},

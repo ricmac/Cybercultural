@@ -18,12 +18,14 @@ const meta = {
       'https://ricmac.org/',
       'https://mastodon.social/@ricmac',
       'https://bsky.app/profile/ricmac.org',
-      'https://ricmac.org/career-archive/readwriteweb/'
+      'https://ricmac.org/career-archive/readwriteweb/',
+      'https://ricmac.org/career-archive/'
     ],
     knowsAbout: ['Internet history', 'Web 2.0', 'the dot-com era', 'tech blogging'],
+    image: '/assets/images/richard-macmanus.jpg',
     worksFor: {
-      name: 'ReadWriteWeb',
-      url: 'https://ricmac.org/career-archive/readwriteweb/'
+      name: 'Latent Space',
+      url: 'https://www.latent.space/'
     },
     book: {
       name: "Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution",
