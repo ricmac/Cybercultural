@@ -47,7 +47,7 @@ It’s a shame, in retrospect, because he had been friendly to me at that spicy 
 
 But being nice to people is important, too — the two-way web is a miserable experience otherwise, as we all discovered a decade later in the prime of social media.
 
-* * *
+## Moving to the Valley?
 
 As I neared the end of my first trip to Silicon Valley, I began to think more seriously about moving here. I’d enjoyed the camaraderie of Mike, Fred and Gabe — and others I’d met in person for the first time, like Josh Porter and Fergus Burns. If I moved to Silicon Valley, I’d surely become good friends with Mike and Gabe (the others all lived elsewhere). We were around the same age and had lots in common — work, music tastes, sense of humor, and so on. Although, I had become aware during my trip that Mike lived on a slightly higher rung of society than me, in terms of his network and familiarity with high-powered people in the tech industry. Perhaps I’d get ingratiated into that stratum of Silicon Valley too, but I wasn’t sure.
 

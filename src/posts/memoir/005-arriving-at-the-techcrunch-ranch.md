@@ -14,8 +14,6 @@ On a Friday afternoon at the end of September 2005, I stepped foot on American s
 
 “Richard? Hi, I’m Mike,” he said, and shook my hand. It had been a twelve-hour overnight flight and I hadn’t slept, so my brain felt foggy. Plus, I was overwhelmed by finally being in the land of opportunity. I smiled and mumbled something like ‘great to meet you’ and he led the way to his car.
 
-## Down the 101 in an Open-Top Sports Car
-
 Soon we were heading south down the famous 101 highway, in Mike Arrington’s open-top sports car. It was so bright and hot that I was worried I’d get sunburned, so I took sun cream out of the laptop bag I was clutching and began applying it. Mike, who was tanned and relaxed in the driver’s seat, looked over at me, bemused and perhaps wondering what kind of weirdo he’d taken in. “I have fair skin,” I said, embarrassed and already feeling out of place in sunny California. We talked a bit about blogging and the startups we were both covering on our respective blogs, although I found it hard to hear amidst the whirl of the motorway and the thwak-thwak-thwak sound of the tires as we drove at speed down the 101. My ears were also still partially blocked after the flight.
 
 ## Arriving at the Atherton Ranch House
@@ -34,7 +32,7 @@ I had been testing an awkwardly named tech news aggregator called tech.memeorand
 ![Techmeme in October 2005](/assets/images/8dd8fcd2-a52f-46da-b622-059e66197f12_1878x1438.png)
 *tech.memeorandum, [1 October 2005](https://web.archive.org/web/20051001010935/http://tech.memeorandum.com/). Long gone are the days when an obscure feed format (OPML) could be the number 1 story on Techmeme.*
 
-## Inside the House, and Meeting Fred Oliveira
+## The Silicon Valley Blogger Fraternity
 
 We walked inside and into the living room. It had a 70s decor, with its beige shag carpet and mahogany wood paneling adorning the walls. Mike pointed me to a small room at the top of the hallway to the left, empty except for a futon on the floor and a small dresser; this would be my room for the duration of my two-week stay. “Hey Fred,” yelled Mike down the hallway, “come meet Richard.”
 
@@ -58,7 +56,7 @@ I was invited to set up my laptop in the makeshift office, which had a small spa
 ![Screenshot of Technorati, a blog directory, October 2005](/assets/images/87e20616-45f8-4c6e-9c2f-b695915ab370_1674x1572.png)
 *Technorati, [1 Oct 2005](https://web.archive.org/web/20051001090738/http://technorati.com/pop/blogs/). We soon became very addicted to this site!*
 
-## Why TechCrunch Was the Better Blog Name
+## Why TechCrunch Was a Better Blog Name
 
 The conversation soon turned to my accent, especially how I pronounced ‘web’ — Mike told me it sounded like “weeb.” The name of my site, Read/Write Web, was already a tongue-twister, so I figured this just made my blog even more exotic. Mike also ribbed Gabe about how unwieldy Memeorandum was to say and spell, so I wasn’t the only object of his good-natured teasing.
 

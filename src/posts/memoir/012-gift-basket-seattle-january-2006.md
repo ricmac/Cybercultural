@@ -42,7 +42,7 @@ I was now fully mortified and attempted to save face by replying once again to t
 
 The next day, while I was out exploring Seattle, an email arrived from Mike Arrington. He’d flown up from San Francisco and had evidently just arrived at the hotel. The email was addressed to Fred and me. “No fucking gift basket either,” it read.
 
-* * *
+## Visiting the Seattle Central Library
 
 On Tuesday, a bunch of us — including Fred and Josh — went to explore the famed Seattle Central Library, designed by Rem Koolhaas and Joshua Prince-Ramus. It had only opened in 2004 and we all had our digital cameras out, taking photos of the lime green escalator, bright red corridors, and the massive glass windows cross-crossed with steel netting. One of my Seattle-based blog buddies, Erik Benson, had recommended I check out the “electronic bulletin board on the 5th floor that displays, in semi-real time, all the books that are being checked in and out, as well as searches, etc.” That board was indeed a marvelous blend of two things that I loved: libraries and digital technology.
 
