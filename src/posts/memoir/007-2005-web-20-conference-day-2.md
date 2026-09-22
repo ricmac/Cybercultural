@@ -23,6 +23,8 @@ I looked closer at the man, who was about my age, and saw that his smile was a m
 ![Jason Calacanis revelling in the glory of selling his business](/assets/images/38dba855-2765-4bde-99ae-ed20accbaf5a_2048x1362.jpg "Jason Calacanis revelling in the glory of selling his business")
 *Jason Calacanis revelling in the glory of selling his business; photo [by Gen Kanai](https://www.flickr.com/photos/gen/50315516/in/album-1082901/).*
 
+## Jason Calacanis Sells Weblogs, Inc. to AOL
+
 It turned out that Calacanis and his co-founder Brian Alvey had sold their company to AOL for [$25 million](https://web.archive.org/web/20051013061555/http://calacanis.weblogsinc.com/). It was an impressive sum for what amounted to a network of blogs. The deal wasn’t far off what Yahoo! had paid for Flickr, the trendy Web 2.0 photo sharing service, back in March. If I wasn’t sure whether blogging was a career before today, I was now converted.
 
 Weblogs, Inc. was a collection of a few dozen topical blogs, many of which were a subdomain of [weblogsinc.com](https://web.archive.org/web/20051013073635/http://weblogsinc.com/). But the highest performing was a gadget blog called Engadget, which had its own domain and was run by a young tech journalist named Peter Rojas, who Calacanis had poached from his arch-rival Gawker Media. Although Rojas was the talent who had turned Engadget into one of the top blogs (at the time, it was ranked number 2 in the world by Technorati), Calacanis had an even more enviable gift — getting attention. I didn’t know him at the time, but I would regularly see him on the tech conference circuit in the years to come, and I was always impressed by his networking skills.
@@ -31,6 +33,8 @@ At one such conference, a few years after he’d sold Weblogs, Inc., a colleague
 
 ![My new Irish friends, Fergus Burns and Jonathan Hill, in the lobby of the Web 2.0 Conference](/assets/images/2128cec9-2787-4052-827f-7963bd8607a2_960x1280.jpg "My new Irish friends, Fergus Burns and Jonathan Hill, in the lobby of the Web 2.0 Conference")
 *My new Irish friends, Fergus Burns and Jonathan Hill, in the lobby of the Web 2.0 Conference. Photo [via Fergus Burns](https://www.flickr.com/photos/itnorthwest/49761814/).*
+
+## An Invitation to the Swig Party
 
 Anyway, back to 2005. I turned to Fergus and Jonathan and asked if they were going to the Web 2.0 party tonight, at the Swig bar on Geary St?
 
@@ -43,12 +47,16 @@ I felt more comfortable at the Web 2.0 Conference over day two, which was spent 
 ![A cartoon drawn of me at the Web 2.0 Conference, October 2005](/assets/images/d1f5d47b-1e9d-458e-bbfa-5256ab205153_562x705.jpg)
 *A cartoon drawn of me at the Web 2.0 Conference, October 2005.*
 
+## Killing Time at the House of Shields
+
 At the end of the day, I had some time to kill before the Swig party, so I headed to a nearby pub called ‘House of Shields.’ The night before, it had been the location of the [Web 1.0 Summit](https://laughingsquid.com/web-1-summit/) — a counter-programming event pitched at entrepreneurs who couldn’t afford the ticket price of the Web 2.0 Conference, or bloggers who weren’t on a Technorati list. As a still-young Generation Xer myself, I appreciated the irony and camaraderie of a bunch of outsiders poking fun at the new thing while playing drinking games based on a bygone era (the blink tag!). But I was also unironically enjoying the excitement of the main event, Web 2.0, so I had not gone to the Web 1.0 Summit booze-up. Perhaps I was afraid I’d be called a sell-out (a very Gen X concern).
 
 The bar had large, yellow-on-red fluorescent signage above its entrance: “House of Shields, Live Music.” Inside it was a rectangular shape, with the bar running across almost the entire downstairs floor. The room had a lot of wood paneling and basked in a dim orange glow, from a mixture of the fluorescent lights outside and the yellow lighting inside. There was an upstairs section too, with tables, but I was on my own to start with — I’d be meeting Josh Porter and the Irish lads here soon — and so I headed straight to the bar and sat on one of the stools.
 
 ![House of Shields exterior](/assets/images/79b85733-add5-40d2-a39e-cd35b308e969_1280x856.jpg "House of Shields exterior")
 *Photo [by Steve Rhodes](https://www.flickr.com/photos/ari/4102964213/).*
+
+## The Stranger Who Thought He Knew Me
 
 Even though I wouldn’t be alone for long, the experience of sitting in a strange bar by myself, nursing an IPA, reminded me of something that had happened nearly a decade ago. Early 1996, I was 24 years old and living by myself in Auckland, New Zealand, in a one-bedroom flat in a run-down converted house. I was disconnected from people at that time in my life. I didn’t have internet — I could barely afford to feed myself — and nobody I knew owned a mobile phone. Even though I had little spending money, I was desperate to get out of my empty flat one Saturday night, so I caught a bus into the city. I didn’t know what I planned to do, but I had to do something. I’d just sat down in the bus when I heard a voice behind me.
 
@@ -81,6 +89,8 @@ On this, my first trip to the US, I hadn’t yet figured out how to get my primi
 
 ![The Motorola E815](/assets/images/87edef62-e3eb-439f-a379-fa40c4f40cdf_1600x1200.jpg "The Motorola E815")
 *The Motorola E815; photo [by Hugo Londoño](https://www.flickr.com/photos/sinlentes/66200888).*
+
+## Google Had Just Quietly Bought Android
 
 Unbeknownst to me, a few months before the Web 2.0 Conference, Google had acquired a tiny startup named Android. The news had received almost no press and Google kept whatever they were building behind closed doors for a couple more years. As for Apple, Steve Jobs had publicly unveiled an “iTunes phone” in partnership with Motorola just weeks before I arrived in Silicon Valley. It was called the Motorola ROKR and [Jobs hated it](https://www.theverge.com/2017/6/13/15782200/one-device-secret-history-iphone-brian-merchant-book-excerpt). Fueled by that disappointment, Apple then committed to building a smartphone in-house.
 

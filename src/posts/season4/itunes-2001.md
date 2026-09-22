@@ -19,6 +19,8 @@ At around the 40-minute mark, Jobs began talking about what Apple’s vision was
 ![iTunes 2001](/assets/images/itunes-screenshot-2001a.jpg)
 *iTunes 2001; [via CNET](https://www.cnet.com/pictures/itunes-and-its-store-through-the-years-pictures/).*
 
+## The PC as a Digital Hub
+
 “We are living in a new digital lifestyle,” he continued, “with an explosion of digital devices — it's huge — and we believe the PC, or more importantly the Mac, can become the digital hub of our new emerging digital lifestyle, with the ability to add tremendous value to these other digital devices.”
 
 Jobs emphasised the phrase “digital hub,” which he said was key to the PC’s renewed importance. “Most of these digital devices have pretty brain-dead UIs,” he quipped, which meant the PC would have to become the primary user interface for digital entertainment. Also, crucially, the PC was how most people got on the Internet. “Very few of our digital devices get on the internet at all,” Jobs said, “and those that do are slow.”
@@ -28,12 +30,16 @@ This vision of the PC as a digital hub for multiple digital devices was a compel
 ![iTunes webpage, January 2001](/assets/images/itunes-webpage-jan2001.png)
 *iTunes webpage, 24 January 2001; [via Wayback Machine](https://web.archive.org/web/20010124074700/http://www.apple.com/itunes/).*
 
+## Ripping CDs, and the Competition’s Software
+
 Jobs talked about the “music revolution” that was presently happening — [digital music](/p/napster-1999/). He explained that you could “rip” music from a CD into MP3 format, "mix" it into custom playlists, and “burn” it onto writeable CDs or portable MP3 players. It was obvious he was leading up to a new piece of Mac software, but one of Jobs’ marketing tricks was to list off a few competitors first. In this case, it was the Real Networks player (Real Jukebox), the Windows Media Player from Microsoft, and HP’s music software.
 
 According to Jobs, this software from the competition was “too complex” and there were restrictions (“some of them don't let you encode into MP3, which is the most popular format”). The solution to these woes? iTunes. Cue whoops and a round of applause from the live audience. 
 
 ![SoundJam and iTunes](/assets/images/ITunes1_vs_SoundJamMP.jpg)
 *SoundJam and iTunes compared; [via MacRumors:Guides](https://web.archive.org/web/20060529061631/http://guides.macrumors.com/Image%3AITunes1_vs_SoundJamMP.jpg).*
+
+## iTunes, Built From SoundJam
 
 iTunes was based on the [SoundJam software that Apple had acquired](/p/napster-itunes-2000/) just months before; and in the Macworld audience that day were the founders of SoundJam’s main competitor, Audion. They quickly realized that they wouldn’t be able to compete with iTunes. As Audion co-founder Cabel Sasser [later recalled](https://panic.com/extras/audionstory/):
 
@@ -46,12 +52,16 @@ iTunes was a triumph for Apple, and for Jobs personally. While it was [Mac-only 
 ![iTunes 1](/assets/images/itunes_browse-2001.jpg)
 *iTunes 1; [via 512 Pixels](https://512pixels.net/2021/01/2001-revisited-macworld-san-francisco/).*
 
+## Where Microsoft Went Wrong
+
 The “digital hub” strategy that Jobs referenced that day would come to define Apple’s business for the twenty-first century. But oddly, they weren’t the first of their competitors to try and pursue it. Jobs himself admitted on-stage that “we're late to this party,” although he added, “and we're about to do a leapfrog.”
 
 Microsoft CEO Bill Gates had announced a “consumer electronics-plus” strategy a year before, during a keynote at the Consumer Electronics Show (CES) in Las Vegas. But Microsoft’s execution simply wasn’t as polished as Apple. In a review of Windows Media Player 7 (WMP7) in October 2000, IT columnist [Paul Thurrott had noted](https://www.itprotoday.com/it-infrastructure/windows-media-player-7-reviewed) that “the user interface is one of WMP7's biggest limitations.” That, according to Thurrott, was a common affliction in media players of the time. “On the other hand, one must consider the competition, and WMP7 is no more difficult to use than Real Jukebox, especially when you're first learning how it works,” he wrote. This, of course, was why Steve Jobs focused so much on the user interface of iTunes a few months later.
 
 ![Windows Media Player, 2000](/assets/images/windows-media-player-2000.jpg)
 *Windows Media Player, 2000; [via thefannman](https://archive.org/details/whistler2276) on Internet Archive.*
+
+## Windows Media Player and the Missing MP3
 
 But the biggest problem with WMP7 was that it didn’t encode in MP3 format — in other words, you couldn’t rip a CD into MP3 files. Instead, Microsoft used its own proprietary compression format, Windows Media Audio (WMA). Given that Napster had effectively made MP3 into [the default digital format for music](/p/napster-itunes-2000/), whether the music industry liked it or not, it was a big mistake for Microsoft to try and route around MP3. As Thurrott put it, “There may come a day when the world uses WMA as a standard audio format, but that day is not yet upon us.”
 

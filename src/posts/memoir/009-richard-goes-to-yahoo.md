@@ -14,12 +14,16 @@ Earlier in 2005, I had made some contacts inside of Yahoo! and had begun to thin
 
 Another helpful Yahoo employee I interacted with that year was Havi Hoffman, who worked in their newly formed social media outreach team. After I’d told her and Elizabeth that I was traveling to the US for the Web 2.0 Conference, Havi invited me to visit the Yahoo! Campus in Sunnyvale. We agreed on Monday, 10 October, the week after the conference.
 
+## The Drive to Sunnyvale With Havi Hoffman
+
 When the day arrived, Havi picked me up from Mike Arrington’s house in Atherton just after 10am, and we began the twenty-minute journey to Sunnyvale. She immediately apologized for being a bit under the weather. She’d been working a lot on getting the new [Yahoo! Podcasts](https://web.archive.org/web/20051013085706/http://podcasts.yahoo.com/) network up and running, she explained. I told her I was just grateful she was driving me to Yahoo and that I was excited about my first trip to a Silicon Valley campus.
 
 Havi was in her early 50s and had a ring of thick curly brown hair that framed a kind, inquisitive face. She had oval-shaped glasses, which she nervously adjusted as she asked me about my trip so far. Her voice had the tentative air of a shy person, but I also got the impression that she knew a great deal about how Silicon Valley worked. She told me that she’d lived and worked here since the Dot Com era — her first job at Yahoo had involved cataloguing web sites when it was still a directory.
 
 ![The day I visited the Yahoo! campus, October 2005.](/assets/images/60e78016-35a1-498b-9d25-61d5e60d7617_1637x1228.jpg "The day I visited the Yahoo! campus, October 2005.")
 *The day I visited the Yahoo! campus, October 2005.*
+
+## Inside Yahoo’s Sunnyvale Campus
 
 When we arrived, I was immediately impressed by the beautiful, expansive setting of Yahoo’s headquarters. The green lawns were immaculately maintained, there were purple shrubs that matched the large purple Yahoo logo on the side of the main building, and young trees dotted the perimeters — it was the middle of autumn, so what leaves remained were a mixture of green, yellow and a mauve purple. I don’t remember seeing a single dead leaf on the ground, so both the lawns and the paths bisecting them must’ve been meticulously tidied every day.
 
@@ -35,6 +39,8 @@ We walked into the reception, where there was a computer set up for visitor chec
 ![Yahoo! merch](/assets/images/d7df9b90-0d26-4647-8b74-99ca3fb72fea_1637x1228.jpg "Yahoo! merch")
 *Yahoo! merch.*
 
+## Meeting Scott Gatz
+
 Havi then led me upstairs and down some corridors, and we entered one of the office areas. It was a familiar open office setup — there were rows of cream-colored cubicle desks, each containing two people. Dividing boards painted bright yellow with a purple sash [bisected](https://www.flickr.com/photos/weatherpixie/12627294/in/album-344540/) the desks and there were two yellow stars on the side of each divider, listing the names of the people who worked there. On the desks were the usual things: open laptops, desktop computers with hardware towers (there was even the odd beige-colored 1990s monitor with a huge carcass), dark grey mice and office telephones. The room itself looked new, but otherwise it was not that different to the office environment I was familiar with in New Zealand.
 
 The people at their desks looked happy and were chattering among themselves as we walked through. I spotted remnants of a recent nerf gun fight, with purple-and-yellow foam nerfs [scattered](https://www.flickr.com/photos/weatherpixie/101322960/in/album-344540/) around the office. Soon we arrived at the desk of a guy who looked about my age. He had well-cropped dark hair and was wearing a mid-blue button-down shirt and dark blue slacks. With his clean-shaven tanned face and gleaming white teeth, he reminded me a little of Tom Cruise.
@@ -45,6 +51,8 @@ Scott led me to a nearby meeting room and we talked about a possible job for me 
 
 ![There were several active Yahoo! bloggers at this time, including Scott Gatz](/assets/images/868548a9-2e62-4a79-a776-3c413e0da584_1280x786.jpg "There were several active Yahoo! bloggers at this time, including Scott Gatz")
 *There were several active Yahoo! bloggers at this time, [including Scott Gatz](https://web.archive.org/web/20051212213038/http://www.scottgatz.com/blog/2005/10/07/research-rss-crossing-into-the-mainstream/).*
+
+## Coffee With Jeremy Zawodny
 
 Later in the morning, Havi introduced me to another Yahoo employee I’d become familiar with online, although we’d never emailed. Jeremy Zawodny was known in the blogosphere as Yahoo’s resident tech blogger; he was a developer, perhaps a couple of years older than me, who had been at Yahoo for nearly six years and had written a tech book for O’Reilly Media, entitled “High Performance MySQL.”
 
@@ -64,10 +72,14 @@ When he posted the photo later, Jeremy used my name as the title and added the c
 ![Inside the Yahoo! cafe.](/assets/images/eae714ac-087f-40ed-955d-62a0db713abd_1637x1228.jpg "Inside the Yahoo! cafe.")
 *Inside the Yahoo! cafe.*
 
+## “Google Wants to Be Yahoo 2.0”
+
 During our conversation, Jeremy was a little dismissive of Yahoo’s competitors. He claimed that Google “wants to be Yahoo 2.0” and that Microsoft was slow but had enough money to get away with it. He wasn’t wrong that Yahoo had taken the [early initiative](https://web.archive.org/web/20060103190620/http://www.readwriteweb.com/archives/best_web_compan.php) in Web 2.0 — as well as acquiring Flickr in March, it had quickly integrated RSS across its suite of products: news, mobile, email and podcasts. But he was underestimating the other big companies. Google had just released Google Reader that month (it would become the leading RSS Reader the following year). It had also continued its run of impressive Ajax-based web products with Google Maps, which launched in February. Microsoft, unsurprisingly, was the slowest of the bigcos to embrace the new web revolution — but in November it went all-in on Web 2.0 with “Microsoft Live,” the brand name for its new “software as a service” strategy.
 
 ![Google Reader was released during the Web 2.0 Conference](/assets/images/5357d171-9d1f-4b31-bd9a-7fa3acbdd8f2_800x622.png "Google Reader was released during the Web 2.0 Conference")
 *Google Reader was released during the Web 2.0 Conference; photo [by Kars Alfrink](https://www.flickr.com/photos/kaeru/50509951).*
+
+## Yahoo’s Bet on Blogs Going Mainstream
 
 We also talked that morning about blogs becoming mainstream, which was part of Yahoo’s strategy for employees like Jeremy, Scott and Havi. “The features that make blogs what they are (on-page discussion, chronological sorting, generous linking) will work themselves into ‘non-blog’ sites more and more in the coming months,” Jeremy wrote in [a post](https://web.archive.org/web/20051107091446/http://jeremy.zawodny.com/blog/archives/005516.html) the day after meeting me.
 

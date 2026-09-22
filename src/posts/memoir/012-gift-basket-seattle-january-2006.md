@@ -19,6 +19,8 @@ Search Champs was being hosted by the MSN Search group, which had invited over 5
 ![Read/WriteWeb in Jan 2006](/assets/images/da727c61-a2ba-48a7-9188-492dfff7b73a_1280x769.jpg "Read/WriteWeb in Jan 2006")
 *Read/WriteWeb in Jan 2006; I’d begun to introduce more red elements in the design, but in hindsight the dark grey and orange header leaves a bit to be desired. Also, the Feedburner badge number is wrong in [this Wayback Machine screenshot](https://web.archive.org/web/20060114152207if_/http://www.readwriteweb.com:80/) (it was actually below 10,000 at the time).*
 
+## Arriving in Seattle, Jet-Lagged
+
 The event would be kicked off on Tuesday evening, with a reception at the Chapel Bar in downtown Seattle, near the W Hotel where we were all staying. I arrived in Seattle late on Monday evening, after a long series of flights from New Zealand. Fred had arrived earlier in the day and had emailed to let me know.
 
 After showering, it was now well after 10pm and I was exhausted, so I gave up on any thoughts of going out and meeting up with Fred. I looked over the email messages for the Search Champs and saw a welcome message from Brady Forrest, the organizer of the event. He’d listed the basic schedule and other FAQs and finished with this note: “There will be a small gift in your room when you arrive. It will include a Search Champs welcome packet with MSN Search team bios & pictures as well as a schedule. If you do not have one let us know.”
@@ -29,6 +31,8 @@ To my horror, I then noticed that this message had gone out to the entire mailin
 
 ![The Search Champs gift basket](/assets/images/65ae06b2-5417-4554-bd11-55827ccd8288_800x600.jpg "The Search Champs gift basket")
 *The Search Champs gift basket; photo [by Donavon West](https://www.flickr.com/photos/donavon/91796967).*
+
+## The Gift Basket Email I Sent to Everyone
 
 At this point, I was embarrassed and thought maybe I should just go to bed to try and sleep off the jetlag. Then I saw a message to the list from Emily Chang, who was part of the Web 2.0 Workgroup. She and her boyfriend Max Kiesler ran a web design consultancy called Ideacodes, and both would be attending Search Champs. “Richard — don't worry.  Max and I sent you a gift basket from Ideacodes :) - champagne and cheese board arriving via room service shortly!” As soon as I read that, Reception called to say that Emily and Max’s gift basket was on its way. An email from Kevin Briody, a marketing manager at Microsoft, followed a few minutes later:
 
@@ -45,14 +49,20 @@ On Tuesday, a bunch of us — including Fred and Josh — went to explore the fa
 ![Seattle Central Library](/assets/images/8b430354-998d-4ef1-9edc-e3ac87d320ae_1637x1228.jpg "Seattle Central Library")
 *The beautiful Seattle Central Library; photo by me on the day I first visited.*
 
+## Meeting Erik Benson of The Robot Co-op
+
 I’d arranged to meet Erik and his startup, The Robot Co-op, in the afternoon. Over the past few years, we’d swapped emails now and then and commented on each other’s blogs, but I hadn’t yet met him in person.
 
 When I first began communicating with Erik, around 2003, he was working as a developer and product manager for Amazon. Now, he was building his own social software tools, with names like 43things.com and allconsuming.net. These were websites that allowed you to track your daily activities online. It was an early form of social media, but focused on what you _did_ rather than what you thought. If you had checked the homepage on the week I visited The Robot Co-op office, you’d have read that “210,751 people in 4,813 cities are doing 326,312 things including…see the aurora borealis, play strip poker, drink more alcohol, have better handwriting, own my own bar, read the Chronicles of Narnia,” [etcetera](https://web.archive.org/web/20060127230450/http://43things.com/).
+
+## What 43Things Was Trying to Do
 
 43Things was well-intentioned, in that it tried to help you set goals for your life. It was also a cool app for young, urban types who were geeky enough to use the internet on a daily basis (still not true for most people in the world at that time). I tested out 43Things in 2005, as I did with many other Web 2.0 products. I only added seven “things” to my profile, one of which was “Visit Silicon Valley” — and I’d duly checked that off as “done.” Erik’s 43Things profile included day-to-day things that, frankly, I wished I could do too (“hang out at The Hideout every Wednesday“). I remember thinking that 43Things was documenting a lifestyle that I aspired to but could only access online. Of course, this is exactly what social media turned into when it went mainstream five to ten years later.
 
 ![My 43Things profile](/assets/images/092d9381-ab47-4ddb-b607-44c798220594_1628x1520.png "My 43Things profile")
 *My 43Things profile; [Wayback Machine screenshot](https://web.archive.org/web/20080121182105if_/http://www.43things.com:80/people/view/ricmac) from Jan 2008. Some of the “things” to do in my list were pre-populated — e.g. Second p0st (item #7) was my friend Phil Pearson’s blog, so most likely he’d entered that into 43Things and then I’d clicked a button to add it to my list.*
+
+## Walking Up to 1205 East Pike St
 
 Fred wanted to meet The Robot Co-op team too, so after lunch we both walked up the hill to the office address at 1205 East Pike St. It was a pleasant winter day and unseasonably sunny, or so I’d been told over email by the locals attending Search Champs. We walked past cafes — Starbucks, naturally, but there were other more quirky ones too — and the odd hipster bar (including The Hideout, Erik’s weekly place to be). We also walked past rows of nondescript but busy-looking office buildings, most of them no more than a few stories high. All of this gave me similar vibes to walking around my hometown of Wellington, New Zealand — where the coffee was just as good and the weather just as bad! I could easily see myself living and working in Seattle.
 
@@ -60,6 +70,8 @@ When we arrived, Erik came downstairs to greet us. In person, he was tall and le
 
 ![The Robot Co-op team the day I met them, Jan 2006](/assets/images/39683c11-32e6-4200-92f4-7a5dd3969338_1637x1228.jpg "The Robot Co-op team the day I met them, Jan 2006")
 *The Robot Co-op team the day I met them, Jan 2006. Erik Benson is at the back.*
+
+## Inside the Robot Co-op Office
 
 Upstairs in The Robot Co-op office, we met the other members of the team, including Erik’s co-founders Daniel Spils and Josh Petersen. Daniel quizzed me about my stance on Web 2.0, which was an ongoing debate in the startup community — many developers and designers rejected the label, although just as many cashed in on it too. I told him I was conflicted about the hype around the term, but I also believed there were significant changes happening in web development and design. I mentioned the book that Josh Porter and I were writing for O’Reilly Media, and that we were focusing on best practices for designing networked applications.
 

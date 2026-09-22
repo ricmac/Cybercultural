@@ -18,6 +18,8 @@ Flickr was Yahoo’s key product in these claims to be an open platform. It was 
 ![hCard and XFN in action on Flickr](/assets/images/aedeb8da-4cc1-47a6-bebc-83f2615511fb_896x769.jpg "hCard and XFN in action on Flickr")
 *hCard and XFN in action on Flickr; image [by Chris Messina](https://flickr.com/photos/factoryjoe/113866484/), March 2006*
 
+## Interviewing Caterina Fake and Bradley Horowitz
+
 I was offered an interview with two Yahoo executives to discuss its ambitions to be an open platform. One was a Flickr founder, Caterina Fake, who was now leader of Yahoo’s Technology Development Group. The other was Bradley Horowitz, a VP of product strategy.
 
 I arranged to meet them on Friday afternoon in front of the Garden Court restaurant, next to the Supernova conference room at the Palace Hotel. Just before my interview, Bradley did a presentation entitled “[Opening Up Yahoo](http://web.archive.org/web/20130729204928/http://itc.conversationsnetwork.org/shows/detail1636.html).” In it, he talked about some projects Yahoo had started to encourage third-party developers to build on its content, such as Yahoo! Hack Day and the Yahoo Developer Network. As one example, he mentioned that Flickr had “thousands of people” developing on its API, building everything from “frivolous toys and games” to “real valuable tools like Flickr uploaders and camera phone integrations.”
@@ -31,6 +33,8 @@ After that talk, I sat down with Bradley and Caterina. Bradley, then in his earl
 ![Yahoo presenters](/assets/images/f71c61c3-0d20-433a-b80d-6205e51703be_2048x1365.jpg "Yahoo presenters")
 *Caterina (left) and Bradley (to the right) a few months later, in Sep 2006; photo [by Yahoo](https://flickr.com/photos/yodelanecdotal/255989204/). I think that is YDN’s Chad Dickerson in-between.*
 
+## They’d Never Heard of Read/WriteWeb
+
 After doing my introductory spiel about why I was doing the interview, I realized that neither of them knew much about Read/WriteWeb. I had thought that Caterina, at least, would know who I was. I’d been a member of Flickr since its launch in 2004, and I had blogged about it multiple times since then.
 
 I was a bit unsettled by the pair’s reaction to me. Most of the other tech people I’d met in the United States — startup founders, developers, and product managers — were readers of my blog or had at least heard of it. I had the sense that people wanted to engage with me socially, that we were part of the same network. For whatever reason, I didn’t feel that way in this meeting.
@@ -42,11 +46,13 @@ It was an astute observation; sure enough, growth via social connections was the
 ![RWW in June 2006](/assets/images/3476af07-9aef-451c-b53d-3604b9009a8e_1486x1216.jpg "RWW in June 2006")
 *My writeup of the Yahoo interview; this was still in the ‘minimalist’ phase of RWW’s design! Image [via Wayback](https://web.archive.org/web/20060703114909if_/http://www.readwriteweb.com/archives/interview_with_3.php)*
 
+## Why Microformats Never Caught On
+
 Third-party developers were also uninterested, and by and large they did not build Yahoo apps that used microformats. Instead, they preferred building the “frivolous” Flickr apps that Bradley had mentioned in his talk (part of the reason their attention would soon be diverted to Facebook and Twitter). Even early adopters of social software, such as tech bloggers, neglected to use the available microformat features to add semantic information to their profiles.
 
 It was another key lesson for entrepreneurs and developers in the Web 2.0 era: keep things simple and frivolous, and hope users will come to your patch of the web and recommend it to their friends.
 
-* * *
+## BloggerCon IV at the CNET Office
 
 That Friday, I skipped the last day of Supernova to attend the first day of BloggerCon IV. It was an “unconference” jointly run by Dave Winer, the [pioneering blogger](/p/010-spicy-noodles) and software developer, and Harvard Law School’s Berkman Center. I later adopted the unconference format for my own ReadWriteWeb events, which began in 2009. But whereas we wanted to make money from our events, Winer liked to call his BloggerCon unconference “non-commercial” — although, he sold blogging software for a living, so it was obviously a good promotional tool for him.
 
@@ -56,6 +62,8 @@ BloggerCon was also deliberately low-key. When you walked into CNET, a hand-draw
 
 ![BloggerCon sign-in](/assets/images/057a910d-3bff-4c1a-84fd-55c6b0821854_1200x800.jpg "BloggerCon sign-in")
 *Photo by Scott Beale of [Laughing Squid](http://laughingsquid.com/2006/06/23/bloggercon-iv-photos/)*
+
+## Dave Winer’s “No Audience” Format
 
 The event got under way with Winer sitting at a desk facing the attendees. Sitting beside him was Doc Searls, another baby boomer blogger.
 
@@ -82,6 +90,8 @@ Because he now reached a broad audience, Mike experienced the downsides of the �
 He also thought bloggers themselves were beginning to leave nasty comments. “I think there’s a trend toward people, non-anonymously, getting more vicious in their blogging and in their comments,” he said, which brought the topic back to what the “core values” for bloggers were. In the discussion that followed, various people told stories of their own experiences with trolls. But there was no resolution or answer to the question whether the core values of bloggers were beginning to erode.
 
 I didn’t think this was a useful discussion, and even if I had been called upon (which I wasn’t), I didn’t have a good troll story to tell. So I began to tune out, checking my blog stats and tech.memeorandum while the debate raged on. I was also hanging out in the IRC backchannel, where many of my fellow introverts were chatting. In this way, BloggerCon was just the same as Supernova — if you lose interest in a session, there’s always your laptop to look at.
+
+## Conflicts of Interest for Pro Bloggers
 
 Eventually, Mike changed the topic to something that was front and center for emerging pro bloggers like me: conflicts of interest. He wanted to explore the more subtle ways that this can influence a blogger. “What if I’m investing in a company, and I’ve disclosed that, but they have a competitor?” he said. “Or, you know, just the subtle ways that we can all push things we like and not push things we don’t like — where’s the line there?”
 

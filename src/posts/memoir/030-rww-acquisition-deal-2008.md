@@ -15,6 +15,8 @@ I forwarded the email to Sean Ammirati and gave him my blessing to have a privat
 
 After I’d sent the email, I felt like a small part of the pressure had been relieved. I couldn’t do any more. It was now CMP’s move. 
 
+## The CMP VIP Party at Temple
+
 That evening there were a couple of parties to go to. The first, by invitation of CMP, was their “VIP party” at the trendy Temple nightclub in San Francisco, which was “exclusive to a select 200 people” (mostly Web 2.0 Expo speakers and sponsors). The other party, held at the same time, was hosted by Netvibes at Minna Gallery and would be attended by many of the conference attendees.
 
 ![With Ernst-Jan Pfauth from The Next Web](/assets/images/ricmac_blogable_2008.jpeg)
@@ -31,6 +33,8 @@ We didn’t stay chatting for long, as everyone around us was on a high and just
 ![RWW homepage, April 2008](/assets/images/rww_homepage_24april2008.jpg)
 *The ReadWriteWeb homepage during the Web 2.0 Expo, April 2008.*
 
+## Whatever the Insiders Were On
+
 Sean and I looked at each other with bemused expressions. The vibe at this VIP party was odd — it felt like we had missed out on a substance secretly handed out at the door or over the bar. Most of the people here seemed to be tripping out on something. I was beginning to think we didn’t belong here, at this exclusive insider event in the heart of San Francisco. Yes, we were technically VIPs, but only because of the unconsummated deal with CMP — we wouldn’t have been invited otherwise. I felt like an impostor, a “straight” wallflower looking on while blissed-out Tim O’Reilly let loose on the dance floor.
 
 We soon spotted Bob and Fritz, who steered us to a private booth so that we could chat. As expected, there was no news to report from UBM, their head office in London. The only new detail I gleaned from Fritz was that the upfront offer would definitely be no more than $1 million and they hadn’t yet arrived at a figure for the earn-out. On hearing this, I couldn’t help but let my exasperation show. I told them that my expectations coming into this week were that I’d have a decision by the end of the week, and yet we had made zero progress on numbers — in fact, it had gone backward! Fritz gave me a helpless look, but he promised to send an official offer by tomorrow morning, as per my request this morning. I just nodded. Inside, I knew this wasn’t going to happen with TechWeb.
@@ -44,12 +48,16 @@ Barring a miracle with CMP, I had decided I would sign with ZDE.
 
 
  
+## A Zombie Morning at the Expo
+
 First thing Friday morning, I went to the Web 2.0 Expo and half-heartedly watched the keynotes. I was feeling like a zombie — the week had been long and (to this point) unfruitful on the business side. I had scheduled an interview with Sun Microsystems CEO Jonathan Schwartz at 9:55 a.m., after his onstage Q&A with Tim O’Reilly. I had [my crowdsourced questions](/p/028-web2-expo-2008/), and I made note of what he said to Tim, so I was prepared in that sense. But, of course, I had other things on my mind. I had not received anything in writing from CMP by the time I made my way to the meeting room backstage, where I’d be meeting Jonathan. So I was mentally preparing to contact ZDE and tell them I’d be signing with them.
 
 The interview was not one of my best. Sun was known for its computer servers and workstations, the Java programming language, and various pieces of infrastructure software. None of this was of particular interest to me, so I stumbled my way through the interview. Jonathan humored me on a few of my web-related questions, but fortunately he had his own talking points that he wanted to hit — the phrase “the network as a social utility” was deployed — and so we got through it. But I was relieved when it was over. (I would discover a few days later that I had somehow forgotten to save the audio recording, so I never did write it up as a post.)
 
 ![Tim O'Reilly and Jonathan Schwartz on stage at Web 2.0 Expo SF 2008.](/assets/images/2450308829_946e09c276_b.jpg)
 *Tim O'Reilly and Jonathan Schwartz on stage at Web 2.0 Expo SF 2008; photo [by Pınar Özger](https://www.flickr.com/photos/pinarozger/2450308829/).*
+
+## CMP’s Final Offer Arrives
 
 I was heading to the press room when I bumped into Fritz in the hallways. By now, it was midmorning, so I wasn’t expecting good news. But he said that CMP was going to email me an offer in the next ten or fifteen minutes. Their finance guy, Pat, was just checking the final details with Tony Uphoff. He patted me on the shoulder encouragingly and walked off.
 
@@ -61,10 +69,14 @@ I messaged Bernard, expressing my disappointment with CMP. “I’m now going to
 
 I had been keeping in touch by email with Kobi Levy from Insight Partners throughout the week. He hadn’t put any pressure on me to sign — in fact, on Thursday he’d told me that “if you need a few extra days to think then that is ok too.” However, now that CMP was out of the running, I just wanted to sign on the dotted line with ZDE.
 
+## Signing With Ziff Davis Enterprise
+
 I emailed Levy, Weitzner, and Azzara: “I’m very pleased to say that I’m now ready to sign the LOI and proceed to the due diligence stage! I am excited by the possibilities of our two companies working together and very much looking forward to closing this deal within the terms of the LOI.” I added that I would go home to New Zealand first, and then prepare for a visit to New York within “the next 2-3 weeks.” 
 
 ![Moscone West, April 2008](/assets/images/moscone_west_2008.jpg)
 *Moscone West, April 2008; photo [by TopRank Marketing](https://www.flickr.com/photos/toprankblog/2443235542).*
+
+## Signing the LOI in a Metreon Café
 
 But the drama for the week wasn’t quite over yet. My hotel for some reason didn’t have a printer, so I hadn’t been able to get a paper copy of the LOI. This was in the era before e-signatures, so printing and faxing were still a thing. In my email, I asked if Mike Azzara was still in town — if so, could he print out the LOI and meet me that afternoon?
 

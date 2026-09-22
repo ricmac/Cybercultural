@@ -14,7 +14,11 @@ On a Friday afternoon at the end of September 2005, I stepped foot on American s
 
 “Richard? Hi, I’m Mike,” he said, and shook my hand. It had been a twelve-hour overnight flight and I hadn’t slept, so my brain felt foggy. Plus, I was overwhelmed by finally being in the land of opportunity. I smiled and mumbled something like ‘great to meet you’ and he led the way to his car.
 
+## Down the 101 in an Open-Top Sports Car
+
 Soon we were heading south down the famous 101 highway, in Mike Arrington’s open-top sports car. It was so bright and hot that I was worried I’d get sunburned, so I took sun cream out of the laptop bag I was clutching and began applying it. Mike, who was tanned and relaxed in the driver’s seat, looked over at me, bemused and perhaps wondering what kind of weirdo he’d taken in. “I have fair skin,” I said, embarrassed and already feeling out of place in sunny California. We talked a bit about blogging and the startups we were both covering on our respective blogs, although I found it hard to hear amidst the whirl of the motorway and the thwak-thwak-thwak sound of the tires as we drove at speed down the 101. My ears were also still partially blocked after the flight.
+
+## Arriving at the Atherton Ranch House
 
 We arrived at Mike’s rented house in Atherton. It was set back from the street, with a large pine tree out front and the driveway sloping into the front entrance. The house, which was long and rectangular and had a flat roof, was painted sea-green with white trim. I’d later learn that it was a 1950s Eichler style house, also known as “California Modern,” and that there were [more Eichler homes](https://www.eichlerforsale.com/palo-alto-eichlers/) built in Palo Alto (a few miles further south, down the 101) than in any other city in the Bay Area. So this rented house in Atherton was the epitome of Silicon Valley — and indeed, a decade later, the main characters in the tv show ‘Silicon Valley’ would occupy [a house](https://filming.90210locations.info/tv-locations/silicon-valley/) that reminded me a lot of Mike’s.
 
@@ -30,6 +34,8 @@ I had been testing an awkwardly named tech news aggregator called tech.memeorand
 ![Techmeme in October 2005](/assets/images/8dd8fcd2-a52f-46da-b622-059e66197f12_1878x1438.png)
 *tech.memeorandum, [1 October 2005](https://web.archive.org/web/20051001010935/http://tech.memeorandum.com/). Long gone are the days when an obscure feed format (OPML) could be the number 1 story on Techmeme.*
 
+## Inside the House, and Meeting Fred Oliveira
+
 We walked inside and into the living room. It had a 70s decor, with its beige shag carpet and mahogany wood paneling adorning the walls. Mike pointed me to a small room at the top of the hallway to the left, empty except for a futon on the floor and a small dresser; this would be my room for the duration of my two-week stay. “Hey Fred,” yelled Mike down the hallway, “come meet Richard.”
 
 Fred Oliviera, a Portuguese programmer and blogger in his early twenties, came out of one of the rooms to greet me. He was wearing a yellow designer tee shirt and slim blue jeans. Despite also being a Silicon Valley n00b like me, Fred looked self-assured and comfortable; the opposite of what I felt right now. He was working for Mike and his business partner Keith Teare’s company, edgeio, which at the time was the primary business venture of the pair. He’d also done the web design for TechCrunch, Mike’s blog, which had started out a few months prior as the research vehicle for edgeio. As Mike had explained to me in his introductory email back in June, the idea for TechCrunch came about because his VC friends kept asking him what this or that company was all about, and how it fit into the bigger Web 2.0 picture. “And since I am trying everything out anyway, why not write about it,” he’d said.
@@ -41,6 +47,8 @@ In later trips to the US, I’d learn to stay awake as long as possible into the
 ![TechCrunch BBQ, October 2005](/assets/images/9cfe9ccd-d87a-4759-b23d-232ca3719a34_800x533.jpg)
 *At one of the TechCrunch BBQs; photo taken on 21 October 2005 [by Scott Beale](https://www.flickr.com/photos/laughingsquid/54890801).*
 
+## The Makeshift TechCrunch Office
+
 The next morning, a Saturday, I felt much better and immediately joined the others in the room at the end of the hallway, to the left. This was Mike’s home office, and Fred worked from it too. Gabe had set up what looked like a temporary desk, so that all of us could be together during my stay.
 
 Mike’s desk was in one corner and had an elevated black MacBook on it, along with a bunch of books, notepads, piled-up cardboard software boxes, and various other bits (pens, stapler and so forth). Random pieces of A4 printouts and posted mail were strewn on the floor beside his desk. On the window looking out to the front yard, he’d pasted a TechCrunch sticker — the completely lower-case ‘tech’ part in red, somewhat resembling the Web 2.0 Conference logo, the ‘crunch’ in a blocky black font, and a tiny vertical “.com” in black at the end.
@@ -50,12 +58,16 @@ I was invited to set up my laptop in the makeshift office, which had a small spa
 ![Screenshot of Technorati, a blog directory, October 2005](/assets/images/87e20616-45f8-4c6e-9c2f-b695915ab370_1674x1572.png)
 *Technorati, [1 Oct 2005](https://web.archive.org/web/20051001090738/http://technorati.com/pop/blogs/). We soon became very addicted to this site!*
 
+## Why TechCrunch Was the Better Blog Name
+
 The conversation soon turned to my accent, especially how I pronounced ‘web’ — Mike told me it sounded like “weeb.” The name of my site, Read/Write Web, was already a tongue-twister, so I figured this just made my blog even more exotic. Mike also ribbed Gabe about how unwieldy Memeorandum was to say and spell, so I wasn’t the only object of his good-natured teasing.
 
 I had to admit, TechCrunch was a great name for a blog and also captured Mike’s personality well. Not only was he physically imposing, but he sometimes adopted a no-nonsense tone in his blog too. He wasn’t afraid to dismiss, and even insult, new web products that failed to impress him. When Google launched an eBay copycat called Google Base in November 2005, [Mike called it](https://web.archive.org/web/20051124043349/https://techcrunch.com/2005/11/15/google-base-launched-yuck/) “ugly” and “not a very interesting application in its current form.” But most of the time on his blog, he was a curious and generous reviewer of new startups. His September 2005 [review of Facebook](https://web.archive.org/web/20051013084744/http://www.techcrunch.com/2005/09/07/85-of-college-students-use-facebook/), before it had opened up beyond US college students, was a good example. Since Mike wasn’t a college student, he couldn’t immediately access the site. But he contacted one of the early employees and was given a demo account, which he gave a positive review to.
 
 ![Inside the TechCrunch ranch](/assets/images/8f4c05cd-4748-441f-b2af-66823c512455_800x533.jpg)
 *The door on the top-left of this pic was my bedroom for the duration of my stay at the TechCrunch ranch; photo taken on 21 October 2005 [by Scott Beale](https://www.flickr.com/photos/laughingsquid/54892487).*
+
+## What Mike Arrington Was Like in Person
 
 In person, Mike was also frank in his opinions — he wasn’t one of those tall people who slouched. He even said at one point during my stay, “I’m comfortable in my own skin.” I remember it clearly, because I felt the exact opposite at that time. As Mike became well-known in the tech industry over the next year or two, his self-confidence would often be mistaken for arrogance by other people. But I never felt that way towards him. He was a confident man, for sure, but he also had a wry sense of humor that told me he didn’t take himself too seriously.
 

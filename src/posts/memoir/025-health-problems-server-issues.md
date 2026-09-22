@@ -16,6 +16,8 @@ We ended up staying just two nights in Kaikoura instead of three. I was feeling 
 ![Kaikoura](/assets/images/3056992471_e349772f71_k.jpg)
 *The road to Kaikoura is scenic, but I was too stressed out to enjoy it that Spring of 2007. Photo by [Robert Thomson](https://www.flickr.com/photos/14degrees/3056992471/) in Nov 2008.*
 
+## The Warning Signs I Ignored
+
 When I got back from America about a week later, I put the blood tests to the back of my mind. I had a lot to catch up on with RWW, I told myself. But there were signs that I wasn’t 100 percent — I felt very thirsty all the time, I was losing weight and having mood swings, and I generally felt tired and run-down. I put all this down to overwork and the continuing problems in my marriage. My way of coping was to knuckle down with RWW work.
 
 Then Nana died, at age eighty-eight. The last time I’d seen her was at the end of September, on the holiday we’d cut short. Again, my family and I hopped on the Cook Strait ferry from the bottom of the North Island to the top of the South. Her funeral was in the second week of November. 
@@ -27,6 +29,8 @@ On the ferry ride back home, I was extremely seasick. It was a rough journey, wi
 ![Interislander ferry](/assets/images/1406370605_45ef23671a_ob.jpg)
 *I don't have fond memories of Cook Strait ferries, despite this picturesque photo [by Azzaroni](https://www.flickr.com/photos/azzaroni/1406370605/) from Sep 2007.*
 
+## Diagnosed With Type 1 Diabetes
+
 It took me a couple of weeks to understand that I’d gotten type 1 diabetes, an autoimmune disease where your body no longer produces insulin. Type 2 is far more common; it’s when the body still produces insulin but doesn’t process it correctly (it’s typically associated with overweight people). What really shook me was finding out that type 1 is incurable, whereas you can recover from type 2. So I would have to inject insulin into my body every day of my life, from now on. 
 
 Not knowing how else to cope with this news, on November 26, 2007, [I wrote a blog post](https://web.archive.org/web/20071128014415/http://www.readwriteweb.com/archives/health_20_overview_diabetes_web.php) about it. In my research I discovered many online resources for diabetics, including blogs and social networks. My best discovery was a niche social network called [Tu Diabetes](https://web.archive.org/web/20071216105739/http://www.tudiabetes.com/), which had been created using Ning. Its founder, Manny Hernandez, had only just launched the site in March. He left a comment on my blog post: “It can be daunting at first, that is why TuDiabetes exists in part: to help you deal with it without feeling alone.”
@@ -37,6 +41,8 @@ I still had to meet the daily challenge of diabetes by myself, of course, but on
 
 ![TuDiabetes](/assets/images/tudiabetes1.webp)
 *The TuDiabetes website was built on Ning, which then connected to Google's OpenSocial effort. Image [via TechCrunch](https://techcrunch.com/2007/10/31/google-opensocial-image-gallery/).*
+
+## OpenSocial Versus Facebook
 
 A lot was happening in social networking in this period. Facebook was growing fast after its platform announcement in May, which seemed to prompt every other tech company — big and small — to jump aboard the social network hype train. A startup called FriendFeed launched in October and quickly gained a cult following among geeks like me — it was basically an aggregator of RSS and social media feeds. The same month, [Google launched OpenSocial](https://web.archive.org/web/20080112102649/http://www.readwriteweb.com/archives/confirmed_myspace_join_opensocial.php), a set of APIs that allowed developers to build an application once and install it across a variety of social networks. 
 
@@ -52,6 +58,8 @@ Beacon wouldn’t be the first time Facebook tested the boundaries of user priva
 
 
  
+## RWW’s Server Falls Over
+
 It wasn’t just me having health issues near the end of 2007. RWW’s web server was also very sickly, with multiple outages on the site during this time. It was a mix of server-scaling issues and problems with the implementation of Movable Type 4 (MT4), the latest version of our publishing platform. It turned out, we were the first major site to upgrade from MT3.5 to MT4 on Media Temple, our web host. So we had unwittingly become the test bed for all the early bugs that typically reside in a new and complex piece of software. 
 
 ![Movable Type 4.0](/assets/images/mt4_dashboard_v2.png)
@@ -60,6 +68,8 @@ It wasn’t just me having health issues near the end of 2007. RWW’s web serve
 The move to MT4 began in mid-August, about a month before the site redesign by Ideacodes started. The plan was for Media Temple to set up a new server for RWW, using MT4, so that Ideacodes could optimize the redesign for the new version of Movable Type. Things were complicated by the fact that Media Temple were moving us from a shared server environment to what they called a “dedicated virtual” server. In other words, this server would be ours exclusively — another sign that RWW had joined the big leagues.
 
 Initial progress on the upgrade was positive, but toward the end of September we began to have problems with our existing live server, which we shared with other websites. We were still on MT3.5 on the live site, so we knew it wasn’t an issue with the publishing platform. It may’ve been a simple scaling issue with RWW, since our page views were growing fast and we were getting regular Digg front pages (each of which brought a burst of traffic). But since it was a shared server, the problem may’ve also been with other sites on the server. 
+
+## Chasing Media Temple Through October
 
 On Monday, October 1, while I was away from the office (having just returned from that fateful trip to Kaikoura and still feeling the first effects of the as-yet-undiagnosed diabetes), Marshall sent an email to our contact at Media Temple. “Wanted to let you know that RWW is taking a long, long time to load and I’m getting reports in some cases that it’s never loading,” he reported.
 
@@ -82,6 +92,8 @@ The plan was to flick the switch sometime during the coming weekend and during o
 
 ![Site maintenance](/assets/images/site_maintenance_oct07.png)
 *The "site maintenance" post every web publisher dreads.*
+
+## Going Live on a Buggy MT4
 
 “Ok, server upgrade was done,” I reported nearly six hours later to Marshall, Josh, and Alex, adding that it was “very messy and there are a number of issues to fix.” The post and comment publishing were now frustratingly slow, and we were seeing bugs in live that had not been picked up during testing. In addition, our RWW emails weren’t getting through. The upgrade had, to put it mildly, not gone smoothly.
 

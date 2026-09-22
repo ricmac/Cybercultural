@@ -13,6 +13,8 @@ One of the innovations of podcasting is its concept of "seasons," which original
 
 I first became aware of 'seasons' in podcasts with [Serial](https://serialpodcast.org/season-one/) in 2014, which used the term to indicate a series of episodes on a certain topic. Each season (there have just been 4) starts an entirely new storyline. But another podcast I enjoy, by the writer [Bret Easton Ellis](https://www.patreon.com/c/breteastonellispodcast/), has "seasons" that are demarcated by calendar years. He's currently in season 9, which began on January 7, 2025 (season 8 ended December 31, 2024).
 
+## How Cybercultural Uses Seasons
+
 What I'm doing with Cybercultural seasons is a mix of those two approaches. I have different topics each season, which tends to run for roughly a year (give or take some months). Here's how I've defined seasons 1-4:
 
 * **Season 1, May 2019 to February 2020: The intersection of technology with the cultural industries.** This was the Substack era of Cybercultural, when the goal was to make it a subscription newsletter. I sent out 77 editions of this newsletter, 15 of which are articles that I deemed fit to bring across to the current Cybercultural archives (you can find them in the [2010s category](/enshittocene/)).
@@ -22,9 +24,13 @@ What I'm doing with Cybercultural seasons is a mix of those two approaches. I ha
 * **Season 4, January 2025 to December 2025: Dot-com and the birth of digital culture (1990s - early 2000s)** YOU ARE HERE. We're in the middle of season 4, which began in January when I started posting a weekly series of articles about the dot-com era. Many of these posts are derived from a book I wrote last year, about the birth of digital culture (a kind of prequel to my Web 2.0 memoir). I finished the draft book by the end of 2024, but I decided it would make a better series of posts on Cybercultural than an actual book. Take a look at the [Dot-com category](/dotcom/page/3/) for the latest posts; and here's the first 1994 one, [about interactive CD-ROMS](https://cybercultural.com/p/multimedia-gulch-1994/).
 * **Season 5, January 2026 - TBC:** I already have an idea for the next season, but I am still plotting it out. 
 
+## Does It Work as Information Architecture?
+
 I think this way of thinking about Cybercultural's information architecture works, at least for me as the site proprietor. As a (free) subscriber of my content, I think it'll also make sense for you too, going forward. I haven't yet made seasons a part of the navigation structure, as I think segmenting content by eras (dot-com, Web 2.0, 2010s) works best for now. But perhaps I will add the seasons to the website structure in due course.
 
 Regardless of whether or not it's part of this site's visible structure, I do think the 'seasons' approach to running a website / blog is an interesting twist on the traditional way to order a blog — reverse-chronological. Perhaps the seasons concept has more in common with the [digital garden](https://maggieappleton.com/garden-history/) pattern for websites in 2025? Let me know your thoughts on [Mastodon](https://mastodon.social/@ricmac) or [Bluesky](https://bsky.app/profile/ricmac.org).
+
+## Update: Seasons Are Now in the Navigation
 
 **Update, 30 July 2025:** I have now added [seasons](/seasons/) to the site's navigation, via the tagging system.
 

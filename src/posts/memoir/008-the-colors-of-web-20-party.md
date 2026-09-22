@@ -15,10 +15,14 @@ The Colors of Web 2.0 Party was held on Thursday, October 6, 2005, at Swig — a
 ![Invitation to the party](/assets/images/abc1db78-2132-4849-87b3-5e408c7bf470_1000x978.png "Invitation to the party")
 *The invite; photo [by Chris Messina](https://www.flickr.com/photos/factoryjoe/49414122).*
 
+## Inside Swig on Geary Street
+
 Swig was heaving with people when I arrived. Many of the young and hip partygoers were employees of the startups mentioned in the promo, or friends of theirs. If they’d been at the conference earlier today, it was only to hang out in the hallways. The people who attended the conference keynotes, like me, were the other half of the party. We were less cool and slightly older — a mix of investors, founders, PR folks, and bloggers or journalists.
 
 ![Web 2.0 party attendees](/assets/images/b704c692-ee86-4097-b8e3-b9af90112984_799x533.jpg "Web 2.0 party attendees")
 *Chris Messina, Nicole Lee, Niall Kennedy. Photo [by Kris Krug](https://www.flickr.com/photos/kk/50154715).*
+
+## Talking Shop With My Irish Friends
 
 I mostly stuck with my new Irish friends at the party and over the hubbub of an overcrowded bar, we talked about the Web 2.0 scene and our places in it. I told them that Read/Write Web and Techcrunch together probably had 70% of the conference attendees reading us — with me mostly focusing on Web 2.0 analysis and Mike covering the new startups.
 
@@ -32,12 +36,16 @@ I remember it was a fun evening and I’m sure I half-listened to some shouted s
 ![The after-party](/assets/images/4a1e0bbb-70ca-44f9-a4cc-3c967ca99c30_1600x1080.jpg "The after-party")
 *The after-party I was either too cool to attend, or wasn’t cool enough to attend (I’ll leave it to the reader to decide). Photo [by Kris Krug](https://www.flickr.com/photos/kk/50793989/).*
 
+## Leaving in Time for the Last Caltrain
+
 I hadn’t been invited to the after-party, and in any case I was focused on getting back to Silicon Valley that night. Since Mike and Keith weren’t at the Swig party, I had to make sure I got the last Caltrain back to Atherton — it left around midnight.
 
 Sometime between 10 and 11pm, after we’d had enough of the crowds and noise at Swig, I said goodbye to my Irish friends. They were staying at a hotel near Geary St, within stumbling distance of the party. My blog buddy Josh Porter was staying near the conference venue, so he and I began walking down to Market St together. It would be a chance for us to chat about our meeting with Tim O’Reilly, so I was pleased to have company on my way to the train station.
 
 ![My ZDNet blog, which I started at the end of August 2005.](/assets/images/10b7036c-d4a7-4615-a781-459a8c2795e2_1604x896.png "My ZDNet blog, which I started at the end of August 2005.")
 *My ZDNet blog, which I started at the end of August 2005.*
+
+## Walking Through the City With Josh Porter
 
 As we ambled along, Josh and I discussed learnings from the event that we might want to put into the O’Reilly Media book that we’d been commissioned to write. I don’t recall specifically what we talked about, but perhaps it was “[structured blogging](https://web.archive.org/web/20060110165118/http://www.readwriteweb.com/archives/structured_blog.php),” one of the hot topics of the conference. That was all about publishing different kinds of information — like events, reviews and classified ads — using semantic markup, so that aggregators can pick up the data from all over the web. It was exciting in 2005 because it would be a way of extending blogging beyond navel-gazing, which was what it was primarily known for at the time (a little unfairly, given that some of us were becoming journalists).
 
@@ -50,12 +58,16 @@ We came out on Market St where it connected with Third St. Since Josh’s hotel 
 
 We continued to talk about Web 2.0. I was more interested in the higher-order patterns of web design, so I was prone to highfalutin theories like “[design for data](https://web.archive.org/web/20050206181234/http://www.readwriteweb.com/archives/002402.php)” — applying web design principles to data. Talking about movie reviews with Josh, as we half-drunkenly wandered around San Francisco late on a Thursday night, I might’ve said [something like](https://web.archive.org/web/20050206175522/http://www.readwriteweb.com/archives/002279.php), “Amazon is more a virtual agent than a website nowadays. The generation of the Web we're in now is almost a living one, it's about movement and application of information.”
 
+## Twenty Minutes Until the Last Train
+
 We were deep in conversation like that when I suddenly stopped and checked my watch. It was about 20 minutes till the last Caltrain! “Holy shit,” I exclaimed, looking around me in confusion. I didn’t know where we were and the street now looked dark and empty. “Where are we, exactly?” I asked Josh, feeling my panic rising. Neither of us was carrying a mobile phone — and regardless, a mobile version of Google Maps did not yet exist — so it took us several minutes of looking around at street signs to ascertain where we were. The Caltrain station was at the end of Fourth St, but we were on one of the side-streets off First. So if I wanted to make that last train, I’d have to run.
 
 Josh could see that I was full-on panicking now, so he asked if I was ok. I just told him I had to go. I ran down the street, towards what I hoped was Second St. After a couple of minutes I was out of breath, and then realised that I wasn’t heading towards Second at all! By now I’d left Josh behind (he’d probably shrugged and walked back to his hotel) and so I was completely alone, lost in a strange, dark city, in danger of missing the last train back to my Silicon Valley lodgings. I composed myself just enough to figure out the direction of Fourth St, then broke into a run again towards it. I had fifteen minutes to get to the Caltrain station.
 
 ![Caltrain, October 2005](/assets/images/19892471-a2a3-4d39-886b-ae93272c5807_800x600.jpg "Caltrain, October 2005")
 *Caltrain, October 2005; photo [by Tantek Çelik](https://www.flickr.com/photos/tantek/53044122).*
+
+## The Run to the Caltrain Station
 
 Eventually I arrived at Fourth St and stopped a moment, hands on knees and gasping for air. I forced myself to stand up again, and after a few heart-pounding moments, I ascertained the correct direction to go. I started sprinting, as best I could, towards the train station. I had maybe seven or eight minutes in which to make it, and I was still several blocks away. My laptop bag was flapping on my sides as I ran.
 

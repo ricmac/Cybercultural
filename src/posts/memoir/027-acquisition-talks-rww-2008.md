@@ -17,12 +17,16 @@ CMP’s main tech-media property was *Information Week*, which had been one of t
 ![InformationWeek blog page, Feb 2008](/assets/images/informationweek_feb08.jpg)
 *InformationWeek blogs, February, 2008. [Via Wayback Machine](https://web.archive.org/web/20080202232108/http://informationweek.com:80/blog/main/).*
 
+## Sharing the Numbers With CMP
+
 I signed a nondisclosure agreement, and during February I shared my latest business data with Bob and Fritz Nelson, one of CMP’s business development people. I was still rather green on these matters, but I thought the figures for RWW looked good. Revenue had increased nearly twofold since April 2007, for example, and it was on track to double year over year. Likewise, the second half of 2007 had proven to be a boon in traffic growth. 
 
 At the end of February, CMP’s owner — a public company called United Business Media plc (UBM) — announced a [restructure of CMP](https://web.archive.org/web/20080306045440/http://cmp.mediaroom.com/index.php?s=43&item=1913) into four separate, independent units. Bob and Fritz would now be working in the TechWeb division, whose CEO would be Tony Uphoff. I wasn’t sure if this would impact our acquisition talks, but Fritz said it gave them “more focus and autonomy, including in pursuing our partnership.”
 
 ![Speaking at Media 08 in Sydney, March 2008](/assets/images/2332456178_9d2a632cac_k.jpg)
 *In early March 2008, I spoke at the Media 08 event in Sydney, Australia. Photo [by Michela Ledwidge](https://www.flickr.com/photos/michela/2332456178/).*
+
+## Bringing in Bernard for Advice
 
 By mid-March discussions had progressed well, but I still didn’t have any idea of what their acquisition offer might be. I was promised “some early ballpark numbers” on March 21, ahead of my planned trip to the Web 2.0 Expo in mid-April. Fritz also floated the idea of announcing the acquisition at the conference. It was heady stuff, talking about being acquired by the company that coproduced the event. But I was already out of my depth, and I had no idea how to value RWW. So to help me with that, I reached out to one of RWW’s regular contributors, Bernard Lunn.
 
@@ -35,12 +39,16 @@ I also asked Bernard to give me his advice on a “go it alone” plan. I alread
 
 Bernard started with the go-it-alone plan first, so I didn’t yet know his thoughts on valuation by the time CMP finally made their first offer, on March 26, of $1 million upfront and a figure “in the range of about $2m” over an earn-out period of three years. I had no context for what a good offer looked like for a young business like RWW, but if this was a ballpark figure, then it felt like a ground ball to first base.
 
+## A Second Suitor: Ziff Davis Enterprise
+
 Fortunately, I now had another wooer! CMP’s rival in IT news, Ziff Davis Enterprise Group (ZDE), also expressed an interest in acquiring RWW. Earlier in March I’d been introduced to Insight Partners, the private equity firm that had bought ZDE the year before. That came via a media industry veteran who had worked for CMP for twenty years but was now at ZDE as a consultant: Mike Azzara. Sean had introduced us in November; I was discovering that the American IT media world was a very small one. 
 
 I’d been discussing with Mike the possibility of him joining RWW on the business side, perhaps as my much-needed COO, but his salary demand was too steep. Instead, Mike introduced me by email to Kobi Levy, an employee at Insight Partners. I had no clue what a private equity firm might do with a small business like RWW, but I knew that having two companies competing to acquire it was a good thing. Especially since, between them, CMP and ZDE owned most of the popular IT publications of the 1990s into the early 2000s. CMP had *Information Week*; ZDE had *eWeek*. Both needed an injection of young tech-media blood, and RWW was a perfect fit.
 
 ![eweek in 2008](/assets/images/eweek-enterprise-newsweekly-magazine-xl.jpg)
 *eWeek magazine in early 2008; image [via The Greenhead](https://www.thegreenhead.com/2008/02/eweek-enterprise-newsweekly-magazine.php).*
+
+## Why $1 Million Was a Lowball
 
 When I ran CMP’s proposed deal past Bernard, he agreed it was a lowball offer. He suggested I hold out for more and ask for 50 percent upfront. He added, “You don’t need to sell — you are profitable and growing — and I believe there are many ways to build more value organically.”
 
@@ -50,6 +58,8 @@ A couple of days later I got a printed offer from ZDE. However, it was even wors
 
 ![RWW post from March 2008](/assets/images/rww_post_comments_mar08.jpg)
 *A screenshot of the bottom of a March 2008 RWW post, which shows two key community tools for us back then: MyBlogLog and polls.*
+
+## Playing the Two Offers Against Each Other
 
 As I was about to reply to Kobi with my suggested offer, ZDE’s CEO, Steve Weitzner, jumped into the email conversation. “As an ex-editor who has been through the transformation from a print to an online culture a few times now,” he wrote, “I’m convinced it cannot be done without strong outside influences and I am anxious for ZDE to work with you.” He asked me to hold tight for a couple of days “while I work to sweeten the offer.”
 
@@ -61,6 +71,8 @@ CMP were slow to reply, but after I had held off ZDE for more than a week, Fritz
 
 ![RWW post from March 2008](/assets/images/rww_post_mar2008.jpg)
 *Another screenshot from March 2008, when these M&A talks were taking place. This one shows a RWW post.*
+
+## The Earn-Out Problem
 
 My main concern with both deals was how much control I would have in achieving the earn-out targets, but I figured we’d clarify that once I’d chosen between CMP and ZDE. The more straightforward offer, on paper, was ZDE’s. But I was leaning toward CMP, based on the rapport I’d built up with Bob and Fritz and on CMP’s involvement with the Web 2.0 conferences. I just needed more clarity from them, along with sign-off from their head office.
 

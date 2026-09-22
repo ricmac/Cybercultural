@@ -20,6 +20,8 @@ As we walked through the restaurant, my eyes adjusted to the dark brown wood sur
 
 The waitress stopped at a table in the back, which was empty — Mike hadn’t yet arrived. I was trailing several steps behind, so she waited for me to catch up. 
 
+## Running Into CMP at the Same Restaurant
+
 Suddenly, I stopped in my tracks a foot or two away from the table. Sitting at one of the adjoining tables were none other than Tony Uphoff and Bob Evans from CMP! There was one other person in their party, but I didn’t recognize them. Tony and Bob hadn’t yet noticed me, so for a brief second, I considered turning around and speed-walking out. However, the waitress had spotted me looking at them. She went over to their table and asked if they were the Mike Azzara party.
 
 I was mortified. There was no way I could escape now, so I reluctantly stepped forward to shake Tony and Bob’s hands. They looked up at me with bemused expressions, wondering what I was doing here. My bright red face felt like a glowing beacon amid the murky lighting. I stammered an apology and turned to the waitress, explaining that this wasn’t who I was meeting. Tony and Bob must’ve realized what was happening and began to smile broadly. Again I apologized, even though this mix-up clearly wasn’t my fault. Grinning, Tony politely said it was no problem and that we’d catch up another time. The waitress led me to the front again.
@@ -28,6 +30,8 @@ Shaken, I told the waitress I’d just wait beside the front desk. Then Mike wal
 
 ![Inside TWO](/assets/images/two_interior2.jpg)
 *Photo taken inside TWO by [Karen Walrond](https://www.flickr.com/photos/chookooloonks/2421564361).*
+
+## Dinner With Mike Azzara and Stephen Wellman
 
 I don’t recall what restaurant we went to, but the meal was pleasant enough. Mike was a good talker, and Stephen, a soft-spoken guy a few years younger than me, was friendly and curious about RWW. We talked about what ZDE was trying to do — basically, compete with CMP in the enterprise IT media market — and they also spoke about their experiences working for their prime competitor. (Mike had worked for CMP for nearly twenty years, Stephen for less than three years.)
 
@@ -38,6 +42,8 @@ Mind you, I don’t think I fully understood ZDE either, at that point. I kept t
 ![Ziff Davis Media March 2008](/assets/images/nytimes_ziffdavismedia_mar08.png)
 *Ziff Davis Media bankruptcy report, NY Times, March 2008. Luckily, this wasn't the "Ziff Davis" entity I was dealing with.*
 
+## Would RWW Be Folded Into eWeek?
+
 Despite all these corporate maneuverings, I understood that Ziff Davis Enterprise expected RWW to link up with *eWeek*, which was known as a fairly bland enterprise IT publication, both paper and online. It had begun in 1984 as a business magazine named *PCWeek* and was renamed *eWeek* in 2000, during the era when nearly every new startup was said to be doing e-*something*. 
 
 Part of my reticence with the ZDE offer was my impression that Mike planned to fold RWW into *eWeek*. My preference was to keep the RWW brand separate. Steve Weitzner, the chairman and CEO of ZDE, had told me their goal was to create a blog network — but he admitted he was unsure whether RWW would “complement or integrate” with *eWeek*. (Incidentally, he was also an ex-CMP executive and had been Uphoff’s boss before the move to ZDE.) 
@@ -47,6 +53,8 @@ It seemed likely that if the ZDE deal went through, RWW would be a secondary bra
 
 
 After dinner I had a conversation with my RWW colleague Sean Ammirati on the phone. He was surprised to hear that I saw Tony and Bob at the restaurant, but he said they probably already knew that ZDE was their competitor for RWW. Sean must’ve sensed how shaken I felt, and he suggested we meet up for a drink to clear my head. I happily agreed.
+
+## A Beer With Sean Ammirati
 
 We met at a bar near my hotel — I don’t recall which one, but it was not the one Bob had invited us to a couple of days ago. I was, by this point, more than a little paranoid. We ordered beers and sat down at a table where I could keep an eye on the rest of the bar.
 
@@ -61,12 +69,16 @@ Sean had already told me over the last couple of days that he was willing to be 
 
 I demurred and said that perhaps I was being unfair to ZDE in all this. They’d made a decent offer in writing at the start of the week, and yet here I was stalling because of CMP’s antics. Ultimately, I said, I could see past my feelings of unease about ZDE. I wasn’t yet sure how they’d integrate RWW into *eWeek* (that hadn’t been clarified at dinner), but I knew that whatever happened, RWW would have the organizational support to go to the next level — as my competitors, like TechCrunch and GigaOm, had done with their recent expansions into network blogs, events, and so on. The deal that ZDE had offered was good, I said, and was flexible enough with earn-out that I had a more than fair chance of achieving it. 
 
+## Life-Changing Money Versus the Right Partner
+
 Sean agreed it was life-changing money that ZDE was offering, especially considering that there was no capital gains tax in New Zealand. But, he asked which would I prefer to have as a partner, money aside?
 
 I admitted that I much preferred CMP as a partner, as they seemed to “get” blogs. Also, I added, the Web 2.0 conference relationships could potentially make me a star player in the industry — maybe I’d even become Tim O’Reilly’s sidekick in future events. Sean smiled and said he knew, from a couple of his sources, that CMP did indeed see me as a key part of the Web 2.0 conferences going forward.
 
 ![Internet Evolution, April 2008](/assets/images/internet_evolution_apr08.jpg)
 *The closest thing CMP had to a Web 2.0 blog was [Internet Evolution](https://web.archive.org/web/20080418091048/http://www.internetevolution.com/), which had recently been moved under the [TechWeb umbrella](https://web.archive.org/web/20080501083427/http://www.techweb.com:80/aboutus) as part of UBM's restructure.*
+
+## Deciding to Send CMP an Ultimatum
 
 But was that just a pipe dream? The reality of a CMP deal seemed to be slipping away, as I pointed out to Sean. He nodded but said it would be worthwhile to put one more squeeze on them for an offer on paper by Friday. I had noted Bernard’s skepticism about whether Tony and his team even had the ability to set terms for a deal — that the problems stemmed from UBM red tape. But Sean thought that CMP could do a deal quickly if they really had to. 
 

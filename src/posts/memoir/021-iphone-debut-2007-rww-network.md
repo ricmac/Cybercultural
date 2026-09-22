@@ -18,12 +18,16 @@ Jobs used the word *revolutionary* no less than ten times in the first fifteen m
 ![The iPhone was coveted right from the start.](/assets/images/353229780_fe7be7cb3d_o.jpg)
 *The iPhone was coveted right from the start. Photo [by Scott Beale / Laughing Squid](https://laughingsquid.com/macworld-2007-photos/), at Macworld 2007.*
 
+## No Mention of Apps at the iPhone Launch
+
 The one curious thing about the iPhone announcement, looking back on it seventeen years later, was that were was no mention of smartphone apps. Instead, Jobs [pitched](https://thenextweb.com/news/genius-annotated-with-genius) the Safari browser on iPhone as “the first fully usable HTML browser on a phone.” It was certainly a vast improvement over the limited Wireless Application Protocol (WAP) versions of websites that many of us were used to at that point, but it also didn’t quite live up to the “revolutionary” tag. We’d have to wait until the middle of 2008 for the launch of custom iPhone apps, via the App Store. For now, Jobs seemed to be promising that sites like Read/WriteWeb would become much more easily accessible via smartphone (he used the *New York Times* as his actual example).
 
 Interestingly, just a week after the iPhone announcement, we saw a glimpse of the future of apps from a DVD rental service called Netflix. It [launched](https://web.archive.org/web/20071018042331/http://www.netflix.com/MediaCenter?id=5384) a limited streaming service, with one thousand movies and TV series being made available to download on the internet over the next six months (it had seventy thousand titles on DVD). Up till this point, Netflix had helped popularize Web 2.0 via its [website](https://web.archive.org/web/20070211020657/http://www.netflix.com/MediaCenter?id=5379&hnjr=8), which featured a slick user interface, algorithmic movie recommendations, ratings, and a “friends list” for sharing movie trivia. But now it was inching into the next era of Web 2.0, what we’d soon come to know as streaming and apps (although the word *streaming* wasn’t yet being used — Netflix called it “electronic delivery”).
 
 ![Netflix website, February 2007](/assets/images/netflix_feb07.jpg)
 *Netflix in February 2007, before streaming became a buzzword.*
+
+## Waiting for the iPhone Outside America
 
 The iPhone was eventually released in the United States at the end of June 2007, but it wasn’t available anywhere else in the world at that time. I had to wait till October, when I attended the Web 2.0 Summit, to buy one. I also had to “unlock” the iPhone before I could use it on my local mobile-phone network, which I did as soon as I got back to New Zealand. I needed tech help to do it, as it involved “jailbreaking” it, installing Secure Shell, resetting the root user’s password, and all manner of other geekery.
 
@@ -34,12 +38,16 @@ Meanwhile, Read/WriteWeb continued to ramp up, with January 2007 my highest-traf
 ![NZ Herald article about a kiwi blogger](/assets/images/nzherald_feb07.png)
 *NZ Herald article about a certain kiwi blogger.*
 
+## Hiring Josh Catone to Write Daily News
+
 I was on a roll, but I also knew I needed more help on the writing side. In early March I published a guest post by a young freelance writer from Rhode Island named Josh Catone. He’d been a regular commenter on RWW articles and had initially reached out to offer [a guest post](https://web.archive.org/web/20070309142719/http://www.readwriteweb.com/archives/internet_killed_the_television_star_joost_babelgum_zattoo.php) about early TV streaming services, entitled “Internet Killed the Television Star: Reviews of Joost, Babelgum, Zattoo, and More.” The post did well, and I asked if he’d like to become a regular contributor. He eventually became my first paid writer, which I [announced](https://web.archive.org/web/20091129012357/http://www.readwriteweb.com/archives/weekly_wrapup_14-18may07.php) on the site in mid-May.
 
 ![Josh Catone guest article](/assets/images/rww_joshcatone_mar07.jpg)
 *Josh Catone's first post on RWW. Note the tweak in the header and menu; I regularly tinkered with the site design during this period.*
 
 I also began to get more organized by setting up a Basecamp project. Basecamp was project-management software by 37signals, a trendy software company from Chicago known for its Web 2.0 theorizing via blogging and conferences. (It had also developed Ruby on Rails, a popular open-source web application framework.) I pitched the new Basecamp to my writers as “a place where all the R/WW authors can discuss things and note down post ideas.” In the beginning, we only used the Messages and To Do sections, so in effect it was a private forum rather than a full-blown intranet.
+
+## Launching last100, the First Network Blog
 
 Shortly after announcing Josh as a daily news writer, I announced the [first network blog](https://web.archive.org/web/20070523113053/http://www.readwriteweb.com/archives/readwriteweb_blog_network_launches_with_last100.php) to launch under the Read/WriteWeb banner: last100, a site about “digital lifestyle” services (what we now call streaming apps). It was to be written by a UK journalist around my age named Steve O’Hear. I’d decided to adopt Mike Arrington’s blog-network formula and create separate sites; unlike him, I (stupidly) didn’t tie the names into the main brand. Everything in Mike’s network had *crunch* in the site title, and in hindsight I should’ve named each of my network sites ReadWrite*Something*. I later rectified this, but in May 2007 they had completely unrelated brand names.
 
@@ -49,6 +57,8 @@ Shortly after announcing Josh as a daily news writer, I announced the [first net
 Last100 was Steve’s idea, and he had pitched me the concept at the end of March. I’d gotten to know him through [Micro Media Corp](/p/017-gnomedex-2006-corporate-blogging), where he was one of the regular contributors. He’d also produced a documentary film about his visit to Silicon Valley, called *In Search of the Valley*, which he’d released independently last September. He had a lot of initiative, and I liked his pitch for last100. He explained that the name referenced the “last 100 feet” problem, the gap between the typical home’s computer and its living room TV set (remember, this was before smartphones bridged that gap). The idea was to write about emerging areas like online video and digital music.
 
 Steve and I went 50/50 on last100: he would be responsible for writing and editing it, and I would take care of the business side. As I say, I regret not tying the brand into RWW more, especially since it made it more difficult to land sponsors. But regardless, we launched the new site in May 2007.
+
+## AltSearchEngines, With Charles Knight
 
 The second RWW network site was AltSearchEngines, or ASE, as we called it, a 50/50 collaboration with Charles Knight. It launched in [early June 2007](https://web.archive.org/web/20101021051834/http://www.readwriteweb.com/archives/altsearchengines_launch.php). Charles, who was roughly ten years older than me, had been writing since January a monthly RWW post called “The Top 100 Alternative Search Engines” (the word *alternative* just meant search engines other than Google). It was a popular feature, so there was clearly reader demand for regular news about search engines. ASE was the first network blog idea — I’d broached it to Charles in March and suggested the domain AltSearchEngines&#46;com. Again, what was I thinking? It should’ve been ReadWriteSearch&#46;com!
 
@@ -61,6 +71,8 @@ I also collaborated more closely with Charles than I did with Steve. Partly that
 
 ![Me and Charles Knight of AltSearchEngines, at a one-day conference we organized in San Francisco, April 2008. Photo by Elliott Ng](/assets/images/2435835351_1228047dea_o.jpg)
 *Me and Charles Knight of AltSearchEngines, at a one-day conference we organized in San Francisco in April 2008. Photo [by Elliott Ng](https://www.flickr.com/photos/elliottng/2435835351/).*
+
+## Why ASE Worked and last100 Didn’t
 
 The key difference between the two sites was that ASE very quickly found its audience, and had [six paying sponsors](https://web.archive.org/web/20070629194350/http://altsearchengines.com/) before the end of its first month. Charles’s top-100 list was the main reason for the instant success of ASE, as he’d cultivated its loyal niche audience on RWW over the past six months. It turned out there was a big demand, relatively speaking, for a blog about search engine startups. He was also great at networking with these startups — he was genuinely passionate about the search community and made a big effort to understand and cultivate it.
 

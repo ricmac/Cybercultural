@@ -14,12 +14,16 @@ By October 2005, I was making a reasonable living from the web as a freelancer. 
 
 There were seemingly plenty of job opportunities at Yahoo and at some of the startups I’d met. So for the final days of my trip, I arranged some meetings with people who were currently employing me as a freelancer. I decided I would broach the topic of a full-time job with them.
 
+## Coffee With Chris Alden
+
 The Wednesday before I left, I had coffee with Chris Alden, who had been a co-founder of Red Herring, a tech magazine from the Dot Com era that I was familiar with. He’d just started a new company to build an RSS Aggregator that he called [Rojo](https://web.archive.org/web/20051001014734/http://rojo.jot.com/RojoTour2), and I discussed ongoing contract work with him. The plan was I’d help write a spec for a new feature in Rojo when I got back to New Zealand.
 
 After I mentioned I was considering moving here, Chris told me he would definitely hire me as a product manager _if_ I lived here. That was good to hear, even though I knew he wasn’t in a position to support my visa application.
 
 ![Rojo, a browser-based RSS Reader I did some freelance work for over 2005.](/assets/images/e2ca48a7-ae01-4797-bb4d-0d26656347d1_468x364.jpg "Rojo, a browser-based RSS Reader I did some freelance work for over 2005.")
 *Rojo, a browser-based RSS Reader I did some freelance work for over 2005.*
+
+## The ZDNet Option, and Dan Farber
 
 Another option for full-time work was ZDNet, who I currently blogged for part-time. ZDNet was owned by CNET, one of the largest “new media” companies in Silicon Valley. On the day before I headed back to New Zealand, I met up with my ZDNet boss, Dan Farber, in his office at CNET headquarters on 2nd St, between Howard and Folsom.
 
@@ -39,6 +43,8 @@ While at the CNET office with Dan, I jotted down some of the business metrics we
 ![My ZDNet blog, Web 2.0 Explorer, soon after I’d started it.](/assets/images/c87fadd3-7f93-481f-9669-f41b3c01921f_1552x1118.png "My ZDNet blog, Web 2.0 Explorer, soon after I’d started it.")
 *My ZDNet blog, [Web 2.0 Explorer](https://web.archive.org/web/20051210171833/http://blogs.zdnet.com/web2explorer/?p=5), soon after I’d started it.*
 
+## Deciding to Make RWW a Business
+
 Hearing about the mechanics of my freelance income from ZDNet gave me pause. Sure, I could probably get a regular job at ZDNet if I asked. But couldn’t I also apply the same ZDNet formula for monetizing a blog to ReadWriteWeb? For ‘Web 2.0 Explorer’, I was only getting a quarter of the advertising revenue that it brought in every month; but I could get 100% of it if I monetized RWW. Also, RWW was still only a part-time occupation for me. If I devoted all my time to it, then surely I’d be able to grow RWW page views to something akin to what Between the Lines was getting.
 
 For the first time, I began to think seriously about turning RWW into a full-time business. There had to be some way, I mused, to set up RWW as a company and get a US work visa that way. Perhaps I wouldn’t need a job at Yahoo or CNET.
@@ -49,6 +55,8 @@ Later, while on the plane, I reflected on where I was at with RWW as a business.
 
 ![ThePort Network was ReadWriteWeb’s first banner sponsor, in April 2005.](/assets/images/aa990755-b0ec-4219-9bb3-a52b30b192ca_1634x1172.jpg "ThePort Network was ReadWriteWeb’s first banner sponsor, in April 2005.")
 *ThePort Network was ReadWriteWeb’s first banner sponsor, in April 2005.*
+
+## Where the Advertising Money Would Come From
 
 I jotted down in my notebook that I needed to expand where I placed advertising on ReadWriteWeb. There was no reason it should be limited to a single weekly post. It was time for me to pursue other ad and sponsor options for the site.
 
@@ -65,6 +73,8 @@ Then, a record scratch. “But regardless of all this déjà vu, we are not in a
 ![John Battelle’s “not a bubble” op-ed, Nov 05](/assets/images/04048252-db0b-4506-bb64-33432973b288_1986x1300.png "John Battelle’s “not a bubble” op-ed, Nov 05")
 *John Battelle’s “not a bubble” op-ed, Nov 05 ([screenshot](https://web.archive.org/web/20060220110402/http://www.nytimes.com/2005/11/18/opinion/18battelle.html?ex=1289970000&en=24386e654b2c02ed&ei=5088&partner=rssnyt&emc=rss) Feb 06)*
 
+## Supr.c.ilio.us Names Me a Web 2.0 Conspirator
+
 The month before, two young engineers, Eran Globen and Ryan King, had started a satiric blog called Supr&#46;c&#46;ilio&#46;us — the name inspired by the popular social bookmarking site, del&#46;icio&#46;us. The day after Battelle’s article, Globen linked to it and noted that it was published on the same day as the latest TechCrunch BBQ, which he had attended. “Some 400 geeks munching on pizza and drinking free (as in beer) beer? I don’t see no bubble here.”
 
 I was already aware of Eran and Ryan’s mock blog, as I’d become one of the targets of its good-natured but anarchic humor. The week before, the pair had been [interviewed](https://web.archive.org/web/20060816170321/http://blip.tv/file/4324) by Irina Slutsky, a Silicon Valley reporter who was launching her own YouTube channel, called Geek Entertainment TV. Slutsky introduced her [debut show](https://web.archive.org/web/20060210143846/http://www.geekentertainment.tv/2005/11/15/web-20-is-taking-over-the-nation/) by saying she was “reporting from inside the bubble.” She then asked Globen, what is Web 2.0?
@@ -77,6 +87,8 @@ I was already aware of Eran and Ryan’s mock blog, as I’d become one of the t
 “Richard MacManus,” King piped up. “Yeah, basically him,” Globen affirmed, adding that “he’s hiding in New Zealand right now.”
 
 It was funny and I immediately wrote [a blog post](https://web.archive.org/web/20060508060925/http://www.readwriteweb.com/archives/the_web_20_cons.php) in response, accepting and even encouraging the joke. But there was a serious side. Almost all the critics of Web 2.0 — including actual journalists like Nicholas Carr, Andrew Keen, and every writer at The Register — objected to the trend because they thought it was a market bubble. But I sided with John Battelle on this — I didn’t think Web 2.0 was a bubble, because real value was being built in this era of the web. The startups I was reporting on weren’t Pets.com 2.0.
+
+## Even I Was Tired of the Term “Web 2.0”
 
 However, I did think the term itself (Web 2.0) was increasingly problematic. The same week I’d been outed by Supr&#46;c&#46;ilio&#46;us, I reported in my [weekly wrap-up](https://web.archive.org/web/20060315001559/http://www.readwriteweb.com/archives/web_20_weekly_w_42.php) that staff from the open source browser Flock had banned the term from its office, and that del&#46;icio&#46;us creator Joshua Schachter was rebelling against being “the Web 2.0 poster child.”
 

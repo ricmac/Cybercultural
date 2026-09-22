@@ -19,12 +19,16 @@ The two key writers I wanted to hire as employees were Jon Mitchell and Dan Rowi
 ![RWW now, February 2012](/assets/images/rww-now-feb2012.jpg)
 *RWW when I did a February 2012 presentation to SAY staff.*
 
+## A New Editorial Direction for RWW
+
 During my February trip, I did a “brown-bag” presentation to all of SAY’s employees about RWW. This is when I unveiled our new editorial direction, which had been heavily influenced by Kourosh and Troy. The new mission of the site was as follows: “Cheap computerization, pervasive networks and the cloud will reshape the world. ReadWrite will be the most influential news source.” The name change — we were dropping the *Web* part — was already firmly in the plans, primarily because we would be broadening our coverage area from web technology to technology in general.
 
 Our target audience would shift accordingly, from “engaged technologists” to consumer users of tech — “everyone from power users to people who just bought their first iPhone.” The exception to all this were the channels, which would remain business focused (I wryly noted in the presentation that “they pay the bills”).
 
 ![RWW future, February 2012](/assets/images/rw-future-feb2012.jpg)
 *The vision for "ReadWrite" as at February 2012; from my brown-bag presentation.*
+
+## The SAY Media Redesign
 
 To support the editorial changes, SAY Media had commissioned a redesign from their design team, led by Alex Schleifer. At the same time, the site would be moved from Movable Type to Orion, the beta version of Tempest (created by the same person, Ben Trott).
 
@@ -35,6 +39,8 @@ Since this wasn’t my business anymore, I didn’t push too hard on being invol
 ![RWW in June 2012](/assets/images/rww_june2012.jpg)
 *Just before our redesign went live (see feature image), I grabbed this screenshot of ReadWriteWeb in its classic design.*
 
+## Things Turn at SAY Media
+
 To my great relief, I finally reached a settlement on my divorce in early July. Now it felt like the financial burden I’d been carrying over the past few years had been lifted. To celebrate, I took my first-ever extended tour of Europe that month — a solo trip including London, Barcelona, Rome, Florence, and Paris. It was a wonderful holiday, a real head-clearer, even though I got lonely by the end.
 
 Before I headed home, I spent several days in the SAY office. But by then, things had begun to turn for both RWW and SAY Media.
@@ -43,6 +49,8 @@ Troy Young left SAY at the end of July. I hadn’t had much contact with him in 
 
 ![Team RWW, July 2012](/assets/images/team-rww-july2012.jpg)
 *Team RWW in July 2012, before things started to go south. From left to right: Ted Greenwald, Fredric Paul, Abraham Hyatt, Jon Mitchell.*
+
+## Abraham Resigns, and I Get My Notice
 
 Just over a month later, on Friday, September 21, Abraham abruptly resigned. This was a shock to me, as he’d moved to San Francisco for this job just seven months before. I phoned him as soon as I heard, and he told me he’d quit because he was disillusioned with SAY management. He sounded angry and frustrated, and also a little panicked for the rest of the team — including me. He said that SAY planned to significantly downsize RWW’s budget and that they wanted to replace me as editor in chief before the ReadWrite.com relaunch next month.
 
@@ -53,12 +61,16 @@ At the end of the month I had a call with Matt and SAY’s lawyer, Jason Crain. 
 ![Rise of the Tech Bandits](/assets/images/tech-bandits-2012.jpg)
 *In the [Summer 2012 issue](https://web.archive.org/web/20120525003950/http://www.saymedia.com/magazine.php) of SAY Magazine, Dan Frommer wrote a feature article entitled "Rise of the Tech Bandits." Its lede: "How an unlikely group of renegade writers are changing journalism — and the future of publishing."* 
 
+## Leaving Without Acrimony
+
 I had a trip to San Francisco booked in just a week’s time, in early October for the [Health 2.0 conference](https://web.archive.org/web/20121003153459/http://www.health2con.com/events/conferences/san-francisco-fall-2012/). I went ahead with that trip, but I did not visit the SAY office. While I was at the conference, we did a call with Matt and Jason to sort through the end of my contract. I found a quiet spot somewhere in the depths of the Hilton at Union Square, where the conference was being held. Sean and Camille were also on the call, and Camille did a lot of the talking on our behalf. I’d always been impressed with Camille, and I was so glad she was on my side that day.
 
 In the end, the second acquisition payment was made in October and my contract ended with no fuss or acrimony on either side. To their credit, SAY Media didn’t try to mess me around. On my part, I accepted that they wanted a local employee to manage operations from their US office. More importantly, this was clearly a sign that it was time for me to let go of RWW and move onto my next career adventure.
 
 ![ReadWrite launch, October 2012](/assets/images/readwrite-launch-oct12.jpg)
 *The [newly branded ReadWrite](https://www.saydaily.com/2012/10/say-media-introduces-readwrite-and-dan-lyons), complete with a new editor in chief, launched shortly after I left.*
+
+## What Came Next: A Book, and ReadWrite
 
 As it happened, the Health 2.0 conference inspired me to write my first book, about health technology, which I did over 2013. Even better, I finally got my act together about my own health. By early 2013 I had committed myself to the low-carb diet to help manage my type 1 diabetes (I still follow this diet today). The resulting book, *Trackers: How Technology Is Helping Us Monitor and Improve Our Health*, was [published at the end of 2014](https://ricmac.org/trackers/).
 

@@ -15,17 +15,25 @@ Every year since 2004, ReadWriteWeb has selected a best 'little company.' In pas
 
 ![RWW Best LittleCo 2010](/assets/images/littleco10-Little_Co_2010.png)
 
+## The Competition in 2010
+
 This year there was plenty of competition. Foursquare won the battle of the check-in apps, Flipboard created an innovative iPad app that caught our imagination, Instagram burst onto the scene with a mobile photo app. The LittleCo that impressed us the most though was New York-based [Tumblr](https://web.archive.org/web/20101222021635/http://www.tumblr.com/).
 
 We've already noted that the rise of Tumblr, Posterous and other 'light blogging' services was [one of the top trends of 2010](https://web.archive.org/web/20101222021635/http://www.readwriteweb.com/archives/tumblr_posterous_top_trends_2010.php). These are products which enable you to publish and share things very quickly and at the click of a button. A lot of the activity in this form of publishing in 2010 was due to Tumblr's increasing usage among people outside of the early adopter set, along with pick-up from a number of traditional media companies.
 
 ![Tumblr 2010](/assets/images/littleco10-tumblr_russell_brand.jpg)
 
+## Why Tumblr Won
+
 Tumblr launched back in 2007, but this year it [really took off in terms of growth](https://web.archive.org/web/20101222021635/http://www.readwriteweb.com/archives/tumblr_leaves_posterous_in_the_dust.php) — crushing its nearest light blogging rival, Posterous. Tumblr achieved this growth at surprisingly low staffing levels: [just 16 employees](https://web.archive.org/web/20101222021635/http://techcrunch.com/2010/11/19/tumblr-funding-office-hires/), with an estimated 20 before end of 2010. It's got plenty of money behind it, though. The company has raised $40m. $30m of that was raised this month from existing investors Spark Capital and Union Square Ventures, plus new investors Sequoia Capital (who backed Google in 1999, before it went big).
 
 Tumblr currently boasts over 11 million blogs running on its service, perhaps leading to some [performance hiccups](https://web.archive.org/web/20101222021635/http://www.readwriteweb.com/archives/why_a_day_of_tumblr_down_time_matters_to_the_entire_web.php) recently.
 
+## Tumblr by the Numbers
+
 In [a recent comparison](https://web.archive.org/web/20101222021635/http://www.readwriteweb.com/archives/tumblr_now_has_more_money_more_pageviews_than_word.php) we did between Tumblr and the popular blogging service Wordpress, we discovered that people who visit Tumblr blogs view far more pages per person and twice as many pages in total. WordPress still has many more publishers and far more site visitors, but Tumblr is doing better on a user engagement level.
+
+## Tumblr Heading Into 2011
 
 Heading into 2011, Tumblr has a full tank of funding petrol and is racing full speed up the page view growth slope. Content curation is expected to be [a big trend of 2011](https://web.archive.org/web/20101222021635/http://www.briansolis.com/2010/12/the-state-of-the-blogosphere-2010/), so next year could be another tipping point again for this trendy New York startup.
 

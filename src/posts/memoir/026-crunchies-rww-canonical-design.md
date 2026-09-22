@@ -16,12 +16,16 @@ The night of the Crunchies was Friday, January 18, and the ceremony was held at 
 ![Crunchies co-hosts](/assets/images/2214489949_e3324efafd_o.jpg)
 *The Crunchies co-hosts; from left to right: Om Malik, me, Matt Marshall, Mike Arrington. Photo [by Ribbit](https://www.flickr.com/photos/ribbitvoice/2214490081).*
 
+## Presenting at the First Crunchies
+
 I was presenting two categories: Best International Startup and Best Design. I had written short notes in my little red notebook for each. For the best international startup award, I said that the award “has special significance for me, as the only non-US blog hosting these awards.” It went to Netvibes, the French start-page product that had become the trendiest in that category. I presented the award to Tariq Krim, its tall and handsome CEO. The best design award went to SmugMug, a photo-sharing website (which would eventually buy Flickr a decade later).
 
 I wasn’t yet used to being onstage, so I was nerve-racked when speaking and my face was conspicuously red from anxiety. I felt more comfortable when all four of the main bloggers were onstage together. Mike was a confident speaker, and he and Om had a good repartee on stage. Matt Marshall, the founder of VentureBeat, was a reserved man like me, but he looked the part in his business suit and white button-down shirt.
 
 ![Me onstage](/assets/images/2215106919_d2746e4be8_o.jpg)
 *Me onstage at the Crunchies. Photo [by Garrett Gee](https://www.flickr.com/photos/ggee/2215106919/).*
+
+## Publishing the Winners Too Early
 
 There was an awkward moment backstage when it was discovered that RWW had published the full list of winners at 7:30 p.m., when the event had started. But this was because Heather had sent out the winners list earlier in the day to all four blogs, giving an embargo time of 7:30 p.m. Turns out I had missed a follow-up email later in the day by Eric Eldon at VentureBeat: “Talked with Mike about the embargo time. Please don’t post before the awards start!” So our post went out, as originally instructed, when the show started. I thought nothing of it at the time, but Mike was angry at me backstage when he found out. I was just confused; I hadn’t seen Eric’s follow-up, so my only response was that I was given an embargo time and had complied with that.
 
@@ -31,6 +35,8 @@ Later, back at my hotel, I saw Eric’s email and wrote back to everyone — my 
 *The Crunchies 2007 winners (which I inadvertently revealed as the show started!). Photo [by Garrett Gee](https://www.flickr.com/photos/ggee/2215108903/).*
 
 I hadn’t stayed for the Crunchies after-party, as it was late for my daughter. Truth be told, I was tired too. There were certain luminaries at the Crunchies that I didn’t get to meet — Mark Zuckerberg was there (he won best startup founder, and Facebook won best overall), as were the Twitter founders (best mobile startup). In fact, I hadn’t gotten the chance to speak with many people at all. So my feelings after the show were more of emptiness than elation.
+
+## Meeting Pete Cashmore of Mashable
 
 The one person I do remember meeting that night, funnily enough, was Mashable’s Pete Cashmore. He’d been in the foyer before the show, having bought himself a Crunchies ticket. We exchanged brief greetings, but then Mike spotted him and told him to leave. Mashable was competing fiercely with TechCrunch at this time, and its rise up the Technorati chart over 2007 had ruffled many blogger feathers — including mine. I thought Pete had somehow juiced Mashable’s statistics, and I’d even lodged an “official complaint” with Feedburner’s founders about it. Regardless, the competition between TechCrunch and Mashable had become almost ludicrous. Just a week before the Crunchies, Mashable held its own awards ceremony in San Francisco, the [Open Web Awards](https://web.archive.org/web/20080116211114/http://mashable.com/2007/11/27/the-1st-international-open-web-awards-start-now/), which cunningly implied that its community was everyone *but* the Crunchies participants.
 
@@ -52,6 +58,8 @@ I had imagined the Loch Ness Blogger would be shy and awkward, but he [turned ou
 
 Silicon Valley was still a mecca for anyone who wanted to make it big in the tech industry. And sure enough, a few months after I’d met Pete in Borders, he emailed to say that he’d taken my advice and shifted to San Francisco. What neither of us fully realized was that the insider world of Silicon Valley was beginning to constrict around a set of five leading Web 2.0 companies. 
  
+## The Five Companies About to Take Over
+
 Apple’s iPhone was the talk of the town by the end of 2007, and in November Google had announced its competitor: an open-source mobile operating system called Android. Amazon had just announced its Kindle product, so it too was branching out into consumer devices, in addition to being the early leader in cloud computing. Meanwhile, Google Reader was now the dominant RSS reader and Facebook had all the momentum in social networking. Microsoft was perhaps the odd one out, since it was struggling to adapt to Web 2.0 with its awkwardly branded Windows Live project. But Microsoft still had dominant positions in PC, office, and browser software — which gave it the time and money to correct course.
 
 ![Android, Nov 2007](/assets/images/rww-android_nov07.jpg)
@@ -64,6 +72,8 @@ The end of 2007 also marked the end of an era for Read/WriteWeb. In December I [
 ![New RWW design, Dec 2007](/assets/images/new_rww_design_dec07b.jpg)
 *The new ReadWriteWeb design debuted in December 2007.*
 
+## The 2007 Redesign by Ideacodes
+
 I was blown away by that single slash of vibrant red in the header — it stood out like a beacon on the crisp white background. Overall, this design was much roomier and less boxy than its predecessor. The logo was much improved as well. We’d finally gotten rid of the ‘/’ in the brand name, so it was now ReadWriteWeb instead of Read/WriteWeb. The *R*, *W*, and *W* were now emphasized in black type, while the rest of the letters were in an attractive silver; my Twitter handle was @RWW, and that acronym was now widely used as the shorthand to refer to our site — so it was nice to highlight that in the logo design. The yin-yang symbol had also been given a Web 2.0 makeover; it was now encased in a red box with rounded corners (everything had rounded corners in Web 2.0).
 
 The redesign also added new sections to the home page, which would help drive traffic. There was now a Popular Posts list next to the lead story, a Featured Posts section directly below, and a Recent Comments section below that. There were other improvements, too, such as a new set of main categories.
@@ -72,6 +82,8 @@ The redesign also added new sections to the home page, which would help drive tr
 *This screenshot is from June 2008, but it's the only one I could find that fully shows what our new design looked like (without Wayback Machine glitches).*
 
 Overall, I loved what Ideacodes, the designers, had done — it had certainly met my goals for a “fresh and bold” new look for RWW. In the launch post, I noted that “this is the first RWW design where I haven’t been involved in the coding myself.” It was yet more evidence that I needed expert help if I was to continue scaling RWW.
+
+## What the Commenters Made of the New Logo
 
 Feedback in the comments section, however, was mixed. I was surprised that many people didn’t seem to like the new logo. Some of this was justified, as on closer inspection it had a few technical glitches — the two capital *W*s were not properly aligned, for example. Once I’d run it past some designer friends, I asked Emily and Max to do the necessary fixes. 
 

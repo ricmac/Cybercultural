@@ -22,6 +22,8 @@ During our lunch, Bill’s wife Roberta – who was in sturdier health – sat b
 ![Mother of all demos](/assets/images/wdh/mother-of-all-demos-2.jpeg)
 *Bill English and crew preparing for the 1968 Demo, including volunteer Stewart Brand (kneeling). (SRI International) Credit: [Vintage Everyday](https://www.vintag.es/2019/03/mother-of-all-demos-1968.html)*
 
+## How the Mouse Got Built
+
 The mouse was one of the first things Engelbart and English worked on together. But it took a while for it to evolve from a fanciful idea in Engelbart’s head, to a real, functioning object built by English.
 
 Englebart first came up with the idea of a “pointing device,” to complement the keyboard of the CDC 160A mini-computer and its simple display. He had mentioned such a device in a 1962 paper, but at this time it was purely theoretical. He did not describe what the “pointer” looked like or indeed how it would work. 
@@ -34,6 +36,8 @@ English quickly grokked that the planimeter would enable the movement of the mou
 
 ![The first mouse](/assets/images/wdh/800px-Douglas_Engelbarts_prototype_mouse_-_Computer_History_Museum.jpg)
 *The first mouse; source: [Wikimedia](https://commons.wikimedia.org/wiki/File:Douglas_Engelbart%27s_prototype_mouse_-_Computer_History_Museum.jpg)*
+
+## Naming the “Mouse” in a 1965 NASA Paper
 
 At the same time as English worked on the prototype mouse, a programmer named Tom Humphrey was making progress on the computer display. Humphrey wasn’t part of Engelbart’s team — he was an SRI programmer who contracted out his time to several internal projects. Nevertheless, Engelbart’s small, piecemeal group was making steady progress towards a prototype computer system. It was only a single computer workstation at that point, but it was showing promise. “Pretty simple-minded at first,” English recalled of these early lab experiments, “but we had a display, we could point things on it, we could delete words… the fundamentals of it was all there.”
 
@@ -48,9 +52,13 @@ Curiously, the report adds that for “inexperienced subjects,” a combination 
 ![Bill English and Stewart Brand](/assets/images/wdh/EWypzd5VcAAoi6K.jpeg)
 *Bill English and Stewart Brand; [via Twitter](https://x.com/stewartbrand/status/1255565355688157184/photo/1).*
 
+## Left Off the Patent
+
 Engelbart filed a patent for the mouse in June 1967 and it was granted in January 1970. Bill English was not listed as a co-inventor, which Engelbart later regretted. “I couldn’t have done it without Bill,” he admitted, “but the patent attorney didn’t agree with me in wanting Bill to share the patent.”
 
 Bill English has never shown any bitterness about not being credited as a co-inventor of the mouse. He’s continued to smile through the years, using that positive energy to keep building new things. I asked whether the work he did with Doug Engelbart is what he’s most proud of in his career? “Probably, yes,” he replied. But he then told me about another of his creations — one he dreamed up himself. “In magnetics,” he said with a chuckle, “I designed and built a train controller system that they currently use, as far as I know, in the New York subway.” I got the impression that Bill English is most interested in people _using_ his technology, even if they don’t know who built it. Being acknowledged in a patent or in the press isn’t what drives him. 
+
+## Did He Know How Important It Would Be?
 
 As we wrapped up our interview on that chilly day at Kepler’s cafe, I asked English if he realized back in the 1960s how important an invention the mouse would become. “I don’t know that I sat back and looked at it, and said wow that’s significant,” he replied. “No, you just keep doing it,” he said, and grinned.
 

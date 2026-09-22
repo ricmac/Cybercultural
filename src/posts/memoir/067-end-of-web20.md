@@ -17,6 +17,8 @@ In a December [front-cover profile](https://web.archive.org/web/20121226041610/h
 ![Tim O'Reilly, December 2012](/assets/images/timoreilly-dec2012.jpg)
 *Tim O'Reilly, the original Web 2.0 thought leader, in a December 2012 issue of Wired.*
 
+## Why O’Reilly Stopped Saying “Web 2.0”
+
 My guess is that by not promoting Web 2.0 anymore, O’Reilly Media was frontrunning the bursting of the bubble. The *Wired* writer, Steven Levy, then asked Tim about his latest credo, “Create more value than you capture.” 
 
 “So many technologies start out with a burst of idealism, democratization, and opportunity, and over time they close down and become less friendly to entrepreneurship, to innovation, to new ideas,” Tim had replied. “Over time the companies that become dominant take more out of the ecosystem than they put back in.”
@@ -25,6 +27,8 @@ Of course, he was describing what Web 2.0 had turned into: an ecosystem where se
 
 ![Facebook 1 billion users](/assets/images/facebook-1billion-oct2012.jpg)
 *Facebook hits 1 billion users, October 2012.*
+
+## Twitter Shuts Down Its API
 
 Developers were also starting to get screwed by Web 2.0. In September 2012, Twitter implemented restrictions on third-party use of its API. Suddenly, applications that had been built on top of Twitter’s platform — including some that had turned into businesses — were not viable anymore.
 
@@ -35,6 +39,8 @@ While Tim O’Reilly was busy running away from the Web 2.0 bubble, another Sili
 ![Marc Andreessen, December 2012](/assets/images/andreessen-bubble-dec2012.jpg)
 *Marc Andreessen in Reuters, December 2012.*
 
+## Andreessen Bets on the Next Bubble
+
 Many of Andreessen’s market bets turned out to be true. The dominant companies of Web 2.0 — Amazon, Apple, Facebook, Google, and Microsoft — not only entrenched their power over the 2010s, but significantly expanded it. Meanwhile, startups like Airbnb and Uber “reshaped the world,” to paraphrase the mission statement I’d helped create for the new ReadWrite in 2012.
 
 So Andreessen was a winner from the tech bubble that emerged in the 2010s. I, on the other hand, had gotten out of the tech-blogging business before the new wave happened. ReadWrite also failed to ride the wave; the site was a shell of itself within just a year of my departure. I heard later that the domain-name change had been devastating to its all-important Google search ranking. But that didn’t explain why ReadWrite disappeared entirely from the Technorati list of popular blogs. Maybe that was because it simply wasn’t popular anymore.
@@ -44,14 +50,20 @@ SAY Media quit the blog-network business altogether [in 2015](https://www.adweek
 ![SAY Media quits blogging, 2015](/assets/images/saymedia-quits-blogbusiness-2015.jpg)
 *SAY Media gives up on blogging, February 2015; via Adweek.*
 
+## What Web 2.0 Turned Into
+
 As the years passed, I grew increasingly concerned about the negative impacts of smartphones and social media on our culture. By the end of the 2010s, everyone (including children) had an iPhone or Android phone, and were constantly checking the likes of Facebook, Twitter, Instagram, and YouTube. The web was mainstream, and internet culture had taken over the world.
 
 Most of the successful products and platforms of the 2010s had been launched during Web 2.0, and I’d helped chronicle their rise on my blog. But in later years, it became apparent that Web 2.0 blogs like mine hadn’t written enough about the downsides of the democratization of media. I had always been a techno-optimist — no different from Tim O’Reilly and Marc Andreessen. So I’d perhaps been blinded by the shiny new consumer tools of the internet and didn’t dig deep enough into what it was doing to society, especially the impact on my daughter’s generation. She’d been born in 2001, so was part of the first generation to grow up a digital native. Looking back now, I wish I’d paid more attention to the internet’s impact on her.
+
+## Blogging Went Out of Fashion
 
 The irony, at least for me, is that nowadays blogs are passé in the culture. Social media usurped blogging early in the 2010s. That was hard for me to accept, since blogging had helped define not only my career but my entire identity. As the 2020s began, I no longer knew where I fit in the tech world. I’d tried to start up a new tech blog in 2018 (about blockchain, which would later have the term *Web3* foisted upon it), and I’d pivoted to email newsletters in 2019 (on Substack, a then-emerging platform in which Andreessen Horowitz [invested](https://a16z.com/2019/07/16/substack/)). Neither of my projects gained traction. But that’s okay: I’ll continue to try different things as a blogger and a writer, and maybe I’ll strike it lucky again one day.
 
 ![Richard MacManus, Dominion Post, December 2012](/assets/images/ricmac-dompost-1dec2012.jpg)
 *An article in the Dominion Post newspaper, dated 1 December 2012, about my move from blogging to writing books.*
+
+## What Blogging Gave Me
 
 Regardless, I’ll always be nostalgic about Web 2.0 and the opportunities that blogging gave me back in the first years of the 2000s. Web 2.0 may’ve turned into a bubble over the course of that decade, and then turned darker in the following decade, but it had started out so innocently. It had been a way for me to become a creator on the web and not just a consumer, as I’d been in the dot-com era. What I created online, using blogging tools and web standards like RSS, eventually set me up for life.
 

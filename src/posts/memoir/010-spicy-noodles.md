@@ -17,6 +17,8 @@ Fred created a new [website](http://web.archive.org/web/20051013062347/http://ww
 ![The Web 2.0 Workgroup homepage](/assets/images/cc5284db-c315-44f0-9762-c3d46c54fab2_1882x1190.jpg "The Web 2.0 Workgroup homepage")
 *The Web 2.0 Workgroup [homepage](http://web.archive.org/web/20051013062347/http://www.web20workgroup.com/).*
 
+## Dinner With Dave Winer
+
 The first blogger we invited was Dave Winer, who had been publishing on the web since 1994 and had created one of the first web syndication feeds in [December 1997](http://scripting.com/davenet/1997/12/15/scriptingNewsInXML.html). Dave had gone on to create RSS 2.0, which became the default syndication method for blogs like mine in the 2000s. I’d also started out as a blogger using his publishing software, called Radio Userland, and was an admirer of his essays about technology. I’d emailed him, as a fan, multiple times since starting my blog in 2003. He didn’t always reply, but when he did, I sometimes got the impression that I’d accidentally insulted him. It was an early warning of his prickly personality.
 
 Dave had recently sold Weblogs.com, a ping-server used by blogs, for a couple of million dollars to Verizon. Mike and Keith had helped him broker the deal, so there was a regular communication channel between them. A couple of days after my Yahoo visit, Dave invited the Web 2.0 Workgroup bloggers to dinner at a place called Jing Jing, in Palo Alto. It was a [regular](http://scripting.com/davenet/2000/01/24/killerPatents.html#3) of his and he assured us that the spicy noodles there were fabulous.
@@ -26,12 +28,16 @@ Dave was 50 years old at this time (roughly the same age as I am now, writing th
 ![My photo of the others during the spicy noodles lunch.](/assets/images/c96d5846-bcd6-4871-bae2-c4f227731c34_1637x1228.jpg "My photo of the others during the spicy noodles lunch.")
 *My photo of the others during the spicy noodles lunch.*
 
+## Why Dave Winer Preferred “the Two-Way Web”
+
 Dave was not a fan of Web 2.0. While he recognized that the web had moved on from the Dot Com era, he preferred to use his own term: “the two-way web.” To be fair, he’d articulated his vision “for the Web as an easy writing and publishing environment” back in [January 2001](https://web.archive.org/web/20010202130700/http://www.thetwowayweb.com/), well before Tim O’Reilly and co came up with the Web 2.0 moniker. That was when he launched TheTwoWayWeb.com, which is the website that became a part of our workgroup. I think he simply resented the Web 2.0 terminology and wanted people to recognize his prior art.
 
 I was a fan of Dave’s theories about the web in large part because he credited Tim Berners-Lee as being the true progenitor. In the very first post I’d written on Read/Write Web, in [April 2003](https://web.archive.org/web/20030809061335/http://www.readwriteweb.com:80/2003/04/20.html), I mentioned both Berners-Lee and Winer as inspirations. I also admired Winer because, like Berners-Lee, he built tools to support his vision. He’d created weblog publishing software, syndication formats, developer scripting tools, and outliners (a form of word processing software that had an “expand and collapse” outline display). Not to mention his weblog Scripting News, which was a key influence on early tech bloggers like me. So, to me, there was no doubting his credentials as both a visionary and a practical toolmaker.
 
 ![Scripting News at around the time I met Dave Winer.](/assets/images/c26576d2-4e40-4de6-9508-3491636c9336_1376x1442.jpg "Scripting News at around the time I met Dave Winer.")
 *[Scripting News](https://web.archive.org/web/20051013060457/http://www.scripting.com:80/) at around the time I met Dave Winer.*
+
+## Arrogance, Sensitivity and a Falling Out
 
 Unlike Tim Berners-Lee, however, Dave Winer’s personality was neither humble nor self-effacing. Online, he had a curious mix of arrogance and sensitivity. He was opinionated, which was admittedly a good thing in blogging, but he was also quick to take offence. In one email exchange we had in May 2005 about advertising in RSS feeds, he was dismissive of my analysis of the situation (“I don't have an opinion on your thesis. Sorry.”) and claimed that I’d misunderstood him. Perhaps I had, but what was striking about that email exchange is that he didn’t once acknowledge that I might have made a good point.
 
@@ -48,6 +54,8 @@ As I neared the end of my first trip to Silicon Valley, I began to think more se
 ![Gabe and Mike, October 2005](/assets/images/307a3854-2abc-4cd4-a05b-11383492159d_800x600.jpg "Gabe and Mike, October 2005")
 *Gabe and Mike, October 2005; photo [by Mike Arrington](https://www.flickr.com/photos/michaelarrington/55888102).*
 
+## What I Learned About Money in America
+
 America didn’t have a class system, like the British and its colonies, but I’d learned on this trip that everything here revolved around money. Mike clearly had some money, but more importantly he knew people with a lot of it — and it was his ambition to get a lot of it, too. On the flip side, I’d also discovered that the US was a meritocracy in terms of talent. Everyone I’d met had treated me like an equal and was friendly towards me. They wanted to know my opinions about their startups and who I’d met; they didn’t care about my background or what I used to do for a job, they only cared about what I knew now and who I knew now. That was different to what I was used to in New Zealand, where people I met usually had no interest in my blog (other than a couple of the developers at my previous day job).
 
 I soon realised, however, that the reason why people in the US were so open and friendly was that they wanted something from me — some knowledge or networking connection that would help them make money.
@@ -57,6 +65,8 @@ Even though I’d experienced, first-hand, why America is called the land of opp
 ![a photo of Market St, San Francisco, on 4 October 2005.](/assets/images/cf0b8c25-4534-4c3b-948d-c85425645db6_1637x1228.jpg "a photo of Market St, San Francisco, on 4 October 2005.")
 *I got to know the real America during this trip. This is a photo of Market St, San Francisco, on 4 October 2005.*
 
+## Gabe Rivera, Cut From the Same Cloth
+
 Even though I was aware that I wasn’t on Mike’s level in terms of money or personal network, I felt that Gabe Rivera and I were cut from the same cloth. Even literally, in that we both dressed badly! He usually wore black jeans and a long-sleeve tee-shirt in a primary color like red or yellow. I wore striped blue polo shirts and cheap patterned tee-shirts, along with blue jeans or tan slacks — I had no dress jacket at all, or dress sense for that matter.
 
 Gabe had driven me around a bit during my stay, since I didn’t have a rental car. He liked to blast Van Morrison songs on his car’s tape deck, so we would drive through Atherton and Palo Alto humming along to the likes of “Brown-eyed Girl” and “Cyprus Avenue.”
@@ -65,6 +75,8 @@ We also chatted a couple of times over burgers at a local joint in Atherton or M
 
 ![The tech blogosphere was abuzz about blog valuations in October 2005](/assets/images/71919bfe-6285-4230-a8dd-9fb594c09116_2444x1728.jpg "The tech blogosphere was abuzz about blog valuations in October 2005")
 *The tech blogosphere was abuzz about blog valuations in [October 2005](https://www.techmeme.com/051007/p29#a051007p29).*
+
+## Was My Blog Worth a Million Dollars?
 
 Mike had told me my blog was worth a million dollars, based on what Jason Calacanis got for Weblogs, Inc. Blog valuations was a topic of discussion in the tech blogosphere at the time, and another blogger had also pegged the value of RWW at [$1 million](https://web.archive.org/web/20051211143316/http://www.readwriteweb.com/archives/my_million_doll.php). Although I was starting to realize that my blog did have value, I was still thinking too small at that stage — I thought RWW was primarily useful to me as a networking tool, a way to meet people in Silicon Valley. But I knew that Mike was considering a VC infusion to expand TechCrunch, just because he was friends with a bunch of those people. So in the back of my mind, I was slowly coming to terms with RWW potentially being more than just a part-time income.
 

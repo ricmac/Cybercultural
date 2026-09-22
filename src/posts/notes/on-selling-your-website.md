@@ -12,6 +12,8 @@ featureImage: "/assets/images/Whataitai-1280x720.jpg"
 
 Instead of the latest installment of my serialized Web 2.0 memoir, this week I want to talk about the experience of selling a tech blogging business — and the after-life this can have, which sometimes (maybe most of the time?) can be more hell than heaven.
 
+## ReadWrite Has Been Sold Again
+
 I found out this week that ReadWrite, the current version of the blog I founded, has been sold yet again. This discovery comes at an awkward time in the chronology of my [memoir project](/memoir/), because I’m midway through telling the story of how I _nearly_ sold ReadWriteWeb in early 2008 to Ziff Davis Enterprise. The next installment, part 31, tells of my travel to New York in May 2008 to undergo due diligence with ZDE and its owner, the private equity firm Insight Partners.
 
 Spoiler alert: I pulled out of that deal in mid-July for reasons I will get into in the next few installments. After that, I continued to run ReadWriteWeb as an indie company for a few more years. Successfully, too; so in hindsight I was very relieved I turned down the ZDE deal.
@@ -22,7 +24,11 @@ Again, I will explain all of this in the remainder of my memoir. But in short, I
 
 Well, there’s a saying: “history will be the judge of that.” And the past 11-12 years of ReadWrite’s history has not been good. But maybe you’re more interested in my answer to this question: **do I regret selling RWW?**
 
+## Do I Regret Selling?
+
 The honest answer is that as every year passes, the more I regret letting go of the tech blog I started in 2003 and grew into a thriving small business. The thing I most regret is not giving more consideration to turning RWW into a lifestyle business. I wish I hadn’t been drawn into the Silicon Valley mindset of ‘scale at all costs’. I address this in chapter 15 of my book; but we’re currently only in chapter 10, and I think I need to reveal my thoughts on it now.
+
+## What I Wrote About the Lifestyle Business Option
 
 Here’s what I wrote in chapter 15, which is set in April 2010. At this point, RWW was still growing strongly.
 
@@ -38,9 +44,13 @@ Now, it took me another 18 months or so to make the decision to sell RWW, but th
 
 Given what ReadWriteWeb morphed into after I sold it and lost control of the site, I regret that I didn’t listen to that inner voice telling me it was ok not to pursue growth. I also regret letting down my RWW colleagues in 2011 — indeed, one emailed me yesterday to say they had misgivings at the time about what SAY Media would do with their jobs and to the business. So, I have to deeply apologize to my fellow RWWers back then. I honestly thought selling RWW to a US media company would give our staff more stability and help us keep up with the TechCrunchs and Mashables of the world. But that didn’t happen.
 
+## The Flipside of the Sale
+
 The obvious flipside is that I did get a nice chunk of money from the sale of RWW, which allowed me to buy a good home for my family, etc. It also allowed me the freedom to later pursue other types of writing that I'd always wanted to do (I've published two books since then and am serializing my third right now). So I don’t want to downplay the benefits of selling when I did. 
 
 Also, if I _had_ chosen to make RWW into a lifestyle business, there’s no guarantee the business would’ve survived or that I would've been happy. 
+
+## A Lesson for Other Media Operators
 
 But if there is a lesson here for other entrepreneurs or media operators, I would just say this: don’t discount lifestyle business as an option. If you’re employing yourself and 15-20 other people, that’s more than enough for a successful, satisfying business — and life.
 

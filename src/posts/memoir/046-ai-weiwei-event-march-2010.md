@@ -18,6 +18,8 @@ After an hour or two of meeting production people and discussing the evening’s
 ![Behind the scenes, Paley Center](/assets/images/paley-center-tvs.jpeg)
 *The TV studio at the Paley Center.*
 
+## In the Green Room With Emily Parker
+
 I was then guided into the green room, a small waiting area where I’d be until the show started. There Emily Parker, the MC for the evening, greeted me warmly. She was a tall, striking brunette woman in her mid-twenties. Like others I’d met that day at the Paley Center, she seemed steeped in New York old media — despite her youth, she’d already worked for the *Wall Street Journal* and the *New York Times* and was now a fellow at the Asia Society’s [Center on US-China Relations](https://asiasociety.org/center-us-china-relations/our-fellows). As we chatted, I also learned that she was working on her first book, about democracy on the internet.
 
 As if to complement her almost perfect career progression, Emily was wearing a stylish purple-print dress for the evening. She was the picture of urban sophistication, and I felt shabby in comparison. I was wearing stonewashed blue jeans, a purple-and-lime-green-striped shirt, and a black blazer. But I quickly reminded myself that Steve Jobs always wore jeans, so I’d be fine. Also, the purple stripes on my shirt were kind of a match for what Emily was wearing, so I didn’t feel so bad after all.
@@ -26,6 +28,8 @@ After a short while, Lou brought in Ai Weiwei. He was fifty-two at this time and
 
 ![Group photo](/assets/images/event-aiweiwei-1.jpg)
 *Emily Parker, Pat Mitchell, Richard MacManus, Ai Weiwei.*
+
+## Meeting Ai Weiwei
 
 Lou introduced me to Weiwei ([his first name](https://www.theguardian.com/artanddesign/2020/jan/21/ai-weiwei-on-his-new-life-in-britain-germany-virtual-reality-film)), who shook my hand and gave me a friendly smile. He told me he was a fan of RWW and was very interested in what we wrote about. I was stunned he even knew what RWW was, so I think I just mumbled something like, “It’s an honor to meet you.”
 
@@ -40,6 +44,8 @@ Pat then handed it over to Emily, who immediately made it clear that the discuss
 ![Paley Center, March 2010](/assets/images/event-aiweiwei-2.jpg)
 *Emily kicks off the discussion.*
 
+## The First Question Came to Me
+
 Surprisingly, she asked me the first question. She wanted me to give a general overview of the differences between internet culture in the US and China, adding, “If you have any questions, we can always turn it to Ai Weiwei.” I would certainly have questions about what the internet was like in China, but I started by giving my usual spiel about the emergence of the read/write web at around the time I started my blog. I noted the rise of social networks, including Twitter, and said, “In the Western world, it’s very much been about getting everybody to contribute to the web, to talk on the web and network on the web — and there’s been a real, you know, freedom of expression around that content.” (Of course, the West would get its comeuppance about “freedom of expression” in later years, in the form of misinformation and other hateful content, but at this time we all wore rose-tinted glasses.)
 
 I knew only from [secondhand reports](https://web.archive.org/web/20060906003417/http://www.readwriteweb.com/archives/top_web_apps_china.php) what the internet was like in China, although in preparation for this event I had researched and written several posts about the topic — including one entitled “[China’s Twitter Clones](https://web.archive.org/web/20100307065143/http://www.readwriteweb.com/archives/china_twitter_clones.php).” We also had [ReadWriteWeb China](https://web.archive.org/web/20100304054541/http://blog.it.sohu.com/readwriteweb/), a Chinese-language version of our site hosted by Sohu (a Chinese web portal, similar to Yahoo) and run by Lei Zhang from the translation service Yeeyan. Zhang had started this in late 2006 by translating our articles — initially without my permission, but when he contacted me in early 2007, I was happy to hear about it and encouraged him to continue. In [early 2009](https://web.archive.org/web/20090228224920/http://blog.it.sohu.com/readwriteweb/) it became an official RWW international channel.
@@ -48,6 +54,8 @@ I knew only from [secondhand reports](https://web.archive.org/web/20060906003417
 *ReadWriteWeb China; [screenshot](https://web.archive.org/web/20100529180528/http://blog.it.sohu.com/readwriteweb/) from Wayback Machine.*
 
 I told the Paley Center audience that since China had clones of all the Western social-web tools, the main difference I saw between internet culture in the West and in China was “only in the degree of freedom of expression.” The first Chinese Twitter clone, Fanfou, had been shut down by the Chinese government in 2009; since then others, notably Sina Weibo, had emerged to take its place. Given that Jack was on the panel, I specifically mentioned that Twitter was also currently banned in China, but that there were “a number of Twitter clones in China that are being used by a great number of Chinese people.” I then passed the discussion over to Ai Weiwei to tell the audience about his experience.
+
+## What Weiwei Said About Censorship
 
 Weiwei noted that they could not use Twitter, YouTube, or Facebook in China, and that Google might soon be added to that list. (It was an active debate at the time — I’d gone to a SXSW panel a few days before that had discussed [Google’s prospects in China](https://web.archive.org/web/20100314154514/http://www.readwriteweb.com/archives/what_google_will_do_in_china.php).) “Basically, it’s a society which forbids any flow of information and of freedom of speech,” Weiwei remarked. He explained that even though the Chinese internet had lots of clones of Western apps, their usage was closely monitored and censored by the government — users weren’t allowed to mention his name, for example.
 
@@ -58,12 +66,16 @@ Emily then brought Jack into the discussion, and he told the story of how he cre
 ![Paley Center, March 2010](/assets/images/event-aiweiwei-3.jpg)
 *Despite looking like an MIT robot, Jack was in good form.*
 
+## Pressing Jack Dorsey on China
+
 I tried to do my journalist bit and press Jack on whether Twitter would officially enter the China market, and if so, would it stand up to the government and resist censorship, as Google had recently [started to do](http://news.bbc.co.uk/1/hi/world/asia-pacific/8582233.stm)? It turned out that Jack hadn’t even realized Twitter was banned in China until a few weeks before, and he clearly wasn’t interested in trying to compete in the Chinese market. So my questions were unfortunately moot. The rest of the evening passed by in a similar manner — there were no real-world implications for anything that was said, so it was all rather academic. However, Weiwei did get feisty during the audience Q&A, when a woman who identified herself as a Chinese American businesswoman suggested that China’s growing middle class was happy.
 
 “I don’t think you should give credit to a nation that deprives people of human rights,” Weiwei [snapped back](https://www.latimes.com/archives/blogs/culture-monster-blog/story/2010-03-15/artist-ai-weiwei-makes-rare-u-s-appearance-to-talk-about-digital-activism). “You say they’re happy? I’m sure, because they made money so easily.”
 
 ![Weiwei on CNN, March 2010](/assets/images/cnn_weiwei_march2010.jpg)
 *After the event, Weiwei and Mitchell [appeared on CNN](https://www.youtube.com/watch?v=OJ2-iCeltgU) to discuss democracy and the internet.*
+
+## What Happened to Weiwei Afterwards
 
 In the years to come, I followed Weiwei’s life and career closely — although I had little direct contact with him, other than the odd message via Twitter DM. Less than a year after we shared a stage in New York, Weiwei was arrested by the Chinese government. That was in early 2011, and he wasn’t allowed to travel overseas again until mid-2015. I read later in his memoir that he had been detained for nearly three months in an anonymous building in Beijing. So, he hadn’t been untouchable after all.
 

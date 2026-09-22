@@ -21,6 +21,8 @@ The other challenge I had in trying to tease out Andreessen’s meaning is that 
 
 So I’m forced to try and decipher for myself what Marc Andreessen meant when he said that “the internet’s impact on culture is just beginning” and that we’re now entering an era where “culture is based on the internet.”
 
+## Looking Back at the Dot Com Era
+
 Thinking about it in eras is a good approach. So let’s start by looking back at the Dot Com period, which Marc Andreessen had a big part in shaping thanks to his pioneering Mosaic and Netscape Navigator web browsers. This was when culture first had to _adjust_ to the internet.
 
 In music, for instance, it became common in the 90s to share digital music files publicly over the internet – often without the permission of the copyright owners. At its extreme, that led to Napster in 1999 and the rise of peer-to-peer (P2P) file sharing on a mass scale. Eventually, after vanquishing Napster and its P2P ilk through the legal system, the record labels figured out how to sell digital downloads of music. Largely thanks to Apple and its iPods and iTunes Store.
@@ -34,6 +36,8 @@ When the so-called Web 2.0 era began, roughly in 2004, music sharing became furt
 In summary, for the first twenty or so years of the Web, the music industry was at first rocked by the internet (Napster and file sharing) but then successfully adapted to it (iTunes and iPods). The internet became a legitimate distribution channel for music, with Apple cleverly inserting itself as a new middle man.
 
 2015 was the turning point.
+
+## 2015: The Year Streaming Took Over
 
 The advent of streaming, from Spotify and others, was the first sign that the internet might no longer be _just_ a distribution channel for music. In fact, Spotify ended up **fundamentally changing how we consume music**.
 
@@ -55,6 +59,8 @@ Incidentally, 2015 would be the last year Pandora had more active users than Spo
 
 So streaming overtook digital downloads in 2015, which of course affected Apple’s revenue from music. But the impact of streaming on the music industry was more profound than just changing the revenue models. This was a total re-imagineering of what it means to consume music in this era.
 
+## We Stopped Buying Music as a Product
+
 For one thing, we no longer have to purchase music _as a product_ – whether a CD or digital download. Indeed, purchasing music has almost become an anachronism nowadays. Most of us now simply “subscribe” to music as a service, whether through Spotify, Apple, Amazon, or some other streaming aggregator.
 
 I used to have a CD collection of music that filled a few CD racks. Sometime in the Web 2.0 era I began copying the CDs I owned – as well as many CDs I borrowed from my local library – into iTunes. So iTunes became the home of my music collection.
@@ -63,17 +69,23 @@ But not any more.
 
 I can’t remember the last time I bought a CD, although I’ve continued to buy the odd album on Bandcamp (a digital download store for independent artists). Right up till 2019, I had continued to import music into iTunes. Now I have even stopped doing that, because nearly everything I own – or at least, still want to listen to – is on Spotify. Although I haven’t completely abandoned iTunes, I’m more likely to fire up Spotify when I want to listen to music – whether it be at the gym, in my home office, or where ever.
 
+## Television, Streaming and Binge-Watching
+
 We’ve seen similar evolutions play out in other cultural industries. Movies and TV are also largely consumed nowadays by subscribing to streaming services. Like Spotify in music, Netflix led the way in the streaming of video entertainment. Netflix actually launched back in the Dot Com era, as a DVD rental service. It introduced streaming in 2007, but it wasn’t until Netflix began creating its own tv shows in 2013 (starting with ‘House of Cards’) that streaming began to take off in TV and movies.
 
 Streaming changed the way we consume television, in particular. It became common to “binge” TV shows (consume multiple episodes in one sitting), which in turn changed how TV shows were made. These days popular TV shows are serial in structure, meaning that storylines play out and interweave over an entire season – and in the bigger picture, an entire series. Prior to streaming, episodes of television tended to be self-contained stories – meaning they followed the traditional ‘beginning, middle, end’ narrative structure, over the course of a thirty or sixty minute episode. Now, a typical episode of a show like House of Cards or Mindhunter is usually unresolved at the end, which entices viewers to move straight onto the next episode (helped of course by Netflix and other streaming services automatically starting the next episode).
 
 In the cases of both music and television, the internet has changed culture for the good. Spotify and Netflix, and their competitors, have given more people access to more cultural content than ever before. Now, whether it’s been good from the point of view of creators is another question (streaming revenues for musicians are minuscule compared to what they used to earn from CDs). But from a consumer point of view, it’s hard to argue that Spotify and Netflix have been bad for us.
 
+## Where the Internet Got It Wrong: Books
+
 One cultural sector where the internet has, I would argue, set the culture in the _wrong_ way is book publishing. Not only are books less widely read now, since there is so much other “content” to consume via streaming and browsing your social media feeds, but there hasn’t been an equivalent internet revolution in books comparable to streaming in music and television.
 
 The closest books have had to an internet reset was Amazon’s ebook self-publishing ecosystem combined with its [Kindle e-reader](https://ebookfriendly.com/timeline-kindle-history/), which debuted in 2007. But the Kindle hasn’t had a major technology upgrade since the Paperwhite was launched in September 2012 (there have been other models since then, like the Oasis line, but none has truly advanced the state of e-readers). And while Amazon did launch an ebook streaming service called Kindle Unlimited in 2014, it has a limited selection of books and as a result is not widely used.
 
 More recently, the popularity of audiobooks has lifted the book industry’s fortunes a little. But overall the industry is struggling, due in large part to Amazon – which dominates book retail – not innovating enough in the internet era.
+
+## Smartphones and Social Media
 
 I mustn’t forget to mention two other technologies that have had a profound impact on the cultural industries over the past decade: smartphones and social media.
 
@@ -84,6 +96,8 @@ As for social media, it’s allowed artists and creators to communicate directly
 As an aside, Billie Eilish – who at 18 years old was born and raised in the internet era – has deliberately crafted her music to suit the streaming era. Her Grammy winning 2019 album ‘When We All Fall Asleep, Where Do We Go?’ has thirteen diversely styled songs, designed to be successful on a variety of Spotify playlists. Her management has also deftly used Apple and Spotify promotional opportunities to gain traction for her career.
 
 So these are all examples of how our culture is increasingly “based on the internet.” But as Marc Andreessen alluded to, we’re just at the start of the internet-led culture.
+
+## What Comes Next Is Born Digital
 
 You can bet that it won’t be traditional forms of cultural content that take us to _what’s next_. It will be cultural content created specifically for digital technology and the internet that will define the 2020s. Online gaming, Virtual Reality experiences, Augmented Reality and similar interactive and immersive technologies are the ones to watch this decade. In large part because they will change not only how we consume content, as streaming has done over the past decade, but **the shape of content itself**.
 

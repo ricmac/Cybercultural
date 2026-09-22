@@ -12,6 +12,8 @@ featureImage: "/assets/images/blogdex-feature-2001.png"
 
 At the beginning of 2001, most popular weblogs were a combination of personal journal and linkblog — a format encouraged by [early blogging tools](/p/blogs-rss-1999/) like Blogger, LiveJournal and Diaryland. But by the end of the year, blogging had become a real-time reporting tool too; most notably in the form of the “warblogs” that became popular after 9/11, like Talking Points Memo, Instapundit and Andrew Sullivan’s The Daily Dish. The October launch of Movable Type was also a key moment in the professionalisation of blogging.
 
+## The First Weblog Awards
+
 But let's start in January 2001, with the [first annual Weblog Awards](https://2001.bloggi.es/). This was a hobby site run by Nikolai Nolan, a University of Michigan student, who defined a weblog as “a page with dated entries that frequently have off-site links.” The "bloggies" never gained the prominence of [the Webby Awards](/p/karma-2000-slashdot-bowienet-v2/), which it was clearly a clone of; nevertheless, it serves as a good indication of where the nascent blog ecosystem was at to begin the year.
 
 ![Weblog Awards 2001](/assets/images/weblog-awards-2001.png)
@@ -31,7 +33,7 @@ Zannah had a charming mix of geekiness and esoteric interests; a common feature 
 
 This geeky, linky, web-exploring style of blogging would continue to expand in the following years ([I started blogging in 2002](/p/one-year-blogging-anniversary-2004/) by adopting this format). But as 2001 unfolded, other types of blogging took hold — this time attracting mainstream audiences.
 
-# Political Blogs
+## Political Blogs
 
 Over 2001, political pundits began flocking to blogs. The disputed U.S. election of late 2000 had sparked the first wave, with Josh Marshall’s Talking Points Memo launching in November 2000. As Marshall himself admitted [on the site's 15th anniversary](https://talkingpointsmemo.com/edblog/tpm-s-15th-anniversary), his blog immediately took the form of partisan journalism:
 
@@ -64,7 +66,7 @@ By the end of 2001, the words “blog” and “blogger” had become synonymous
 
 > "Scott discusses the influx of “warbloggers” immediately after September 11, 2001. Reading that part of the book made me really sad, so much so that I almost wanted to put the book down. I felt like those people took something from the people who were blogging before, and I still resent them for it."
 
-# Movable Type
+## Movable Type
 
 Blogging had emerged over 1999 and 2000 in large part thanks to Blogger, which made publishing to the web a one-click operation. But in October, the first professional blogging tool debuted: Movable Type. Created by Ben and Mena Trott, it was a revelation for bloggers who wanted more control over their sites. MT supported multiple blogs from one installation, allowed full template customization, and generated static HTML pages — improving both speed and reliability. Crucially, it also supported RSS feeds out of the box (even by the end of 2001, RSS wasn't a default feature in Blogger).
 
@@ -86,7 +88,7 @@ During the final few months of 2001, journalists, academics and web designers be
 ![MetaGrrrl, Feb 2002](/assets/images/metagrrrl-deb2002.png)
 *Dinah Sanders' MetaGrrrl site was among those to migrate from Blogger to MovableType ([this screenshot](https://web.archive.org/web/20020207225244/http://www.metagrrrl.com/metagrrrl/) is from February 2002, but she had made the move [before the end of 2001](https://web.archive.org/web/20011221084759/http://www.metagrrrl.com/ee/)).*
 
-# RSS and Feeds in 2001
+## RSS and Feeds in 2001
 
 When we left [RSS development in the previous post](/p/blogs-rss-2000/), the RSS-DEV group had launched RSS 1.0 in early December 2000, quickly followed by Dave Winer publishing RSS 0.92 as a competing format. When Movable Type launched in October 2001, [it initially supported](https://web.archive.org/web/20020212030514/http://movabletype.org/docs/mtchanges.html) RSS version 0.91 — the version developed by Netscape but which Winer was now claiming ownership of. MT went on to add [an RSS 1.0 template](https://web.archive.org/web/20021024125029/http://feeds.archive.org/validator/docs/howto/MovableType.html), so that users could choose which format they wanted.
 
@@ -102,7 +104,7 @@ Despite the messiness of competing RSS formats, by 2001 there were commercial co
 
 By late 2001, RSS was spreading across the web, in particular via tech-focused blogs like [Boing Boing](https://web.archive.org/web/20020119180507/http://boingboing.net/) and [DiveIntoMark](https://web.archive.org/web/20011130165309/http://diveintomark.weblogger.com/). That said, there were still plenty of other tech blogs that didn't yet have feeds — like [Kottke.org](https://web.archive.org/web/20020121232930/http://kottke.org/) and Tom Coates' [PlasticBag](https://web.archive.org/web/20020122040645/http://plasticbag.org:80/). So RSS was still not quite "widely distributed," to use the old William Gibson quote.
 
-# Real-Time Infrastructure
+## Real-Time Infrastructure
 
 Alongside RSS came new experiments in blog infrastructure. In July 2001, MIT researcher Cameron Marlow launched Blogdex, a tool that tracked the most-linked URLs across thousands of weblogs.
 
