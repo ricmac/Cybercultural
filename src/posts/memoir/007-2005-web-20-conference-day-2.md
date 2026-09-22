@@ -40,8 +40,6 @@ Anyway, back to 2005. I turned to Fergus and Jonathan and asked if they were goi
 
 “Wouldn’t miss it,” Fergus replied. I felt stupid asking, as of course both these foreign entrepreneurs would want to be at the biggest networking party of the conference. Not only were there sure to be VCs and other moneyed people there, but the party was being sponsored by several of the hottest Silicon Valley startups and projects: Flock, del&#46;icio&#46;us, Flickr, Odeo, Technorati, wink, and WordPress. Even better, as I’d been informed in an email from a PR person a few days ago, it would be “free open bar and grub.”
 
-* * *
-
 I felt more comfortable at the Web 2.0 Conference over day two, which was spent watching keynotes and meeting entrepreneurs (and investors) keen to pitch me their startups. I noticed that people actually sought me out in the hallways — “you’re the guy who writes Read/Write Web, aren’t you?” Sometimes I’d be approached by a young lady with an awkward-looking guy in tow. The woman invariably worked for a PR firm and the man was a startup founder looking for some press.
 
 ![A cartoon drawn of me at the Web 2.0 Conference, October 2005](/assets/images/d1f5d47b-1e9d-458e-bbfa-5256ab205153_562x705.jpg)

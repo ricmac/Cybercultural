@@ -64,7 +64,7 @@ It would take time to ramp up revenue on RWW, though, so in the meantime I would
 
 I was feeling optimistic about my ability to earn a living from Silicon Valley, and hopefully in time from Read/WriteWeb itself. But I also knew I’d have to continue doing everything from a distance, for now.
 
-* * *
+## A Bubble?
 
 “It sure feels like a bubble, doesn't it?” So wrote Web 2.0 Conference co-producer John Battelle in a [New York Times op-ed](https://www.nytimes.com/2005/11/18/opinion/building-a-better-boom.html) on Friday, November 18, 2005, about a month after I’d returned home from my first trip to Silicon Valley. Without specifically mentioning the Dot Com boom of the late 1990s and early 2000s, he noted that the internet “is exciting again, and once again folks are rushing in.”
 
