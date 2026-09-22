@@ -6,8 +6,12 @@ schema: collection
 <article class="wrapper region">
   <div class="wrapper flow prose">
     <h1>{{ title }}</h1>
-    <p>Articles tagged {{ title }}.</p> 
-        
+    {% if content and pagination.pageNumber == 0 %}
+      {{ content | safe }}
+    {% else %}
+      <p>Articles tagged {{ title }}.</p>
+    {% endif %}
+
     <form
   action="https://buttondown.email/api/emails/embed-subscribe/ricmac"
   method="post"
