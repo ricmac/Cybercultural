@@ -215,3 +215,36 @@ export const imageDimensions = imagePath => {
   imageDimensionCache.set(imagePath, dimensions);
   return dimensions;
 };
+
+/**
+ * The date a sitemap entry should give as <lastmod>, or null to leave it out.
+ *
+ * Posts use their hand-set lastUpdated, else their publish date. Listing pages
+ * (sections, year pages and their pagination pages) change when a post they
+ * list is added, so they take the newest of those posts' dates, and the home
+ * page takes the newest post on the site. Anything else has no honest date to
+ * give, so it gets none: stamping pages with the build time would claim they
+ * all changed on every deploy, and Google stops trusting lastmod that does that.
+ */
+export const sitemapLastmod = (page, newestPostDate) => {
+  const data = page.data || {};
+
+  if (data.lastUpdated) {
+    return data.lastUpdated;
+  }
+
+  if (page.inputPath && page.inputPath.includes('/src/posts/')) {
+    return page.date;
+  }
+
+  const listed = (data.pagination?.pages || []).flat().map(item => item?.date).filter(Boolean);
+  if (listed.length) {
+    return new Date(Math.max(...listed));
+  }
+
+  if (page.url === '/') {
+    return newestPostDate;
+  }
+
+  return null;
+};

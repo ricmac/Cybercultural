@@ -9,7 +9,7 @@
       "name": {{ meta.siteName | toJsonLd | safe }},
       "alternateName": "Cybercultural: Internet History Website",
       "description": {{ meta.siteDescription | toJsonLd | safe }},
-      "inLanguage": "en_US",
+      "inLanguage": "{{ meta.inLanguage }}",
       "publisher": {
         "@type": "Organization",
         "name": "Cybercultural",

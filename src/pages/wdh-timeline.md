@@ -1,6 +1,6 @@
 ---
 title: WDH Timeline
-permalink: /wdh/timeline.html
+permalink: /wdh/timeline/index.html
 description: Timeline of 1990s web development history
 layout: page
 ---

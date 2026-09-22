@@ -2,6 +2,9 @@
 /feed /feed.xml 301
 /feed/ /feed.xml 301
 
+# WDH timeline moved from a .html file to a folder URL
+/wdh/timeline.html /wdh/timeline/ 301
+
 # Eleventy site changed menu names
 /personal* /notes 301
 /misc* /notes 301

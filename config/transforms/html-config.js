@@ -3,6 +3,18 @@ import htmlmin from 'html-minifier-terser';
 const isProduction = process.env.ELEVENTY_ENV === 'production';
 
 export default function (eleventyConfig) {
+  // The first eagerly-loaded image on a page is its lead image, almost always
+  // the Largest Contentful Paint element, so ask the browser to fetch it first.
+  eleventyConfig.addTransform('lcp-fetchpriority', (content, path) => {
+    if (!path || !path.endsWith('.html')) {
+      return content;
+    }
+
+    return content.replace(/<img\b(?![^>]*\bfetchpriority=)[^>]*\bloading="eager"[^>]*>/, tag =>
+      tag.replace(/^<img\b/, '<img fetchpriority="high"')
+    );
+  });
+
   eleventyConfig.addTransform('html-minify', (content, path) => {
     if (path && path.endsWith('.html') && isProduction) {
       return htmlmin.minify(content, {

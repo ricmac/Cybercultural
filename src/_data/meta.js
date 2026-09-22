@@ -4,7 +4,8 @@ const meta = {
   siteDescription: 'Internet history and its impact on our culture.',
   defaultimage: '/assets/images/33d48ded-f999-4173-8440-9d752446428b_3400x2134.jpg',
   siteType: 'Organization', // schema
-  locale: 'en_US',
+  locale: 'en_US', // Open Graph format
+  inLanguage: 'en-US', // schema.org wants a BCP 47 tag, with a hyphen
   lang: 'en',
   skipContent: 'Skip to content',
   author: {

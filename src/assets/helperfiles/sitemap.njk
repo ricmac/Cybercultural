@@ -5,16 +5,18 @@ excludeFromSitemap: true
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  {% set newestPostDate = collections.posts | getNewestCollectionItemDate %}
   {% for page in collections.onlyMarkdown %}
-  {% if page.url and page.data.excludeFromSitemap != true %}
-
-  {% if page.data.lastUpdated %}{% set lastmod = page.data.lastUpdated %}
-  {% else %}{% set lastmod = page.date %}
-  {% endif %}
+  {#- Leave out pages Google is told not to index here: noindex pages, and posts
+      whose canonical copy lives on another site (the RWW archive on ricmac.org). -#}
+  {% set ownUrl = meta.url ~ page.url %}
+  {% set canonicalElsewhere = page.data.canonical and page.data.canonical != ownUrl %}
+  {% if page.url and page.data.excludeFromSitemap != true and not page.data.noindex and not canonicalElsewhere %}
+  {% set lastmod = page | sitemapLastmod(newestPostDate) %}
 
     <url>
-        <loc>{{ meta.url }}{{ page.url }}</loc>
-        <lastmod>{{ lastmod | toIsoString }}</lastmod>
+        <loc>{{ meta.url }}{{ page.url }}</loc>{% if lastmod %}
+        <lastmod>{{ lastmod | toIsoString }}</lastmod>{% endif %}
     </url>
     {% endif %}
   {% endfor %}

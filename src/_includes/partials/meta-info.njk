@@ -1,6 +1,6 @@
 <base href="{{ page.url | default('') }}" />
 
-<meta name="description" content="{% if seo.description %}{{ seo.description | default('') }}{% elif description %}{{ description | default('') }}{% else %}{{ meta.siteDescription | default('') }}{% endif %}" />
+<meta name="description" content="{% if pageOf %}{{ pageOf }}: {% endif %}{% if seo.description %}{{ seo.description | default('') }}{% elif description %}{{ description | default('') }}{% else %}{{ meta.siteDescription | default('') }}{% endif %}" />
 
 <meta name="theme-color" content="{{ meta.themeColor | default('#ffffff') }}" />
 <meta name="robots" content="{% if noindex %}noindex, follow{% else %}index, follow, max-image-preview:large{% endif %}" /><!-- All Search Engines -->
@@ -34,18 +34,25 @@
 <!-- Open Graph meta  -->
 <meta property="og:url" content="{{ (meta.url | default('')) ~ (page.url | default('')) }}" />
 {% if page.ogtype %}<meta property="og:type" content="{{ page.ogtype | default('website') }}">{% elif tags or page.template == 'post' %}<meta property="og:type" content="article">{% else %}<meta property="og:type" content="website">{% endif %}
-<meta property="og:title" content="{% if title %}{{ title | default('') }}{% else %}{{ meta.siteName | default('') }}{% endif %}" />
+<meta property="og:title" content="{% if title %}{{ title | default('') }}{% if pageOf %}, {{ pageOf }}{% endif %}{% else %}{{ meta.siteName | default('') }}{% endif %}" />
 <meta property="og:image" content="{% if featureImage %}{{ (meta.url | default('')) ~ (featureImage | default('')) }}{% else %}{{ (meta.url | default('')) ~ (meta.defaultimage | default('')) }}{% endif %}" />
+{%- set ogImageSize = (featureImage or meta.defaultimage) | imageDimensions %}
+{% if ogImageSize %}<meta property="og:image:width" content="{{ ogImageSize.width }}" />
+<meta property="og:image:height" content="{{ ogImageSize.height }}" />
+{% endif -%}
 <meta property="og:image:alt" content="{% if title %}{{ title | default('') }}{% else %}{{ meta.siteName | default('') }}{% endif %} image" />
-<meta property="og:description" content="{% if description %}{{ description | default('') }}{% else %}{{ meta.siteDescription | default('') }}{% endif %}" />
+<meta property="og:description" content="{% if pageOf %}{{ pageOf }}: {% endif %}{% if description %}{{ description | default('') }}{% else %}{{ meta.siteDescription | default('') }}{% endif %}" />
 <meta property="og:site_name" content="{{ meta.siteName | default('') }}" />
 <meta property="og:locale" content="{{ meta.locale | default('en_US') }}" />
+{% if schema == 'blog' %}<meta property="article:published_time" content="{{ date | toIsoString }}" />
+<meta property="article:modified_time" content="{{ (lastUpdated or date) | toIsoString }}" />
+{% endif -%}
 <meta property="article:author" content="{{ meta.author.name }}" />
 <meta property="fediverse:creator" content="@ricmac@mastodon.social" />
 
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="{% if title %}{{ title | default('') }}{% else %}{{ meta.siteName | default('') }}{% endif %}">
-<meta name="twitter:description" content="{% if description %}{{ description | default('') }}{% else %}{{ meta.siteDescription | default('') }}{% endif %}">
+<meta name="twitter:title" content="{% if title %}{{ title | default('') }}{% if pageOf %}, {{ pageOf }}{% endif %}{% else %}{{ meta.siteName | default('') }}{% endif %}">
+<meta name="twitter:description" content="{% if pageOf %}{{ pageOf }}: {% endif %}{% if description %}{{ description | default('') }}{% else %}{{ meta.siteDescription | default('') }}{% endif %}">
 <meta name="twitter:image" content="{% if featureImage %}{{ (meta.url | default('')) ~ (featureImage | default('')) }}{% else %}{{ (meta.url | default('')) ~ (meta.defaultimage | default('')) }}{% endif %}">
 
 <!-- Favicon -->

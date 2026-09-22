@@ -5,8 +5,15 @@
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
+    <!-- Page 2 onwards of a paginated listing says so in its title and
+         description, so Google doesn't see fourteen pages with one title -->
+{%- set pageOf = '' -%}
+{%- if pagination and pagination.pageNumber > 0 and pagination.pages -%}
+{%- set pageOf = 'Page ' ~ (pagination.pageNumber + 1) ~ ' of ' ~ pagination.pages.length -%}
+{%- endif %}
+
     <!-- title -->
-<title>{% if page.url == '/' %}{{ seo.title or title or meta.siteName }}{% else %}{% if seo.title %}{{ seo.title }} | {{ meta.siteName }}{% elif title %}{{ title }} | {{ meta.siteName }}{% else %}{{ meta.siteName }}{% endif %}{% endif %}</title>
+<title>{% if page.url == '/' %}{{ seo.title or title or meta.siteName }}{% else %}{% if seo.title %}{{ seo.title }}{% if pageOf %}, {{ pageOf }}{% endif %} | {{ meta.siteName }}{% elif title %}{{ title }}{% if pageOf %}, {{ pageOf }}{% endif %} | {{ meta.siteName }}{% else %}{{ meta.siteName }}{% endif %}{% endif %}</title>
 
 <!--  inline base schema -->
 {% include "schemas/base-schema.njk" %}

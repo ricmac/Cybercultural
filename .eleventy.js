@@ -4,7 +4,7 @@ const pkg = require('./package.json');
 const packageVersion = pkg.version;
 
 // Module import filters
-import { limit, toHtml, where, toISOString, toAbsoluteUrl, stripHtml, minifyCss, minifyJs, mdInline, splitlines, toJsonLd, schemaTags, wordCount, imageDimensions } from './config/filters/index.js';
+import { limit, toHtml, where, toISOString, toAbsoluteUrl, stripHtml, minifyCss, minifyJs, mdInline, splitlines, toJsonLd, schemaTags, wordCount, imageDimensions, sitemapLastmod } from './config/filters/index.js';
 
 // Module import shortcodes
 import { liteYoutube } from './config/shortcodes/youtube-lite/index.js'; 
@@ -99,6 +99,7 @@ export default function(eleventyConfig) {
   eleventyConfig.addFilter('schemaTags', schemaTags);
   eleventyConfig.addFilter('wordCount', wordCount);
   eleventyConfig.addFilter('imageDimensions', imageDimensions);
+  eleventyConfig.addFilter('sitemapLastmod', sitemapLastmod);
 
   // Custom shortcodes
   eleventyConfig.addShortcode('youtube', liteYoutube);

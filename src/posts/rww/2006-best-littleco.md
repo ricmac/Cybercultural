@@ -11,7 +11,7 @@ canonical: "https://ricmac.org/2006/12/22/best-web-littleco-of-2006-and-most-pro
 ![This post as it looked in 2006](/assets/images/best-littleco-2006-large.jpg){loading="eager"}
 *This post [as it looked in 2006](https://web.archive.org/web/20061231052158/http://www.readwriteweb.com/archives/best_web_littleco_2006.php).*
 
-This is the third annual Best Web Companies round-up from Read/WriteWeb (ref: [2005](/p/best-web20-companies-2005/) and [2004](/p/best-web20-companies-2004/)). This year we're spreading it out over 2 separate posts and this is the second one — see yesterday's post for [Best BigCo of 2006](/p/best-web20-bigco-2006/). 
+This is the third annual Best Web Companies round-up from Read/WriteWeb (ref: [2005](/p/best-web20-companies-2005/) and [2004](/p/best-web20-companies-2004/)). This year we're spreading it out over 2 separate posts and this is the second one — see yesterday's post for [Best BigCo of 2006](/p/best-web20-bigco-2006-google/). 
 
 Best Web LittleCo
 -----------------

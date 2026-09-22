@@ -23,14 +23,17 @@
       "width": {{ postImageSize.width }},
       "height": {{ postImageSize.height }}{% endif %}
     },
-    "inLanguage": "{{ meta.locale }}",
+    "inLanguage": "{{ meta.inLanguage }}",
     "publisher": {
       "@type": "{{ meta.siteType }}",
       "name": {{ meta.organization.name | toJsonLd | safe }},
       "url": "{{ meta.url }}/"
     },
     "author": {
-      "@id": "{{ meta.author.url }}#person"
+      "@type": "Person",
+      "@id": "{{ meta.author.url }}#person",
+      "name": {{ meta.author.name | toJsonLd | safe }},
+      "url": "{{ meta.author.url }}"
     },
     "datePublished": "{{ date | toIsoString }}",
     "dateModified": "{{ (lastUpdated or date) | toIsoString }}",

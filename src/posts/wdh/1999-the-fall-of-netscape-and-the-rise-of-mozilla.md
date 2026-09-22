@@ -94,4 +94,4 @@ We’ll explore the progress Mozilla made over 2000 in an upcoming post. But we 
 
 
 
-See also: [1990s timeline](/wdh/timeline)
+See also: [1990s timeline](/wdh/timeline/)

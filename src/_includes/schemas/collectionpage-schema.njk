@@ -4,11 +4,11 @@
     "@type": "CollectionPage",
     "@id": "https://cybercultural.com{{ page.url }}",
     "url": "https://cybercultural.com{{ page.url }}",
-    "name": {{ (title or meta.siteName) | toJsonLd | safe }},
-    "description": {{ (description or meta.siteDescription) | toJsonLd | safe }},
+    "name": {{ ((title or meta.siteName) ~ ((", " ~ pageOf) if pageOf else "")) | toJsonLd | safe }},
+    "description": {{ (((pageOf ~ ": ") if pageOf else "") ~ (description or meta.siteDescription)) | toJsonLd | safe }},
     "isPartOf": {
       "@id": "{{ meta.url }}#website"
     },
-    "inLanguage": "{{ meta.locale }}"
+    "inLanguage": "{{ meta.inLanguage }}"
   }
 </script>
