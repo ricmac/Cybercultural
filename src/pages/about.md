@@ -16,7 +16,7 @@ I'm [Richard MacManus](https://ricmac.org/), and I started this site in 2019 as 
 
 I started ReadWriteWeb in New Zealand in April 2003, as a blog about what was next on the web. It grew into one of the leading tech blogs of the Web 2.0 era, and I wrote around 3,000 of its posts before leaving in October 2012. I told the story of those years in my memoir, [Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution](/p/book-release-bubbleblog/), published in December 2024.
 
-After ReadWriteWeb I kept writing about technology as a journalist and editor. From 2017 to 2019 I wrote about tech for Newsroom and Stuff, two of New Zealand's leading online news sites. From 2020 to 2026 I was a senior editor at [The New Stack](https://ricmac.org/career-archive/the-new-stack/), covering developer platforms, cloud native and AI. In June 2026 I became Head of Editorial at [Latent Space](https://ricmac.org/career-archive/latent-space/), a publication about AI engineering.
+After ReadWriteWeb I kept writing about technology as a journalist and editor. From 2017 to 2019 I wrote about tech for Newsroom and Stuff, two of New Zealand's leading online news sites. From 2020 to 2026 I was a senior editor at [The New Stack](https://ricmac.org/career-archive/the-new-stack/), covering developer platforms, cloud native and AI. In July 2026 I became Head of Editorial at [Latent Space](https://ricmac.org/career-archive/latent-space/), a publication about AI engineering.
 
 Originally from New Zealand, I now live in the UK. My full [career archive](https://ricmac.org/career-archive/) is on my personal site, ricmac.org.
 
