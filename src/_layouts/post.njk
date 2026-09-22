@@ -66,4 +66,18 @@ preloads:
 </ul>
 
 <p>Or search for &quot;Bubble Blog MacManus&quot; on your local online bookstore.</p>
+
+{#- Related reading: posts sharing the most tags with this one (AEO plan item 9). -#}
+{%- set relatedPosts = helpers.getRelatedContent(collections.posts, page.url, tags, 3) -%}
+{%- if relatedPosts.length %}
+<h2>Related posts</h2>
+<ul class="related-posts">
+  {%- for post in relatedPosts %}
+  <li>
+    <a href="{{ post.url | url }}">{{ post.data.title }}</a>
+    {%- if post.data.description %} &mdash; {{ post.data.description }}{% endif %}
+  </li>
+  {%- endfor %}
+</ul>
+{%- endif %}
 </div>
