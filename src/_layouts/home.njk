@@ -3,10 +3,11 @@ layout: base
 ---
 
 <article class="region">
+  {# The page's one H1, for search engines and screen readers; the site name
+     in the header already does this job visually. Kept outside the .flow div,
+     whose spacing would otherwise push the intro paragraph down. #}
+  <h1 class="sr-only">{{ title }}</h1>
   <div class="wrapper flow prose">
-    {# The page's one H1, for search engines and screen readers; the site name
-       in the header already does this job visually. #}
-    <h1 class="sr-only">{{ title }}</h1>
     {{ content | safe }}
 <form
   action="https://buttondown.email/api/emails/embed-subscribe/ricmac"
