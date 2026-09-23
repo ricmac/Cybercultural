@@ -1,3 +1,9 @@
+/*
+  Web fonts. Note the declared weights don't match the file names:
+  Inter "400" (body text) loads the Medium 500 file, and Red Hat Display
+  "700" (headings) loads the Black 900 file. That's what gives the site
+  its slightly heavy body text and very bold headlines.
+*/
 @font-face {
   font-family: Inter;
   font-style: normal;

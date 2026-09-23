@@ -1,24 +1,19 @@
-@import 'tailwindcss/base';
+/*
+  The site's one stylesheet. Eleventy runs this file through PostCSS
+  (config/template-languages/css-config.js), which inlines every import
+  below and minifies the result into /assets/css/global.css.
 
+  Order matters: later files win when two rules are equally specific.
+    global/       reset, fonts, design tokens, base element styles
+    blocks/       one file per component (header, menu, cards, posts...)
+    compositions/ layout patterns (grid)
+    utilities/    small single-purpose classes (flow, wrapper, sr-only...)
+*/
 @import 'global/reset.css';
 @import 'global/fonts.css';
-
-@import 'tailwindcss/components';
-
-@import 'global/variables.css';
+@import 'global/tokens.css';
 @import 'global/global-styles.css';
 
 @import-glob 'blocks/*.css';
 @import-glob 'compositions/*.css';
 @import-glob 'utilities/*.css';
-
-@import 'tailwindcss/utilities';
-
-.post-feature-image {
-  height: auto; /* Allow height to adjust based on the aspect ratio */
-  width: 100%; /* Use 100% width to make it responsive */
-  max-height: 400px; /* Set the max height to 400px */
-  object-fit: cover; /* Maintain the aspect ratio */
-  object-position: center; /* Center the image within the element */
-}
-  

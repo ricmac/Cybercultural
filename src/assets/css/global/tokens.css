@@ -1,0 +1,50 @@
+/*
+  Design tokens: every colour, font, text size and spacing value the
+  site uses, in one place. Change a value here and it changes site-wide.
+
+  Fluid sizes use clamp(min, preferred, max): the min applies on a 320px
+  phone screen, the max from a 1350px desktop window up, and the value
+  scales smoothly in between. The px equivalents are in the comments.
+*/
+:root {
+  /* Colours */
+  --color-dark: #404040;
+  --color-light: #f3f3f3;
+  --color-light-glare: #fff;
+  --color-primary: #b80103; /* Cybercultural red: header, links on hover, quotes */
+  --color-primary-glare: #f4d0df;
+  --color-secondary: #0369a1;
+  --color-secondary-glare: #d8e2f4;
+
+  /* Fonts. Display is for headings and the wordmark; base is body text. */
+  --font-display: Redhat, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+  --font-base: Inter, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+  --font-mono: RobotoMono, monospace;
+
+  /* Text sizes. Body text is step 0; which heading uses which step is
+     set in global-styles.css. */
+  --size-step-min-1: clamp(0.875rem, 0.86rem + 0.1vw, 0.9375rem); /* 14 → 15px: bylines, captions, dates */
+  --size-step-0: clamp(1.0625rem, 1.02rem + 0.19vw, 1.1875rem); /* 17 → 19px: body text */
+  --size-step-1: clamp(1.1875rem, 1.13rem + 0.29vw, 1.375rem); /* 19 → 22px: post standfirst */
+  --size-step-2: clamp(1.375rem, 1.28rem + 0.49vw, 1.6875rem); /* 22 → 27px: H3, card titles, logo */
+  --size-step-3: clamp(1.5625rem, 1.43rem + 0.68vw, 2rem); /* 25 → 32px: H2 */
+  --size-step-4: clamp(1.8125rem, 1.6rem + 1.07vw, 2.5rem); /* 29 → 40px */
+  --size-step-5: clamp(2.125rem, 1.85rem + 1.36vw, 3rem); /* 34 → 48px: H1 */
+
+  /* Spacing */
+  --space-2xs: clamp(0.5rem, 0.46rem + 0.19vw, 0.625rem); /* 8 → 10px */
+  --space-xs: clamp(0.75rem, 0.69rem + 0.29vw, 0.9375rem); /* 12 → 15px */
+  --space-s: clamp(1rem, 0.92rem + 0.39vw, 1.25rem); /* 16 → 20px */
+  --space-l: clamp(3rem, 2.77rem + 1.17vw, 3.75rem); /* 48 → 60px */
+  --space-s-m: clamp(1rem, 0.73rem + 1.36vw, 1.875rem); /* 16 → 30px */
+  --space-m-l: clamp(1.5rem, 1.19rem + 1.55vw, 2.5rem); /* 24 → 40px */
+  --space-l-xl: clamp(2rem, 1.46rem + 2.72vw, 3.75rem); /* 32 → 60px */
+
+  /* Layout and motion */
+  --gutter: var(--space-s-m);
+  --border-radius: 0.5rem;
+  --transition-duration: 250ms;
+  --transition-timing: ease;
+  --wrapper-width: clamp(16rem, 93vw, 85rem);
+  --tracking-s: -0.02em; /* letter-spacing for headings */
+}

@@ -21,7 +21,7 @@ main {
 }
 
 /* Base typesetting. The whole site's type scale lives here: one size
-   per heading level, all taken from design-tokens/text-sizes.json. */
+   per heading level, all defined in tokens.css. */
 h1,
 h2,
 h3 {
@@ -107,43 +107,6 @@ main:focus {
 .author {
   display: block;
   font-size: var(--size-step-min-1);
-}
-
-.webmentions p {
-  margin-bottom: 1em; /* Adjust the value as needed */
-  margin-top: 0.5em;
-}
-
-.webmentions p a {
-  margin-right: 0.5em; /* Adjust the spacing between items */
-}
-
-.webmentions p a:last-child {
-  margin-right: 0; /* Remove the spacing for the last item */
-}
-
-.mention-reply {
-  display: flex;
-  margin-bottom: 1em;
-  font-size: 75%;
-}
-
-.mastodon-link {
-  display: flex;
-  margin-bottom: 1em;
-}
-
-.mention-reply a {
-  margin-right: 0.5em;
-  flex-shrink: 0; /* Prevent the image from shrinking */
-}
-
-.mention-reply img {
-  vertical-align: middle; /* Align the image vertically with the text */
-}
-
-.mention-reply span {
-  margin-left: 0.5em; /* Add spacing between the image and text */
 }
 
 /* Base selection styles that invert whatever colours are rendered */
