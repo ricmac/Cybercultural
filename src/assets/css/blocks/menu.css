@@ -1,10 +1,13 @@
+/* Main menu (partials/menu.njk). On phones it's a slide-out panel opened
+   by the Menu button that app.js adds; from 38em up it's a row of links.
+   The custom properties below switch the panel into the row layout. */
 @media (min-width: 38em) {
   nav.navbar {
     --nav-button-display: none;
     --nav-position: static;
   }
 
-  nav.navbar ul {
+  nav.navbar > ul {
     --nav-list-background: transparent;
     --nav-list-layout: row;
     --nav-list-position: static;
@@ -14,6 +17,7 @@
     --nav-list-shadow: none;
     --nav-list-transform: none;
     --nav-list-visibility: visible;
+    --nav-list-overflow: visible;
   }
 }
 
@@ -29,13 +33,14 @@ nav.navbar {
 }
 
 /* Remove default list styling and create layout for list */
-nav.navbar ul {
+nav.navbar > ul {
   background: var(--nav-list-background, var(--color-dark));
   box-shadow: var(--nav-list-shadow, -5px 0 11px 0 rgb(0 0 0 / 0.2));
   display: flex;
   flex-direction: var(--nav-list-layout, column);
   gap: var(--space-s);
   block-size: var(--nav-list-height, 100vh);
+  overflow-y: var(--nav-list-overflow, auto);
   list-style: none;
   margin: 0;
   padding: var(--nav-list-padding, var(--space-l) var(--space-s));
@@ -46,13 +51,13 @@ nav.navbar ul {
   visibility: var(--nav-list-visibility, visible);
 }
 
-nav.navbar [aria-expanded='false'] + ul {
+nav.navbar > [aria-expanded='false'] + ul {
   transform: var(--nav-list-transform, translateX(100%));
   visibility: var(--nav-list-visibility, hidden);
 }
 
 @media (prefers-reduced-motion: no-preference) {
-  nav.navbar [aria-expanded='true'] + ul,
+  nav.navbar > [aria-expanded='true'] + ul,
   nav.navbar svg {
     transition: transform 0.4s cubic-bezier(0.68, -0.55, 0.27, 1.55),
       visibility 0.05s linear;
@@ -64,7 +69,6 @@ nav.navbar a {
   --text-color: var(--color-light);
   color: var(--text-color);
   padding: 0.1rem;
-  text-decoration: none;
   display: block;
   text-decoration-line: underline;
   text-decoration-color: var(--border-color, transparent);
@@ -96,7 +100,6 @@ nav.navbar button {
   position: relative;
   z-index: 2;
   cursor: pointer;
-  align-items: center;
   padding: var(--space-xs) 0;
 }
 
@@ -121,44 +124,53 @@ nav.navbar [aria-expanded='true'] svg {
   transform: var(--nav-list-rotate, rotate(45deg));
 }
 
-/* Dropdown menu styling */
+/* Explore's sub-pages. In the phone panel they're always listed, indented
+   under Explore. From 38em up they become a dropdown that opens on hover
+   or when a link inside it has keyboard focus. */
 nav.navbar .dropdown {
   position: relative;
 }
 
 nav.navbar .dropdown-menu {
-  display: none;
-  position: absolute;
-  background-color: white;
-  border: 1px solid #ddd;
-  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-  margin: 0;
-  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: var(--space-2xs);
   list-style: none;
-  min-width: 150px;
-  z-index: 1;
-  top: 100%; /* Positions the dropdown directly below the parent */
-  left: 0;
+  margin: 0;
+  padding: var(--space-2xs) 0 0 var(--space-s);
 }
 
-nav.navbar .dropdown-menu li a {
-  display: block;
-  padding: 8px 16px;
-  color: #333;
-  text-decoration: none;
+@media (min-width: 38em) {
+  nav.navbar .dropdown-menu {
+    display: none;
+    position: absolute;
+    inset-block-start: 100%;
+    inset-inline-start: 0;
+    z-index: 1;
+    gap: 0;
+    min-inline-size: 150px;
+    padding: 0;
+    background-color: var(--color-light-glare);
+    border: 1px solid #ddd;
+    box-shadow: 0 4px 8px rgb(0 0 0 / 0.2);
+  }
+
+  nav.navbar .dropdown:is(:hover, :focus-within) .dropdown-menu {
+    display: flex;
+    animation: dropdown-fade-in 0.15s ease-in-out;
+  }
+
+  nav.navbar .dropdown-menu a {
+    --text-color: #333;
+    padding: 8px 16px;
+  }
+
+  nav.navbar .dropdown-menu a:where(:hover, :focus) {
+    --border-color: transparent;
+    background-color: #f0f0f0;
+  }
 }
 
-nav.navbar .dropdown-menu li a:hover {
-  background-color: #f0f0f0;
-}
-
-/* Show the dropdown on hover with a small delay */
-nav.navbar .dropdown:hover .dropdown-menu {
-  display: block;
-  animation: dropdown-fade-in 0.15s ease-in-out;
-}
-
-/* Keyframes for dropdown fade-in effect */
 @keyframes dropdown-fade-in {
   from {
     opacity: 0;
@@ -177,5 +189,5 @@ nav#social a svg path {
 }
 
 nav#social a:hover svg path {
-  fill: #b80103;
+  fill: var(--color-primary);
 }
