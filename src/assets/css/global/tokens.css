@@ -24,8 +24,8 @@
   /* Text sizes. Body text is step 0; which heading uses which step is
      set in global-styles.css. */
   --size-step-min-1: clamp(0.875rem, 0.86rem + 0.1vw, 0.9375rem); /* 14 → 15px: bylines, captions, dates */
-  --size-step-0: clamp(1.0625rem, 1.02rem + 0.19vw, 1.1875rem); /* 17 → 19px: body text */
-  --size-step-1: clamp(1.1875rem, 1.13rem + 0.29vw, 1.375rem); /* 19 → 22px: post standfirst */
+  --size-step-0: clamp(1.0625rem, 1rem + 0.29vw, 1.25rem); /* 17 → 20px: body text */
+  --size-step-1: clamp(1.1875rem, 1.11rem + 0.39vw, 1.4375rem); /* 19 → 23px: post standfirst */
   --size-step-2: clamp(1.375rem, 1.28rem + 0.49vw, 1.6875rem); /* 22 → 27px: H3, card titles, logo */
   --size-step-3: clamp(1.5625rem, 1.43rem + 0.68vw, 2rem); /* 25 → 32px: H2 */
   --size-step-4: clamp(1.8125rem, 1.6rem + 1.07vw, 2.5rem); /* 29 → 40px */

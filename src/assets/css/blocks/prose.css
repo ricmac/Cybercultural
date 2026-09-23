@@ -1,6 +1,6 @@
 .prose {
   --flow-space: var(--space-s-m);
-  --wrapper-width: clamp(16rem, 93vw, 44rem);
+  --wrapper-width: clamp(16rem, 93vw, 48rem);
 }
 
 .prose :is(h2, h3, h4) + * {
