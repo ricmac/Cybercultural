@@ -13,7 +13,14 @@
 }
 
 .card h2 {
-  font-size: var(--size-step-3);
+  font-size: var(--size-step-2);
+}
+
+/* The date under a card's title is an inline <time>, which ignores
+   the flow utility's top margin; make it a block so it gets the gap. */
+.card time {
+  display: block;
+  font-size: var(--size-step-min-1);
 }
 
 .card h2 a,

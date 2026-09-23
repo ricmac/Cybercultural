@@ -1,7 +1,8 @@
 <a href="#main" class="skip-link">{{ meta.skipContent }}</a>
 
-<header class="wrapper">
-  <div class="site-head | ontop spot-color-primary">
+{# The red banner runs edge to edge; its contents line up with the page's wrapper. #}
+<header class="site-head | ontop">
+  <div class="wrapper site-head__inner">
   {% set activePage = page.url | url %}<a href="/" class="logo site-head__brand | no-underline" {% if activePage === '/' %} aria-current="page" {% endif %}>{{ meta.siteName }}</a>
   {% include "partials/menu.njk" %}
   </div>

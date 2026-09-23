@@ -72,6 +72,11 @@ nav.navbar a {
   text-underline-offset: 0.3em;
 }
 
+/* Top-level menu items */
+nav.navbar a.nav {
+  font-weight: 700;
+}
+
 /* Change the border-color on :hover and :focus */
 nav.navbar a:where(:hover, :focus) {
   --border-color: var(--text-color);
@@ -103,6 +108,7 @@ nav.navbar span {
 }
 
 nav.navbar svg {
+  fill: currentcolor;
   block-size: 100%;
   inline-size: auto;
 }
