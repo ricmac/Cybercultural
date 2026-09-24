@@ -3,7 +3,7 @@ title: "The Enshittocene: How the Internet Got Worse in the 2010s"
 description: "The 2010s was a period of the internet colonized by platforms, which caused 'enshittification' of web products. Users and developers both suffered, but are fighting back now through the decentralized web."
 date: 2024-11-29
 permalink: "p/enshittification/"
-tags: ['enshittocene']
+tags: ['platforms']
 featureImage: "/assets/images/annie-pm-Ox0ppJImhpE-unsplashb.jpg"
 ---
 
@@ -56,7 +56,7 @@ In other words, React — which was introduced to the world by Facebook — has 
 
 ## Decentralized Web: The Rebel Alliance
 
-[The Enshittocene](/enshittocene/) as an internet era ran from the early 2010s through to the early 2020s, at which point the generative AI era took over (although some would argue that AI is further evidence of enshittification). Regardless of timeframe, the Enshittocene represents the inverse of the renaissance that was Web 2.0. Whereas Web 2.0 promised that [a thousand flowers would bloom](https://www.theregister.com/2011/10/19/google_planning_upgrades_google/#:~:text=a%20thousand%20flowers%20bloom), in the form of web applications and user-generated content, what ended up happening was the opposite: a handful of internet platforms became dominant and throttled innovation.
+[The Enshittocene](/platforms/) as an internet era ran from the early 2010s through to the early 2020s, at which point the generative AI era took over (although some would argue that AI is further evidence of enshittification). Regardless of timeframe, the Enshittocene represents the inverse of the renaissance that was Web 2.0. Whereas Web 2.0 promised that [a thousand flowers would bloom](https://www.theregister.com/2011/10/19/google_planning_upgrades_google/#:~:text=a%20thousand%20flowers%20bloom), in the form of web applications and user-generated content, what ended up happening was the opposite: a handful of internet platforms became dominant and throttled innovation.
 
 ![Flowers bloom](/assets/images/flowers-bloom.jpg)
 *A slide from a presentation I did in 2009 about Web 2.0 trends ([via ReadWriteWeb](https://web.archive.org/web/20090521113602/http://www.readwriteweb.com/archives/linked_data_is_blooming_why_you_should_care.php)).*

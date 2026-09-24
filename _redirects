@@ -115,3 +115,7 @@
 /p/weekly-wrap-up-14-20-sep-2019* / 301
 /p/weekly-wrap-up-21-27-sep-2019* / 301
 /p/weekly-wrap-up-28-sep-4-oct-19* / 301
+
+# Enshittocene era renamed to Platforms (Sep 2026)
+/enshittocene /platforms/ 301
+/enshittocene/* /platforms/:splat 301

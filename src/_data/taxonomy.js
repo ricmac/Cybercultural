@@ -32,9 +32,9 @@ const taxonomy = {
         sameAs: ['https://en.wikipedia.org/wiki/History_of_the_Internet']
       }
     },
-    enshittocene: {
-      label: '2010s',
-      about: {name: 'Internet culture', sameAs: ['https://en.wikipedia.org/wiki/Internet_culture']}
+    platforms: {
+      label: 'Platforms',
+      about: {name: 'Platform economy', sameAs: ['https://en.wikipedia.org/wiki/Platform_economy']}
     },
     rww: {
       label: 'RWW',
