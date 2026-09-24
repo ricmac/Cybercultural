@@ -30,7 +30,7 @@ Here were the top 10 posts on Cybercultural this year, not counting the homepage
 9. [What the Internet Was Like in 2005](/p/internet-2005/); published June 1, 2024
 10. [What the Internet Was Like in 1995](/p/internet-1995/); published March 26, 2025
 
-Five of the posts covered the dot-com period (including four from the current [season 4](/season4/)) and five were posts in my annual wrapup series. The latter series has done relatively well in search engines and the posts are being cited by LLMs.
+Five of the posts covered the dot-com period (including four from my [dot-com series](/dotcom/)) and five were posts in my annual wrapup series. The latter series has done relatively well in search engines and the posts are being cited by LLMs.
 
 Six of the top 10 posts were written this year, three in 2024, and one (the birth of JavaScript) was written way back in 2020. All my posts are designed to be "evergreen," although I'm not even sure what that means anymore in the age of AI and declining SEO. But that JavaScript post has endured — including as a source quoted by LLMs.
 
@@ -61,7 +61,7 @@ Other than Hacker News, all other social media services sent negligible traffic 
 ![Mastodon referrals](/assets/images/mastodon-referrers-july2025.png)
 *Mastodon creator Eugen Rochko outlining new referral data changes in Mastodon 4.4.*
 
-I'll add that I am very grateful to Mastodon, Bluesky and Flipboard for not downgrading links in their algorithms; most other social media services (Facebook, X, Threads, LinkedIn, et al) are now biased against hyperlinks. One of my [web values](/p/web-values/) is that *distribution on the web should never be throttled*, so it pains me that this has become the industry norm. That's why I support services like Mastodon and Bluesky, where the user controls the feed algorithm(s).
+I'll add that I am very grateful to Mastodon, Bluesky and Flipboard for not downgrading links in their algorithms; most other social media services (Facebook, X, Threads, LinkedIn, et al) are now biased against hyperlinks. One of my web values is that *distribution on the web should never be throttled*, so it pains me that this has become the industry norm. That's why I support services like Mastodon and Bluesky, where the user controls the feed algorithm(s).
 
 ## The Google Discover Gods
 
@@ -77,18 +77,16 @@ Maybe it will take more time for Google's Discover algorithms to give my site a 
 
 I'll be praying to the Google Discover gods again in 2026, because coverage there would give my site a big boost. Do I like that web publishers are now reliant on an opaque algorithm from Google for traffic? No! But it's the web publishing reality we all now live in.
 
-## Seasons and Replanting
+## The Dot-com Series and Replanting
 
-This year has been [season 4](/season4/) of Cybercultural. Its theme was 'the birth of digital culture' during the dot-com period. I began on January 16 with a post about [multimedia in 1994](/p/multimedia-gulch-1994/); and now in December I'm finishing up the 2003 series of posts.
+This year I focused on [the dot-com era](/dotcom/), with the theme 'the birth of digital culture'. I began on January 16 with a post about [multimedia in 1994](/p/multimedia-gulch-1994/); and now in December I'm finishing up the 2003 series of posts.
 
 ![Cybercultural homepage, December 2025](/assets/images/cybercultural-homepage-17dec2025.png)
 *Cybercultural homepage, December 2025.*
 
-I [introduced 'seasons'](/p/seasons/) in July, as an alternative way to organize Cybercultural's content. I've always liked the concept of seasons in podcasts (which in turn borrowed it from tv shows), because it allows a show to explore a specific theme or topic for a while, then change things up with a different theme or topic for the next season. I don't think seasons are common yet in web publications, but I've found that it gives me a focus to build a store of content around. Also, a season can be a kind of creative impetus to dive deeper on a subject.
+I am exploring the idea of turning each series of Cybercultural content into a book. [My Web 2.0 memoir](/memoir/) actually started out as a book — and is [available to purchase as a book now](/p/book-release-bubbleblog/). I love the web and it will always be my top publishing platform, but I do think books have a naturally longer shelf life than websites. If I get run over by a bus, then my website will eventually disappear; most likely the domain will simply expire, but it could also be a technical service the site relies on (like Cloudflare) taking the site offline if my hand is not on the wheel. Whereas a self-published book has a much better chance of remaining available after I'm gone, e.g. on Amazon's long tail (where it will be mostly ignored, but at least it'll be there if anyone searches for it). 
 
-I am exploring the idea of turning each season of Cybercultural content into a book. [Season 3](/memoir/), serializing my Web 2.0 memoir, actually started out as a book — and is [available to purchase as a book now](/p/book-release-bubbleblog/). I love the web and it will always be my top publishing platform, but I do think books have a naturally longer shelf life than websites. If I get run over by a bus, then my website will eventually disappear; most likely the domain will simply expire, but it could also be a technical service the site relies on (like Cloudflare) taking the site offline if my hand is not on the wheel. Whereas a self-published book has a much better chance of remaining available after I'm gone, e.g. on Amazon's long tail (where it will be mostly ignored, but at least it'll be there if anyone searches for it). 
-
-I see the process of turning a season into a self-published book as more of an archiving and legacy exercise than anything else. Perhaps that's egotistic, but as a self-proclaimed Internet Historian I value the act of preserving web content — in whatever formats last the longest.
+I see the process of turning a series into a self-published book as more of an archiving and legacy exercise than anything else. Perhaps that's egotistic, but as a self-proclaimed Internet Historian I value the act of preserving web content — in whatever formats last the longest.
 
 As an extension to these legacy measures, this year I also introduced the concept of "[replanting](/p/replanting/)" old articles — i.e. republishing articles I'd written a long time ago into my present website. I started with [a bunch of 2000s-era ReadWriteWeb articles](/rww/); in that case, the original articles had either disappeared from the web or been destroyed in some other way (messed up design, etc.). On Cybercultural, they live again.
 

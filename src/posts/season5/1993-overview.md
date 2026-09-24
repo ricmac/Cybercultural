@@ -125,7 +125,7 @@ In this NCSA listing, there's no reference to a visual layout or any MTV brandin
 
 As for Adam Curry, even though he was no web designer and was just as interested in Gopher as the web, in hindsight it's remarkable that he managed to set up a website at all in 1993 — given the technical expertise required and the very limited bandwidth available. By the end of 1993, there were [only about 620 web servers](https://www.mit.edu/people/mkgray/net/web-growth-summary.html) in the world; and one of them hosted MTV.com, thanks to Curry.
 
-In the next post in this [history of web design series](/season5/), I'll profile someone who also built one of the world's first websites in 1993 — but in their case, did go on to become a full-fledged web designer.
+In [the next post](/p/1993-global-network-navigator/), I'll profile someone who also built one of the world's first websites in 1993 — but in their case, did go on to become a full-fledged web designer.
 
 *Related: [Best experienced with: MTV.com and the 90s browser war](/p/browser-war-1990s/)*
 
