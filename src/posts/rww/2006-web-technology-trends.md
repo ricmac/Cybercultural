@@ -13,7 +13,7 @@ canonical: "https://ricmac.org/2006/12/11/2006-web-technology-trends/"
 
 It's December already and so it's about that time to reflect on what has happened in Web Technology during 2006 — and ponder what 2007 may bring. Over the next few weeks Read/WriteWeb is going to publish some in-depth posts analyzing the trends and new products we've seen in 2006, as well as musing on some specific things we'll probably see in 2007.
 
-To kick this series off, here is an overview of some high level trends from 2006. In our next post, we'll make predictions for 2007. We're also looking for YOUR feedback, to ensure that what we cover over the next few weeks is complete. 
+To kick this series off, here is an overview of some high level trends from 2006. In our next post, we'll make predictions for 2007. We're also looking for YOUR feedback, to ensure that what we cover over the next few weeks is complete.
 
 I have to thank kiwi journalist Mark Evans for the inspiration for this series. Mark recently had an article published in Management Magazine that outlined Web trends for 2006 and 2007. Mark interviewed me for that article and so this post (and the next) will utilize much of the thinking I did to contribute to Mark's article. Here goes...
 
@@ -36,7 +36,7 @@ I have to thank kiwi journalist Mark Evans for the inspiration for this series. 
 
 \- **Localization really matters in Web space** — for example [TradeMe](https://web.archive.org/web/20061213061731/http://www.trademe.co.nz/) dominates New Zealand traffic and similar local products often outrank the likes of Yahoo and Google in their local markets. The larger trend here is that cultural and language differences mean that big US companies don't always dominate in international markets. Having said that, there is also a lot of overseas [cloning](https://web.archive.org/web/20061213061731/http://www.readwriteweb.com/archives/cloning_vs_originality.php) of successful Silicon Valley apps (e.g. digg, flickr). See Read/WriteWeb's continuing [coverage of international markets](https://web.archive.org/web/20061213061731/http://www.readwriteweb.com/archives/cat_international_markets.php) for individual country drill-downs.
 
-\- **The consumerization of the enterprise** has been an emerging trend all year. More and more social web apps are coming into the enterprise (e.g. Skype, IM), and organizations are adopting read/write Web philosophies. Corporate blogging got popular in 2006 and blogs are usually part of the mix now in marketing plans. 
+\- **The consumerization of the enterprise** has been an emerging trend all year. More and more social web apps are coming into the enterprise (e.g. Skype, IM), and organizations are adopting read/write Web philosophies. Corporate blogging got popular in 2006 and blogs are usually part of the mix now in marketing plans.
 
 \- In particular, I've been tracking the trend of [**Web Office**](https://web.archive.org/web/20061213061731/http://www.readwriteweb.com/archives/web_office_update_aug06.php). As well as lots of startup action (Zoho, Zimbra, ThinkFree, et al), late this year saw a flurry of action from Google in this space — Google Apps For Your Domain, the acquisitions of Writely and [JotSpot](https://web.archive.org/web/20061213061731/http://www.readwriteweb.com/archives/google_acquires_jotspot.php), the launch of Google Docs & Spreadsheets, and more. In 2007 a major area of focus will be the increasing competition in office software between Google and Microsoft.
 

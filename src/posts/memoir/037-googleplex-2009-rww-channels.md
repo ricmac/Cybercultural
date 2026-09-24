@@ -47,7 +47,7 @@ FM Publishing had brought the ReadWriteStart sponsorship to us, on the condition
 In truth, I was frustrated at how long it was taking for the channel strategy to get off the ground. Even by the end of April, the design was messy and we hadn’t done a good job with the URLs. For some reason we’d chosen to go with ReadWriteWeb&#46;com/ReadWriteStart, which was too long and unwieldy. Why didn’t we just make it ReadWriteWeb&#46;com/Start? (Eventually that change was made.) I was also disappointed that we hadn’t yet gotten a sponsor for ReadWriteEnterprise.
 
 ## My Trip to the Googleplex
- 
+
 March 2009 marked the end of my streak in attending the official Web 2.0 Summit and Expo conferences. Instead, I went to the smaller, lesser-known Emerging Technology Conference (ETech), hosted by O’Reilly Media in San Jose. Partly this was to push myself out of the [Web 2.0 bubble](https://web.archive.org/web/20090718135623/http://www.readwriteweb.com/enterprise/2009/03/how-to-work-on-stuff-that-matters.php) and explore emerging topics like the internet of things (IoT), mobile web, and open platforms. Indeed, the conference helped kick-start my interest in IoT, which I defined as “the Web in real-world objects.” Over 2009, I became the first professional tech blogger to write regularly about IoT, which put RWW ahead of the curve on that subject. It was only when hardware such as Raspberry Pi (first released in 2012) and startups such as Nest (which launched its first product in 2011) came along that it became a widespread trend.
 
 ![RWW IOT 2009](/assets/images/rww_iot_2009.png)

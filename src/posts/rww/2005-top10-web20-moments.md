@@ -14,7 +14,7 @@ It's been a huge year for the Web! A time of renewed optimism in Silicon Valley 
 
 ## The Top 10 Web 2.0 Moments of 2005
 
-10\. [Bloglines acquired by Ask Jeeves](https://web.archive.org/web/20060612225101/http://www.readwriteweb.com/archives/bloglines_acqui.php) in February. The Bloglines deal signaled that multi-million dollar Internet acquisitions were back! It was the second time Bloglines developer Mark Fletcher had hit the payload, having sold ONElist to Yahoo! in the dotcom boom. A close runner-up was blog network [weblogsinc being sold to AOL](https://web.archive.org/web/20060612225101/http://www.readwriteweb.com/archives/flurry_of_web_2.php), which perhaps proved there is real value in blog content. 
+10\. [Bloglines acquired by Ask Jeeves](https://web.archive.org/web/20060612225101/http://www.readwriteweb.com/archives/bloglines_acqui.php) in February. The Bloglines deal signaled that multi-million dollar Internet acquisitions were back! It was the second time Bloglines developer Mark Fletcher had hit the payload, having sold ONElist to Yahoo! in the dotcom boom. A close runner-up was blog network [weblogsinc being sold to AOL](https://web.archive.org/web/20060612225101/http://www.readwriteweb.com/archives/flurry_of_web_2.php), which perhaps proved there is real value in blog content.
 
 9\. The return of Amazon — [Mechanical Turk](https://web.archive.org/web/20060612225101/http://www.mturk.com/mturk/welcome) and [Alexa web services](https://web.archive.org/web/20060612225101/http://blogs.zdnet.com/web2explorer/?p=78). Towards the end of the year, Amazon.com threw a couple of curve balls — showing they haven't lost their innovative touch.
 
@@ -26,7 +26,7 @@ It's been a huge year for the Web! A time of renewed optimism in Silicon Valley 
 
 ## The Top Five
 
-5\. In November, [Google Base was released](https://web.archive.org/web/20060612225101/http://blogs.zdnet.com/web2explorer/?p=61). It's a centralized database for various types of content — like events, classified, reviews. A lot of people wondered whether it's a craigslist or eBay killer. Whether it turns out to be or not, there's no doubt the potential is there for Google to turn it into a hugely valuable directory of structured content. 
+5\. In November, [Google Base was released](https://web.archive.org/web/20060612225101/http://blogs.zdnet.com/web2explorer/?p=61). It's a centralized database for various types of content — like events, classified, reviews. A lot of people wondered whether it's a craigslist or eBay killer. Whether it turns out to be or not, there's no doubt the potential is there for Google to turn it into a hugely valuable directory of structured content.
 
 4\. Yahoo! [acquired Flickr](https://web.archive.org/web/20060612225101/http://news.zdnet.co.uk/internet/ecommerce/0,39020372,39192113,00.htm) in March [and del.icio.us](https://web.archive.org/web/20060612225101/http://blogs.zdnet.com/web2explorer/?p=76) in December. Yahoo! has evolved into a powerful media company and in 2005 they've released a lot of outstanding products. But if anything sums up their year, it's the acquisitions of two of the darlings of Web 2.0 — Flickr and del.icio.us. Yahoo! also bought Konfabulator [in July](https://web.archive.org/web/20060612225101/http://gigaom.com/2005/07/24/yahoo-buys-konfabulator/).
 
@@ -38,7 +38,7 @@ It's been a huge year for the Web! A time of renewed optimism in Silicon Valley 
 
 ## Reader Suggestions
 
-**Update:** I'll add other worthy Web moments of 2005 to this post, as people suggest them. Already folks have pointed out [iTunes support of podcasting](https://web.archive.org/web/20060612225101/http://www.scripting.com/2005/05/25.html#When:7:56:53AM) and the release of Google Maps mashup, [HousingMaps](https://web.archive.org/web/20060612225101/http://www.housingmaps.com/about.html). 
+**Update:** I'll add other worthy Web moments of 2005 to this post, as people suggest them. Already folks have pointed out [iTunes support of podcasting](https://web.archive.org/web/20060612225101/http://www.scripting.com/2005/05/25.html#When:7:56:53AM) and the release of Google Maps mashup, [HousingMaps](https://web.archive.org/web/20060612225101/http://www.housingmaps.com/about.html).
 
 **Update 2:** From January, this was very important: [Tsunami survivors turn to blogs for news, help](https://web.archive.org/web/20060612225101/http://news.com.com/Tsunami+survivors+turn+to+blogs+for+news%2C+help/2100-1038_3-5513428.html?tag=nl "Tsunami survivors turn to blogs for news, help -- Wednesday, Jan 5, 2005")
 

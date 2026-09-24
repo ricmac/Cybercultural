@@ -102,7 +102,7 @@ At the same time, the ability to process JavaScript was [added to](http://www.ib
 ![Netscape Navigator homepage, August 9, 1995](/assets/images/wdh/netscape_aug95.jpg)
 *Netscape Navigator homepage, August 9, 1995. Via [Reddit](https://www.reddit.com/r/geek/comments/3ggywz/the_netscape_navigator_homepage_on_aug_9_1995/).*
 
-Initial Use Cases for JavaScript 
+Initial Use Cases for JavaScript
 ---------------------------------
 
 The Netscape documentation made some suggestions in [its documentation](https://web.archive.org/web/19970613234917/http://home.netscape.com/eng/mozilla/2.0/handbook/javascript/index.html), noting that website designers could “write a JavaScript function to verify that users enter valid information into a form requesting a telephone number or zip code,” or “use JavaScript to perform an action (such as play an audio file, execute an applet, or communicate with a plug-in) in response to the user opening or exiting a page.”

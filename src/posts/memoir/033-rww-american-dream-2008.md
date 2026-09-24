@@ -50,7 +50,7 @@ I skirted the real issue — that I had spent the last four months trying to sel
 I was also feeling guilty about not bringing Marshall into the ZDE discussions. However, he claimed he made more money consulting than he did with RWW, so it was the right business decision not to involve him. He could easily find another blogging home, and I couldn’t risk that. As I’d implied in my email to him, his content was currently the best of the crop (I’d somehow squeezed out two posts while in New York, but they were both poor by my own high standards). I resolved to do my best to keep Marshall happy and involved on the editorial side, and then bring him up to speed as soon as the ZDE deal was finalized.
 
 ## Carnegie Deli
- 
+
 Thursday was my last full day in New York City. Over email that morning, Kobi had asked if I had a preference for lunch. I’d replied, “anything ‘New York-ish’ is fine with me.” 
 
 “This is kind of touristy,” Kobi wrote back in response, “but how about the famous Carnegie Deli?”

@@ -51,7 +51,7 @@ Less than two weeks later, we found out via Jolie’s blog that she had joined M
 This left RWW without a community manager and short one daily blogger. With our next event slated for May, we needed to move quickly to fill the vacant position.
 
 ## SXSW Music
- 
+
 ![SXSW Musix 2010](/assets/images/sxsw_music_mar10b.jpg)
 *Let the fun begin? My week at SXSW Music 2010 had its moments.*
 

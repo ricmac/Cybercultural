@@ -46,7 +46,7 @@ Perpetua also pointed to a bulletin board where he’d started a discussion abou
 
 > “I have no idea whether it's been released yet — on soulseek \[a file sharing network], it's part of some record, but I think it's just a promo. I'm trying to figure this out. A DJ friend of mine from England sent me a message last night telling me to download it because he couldn't stop playing it, and that's about as much as I know.”
 
-The following day on Fluxblog, Perpetua writes that “there's been a major spike in traffic since I posted the LCD Soundsystem song — this blog had over 1000 hits yesterday, and it looks like it should be just a little bit shy of the same number today.” 
+The following day on Fluxblog, Perpetua writes that “there's been a major spike in traffic since I posted the LCD Soundsystem song — this blog had over 1000 hits yesterday, and it looks like it should be just a little bit shy of the same number today.”
 
 He urges the “400-500+ extra people” to stick around — “I post cool stuff here all the time.”
 
@@ -64,7 +64,7 @@ As an aside: I’d had my own blogging breakthrough earlier in 2003, with [a Jul
 
 ## Naming a Trend
 
-Of course, it’s not a trend until someone coins a name for it. The term “MP3 blog” arose sometime during 2004. In a May 2004 article [in Vue Weekly](https://web.archive.org/web/20090108005506/http://www.vueweekly.com/article.php?id=262), an arts and entertainment weekly magazine from Edmonton, Perpetua was called the “forefather of MP3 blogs.” By July of that year, he’d been mentioned in [a USA Today article](https://web.archive.org/web/20050910184716/https://www.usatoday.com/tech/webguide/music/2004-07-08-mp3blogs_x.htm), which stated that MP3 blogs were “part online mixtape, part diary, and part music magazine.”  
+Of course, it’s not a trend until someone coins a name for it. The term “MP3 blog” arose sometime during 2004. In a May 2004 article [in Vue Weekly](https://web.archive.org/web/20090108005506/http://www.vueweekly.com/article.php?id=262), an arts and entertainment weekly magazine from Edmonton, Perpetua was called the “forefather of MP3 blogs.” By July of that year, he’d been mentioned in [a USA Today article](https://web.archive.org/web/20050910184716/https://www.usatoday.com/tech/webguide/music/2004-07-08-mp3blogs_x.htm), which stated that MP3 blogs were “part online mixtape, part diary, and part music magazine.”
 
 ![Fluxblog, December 2025](/assets/images/fluxblog-dec2025.png)
 *Like The Rolling Stones, [Fluxblog](https://www.fluxblog.org/) has longevity: the site is still active as at December 2025. But still the MP3 files are "only offered for a limited time."*

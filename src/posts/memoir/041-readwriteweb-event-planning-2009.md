@@ -33,7 +33,7 @@ I’d initiated the WordPress project in August, after getting fed up with Movab
 *Marshall demonstrating how we input ReadWriteWeb posts into Movable Type, Sep 09.*
 
 Bernard rightly pointed out that our tech staff weren’t very involved in the event, so we should continue the tests with WordPress. I agreed, and Mark Carey, our Movable Type consultant, carried on with that work. It’s just as well we did, because the fact we were in discussions with Automattic was enough to rouse Movable Type owners Six Apart out of their slumber. During September they’d gotten word that Automattic was wooing us, so one of their executives reached out to me on Skype and proposed that “we try to not just fix your site, but take it to a new level.” Since moving publishing platforms would be a massive undertaking, I wanted to keep the option open of staying on Movable Type. But I was somewhat skeptical. As I noted to my team after, “My lingering concern with them is stability/performance, as that is one thing WP has built a solid rep for but 6A hasn’t.”
- 
+
 ## Is This Dinner or *Dinner*?
 
 While the event preparation and projects such as the CMS review were going on, my personal life received a boost — but once again, I managed to make it complicated. I’d begun dating someone I’d met through advertising for a RWW “editorial assistant.”

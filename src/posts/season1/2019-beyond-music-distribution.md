@@ -85,8 +85,8 @@ To end on a note of optimism though, what artists like Zoë Keating have taught 
 
 That’s a message TuneCore itself promotes:
 
- ![TuneCore on Twitter, May 28, 2019](/assets/images/tunecore-tweet-may2019.jpg)
+![TuneCore on Twitter, May 28, 2019](/assets/images/tunecore-tweet-may2019.jpg)
 *[TuneCore on Twitter](https://x.com/TuneCore/status/1133167753114685440), May 28, 2019.*
 
 *Feature image credit: Siggy Nowak from <a href="https://pixabay.com//?utm_source=link-attribution&utm_medium=referral&utm_campaign=image&utm_content=3370295">Pixabay</a>.*
- 
+

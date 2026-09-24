@@ -38,7 +38,7 @@ Ozzie replied that Microsoft was creating a platform for developers to build com
 As the assembled bloggers were walking out of the lunchroom, I struck up a conversation with Williams. I mentioned that I’d joined Twitter the previous month and was enjoying it, but that someone was squatting on the @readwriteweb handle. He replied with a smile that the @rww username was actually better because it was shorter, which made it easier for other users to @ me. That was the last time I complained about the squatter.
 
 ## RWW Business Expansion
- 
+
 When I was back in New Zealand, I emailed Emily Chang and Max Kiesler to ask if Ideacodes would be interested in doing the next Read/WriteWeb redesign. Among other things, I wanted to “find a better solution for the ads, lists, network links, etc.” in the header and sidebar areas. I knew the redesign would have to scale with RWW’s growth, including the new network blogs. Emily wrote back saying they were keen to take on the work.
 
 The sponsor ads and the advertising supplied by FM Publishing, along with other bits and pieces such as a job board and Feedburner RSS ads, were now bringing in significant revenue. In June I’d made over $25,000 from RWW alone. My expenses were still low — I paid Josh an hourly rate for 12.5 hours per week (it later became 30 hours per week), hosting fees were reasonable, and the only other regular expenses were for things like banking and PayPal fees. Even the network costs were small. The ASE design had cost around $2,000, but that had paid for itself within a month or two due to a quick start with sponsors. By any measure, RWW was a very profitable small business.

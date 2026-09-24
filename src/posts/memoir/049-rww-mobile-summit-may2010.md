@@ -48,7 +48,7 @@ I tried to refocus on business. I had another busy week ahead of me in New York.
 *Great shot of the Computer History Museum room; photo [by Chris Cameron](https://www.flickr.com/photos/chcameron/4599814651/) (also see his wonderful [album of photos](https://www.flickr.com/photos/chcameron/albums/72157623919789525/) from the day).*
 
 ## New York and Airbnb in 2010
- 
+
 On Saturday, May 8, I took a midafternoon flight from San Francisco to New York. The flight was due to arrive at JFK near midnight, so I’d booked an airport hotel — thinking I’d make the journey into Manhattan the following morning, when I was more refreshed.
 
 However, my travel got off to a bad start with a delay at SFO. By the time we got to JFK, it was the early hours of Sunday morning. I had to wait around for a while for the hotel shuttle, along with several other travelers — the shuttles didn’t come along as regularly at this hour. Eventually we got to the hotel, only to be told it was full. I protested that I’d booked and prepaid for a room (and it seemed others had done the same), but these pleas fell on deaf ears. I suspected the hotel had sold our rooms again when we hadn’t arrived on time. Perhaps this was just how things were done in New York, but even so, it was a shitty thing for them to do.

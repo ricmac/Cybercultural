@@ -34,7 +34,7 @@ Hiring hesitation aside, Bernard thought we could be doing better with FM Publis
 Meanwhile, I turned my attention back to editorial matters.
 
 
- 
+
 Even though over half of 2008 had now disappeared in a blur of unconsummated business dealings, I had still managed to expand our writing team. I’d hired Sarah Perez as a freelancer in early January, after subscribing to [her personal blog](https://web.archive.org/web/20071219030024/http://www.sarahintampa.com/) the previous year. She had a full-time IT job in Tampa, Florida, and did blogging for Microsoft on the side. She told me she’d be able to quit her IT job and go full-time on blogging if I could offer her twelve posts per week on RWW. I’d readily agreed, and Sarah officially joined RWW and quit her day job. Marshall and I both loved her posts, and by the middle of 2008 she was an established part of our daily writing team.
 
 Another new writer started in May: a twenty-year-old Black woman from Atlanta named Corvida Raven. She ran her own blog, [SheGeeks](https://web.archive.org/web/20080720104009/http://shegeeks.net/about/), and described herself as “an avid follower of ReadWriteWeb.” After a successful trial post, I hired her as a regular blogger at the same per-post rate as Sarah. Corvida made an immediate impact — one of her first paid posts made it to the top of Techmeme while I was in New York.

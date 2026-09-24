@@ -62,7 +62,7 @@ Although I myself prefer nonfiction audiobooks, the wider market is reportedly m
 
 I couldn’t find current statistics on which categories of audiobooks are most popular, but perusing a recent [Apple audiobooks sales list](https://www.publishersweekly.com/pw/by-topic/digital/content-and-e-books/article/81268-apple-books-category-bestsellers-september-22-2019.html) shows that just four are fiction (but two of the top three).
 
-![Audiobook sales list](/assets/images/audiobooks-deepdive3.png) 
+![Audiobook sales list](/assets/images/audiobooks-deepdive3.png)
 
 The top of the [Audible bestseller list](https://www.audible.com.au/adblbestsellers) is even more weighted towards nonfiction. Perhaps the long tail of audiobooks is predominantly fiction? (if any Cybercultural reader has data that would shed more light on this, please let me know.) 
 

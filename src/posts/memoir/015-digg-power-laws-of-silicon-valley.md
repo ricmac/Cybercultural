@@ -72,7 +72,7 @@ In September, Rose [announced](https://web.archive.org/web/20110718154904/http:/
 
 I met Kevin Rose in person for the first time in February 2010, when he had been brought over to New Zealand to present at a local conference called [Webstock](https://web.archive.org/web/20100222015559/http://www.readwriteweb.com/start/2010/02/kevin-rose-10-tips-for-entrepreneurs.php). I took the opportunity to buy him and his friend Daniel Burka a lamb dinner at [Pravda](https://web.archive.org/web/20100109022223/https://www.pravdacafe.co.nz/), a popular Wellington bistro.
 
-Kevin had lost none of his boy band looks since 2006, although his face was thinner and his hair slightly shorter at the front. He stylishly wore a red and blue checked shirt over black jeans, and his manner was friendly — but also standoffish, in that self-assured way that popular kids usually have. He knew people wanted to get close to him, so his natural instinct was to keep them at bay. 
+Kevin had lost none of his boy band looks since 2006, although his face was thinner and his hair slightly shorter at the front. He stylishly wore a red and blue checked shirt over black jeans, and his manner was friendly — but also standoffish, in that self-assured way that popular kids usually have. He knew people wanted to get close to him, so his natural instinct was to keep them at bay.
 
 I made a few wisecracks about all the traffic Digg had sent our way over the years, but he didn’t engage, and he also gave nothing away about the internal issues the company was facing at this time. My girlfriend sensibly steered the conversation back to vacation recommendations. Disappointed that I couldn’t talk shop, I offered up some tourist advice instead: “You must try the Cloudy Bay oysters.”
 

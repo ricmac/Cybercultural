@@ -52,14 +52,14 @@ Later, Jones would team up with the Ravensbourne College students and fold his p
 
 ## Escaping the Broadcast Model
 
-The key to the emerging social web would be that you discover new content and communities by *following other people*. For music, the idea was to help you break away from the established broadcast model. At the Europrix event, Last.fm’s Martin Stiksel brought out a 1980s-style transistor radio to illustrate the point. If you want to listen to music on such a device, Stiksel explained, you have to tune the frequency band to find your station. If you don’t like the music playing on that station, you tune the dial to another radio station and try your luck again. 
+The key to the emerging social web would be that you discover new content and communities by *following other people*. For music, the idea was to help you break away from the established broadcast model. At the Europrix event, Last.fm’s Martin Stiksel brought out a 1980s-style transistor radio to illustrate the point. If you want to listen to music on such a device, Stiksel explained, you have to tune the frequency band to find your station. If you don’t like the music playing on that station, you tune the dial to another radio station and try your luck again.
 
 “The inherent problem with broadcast media is that basically, at the end of the day, it's always somebody else selecting the music for you,” said Stiksel. “So there's always a bunch of editors or programmers that picked the music and put them into into a program for you.”
 
 ![Last.fm and radio, 2002](/assets/images/lastfm-radio-2002b.jpg)
 *Three Last.fm founders in 2002 with a transister radio, "from the 80s, I believe."*
 
-With Last.fm, the stream of music you heard was a mix of manual choice and algorithmic selection. You might start with a song already in your online “record collection” (the term Stiksel kept using), or start from another user’s profile. From then on, songs would be chosen for you based on collaborative filtering. If you played a song through, the Last.fm software automatically added it to your own collection. You could also press a “love” button to add it. But if you didn’t like a certain track, you could press a “hate” button (so it wouldn’t get played again), or click the “skip” button to move to the next song. There was also a “change” button to go to a different user profile. 
+With Last.fm, the stream of music you heard was a mix of manual choice and algorithmic selection. You might start with a song already in your online “record collection” (the term Stiksel kept using), or start from another user’s profile. From then on, songs would be chosen for you based on collaborative filtering. If you played a song through, the Last.fm software automatically added it to your own collection. You could also press a “love” button to add it. But if you didn’t like a certain track, you could press a “hate” button (so it wouldn’t get played again), or click the “skip” button to move to the next song. There was also a “change” button to go to a different user profile.
 
 The early Last.fm user interface was, in truth, a bit cluttered with all these different buttons and various search boxes — but over time it would get more streamlined.
 

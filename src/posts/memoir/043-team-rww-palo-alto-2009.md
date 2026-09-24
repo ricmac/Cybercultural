@@ -44,7 +44,7 @@ The camaraderie of the team at this moment was something special. We were missin
 *ReadWritePool; photo by Jolie.*
 
 ## A Tricky Discussion
- 
+
 The next day was another clear, sunny California day. In the morning, Bernard, Marshall, and I met up in downtown Mountain View for our scheduled management meeting — and also my one-on-ones with each of my lieutenants. I knew the one with Bernard might get awkward, and I was anxious about that.
 
 I liked Bernard personally, and from a strategy perspective he was always full of good ideas. He’d also been a sage business adviser to me during the [acquisition negotiations](/p/027-acquisition-talks-rww-2008/) with ZDE and TechWeb last year. But since he'd [come on as COO](/p/035-indie-media-business-20/) about ten months earlier, a continuing lack of structure in the business had been bugging me. As COO, his role was to make sure that our daily operations were well-planned and finances kept in order. But it still felt too chaotic for my liking: the amount of time it took for us to get ReadWriteEnterprise off the ground, the ongoing issues with our publishing platform and web hosts, the unpredictable revenue flow from FM Publishing and our sponsors, the lack of a budget, and now the event planning.

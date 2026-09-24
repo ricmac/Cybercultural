@@ -39,7 +39,7 @@ By this point in the day, I was feeling tired and a bit homesick. I was also won
 I eventually read her reply when I got back to our Airbnb. Her email made it clear that she was breaking up with me. In truth, I was somewhat relieved to be free of all the personal drama. But I was also sad that this had happened while I was traveling. I told Sean about the breakup, adding that I was sorry for the extra pressure the relationship had put on him — my mixing business with pleasure. He commiserated with me and said that he understood why Elyssa and I had connected in the first place. It must’ve been nice to find someone who understood what you do for a living, he suggested. I just nodded.
 
 ## Creative Week and Influencer Culture
- 
+
 After another near-sleepless night in Brooklyn, Sean and I made our way back into Manhattan to attend Creative Week, an event that catered to the creative industries. The venue was a fourth-floor gallery called the Metropolitan Pavilion, which was located on 123 West Eighteenth Street. This building would be the headquarters of Internet Week in June, a New York tech festival that we’d timed our event to coincide with. Internet Week had only begun in 2008, but I’d been assured it was already popular.
 
 ![Creative Week, May 2010](/assets/images/creative-week-may2010.jpg)

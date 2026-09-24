@@ -19,7 +19,7 @@ In April 2003, I started a new technology blog called *Read/WriteWeb* (which I s
 
 [My first post](https://web.archive.org/web/20030809061335/http://www.readwriteweb.com/2003/04/20.html) (which I've since [replanted on Cybercultural](/p/the-readwriteweb-2003/)) explained what I meant by a “read/write web”:
 
-> “The World Wide Web in 2003 is beginning to fulfil the hopes that Tim Berners-Lee had for it over 10 years ago when he created it. The web was never just supposed to be a one-way publishing system, but the first decade of the web has been dominated by a tool which has been read-only — the web browser. The goal now is to convert the web into a two-way system. Ordinary people should be able to write to the web, just as easily as they can browse and read it.” 
+> “The World Wide Web in 2003 is beginning to fulfil the hopes that Tim Berners-Lee had for it over 10 years ago when he created it. The web was never just supposed to be a one-way publishing system, but the first decade of the web has been dominated by a tool which has been read-only — the web browser. The goal now is to convert the web into a two-way system. Ordinary people should be able to write to the web, just as easily as they can browse and read it.”
 
 Before blogging took off in the early 2000s, creating an online publication required a level of technical nous that most people didn’t have. Since I was a web geek and managed websites in my day job (in 2003, I worked for a New Zealand power company), I did actually have that technical ability. But I was in a minority and I could see in 2003 that blogging was a game-changer for web publishing — anyone could now do it! As I put it in that debut RWW post:
 
@@ -32,7 +32,7 @@ I used Radio Userland when I started RWW, but the following year [I switched to 
 
 ## Google Buys Blogger
 
-The simplest blogging tool in 2003 was [Blogger](https://web.archive.org/web/20030408235015/https://www.blogger.com/), which was entirely browser-based. “Push-button publishing for the people” was its motto. Its [about page in April 2003](https://web.archive.org/web/20030407174311/http://www.blogger.com/about.pyra) described the publishing process: 
+The simplest blogging tool in 2003 was [Blogger](https://web.archive.org/web/20030408235015/https://www.blogger.com/), which was entirely browser-based. “Push-button publishing for the people” was its motto. Its [about page in April 2003](https://web.archive.org/web/20030407174311/http://www.blogger.com/about.pyra) described the publishing process:
 
 > “… you provide Blogger a template of your page (or use one of several pre-designed ones) that indicates where you want your posts to appear. When you want to publish something, you simply enter it in a form. When you're ready, you hit a ‘Publish’ button that will automatically send your new page to your web server. No muss. No fuss. Total control.”
 
@@ -41,7 +41,7 @@ Blogger did have more advanced functionality that the likes of me could use (“
 ![Dan Gillmor story on Google buying Blogger](/assets/images/dan-gillmor-google-buys-blogger-2003.png)
 *Dan Gillmor's story on Google buying Blogger, 15 February 2003.*
 
-“Google, which runs the Web's premier search site, has purchased Pyra Labs, a San Francisco company that created some of the earliest technology for writing weblogs, the increasingly popular personal and opinion journals,” wrote Silicon Valley reporter Dan Gillmor [on February 15, 2003](https://web.archive.org/web/20030430014433/http://weblog.siliconvalley.com/column/dangillmor/archives/000802.shtml/#000802). 
+“Google, which runs the Web's premier search site, has purchased Pyra Labs, a San Francisco company that created some of the earliest technology for writing weblogs, the increasingly popular personal and opinion journals,” wrote Silicon Valley reporter Dan Gillmor [on February 15, 2003](https://web.archive.org/web/20030430014433/http://weblog.siliconvalley.com/column/dangillmor/archives/000802.shtml/#000802).
 
 ![Ev Williams reaction to Gillmor story](/assets/images/evwilliams-google-acquisition-reaction-2003.png)
 *Blogger co-founder Ev Williams describes [live-blogging his reaction](https://web.archive.org/web/20030324212205/http://www.evhead.com/archives/2003_02_01_archive_default.asp#104537225413624191) to Dan Gillmor's story while he was on a conference panel.*

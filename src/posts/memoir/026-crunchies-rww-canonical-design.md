@@ -57,7 +57,7 @@ I had imagined the Loch Ness Blogger would be shy and awkward, but he [turned ou
 
 
 Silicon Valley was still a mecca for anyone who wanted to make it big in the tech industry. And sure enough, a few months after I’d met Pete in Borders, he emailed to say that he’d taken my advice and shifted to San Francisco. What neither of us fully realized was that the insider world of Silicon Valley was beginning to constrict around a set of five leading Web 2.0 companies. 
- 
+
 ## The Five Companies About to Take Over
 
 Apple’s iPhone was the talk of the town by the end of 2007, and in November Google had announced its competitor: an open-source mobile operating system called Android. Amazon had just announced its Kindle product, so it too was branching out into consumer devices, in addition to being the early leader in cloud computing. Meanwhile, Google Reader was now the dominant RSS reader and Facebook had all the momentum in social networking. Microsoft was perhaps the odd one out, since it was struggling to adapt to Web 2.0 with its awkwardly branded Windows Live project. But Microsoft still had dominant positions in PC, office, and browser software — which gave it the time and money to correct course.

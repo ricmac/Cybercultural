@@ -13,7 +13,7 @@ The first big influx of people [signed up to Twitter in March 2007](/p/twitter-i
 
 Well, in this post I'd like to highlight five key features of Twitter in 2007 — *before* it was christened "social media" and while Web 2.0 was still thought of as an open web paradise.
 
-## 1. “What are you doing?” 
+## 1. “What are you doing?”
 
 This was the prompt that Twitter users saw throughout 2007. It explains why so many early tweets were about [eating lunch](https://slate.com/technology/2012/07/oldtweets-search-engine-finds-tweets-from-twitter-s-first-year.html). To be fair, nobody knew back then how to do microblogging, the 2007 term for writing short posts — 140 characters or less in Twitter's case. Along with [Facebook](/p/023-microsoft-mix-2007/) and [Flickr](/p/flickr-before-smartphones-and-instagram/), Twitter was literally inventing social media.
 

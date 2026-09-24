@@ -30,7 +30,7 @@ On Monday, May 11, the first week in my new abode, I wrote an email to Bernard a
 There were a lot of problems to solve — both personal and business — but at least I was at my desk in front of my iMac computer once more, albeit in a smaller home office and one I didn’t own.
 
 ## Challenges: Revenue and Ops
- 
+
 We released our first premium report [in May](https://web.archive.org/web/20090517013418/http://www.readwriteweb.com/archives/introducing_the_readwriteweb_guide_to_online_commu.php), on the topic of online community management. This had been Marshall’s baby, and he’d worked hard on it for four months. It was a hefty report, at seventy-five pages, and included case studies and analysis of how to run online communities in the Web 2.0 era. It had advice on blogging, RSS readers, Facebook, Twitter, and more. In addition, Marshall had set up “a companion online aggregator that delivers the most-discussed articles each day written by experts on community management from around the web.” It was impressive work from Marshall, even if it did take longer to produce than we’d have liked.
 
 ![RWW premium report](/assets/images/rww-community-mgmt-report-may09.jpg)

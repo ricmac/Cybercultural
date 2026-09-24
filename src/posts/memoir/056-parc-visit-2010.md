@@ -31,7 +31,7 @@ As for the competing startups, they were all peddling consumer electronic device
 In truth, none of what I saw at i-stage inspired me as much as some of the Web 2.0 events I’d been to — and there was certainly no “next big thing.” Perhaps I should’ve just gone to the Web 2.0 Summit after all, I reflected.
 
 ## Richard Goes to PARC
- 
+
 The highlight of my latest Silicon Valley trip was a journey down the 101 to Palo Alto to visit PARC — the Palo Alto Research Center, formerly known as Xerox PARC. The visit had been organized by Sonal Chokshi, who had originally emailed me in late August about attending PARC’s fortieth anniversary celebration event in September. While I couldn’t attend that, I was grateful to her for organizing this tour of PARC — to take in the history of the place — and a few meetings to see what the present-day PARC was working on.
 
 ![PARC, Nov 2009](/assets/images/parc-sign-2009c.jpg)
@@ -63,7 +63,7 @@ As I walked out of the PARC complex later that afternoon, I chatted with Sonal 
 When I reached the car, huffing a little, I looked back at Sonal and gave her a wry smile. Clearly, ubiquitous computing hadn’t yet reached the taxi industry. But we both knew it probably would eventually. (Uber launched publicly in San Francisco the following year.)
 
 ## End of 2010: House Hunting and RWW Planning
- 
+
 As soon as I got home, I focused my attention on house-hunting. I’d been putting it off for months, due to a mixture of travel and trying to sort out my messy personal life. 
 
 In early November I found the house I wanted: a three-bedroom bay villa in Petone. It was a corner house and originally built in the 1890s, although of course it had been renovated multiple times since then. Still, it retained much of the charm of an old New Zealand villa. The house was near the Petone foreshore and a ten-minute walk from the local shops, which included a bunch of cafés — so the location was ideal, especially considering that my daughter went to a nearby school.

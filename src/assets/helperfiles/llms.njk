@@ -65,8 +65,8 @@ Newest first. Each link also has a markdown copy at the same URL plus `index.md`
 ## Year archives
 
 Every article tagged with the year it covers.
-{% for page in collections.yearArchives %}
-- [{{ page.data.title | safe }}]({{ site }}/tags/{{ page.data.title }}/): {{ page.data.description | safe }}
+{% for year in yearArchives %}
+- [{{ year.title | safe }}]({{ site }}/tags/{{ year.title }}/): {{ year.description | safe }}
 {%- endfor %}
 
 ## Optional

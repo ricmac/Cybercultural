@@ -44,7 +44,7 @@ The games ended when Cannon-Brookes lost his last liar’s dice on a technicalit
 *Same lineup, but with Chris on the right; photo credit, [Chris Saad](https://www.flickr.com/photos/chrissaad/299537576/in/photostream/).*
 
  
- 
+
 ## RWW’s Breakthrough Year in Numbers
 
 In many respects, 2006 was a breakthrough year for Read/WriteWeb. December revenue for the site was over $14,000, with most of it coming from the sponsor adverts in the right-hand sidebar. FM Publishing revenue was now about a quarter of the site’s revenue. I had no employees yet and minimal costs, so it was nearly all gravy.

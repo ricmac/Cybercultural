@@ -44,7 +44,7 @@ I’d already run Curt’s document past Sean, who had told me it lacked context
 By the evening, however, I was pretty worked up about Curt’s document. I didn’t want to be told how to run my business, just as I didn’t want people telling me how to run my life — which had been, at core, my issue with Elyssa. Perhaps equating this situation to [a recent personal relationship breakup](/p/050-meeting-new-york-times-2010/) was overly sensitive. Nevertheless, I couldn’t resist continuing the back-and-forth with Curt by email. I wrote, rather unkindly, that his document had made me question if he was suitable for the professional blogging business. “Hopefully tomorrow we can give you the guidance and expectations that you’re looking for, but if you’re still unhappy after tomorrow I suggest we part ways ASAP.”
 
 He replied just as angrily, and the situation was in danger of spiraling out of control. But thanks to some sage counseling from Marshall and Sean, I de-escalated matters by promising Curt we’d talk about it in person tomorrow. Perhaps Marshall had also reached out privately to Curt (he’d known him for longer than I had), because Curt quickly calmed down too. “I am mortified by the ‘drama,’” he wrote, several emails in. “I was merely trying to contribute, however pear-shaped the results were.” He offered to not come to the team gathering tomorrow, but I assured him I wanted him there. “Let’s you and I discuss, just the two of us,” I wrote. “I like your writing and I want you to continue, so I’m sure we can work it out.”
- 
+
 ## RWW Coworking Day
 
 ![Portland establishments](/assets/images/portland-establishments-june2010.jpg)

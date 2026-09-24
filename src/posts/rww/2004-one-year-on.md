@@ -41,7 +41,7 @@ It was perfect. I bought the domain name and then began to write.
 
 _April 2003:_ My inaugural post was titled [The Read/Write Web](https://web.archive.org/web/20040701133310/http://www.readwriteweb.com/2003/04/20.html#a1). It outlined the manifesto I've promoted ever since then: the Web should be read/write, not read-only.
 
-My third post, [RSS - Subscribing to Topics](https://web.archive.org/web/20040701133310/http://www.readwriteweb.com/2003/04/28.html#a3), began my fascination with topic-mapping in blogging. 
+My third post, [RSS - Subscribing to Topics](https://web.archive.org/web/20040701133310/http://www.readwriteweb.com/2003/04/28.html#a3), began my fascination with topic-mapping in blogging.
 
 _May 2003:_ Web browsers were a hot topic for me during this month — [browser/editors](https://web.archive.org/web/20040701133310/http://www.readwriteweb.com/2003/05/15.html#a10) (as Tim Berners-Lee originally wanted them to be) and [the future of IE](https://web.archive.org/web/20040701133310/http://www.readwriteweb.com/2003/05/29.html#a42).
 

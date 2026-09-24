@@ -24,7 +24,7 @@ By 2003, the internet had weathered the worst of the dot-com crash and developer
 
 If there was one company that was putting together the jigsaw puzzle that would later be named Web 2.0, it was Google. In February, Google acquired the leading blogging service of the day: Blogger.
 
-“Google, which runs the Web's premier search site, has purchased Pyra Labs, a San Francisco company that created some of the earliest technology for writing weblogs, the increasingly popular personal and opinion journals,” wrote Silicon Valley reporter Dan Gillmor [on February 15, 2003](https://web.archive.org/web/20030430014433/http://weblog.siliconvalley.com/column/dangillmor/archives/000802.shtml/#000802). 
+“Google, which runs the Web's premier search site, has purchased Pyra Labs, a San Francisco company that created some of the earliest technology for writing weblogs, the increasingly popular personal and opinion journals,” wrote Silicon Valley reporter Dan Gillmor [on February 15, 2003](https://web.archive.org/web/20030430014433/http://weblog.siliconvalley.com/column/dangillmor/archives/000802.shtml/#000802).
 
 ![Blogger homepage, July 2003](/assets/images/blogger-july2003.png)
 *Blogger homepage, July 2003.*

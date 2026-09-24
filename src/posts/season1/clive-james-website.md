@@ -29,7 +29,7 @@ The internet theorist Doc Searls wrote in [a recent essay](https://blogs.harvard
 
 > “Today the World Wide Web, which began as a kind of growing archive — a public set of published goods we could browse as if it were a library — is being lost. Forgotten. That’s because search engines are increasingly biased to index and find pages from the present and recent past, and by following the tracks of monitored browsers. It’s forgetting what’s old. Archival goods are starting to disappear, like snow on the water. Why? Ask the algorithm.”
 
-We can certainly blame the algorithms of Big Tech for burying the past, but we must also apportion some of the blame on the software used to build websites – often developed by those same corporations. Previously trendy but now defunct Web technologies like Flash and Shockwave have made many websites from the 1990s and early 2000s inaccessible now – even on the Internet Archive, which is otherwise a global treasure of online culture from our recent history. 
+We can certainly blame the algorithms of Big Tech for burying the past, but we must also apportion some of the blame on the software used to build websites – often developed by those same corporations. Previously trendy but now defunct Web technologies like Flash and Shockwave have made many websites from the 1990s and early 2000s inaccessible now – even on the Internet Archive, which is otherwise a global treasure of online culture from our recent history.
 
 The Internet Archive operates a time travel search engine known as The Wayback Machine, and it’s increasingly the only method of accessing past websites that have otherwise disappeared into the ether. Many old websites are now either 404 errors, or the domains have been snapped up by spammers searching for Google juice.
 
@@ -37,11 +37,11 @@ I’m currently writing a nonfiction book whose setting includes the Web of the 
 
 Even if a website was built using just that most basic of World Wide Web code, HTML, it may still have died off due to a missed domain name renewal or a web host that went under.
 
-Of course, Clive James had the noblest of intentions when he started his website (as many of us do). He aimed to “offer a critical guide, through the next medium, to works of thought and art.” Those words still grace his homepage today. 
+Of course, Clive James had the noblest of intentions when he started his website (as many of us do). He aimed to “offer a critical guide, through the next medium, to works of thought and art.” Those words still grace his homepage today.
 
 A browse through the content of his website is a satisfying – and edifying – way to spend an hour on the internet. The menu is neatly categorized by content type (Books, Essays, Poetry, Lyrics, Video, Radio). Each section features a selective list of James’ works.
 
-In the Books section is a list of all his books, helpfully put into sub-categories (Memoirs, Cultural Commentary, etc.). Some of the books listed have their own web page, but not all of them. [The page](http://www.clivejames.com/cultural-amnesia.html) for the book _Cultural Amnesia_ has an introduction composed specifically for the website. There’s also a “cast list,” a “buy this book” link, a link to extracts published on Slate, and a list of linked reviews. 
+In the Books section is a list of all his books, helpfully put into sub-categories (Memoirs, Cultural Commentary, etc.). Some of the books listed have their own web page, but not all of them. [The page](http://www.clivejames.com/cultural-amnesia.html) for the book _Cultural Amnesia_ has an introduction composed specifically for the website. There’s also a “cast list,” a “buy this book” link, a link to extracts published on Slate, and a list of linked reviews.
 
 James’ website is a little treasure trove of his life’s work, and it’s holding up well in 2020 – although the design is a bit outdated and the site is slower than average. While the content is not a comprehensive overview of his career, it’s fair to say that had ill health not intervened then he would’ve made more progress preserving his own – and others’ – cultural content. His home page states:
 
@@ -55,7 +55,7 @@ As far as I can tell via LinkedIn, Dawn Mancer is a self-employed webmaster who 
 
 So the website lives on for now, albeit we don’t know who’s in control (Mancer? James’ estate?). We also don’t know how often – if at all – the site will continue to be updated. Or how long its web hosting agreement runs to, and whether it will be renewed.
 
-But the basics of Clive James’ online presence are all in place, so there’s no immediate reason to fear that the website will pass away. 
+But the basics of Clive James’ online presence are all in place, so there’s no immediate reason to fear that the website will pass away.
 
 The domain, clivejames.com, was registered in June 2003 and has been reserved until June 2022 (it was last renewed in August 2019, a few months before James’ death). It seems James or his people originally acquired the domain from someone else, since an August 2000 [BBC report](http://news.bbc.co.uk/2/hi/business/874881.stm) quotes James as saying the domain had “already been snapped up by another Clive James – he’s a jetski instructor in Miami.”
 
@@ -63,7 +63,7 @@ Incidentally, the same BBC report noted that “in the long run he hopes to star
 
 In February 2009, clivejames.com was set up on the website builder and host Weebly, a Web 2.0 equivalent of previous Dot Com site building services like Geocities and Angelfire. In April 2018, the payments company Square, Inc. [acquired](https://techcrunch.com/2018/04/26/square-acquires-weebly/) Weebly, suggesting its future will revolve around the building and hosting of e-commerce websites. I mention this only because it’s possible that in a few years Weebly will no longer be an appropriate web host for clivejames.com, unless it sets up an online store to sell James’ books and DVDs.
 
-If Weebly does indeed, as they say in the business, ‘pivot’ away from basic websites, will anyone in James’ estate be motivated to move web hosts? That will almost certainly require a re-design, so it won’t be a straight forward process. 
+If Weebly does indeed, as they say in the business, ‘pivot’ away from basic websites, will anyone in James’ estate be motivated to move web hosts? That will almost certainly require a re-design, so it won’t be a straight forward process.
 
 Again, I’m not saying Weebly will abandon personal websites. I sincerely hope it doesn’t. But one thing I’ve learned as a long-time internet commentator is that jarring change to existing customers is always a possibility whenever a startup gets acquired.
 
@@ -75,7 +75,7 @@ Today, the only way to access websites built on Geocities is to visit The Waybac
 
 The Web changes fast and history has shown it’s not always kind to the recent past.
 
-Clive James was one of the great preservers, and explainers, of twentieth century culture. Even up to 2016, with his book about streaming tv entitled _Play All: A Bingewatcher’s Notebook_, James was a master of appraising cultural content. There’s no doubt his books – and even some of his television work – will live on in our culture. I for one will continue reading and watching his work. 
+Clive James was one of the great preservers, and explainers, of twentieth century culture. Even up to 2016, with his book about streaming tv entitled _Play All: A Bingewatcher’s Notebook_, James was a master of appraising cultural content. There’s no doubt his books – and even some of his television work – will live on in our culture. I for one will continue reading and watching his work.
 
 I wish I could say the same about clivejames.com living forever, but I fear it will be gone before long. That’s no fault of James himself, who tried his very best – even in ill health, near the end – to preserve his own and other people’s work on his website.
 

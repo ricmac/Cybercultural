@@ -248,3 +248,15 @@ export const sitemapLastmod = (page, newestPostDate) => {
 
   return null;
 };
+
+/**
+ * Every page built from a markdown file under src/, for sitemap.xml.
+ *
+ * This filters collections.all rather than being a custom collection: from
+ * Eleventy 3.1, custom collections are built before the pages that paginate
+ * over a collection (section pages, year pages and their page 2+), so a
+ * collection would silently leave all of those out of the sitemap. A template
+ * that declares `eleventyImport: collections: ["all"]` is rendered after them.
+ */
+export const markdownPages = (items = []) =>
+  items.filter(item => item.inputPath?.startsWith('./src/') && item.inputPath.endsWith('.md'));

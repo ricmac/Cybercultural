@@ -2,11 +2,13 @@
 permalink: /sitemap.xml
 eleventyExcludeFromCollections: true
 excludeFromSitemap: true
+eleventyImport:
+  collections: ["all"]
 ---
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   {% set newestPostDate = collections.posts | getNewestCollectionItemDate %}
-  {% for page in collections.onlyMarkdown %}
+  {% for page in collections.all | markdownPages %}
   {#- Leave out pages Google is told not to index here: noindex pages, and posts
       whose canonical copy lives on another site (the RWW archive on ricmac.org). -#}
   {% set ownUrl = meta.url ~ page.url %}

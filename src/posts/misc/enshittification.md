@@ -47,7 +47,7 @@ If that sounds complex for developers, it is. But it was a revolutionary method 
 
 Despite its popularity, however, it didn’t take long for complaints to start rolling in about React. By the end of 2015, some developers were complaining of React “fatigue” because of the steep learning curve. More importantly, there was growing dissatisfaction with the heavy load that React-based web apps put on browsers. This is due to the large amount of JavaScript shipped to the end user, which means performance issues for many users. 
 
-[According to Alex Russell](https://infrequently.org/2022/12/performance-baseline-2023/) from the Microsoft Edge browser team, “sites continue to send more script than is reasonable for 80+% of the world’s users, widening the gap between the haves and the have-nots.” Russell calls this “an ethical crisis for frontend” and puts the blame squarely on React and the frameworks that utilize it. 
+[According to Alex Russell](https://infrequently.org/2022/12/performance-baseline-2023/) from the Microsoft Edge browser team, “sites continue to send more script than is reasonable for 80+% of the world’s users, widening the gap between the haves and the have-nots.” Russell calls this “an ethical crisis for frontend” and puts the blame squarely on React and the frameworks that utilize it.
 
 In other words, React — which was introduced to the world by Facebook — has enshittified the web development world.
 

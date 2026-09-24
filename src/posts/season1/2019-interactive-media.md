@@ -59,7 +59,7 @@ It’s not just the ever-increasing consumption of interactive media and how it�
 
 The future of social will be much more immersive than at present. Andreessen Horowitz VC Andrew Chen captured this idea nicely in a recent tweet:
 
-![Andrew Chen tweet: "In the future, commenting on photos will seem quaint for those who grew up playing online games with their friends where they can build huge cities block by block, explore new planets, or compete to be the last team standing in their favorite sports"](/assets/images/andrew-chen-tweet-2019.png) 
+![Andrew Chen tweet: "In the future, commenting on photos will seem quaint for those who grew up playing online games with their friends where they can build huge cities block by block, explore new planets, or compete to be the last team standing in their favorite sports"](/assets/images/andrew-chen-tweet-2019.png)
 
 Chen made the comment as part of a thread (and [blog post](https://a16z.com/2019/08/13/singularity-6/)) about his firm’s $16.5 million Series A investment in a stealth gaming startup called [Singularity 6](https://www.singularity6.com/). 
 

@@ -40,7 +40,7 @@ It was an interesting [day out](https://singularityhub.com/2010/06/23/exclusive-
 On the other hand, the state of AI technology is now vastly better than it was in 2010 — so perhaps Kurzweil and Diamandis will get the last laugh. It’s too early to say as I write this, although it’s notable that the key advancements in AI over the past decade have come from graduates of traditional computer science universities — Stanford, Berkeley, and MIT — rather than from SU.
 
 ## Foo Camp 2010
- 
+
 ![Foo Camp June 2010 welcome sign](/assets/images/foo-camp-welcome-june2010.jpg)
 *Arriving at Foo Camp, June 2010.*
 

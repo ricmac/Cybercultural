@@ -13,7 +13,7 @@ featureImage: "/assets/images/bowienet-feature-1280x720.jpg"
 
 In late 1996, just before his 50th birthday concert at Madison Square Garden and before his latest album ‘Earthling’ was released, David Bowie had quietly approved the development of what was to become his biggest internet legacy: BowieNet. It was to be more than [Bowie’s official website](/p/david-bowie-website-1995-1997/); it would also do business as an Internet Service Provider (ISP), meaning it would provide internet access and an email address to users. Most importantly, it would be an officially endorsed online community for his fans.
 
-BowieNet was the brainchild of Bowie insider Robert Goodale and a multimedia producer named Ron Roy. 
+BowieNet was the brainchild of Bowie insider Robert Goodale and a multimedia producer named Ron Roy.
 
 Goodale, a New York City entertainment attorney, was running Bowie’s business management company Isolar at the time. It was a role he’d obtained through his close relationships to Bowie and his main financial partner, Bob Zysblat. In addition to Isolar, Goodale had become Bowie’s go-to business contact for anything to do with technology and the internet — he was listed as executive producer on the ‘JUMP’ cd-rom in 1994 and Bowie’s original website in 1996.
 
@@ -34,7 +34,7 @@ As Roy tells it, BowieNet originated from he and Goodale spitballing ideas.
 
 “He \[Goodale\] said, let's figure out something to take David that will knock his socks off, and he hasn't heard before. The place we landed on was doing a private label ISP.”
 
-The pair thought there was an opportunity to offer something different than the dominant consumer ISPs of the era — companies like AOL, CompuServe and Prodigy in the US. 
+The pair thought there was an opportunity to offer something different than the dominant consumer ISPs of the era — companies like AOL, CompuServe and Prodigy in the US.
 
 “We came up with this idea of, what if we could take the backend technology of how those ISPs work and create something that became BowieNet. What if we could use the leverage of David Bowie and create more of a fun, more media-centric, music-centric, art-centric community. And that's really where we separated ourselves, because instead of trying to be really big — all things for all people — we went in the opposite direction. We wanted to create this really tight community of passionate music people.”
 
@@ -47,14 +47,14 @@ In retrospect, it was the community aspect and fan interaction that was to prove
 
 Some further context: during this era, the leading American ISP, AOL, was struggling to meet demand from consumers. That opened up opportunities for smaller companies. Indeed, any company — no matter how small — could make a deal with a telco or one of the many infrastructure companies that leased dial-up capacity (remember, this was before broadband). So access wasn’t an issue. It was also relatively easy to compete with AOL on price. Full access to BowieNet, including unlimited internet access, was eventually priced at $19.95 per month. This compared favourably to AOL’s pricing at the same time, which was $21.95 per month for unlimited access.
 
-Where the likes of AOL and Microsoft had a distinct advantage was in name recognition and a wider array of content and services on their web portals. But again, when it came to name recognition, David Bowie was a good ‘brand’ for Goodale and Roy to hang their ISP hat on. And Bowie certainly took care of the content side of their pitch to consumers — exclusive Bowie content would be manna from heaven for many of his fans. 
+Where the likes of AOL and Microsoft had a distinct advantage was in name recognition and a wider array of content and services on their web portals. But again, when it came to name recognition, David Bowie was a good ‘brand’ for Goodale and Roy to hang their ISP hat on. And Bowie certainly took care of the content side of their pitch to consumers — exclusive Bowie content would be manna from heaven for many of his fans.
 
 Goodale and Roy were convinced they were onto a good thing.
 
 Pitching Bowie
 --------------
 
-The ultimate plan for BowieNet was not just to create an ISP service plus online fan community for David Bowie, but to also offer the platform to _other_ artists and entertainers. Any celebrity or sports team with a large fan following could get in on this, thought Goodale and Roy. 
+The ultimate plan for BowieNet was not just to create an ISP service plus online fan community for David Bowie, but to also offer the platform to _other_ artists and entertainers. Any celebrity or sports team with a large fan following could get in on this, thought Goodale and Roy.
 
 But Bowie would be first, and that would be a key part of their pitch to him. Bowie had always wanted to be seen as an innovator, not just in music but in everything, so being the first to launch a new type of product on the internet would likely be a big driver in his decision-making.
 
@@ -62,7 +62,7 @@ Roy traveled to New York City in the fall of 1996, for a meeting between he, Goo
 
 “We spent a couple hours with Bill, pitched the concept, and Bill liked it a lot.”
 
-However, Zysblat wasn’t convinced Goodale and Roy could pull it off. “There's a lot of missing parts to this,” he told the pair. Not the least of which was the lack of a technology partner for the ISP. Nevertheless, Zysblat promised to “get in front of David” and share the idea. 
+However, Zysblat wasn’t convinced Goodale and Roy could pull it off. “There's a lot of missing parts to this,” he told the pair. Not the least of which was the lack of a technology partner for the ISP. Nevertheless, Zysblat promised to “get in front of David” and share the idea.
 
 “It was about a week and a half later,” Roy recalled, “and Bob called me and said, get your ticket because you're coming into the city again. David wants to meet with us.”
 
@@ -70,13 +70,13 @@ It was a dream come true for Ron Roy, who had followed Bowie’s career since th
 
 “Bill’s company was called RZO, and I was in this very nice conference room and two doors opened up,” Roy told me, his voice tinged with excitement recalling the moment. “And there's this guy right in the middle of the opened doors. He had this long trench coat on, and these camel-coloured boots. And there's Bowie!”
 
-The pitch session lasted about 90 minutes, double the time Zysblat had scheduled. Bowie had a lot of questions, he was engaged, and he went out of his way to make a nervous Ron Roy feel comfortable. 
+The pitch session lasted about 90 minutes, double the time Zysblat had scheduled. Bowie had a lot of questions, he was engaged, and he went out of his way to make a nervous Ron Roy feel comfortable.
 
 Right away, Roy could tell that Bowie liked the idea. But then again, he understood that Bowie must get pitched with a lot of different business propositions. He and Goodale hadn’t even worked out the technical arrangements for this concept, and yet they were expecting Bowie to attach his name and considerable reputation to it? For someone of Bowie’s stature, it was a big risk. They had better be able to pull this off!
 
-After the meeting, Roy didn’t know whether he’d ever see or talk to Bowie again. 
+After the meeting, Roy didn’t know whether he’d ever see or talk to Bowie again.
 
-Fortunately, Bowie gave the go-ahead towards the end of 1996. Even better, he also wanted to invest in Goodale and Roy’s plan to make it into a business for other artists and entertainers. 
+Fortunately, Bowie gave the go-ahead towards the end of 1996. Even better, he also wanted to invest in Goodale and Roy’s plan to make it into a business for other artists and entertainers.
 
 The Backend Deal
 ----------------
@@ -87,7 +87,7 @@ Zysblat warned Goodale and Roy that the first thing they needed to do was sign u
 
 But the big consumer ISP companies didn’t bite. Roy started reaching out to more business focused ISPs and finally found a match with a Californian company called Concentric Network Corporation.
 
- “I literally cold called them,” Roy said. “I’d read about them, they had raised a lot of money, and had an amazing management team. I also liked that Concentric had a lot of big clients — banking and hospitals. So I knew they had a really solid infrastructure.”
+“I literally cold called them,” Roy said. “I’d read about them, they had raised a lot of money, and had an amazing management team. I also liked that Concentric had a lot of big clients — banking and hospitals. So I knew they had a really solid infrastructure.”
 
 Even so, it took four or five months of negotiations and planning before the Concentric deal was finalised. Concentric would provide the infrastructure to run a Bowie-themed ISP, as well as e-commerce capabilities.
 
@@ -98,9 +98,9 @@ Bowie’s Web Design
 
 Bowie had also told Goodale and Roy that he wanted to find a hotshot web design firm of his own. Up till then, he’d relied on his record label to manage his website. Even though it had undergone multiple re-designs up till that point, and the latest ‘Earthling’-themed iteration designed by a company called N2K was well executed, Bowie wanted to take control of the process. He asked Goodale and Roy to find him a design firm that would take his vision of how he wanted to represent himself on the Web, and make it a reality.
 
- “Bob and I met with so many different people and a bunch of different firms. We landed on a company out of Canada which had an office in New York City, called Nettwerk. They were really into Flash early on, really did a lot of innovative things.”
+“Bob and I met with so many different people and a bunch of different firms. We landed on a company out of Canada which had an office in New York City, called Nettwerk. They were really into Flash early on, really did a lot of innovative things.”
 
-Nettwerk was a Vancouver-based indie record label which, after making a name for itself producing “enhanced CDs” for artists, created a spin-off web design company called Nettmedia. Specialising in creating multimedia websites for musicians, the company soon became a regular feature in Billboard’s awkwardly-named ‘The Enter\*Active File’ news section. 
+Nettwerk was a Vancouver-based indie record label which, after making a name for itself producing “enhanced CDs” for artists, created a spin-off web design company called Nettmedia. Specialising in creating multimedia websites for musicians, the company soon became a regular feature in Billboard’s awkwardly-named ‘The Enter\*Active File’ news section.
 
 Reportedly, Bowie was particularly impressed by Nettmedia’s work for Lilith Fair, a festival featuring female rock and folk musicians. In any case, it became Bowie’s web design firm from 1997 on.
 
@@ -117,7 +117,7 @@ Bowie was involved in the early planning for the website, along with Roy, Goodal
 
 “So we created all these places in the site,” said Roy, “where people could post their art work or post a poem. Down the road, people could even post little five-to-seven second audio clips.”
 
-Remember this was years before ‘user generated content’ became fashionable on the Web, so at the time Bowie’s focus on making his website a creative space for his fans was unique. He was adamant that BowieNet not become a “brochureware” site, which was a web design term from the 1990s describing a one-dimensional informational website (the equivalent of a paper brochure before the Web). 
+Remember this was years before ‘user generated content’ became fashionable on the Web, so at the time Bowie’s focus on making his website a creative space for his fans was unique. He was adamant that BowieNet not become a “brochureware” site, which was a web design term from the 1990s describing a one-dimensional informational website (the equivalent of a paper brochure before the Web).
 
 “The last thing he needed was another electronic billboard of who David Bowie was,” said Roy. “He didn’t want a marketing site to try to sell albums or concert tickets. He wanted this to be an interactive community of people, who could go to the site to contribute and learn…and have fun!”
 
@@ -138,7 +138,7 @@ Roy was point man for the backend technology, so he worked closely with the ISP 
 BowieNet Announcement
 ---------------------
 
-On 17 July, 1998, BowieNet was announced to the world. Rumours had been circulating for a few weeks due to a leak at EMI, so Bowie’s management issued a press release to confirm it. 
+On 17 July, 1998, BowieNet was announced to the world. Rumours had been circulating for a few weeks due to a leak at EMI, so Bowie’s management issued a press release to confirm it.
 
 BowieNet was to launch on 1 September, offering “high-speed Internet service across North America and, by year end, throughout the world,” plus a raft of features including “a fully customizable home page, davidbowie.com e-mail address (your.name@davidbowie.com), news groups, chat rooms, online shareware, multi-player gaming, and much much more.”
 
@@ -146,7 +146,7 @@ As per Robert Goodale and Ron Roy’s original business plan, there would be a g
 
 Pricing was reasonable for the time. You could choose to sign up to the full ISP service for $19.95 per month, or remain with your current internet provider and access davidbowie.com for $5.95 per month.
 
-Bowie’s comments in the announcement were typically ambitious, stating that he didn’t just want to attract his own fans — but “all music lovers.” He wanted BowieNet to be “a single place where the vast archives of music information could be accessed, views stated and ideas exchanged.” 
+Bowie’s comments in the announcement were typically ambitious, stating that he didn’t just want to attract his own fans — but “all music lovers.” He wanted BowieNet to be “a single place where the vast archives of music information could be accessed, views stated and ideas exchanged.”
 
 He admitted that obtaining “unique proprietary content” to sit alongside his own exclusive Bowie content would be challenging. He also recognised that the technical platform for internet access, “from tech support to billing,” needed to be top notch. But, he said, “after nine months of work, I believe we have achieved just that."
 
