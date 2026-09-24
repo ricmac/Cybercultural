@@ -118,4 +118,6 @@
 
 # Enshittocene era renamed to Platforms (Sep 2026)
 /enshittocene /platforms/ 301
+/enshittocene/ /platforms/ 301
+/enshittocene/page/* /platforms/page/:splat 301
 /enshittocene/* /platforms/:splat 301
