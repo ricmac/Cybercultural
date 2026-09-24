@@ -3,7 +3,7 @@ title: "1994: Publishing comes to the Web — and design matters"
 description: "1994 marks the Web’s shift into a publishing medium. As site authors seek control over formatting and design, the WWW-Talk mailing list hosts an early debate over style sheets and presentation."
 date: 2026-02-10T16:20:00Z
 permalink: "p/1994-web-design/"
-tags: ['dotcom', '1994', 'season5']
+tags: ['dotcom', '1994']
 featureImage: "/assets/images/netscape-mozilla-team-1994.jpg"
 ---
 

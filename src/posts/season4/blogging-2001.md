@@ -3,7 +3,7 @@ title: "Blogging Gets Serious in 2001 With Warblogs and Movable Type"
 description: "After September 11, 2001, an influx of warblogs shakes up the blogosphere. It's part of a year-long transition in which blogging shifts from personal journaling to a more journalistic approach."
 date: 2025-10-29
 permalink: "p/blogs-rss-2001/"
-tags: ['dotcom', '2001', 'season4']
+tags: ['dotcom', '2001']
 featureImage: "/assets/images/blogdex-feature-2001.png"
 ---
 

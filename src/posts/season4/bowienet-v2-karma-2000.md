@@ -3,7 +3,7 @@ title: "Social Karma in 2000 With Slashdot and BowieNet Version 2.0"
 description: "By 2000, Slashdot's pioneering karma system is helping other online communities — like BowieNet — moderate user contributed content. Meanwhile, Google and Amazon enjoy good karma over 2000."
 date: 2025-09-24
 permalink: "p/karma-2000-slashdot-bowienet-v2/"
-tags: ['dotcom', '2000', 'season4']
+tags: ['dotcom', '2000']
 featureImage: "/assets/images/google-founders-tin-foil-capes-2000.jpg"
 youtube: "true"
 ---

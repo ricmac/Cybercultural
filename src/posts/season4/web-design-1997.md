@@ -3,7 +3,7 @@ title: "The 3 Gurus of 90s Web Design: Zeldman, Siegel, Nielsen"
 description: "With the rise of Flash and CSS in 1997, three web design philosophies emerge. David Siegel advocates for 'hacks', Jakob Nielsen keeps it simple, while Jeffrey Zeldman combines flair with usability."
 date: 2025-05-28
 permalink: "p/web-design-1997/"
-tags: ['dotcom', '1997', 'season4']
+tags: ['dotcom', '1997']
 featureImage: "/assets/images/90s-web-designers-feature.jpg"
 ---
 

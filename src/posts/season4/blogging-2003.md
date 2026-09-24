@@ -3,7 +3,7 @@ title: "The Blogosphere Blossoms in 2003 As RSS Readers Catch On"
 description: "In 2003, the read/write web becomes a reality when blog software enables anyone to write to the web. Meanwhile, RSS Readers like NetNewsWire and Bloglines bring distribution to the blogosphere."
 date: 2025-12-16
 permalink: "p/blogosphere-2003/"
-tags: ['dotcom', '2003', 'season4']
+tags: ['dotcom', '2003']
 featureImage: "/assets/images/netnewswire-2003-feature.jpg"
 ---
 

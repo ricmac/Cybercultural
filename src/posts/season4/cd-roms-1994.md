@@ -3,7 +3,7 @@ title: "CD-ROMS in 1994: Bowie, Prince, Gabriel, and Cybermania '94"
 description: "David Bowie, Prince and Peter Gabriel all have interactive CD-ROMs out in 1994, and have plans for further multimedia projects. But by the end of the year, the CD-ROM format is effectively over."
 date: 2025-01-22
 permalink: "p/cd-roms-1994/"
-tags: ['dotcom', '1994', 'season4']
+tags: ['dotcom', '1994']
 featureImage: "/assets/images/bowie-computer-94-1280.jpg"
 ---
 

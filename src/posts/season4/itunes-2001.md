@@ -3,7 +3,7 @@ title: "2001: Steve Jobs Launches iTunes and Apple’s Digital Hub"
 description: "With the announcement of iTunes in January 2001, Apple CEO Steve Jobs ushers in the legal digital music era. It also marks the beginning of Apple's renaissance as a Silicon Valley pioneer."
 date: 2025-10-14
 permalink: "p/itunes-launch-2001/"
-tags: ['dotcom', '2001', 'season4']
+tags: ['dotcom', '2001']
 featureImage: "/assets/images/steve-jobs-digitalhub-jan2001.jpg"
 ---
 

@@ -3,7 +3,7 @@ title: "2003: MySpace vs. Friendster in a Battle for Digital Natives"
 description: "Social networking becomes a trend in 2003, thanks largely to Friendster and a copycat called MySpace. But only one of these sites attracts the newly influential 'digital native' users of the internet."
 date: 2025-12-04
 permalink: "p/myspace-2003/"
-tags: ['dotcom', '2003', 'season4']
+tags: ['dotcom', '2003']
 featureImage: "/assets/images/myspace-sep2003-1280x720.jpg"
 youtube: "true"
 ---

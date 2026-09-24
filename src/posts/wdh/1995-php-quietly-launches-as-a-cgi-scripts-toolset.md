@@ -3,7 +3,7 @@ title: "1995: PHP Launches As Server-Side CGI Scripts Toolset"
 description: "In mid-1995, a toolset called Personal Home Page Tools (PHP Tools) launches — and hardly anyone notices. PHP isn’t a scripting language at this point, but it will eventually become one."
 date: 2021-04-13
 permalink: "p/1995-php-quietly-launches-as-a-cgi-scripts-toolset/"
-tags: ['dotcom', '1995', 'season2']
+tags: ['dotcom', '1995']
 featureImage: "/assets/images/wdh/php_elephant_wdh-1280x720.jpg"
 ---
 

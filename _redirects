@@ -1,13 +1,48 @@
+# Cloudflare stopped applying rules past roughly the 103rd rule in this file
+# (Sep 2026), silently. Keep it at about 100 rules or fewer: merge rules where you can
+# before adding more.
+# Cloudflare's docs: static redirects (exact paths) must come before dynamic ones
+# (any rule with * or :placeholder), and dynamic rules are capped at 100.
+
+### Static rules ###
+
 #High level redirects
 /feed /feed.xml 301
 /feed/ /feed.xml 301
 
 # Enshittocene era renamed to Platforms (Sep 2026)
 /enshittocene /platforms/ 301
-/enshittocene/* /platforms/:splat 301
 
 # WDH timeline moved from a .html file to a folder URL
 /wdh/timeline.html /wdh/timeline/ 301
+
+# Eleventy redirects
+/p/006-revving-up-2005-web- /p/006-revving-up-2005-web-20-conference/ 301
+/p/006-revving-up-2005-web-/ /p/006-revving-up-2005-web-20-conference/ 301
+/p/007-2005-web-20- /p/007-2005-web-20-conference-day-2/ 301
+/p/007-2005-web-20-/ /p/007-2005-web-20-conference-day-2/ 301
+/p/023-microsoft- /p/023-microsoft-mix-2007/ 301
+/p/023-microsoft-/ /p/023-microsoft-mix-2007/ 301
+/p/roadmap /p/roadmap-bubbleblog/ 301
+/p/roadmap/ /p/roadmap-bubbleblog/ 301
+/p/roadmap- /p/roadmap-bubbleblog/ 301
+/p/roadmap-/ /p/roadmap-bubbleblog/ 301
+
+# Old Cybercultural links from Substack
+/p/spotify-and-google-make-moves-in/ /p/spotify-and-google-make-moves-in-podcasting/ 301
+/p/spotify-and-google-make-moves-in /p/spotify-and-google-make-moves-in-podcasting/ 301
+/p/are-we-doing-enough-to-archive-digital /p/are-we-doing-enough-to-archive-digital-culture/ 301
+/p/are-we-doing-enough-to-archive-digital/ /p/are-we-doing-enough-to-archive-digital-culture/ 301
+
+### Dynamic rules ###
+
+# Enshittocene era renamed to Platforms (Sep 2026)
+/enshittocene/* /platforms/:splat 301
+
+# Seasons dropped from the site (Sep 2026): season pages and the two unpublished posts
+/season* /internet-history/ 301
+/p/seasons* /internet-history/ 301
+/p/history-of-web-design* /dotcom/ 301
 
 # Eleventy site changed menu names
 /personal* /notes 301
@@ -32,21 +67,9 @@
 /p/call-with-tim-oreilly-2004* /p/004-call-with-tim-oreilly-2004/ 301
 /p/what-the-web-was-like-in-2005* /p/internet-2005/ 301
 /p/meeting-new-york-times-may2010* /p/050-meeting-new-york-times-2010/ 301
-/p/006-revving-up-2005-web- /p/006-revving-up-2005-web-20-conference/ 301
-/p/006-revving-up-2005-web-/ /p/006-revving-up-2005-web-20-conference/ 301
-/p/007-2005-web-20- /p/007-2005-web-20-conference-day-2/ 301
-/p/007-2005-web-20-/ /p/007-2005-web-20-conference-day-2/ 301
-/p/023-microsoft- /p/023-microsoft-mix-2007/ 301
-/p/023-microsoft-/ /p/023-microsoft-mix-2007/ 301
-/p/roadmap /p/roadmap-bubbleblog/ 301
-/p/roadmap/ /p/roadmap-bubbleblog/ 301
-/p/roadmap- /p/roadmap-bubbleblog/ 301
-/p/roadmap-/ /p/roadmap-bubbleblog/ 301
 
 # Old Cybercultural links from Substack
 /p/introducing-cybercultural* / 301
-/p/spotify-and-google-make-moves-in/ /p/spotify-and-google-make-moves-in-podcasting/ 301
-/p/spotify-and-google-make-moves-in /p/spotify-and-google-make-moves-in-podcasting/ 301
 /p/whats-new-in-online-ticketing-cybercultural* / 301
 /p/wattpads-hollywood-formula-cybercultural* / 301
 /p/espn-airballs-its-nba-live-stream* / 301
@@ -65,8 +88,6 @@
 /p/nearly-extinct-pop-culture-activities* / 301
 /p/facebook-svod-google-podcast-search* / 301
 /p/amazon-publishing-muscle-netflix* / 301
-/p/are-we-doing-enough-to-archive-digital /p/are-we-doing-enough-to-archive-digital-culture/ 301
-/p/are-we-doing-enough-to-archive-digital/ /p/are-we-doing-enough-to-archive-digital-culture/ 301
 /p/tumblr-thoughts-the-future-of-social* / 301
 /p/ai-in-magazines-youtube-copyright* / 301
 /p/how-interactive-media-fits-into-the* /p/interactive-media-2019/ 301
@@ -112,7 +133,3 @@
 /p/quick-reader-survey* / 301
 /p/cybercultural-update* / 301
 /p/weekly-wrap-up* / 301
-
-# Cloudflare stopped applying rules past roughly the 103rd rule in this file
-# (Sep 2026), silently. Keep it at about 100 rules or fewer: merge rules where you can
-# before adding more.

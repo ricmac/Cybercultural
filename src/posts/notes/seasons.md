@@ -2,7 +2,10 @@
 title: "Seasons: A Fine Way To Structure a Website or Blog in 2025"
 description: "Borrowing a concept from podcasting, I'm introducing 'seasons' of content on Cybercultural. From season 1 in 2019, when I began this as a newsletter, to the current season 4 focused on dot-com."
 date: 2025-07-18
-permalink: "p/seasons/"
+# Unpublished Sep 2026 when seasons were dropped from the site. The post stays in the
+# repo; to republish, restore permalink: "p/seasons/" and delete the two lines below it.
+permalink: false
+eleventyExcludeFromCollections: true
 tags: ['notes']
 featureImage: "/assets/images/seasons-1280x720.jpg"
 ---

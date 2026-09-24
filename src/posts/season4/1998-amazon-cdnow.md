@@ -3,7 +3,7 @@ title: "1998: How Amazon Conquered Online CD Retailers Like CDnow"
 description: "At the start of 1998, CDnow and Music Boulevard are the leading online CD shops. Then in June, Amazon branches out from books and begins to sell music on its fast growing e-commerce website."
 date: 2025-07-01
 permalink: "p/cdnow-amazon-1998/"
-tags: ['dotcom', '1998', 'season4']
+tags: ['dotcom', '1998']
 featureImage: "/assets/images/cdnow-feature-dec1998.jpg"
 ---
 

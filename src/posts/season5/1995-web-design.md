@@ -3,7 +3,7 @@ title: "1995: From Batman Forever’s cinematic design to HTML tables"
 description: "1995 begins with web designers creating cinematic experiences using images and browser tricks, and ends with the arrival of table support in Netscape Navigator — giving true control over layout."
 date: 2026-03-03T16:20:00Z
 permalink: "p/1995-web-design/"
-tags: ['dotcom', '1995', 'season5']
+tags: ['dotcom', '1995']
 featureImage: "/assets/images/batman-forever-1995-feature.jpg"
 ---
 

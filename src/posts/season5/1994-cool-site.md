@@ -3,7 +3,7 @@ title: "1994: Cool Site of the Day and the rise of curated web design"
 description: "Although the Web is technically limited in 1994, it is a fast-growing network and so curation quickly becomes a design problem. Enter Glenn Davis and his website, Cool Site of the Day."
 date: 2026-02-17T14:00:00Z
 permalink: "p/1994-cool-site-of-the-day/"
-tags: ['dotcom', '1994', 'season5']
+tags: ['dotcom', '1994']
 featureImage: "/assets/images/cotd-feature.png"
 ---
 

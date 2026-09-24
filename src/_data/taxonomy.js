@@ -48,11 +48,7 @@ const taxonomy = {
     },
     memoir: {label: 'Memoir'},
     notes: {label: 'Notes'},
-    year: {label: 'Yearly Reviews'},
-    season1: {label: 'Season 1', keyword: false, section: false},
-    season2: {label: 'Season 2', keyword: false, section: false},
-    season4: {label: 'Season 4', keyword: false, section: false},
-    season5: {label: 'Season 5', keyword: false, section: false}
+    year: {label: 'Yearly Reviews'}
   },
 
   /** Every post is at minimum about this, when no tag says anything narrower. */

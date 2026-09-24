@@ -3,7 +3,7 @@ title: "2000: The Napster Monster and Apple’s Heavenly Jukebox"
 description: "Napster's legal woes intensify in 2000, even as creator Shawn Fanning is celebrated on MTV and on magazine covers. Meanwhile, Apple acquires a startup called SoundJam and turns it into iTunes."
 date: 2025-10-01
 permalink: "p/napster-itunes-2000/"
-tags: ['dotcom', '2000', 'season4']
+tags: ['dotcom', '2000']
 featureImage: "/assets/images/shawn-fanning-mtv-awards-2000-1280x720.jpg"
 ---
 

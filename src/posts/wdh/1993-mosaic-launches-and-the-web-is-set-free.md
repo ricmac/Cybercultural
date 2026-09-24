@@ -4,7 +4,7 @@ description: "On 21 April 1993, Marc Andreessen announces NCSA Mosaic 1.0, the f
 date: 2021-12-08
 lastUpdated: 2026-09-21
 permalink: "p/1993-mosaic-launches-and-the-web-is-set-free/"
-tags: ['dotcom', '1993', 'season2']
+tags: ['dotcom', '1993']
 featureImage: "/assets/images/wdh/mosaic.1.0.2-1280x720.jpg"
 ---
 

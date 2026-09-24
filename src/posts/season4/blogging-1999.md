@@ -3,7 +3,7 @@ title: "1999: Blogs Burst Onto the Scene, but RSS Is Slow To Settle"
 description: "The launch of Blogger in August 1999 signals the arrival of weblogs into mainstream web culture. At the same time, web syndication formats are being worked out — starting with Netscape's RSS 0.90."
 date: 2025-08-29
 permalink: "p/blogs-rss-1999/"
-tags: ['dotcom', '1999', 'season4']
+tags: ['dotcom', '1999']
 featureImage: "/assets/images/blogger-october1999-feature.png"
 ---
 

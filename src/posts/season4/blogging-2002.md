@@ -3,7 +3,7 @@ title: "How the Blogosphere Takes Shape in 2002, Along With RSS 2.0"
 description: "The blogosphere becomes a trend in 2002 — a growing ecosystem of weblogs interconnecting via feeds, comments and a new feature called trackback. We also see the debut of RSS 2.0 and Technorati."
 date: 2025-11-25
 permalink: "p/blogs-rss-2002/"
-tags: ['dotcom', '2002', 'season4']
+tags: ['dotcom', '2002']
 featureImage: "/assets/images/movable-type-add-entry-2002-feature.png"
 ---
 

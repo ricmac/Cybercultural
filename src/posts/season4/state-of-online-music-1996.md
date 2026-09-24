@@ -3,7 +3,7 @@ title: "State of Online Music in 1996: RealAudio and Rocktroplis"
 description: "Over 1996, the Web becomes an experimental testing ground for new ways of distributing and promoting music. RealAudio, Rocktropolis, Music Boulevard and IUMA are some of the leading sites."
 date: 2025-04-09
 permalink: "p/state-of-online-music-1996/"
-tags: ['dotcom', '1996', 'season4']
+tags: ['dotcom', '1996']
 featureImage: "/assets/images/online-music-96-feature.jpg"
 ---
 

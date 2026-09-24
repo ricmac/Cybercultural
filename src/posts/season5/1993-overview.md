@@ -3,7 +3,7 @@ title: "1993: Web browsers add multimedia and MTV.com goes online"
 description: "Mosaic adds an image tag to HTML and becomes the first modern web browser in 1993. Soon after, MTV VJ Adam Curry builds one of the world's first commercial websites — not that his bosses care."
 date: 2026-01-21T14:20:00Z
 permalink: "p/1993-mtv-internet/"
-tags: ['dotcom', '1993', 'season5']
+tags: ['dotcom', '1993']
 featureImage: "/assets/images/Adam_Curry-1993b.jpg"
 youtube: "true"
 ---

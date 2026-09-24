@@ -3,7 +3,7 @@ title: "The Emergence of Napster and P2P File Sharing in 1999"
 description: "Napster launches in May 1999 and soon there are millions of pirated songs online. Not even David Bowie, who releases an album via digital download that year, can foresee Napster's future influence."
 date: 2025-08-19
 permalink: "p/napster-1999/"
-tags: ['dotcom', '1999', 'season4']
+tags: ['dotcom', '1999']
 featureImage: "/assets/images/napster-founders-1999-1280x720.jpg"
 youtube: "true"
 ---

@@ -44,17 +44,6 @@ One article per year summarising what the internet was like that year.
 - [Web development history]({{ site }}/wdh/timeline/): a timeline of how web development evolved.
 - [Notes]({{ site }}/notes/): shorter personal and site posts ({{ collections.notes | length }}).
 
-The site's writing is also grouped into seasons, each a run of articles on a theme:
-{% set seasons = [
-  {slug: "season1", name: "Season 1"},
-  {slug: "season2", name: "Season 2"},
-  {slug: "season4", name: "Season 4"},
-  {slug: "season5", name: "Season 5"}
-] %}
-{%- for s in seasons %}{% if collections[s.slug] %}
-- [{{ s.name }}]({{ site }}/{{ s.slug }}/): {{ collections[s.slug] | length }} articles.
-{%- endif %}{% endfor %}
-
 ## All articles
 
 Newest first. Each link also has a markdown copy at the same URL plus `index.md`.

@@ -3,7 +3,7 @@ title: "The Dot-Com Crash of 2000 and Marc Andreessen’s Act 2"
 description: "The AOL-Time Warner merger in January 2000 triggers a slow deflation of the dot-com bubble, starting in March. Meanwhile, the Web's golden boy Marc Andreessen returns with a new startup."
 date: 2025-09-09
 permalink: "p/dotcom-crash-2000/"
-tags: ['dotcom', '2000', 'season4']
+tags: ['dotcom', '2000']
 featureImage: "/assets/images/startupfailures-august2000.jpg"
 ---
 

@@ -2,8 +2,11 @@
 title: "The history of web design, 1993–2012: season 5 launch"
 description: "Introducing Cybercultural's history of web design, from the grey web pages of 1993 to the colorful, mobile-centric web designs of 2012. A celebration of the peak years of personal websites and blogs."
 date: 2026-01-13T14:00:00Z
-permalink: "p/history-of-web-design/"
-tags: ['dotcom', 'web20', 'season5']
+# Unpublished Sep 2026 when seasons were dropped from the site. The post stays in the
+# repo; to republish, restore permalink: "p/history-of-web-design/" and delete the two lines below it.
+permalink: false
+eleventyExcludeFromCollections: true
+tags: ['dotcom', 'web20']
 featureImage: "/assets/images/web-design-feature-season5.jpg"
 ---
 

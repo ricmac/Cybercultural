@@ -3,7 +3,7 @@ title: "Multimedia Gulch in 1994: The Age of Interactive CD-ROMs"
 description: "Multimedia Gulch is a trendy neighbourhood in San Francisco in the 1990s, home to wannabe rock stars making CD-ROM adventure games. They live fast in a time of slow modems."
 date: 2025-01-16
 permalink: "p/multimedia-gulch-1994/"
-tags: ['dotcom', '1994', 'season4']
+tags: ['dotcom', '1994']
 featureImage: "/assets/images/multimedia-gulch-feature-1280.jpg"
 ---
 

@@ -3,7 +3,7 @@ title: "2002: Last.fm and Audioscrobbler Herald the Social Web"
 description: "Following in Amazon's footsteps, two student projects independently use 'collaborative filtering' to bring recommendations and social networking to online music; soon they will join forces."
 date: 2025-11-11
 permalink: "p/lastfm-audioscrobbler-2002/"
-tags: ['dotcom', '2002', 'season4']
+tags: ['dotcom', '2002']
 featureImage: "/assets/images/lastfm-oct2002-1262x710.jpg"
 youtube: "true"
 ---

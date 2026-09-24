@@ -3,7 +3,7 @@ title: "2000: Bloggers Make Friends, but RSS Format Wars Kick Off"
 description: "In 2000, the blogroll becomes a trend as bloggers increasingly link to each other. Meanwhile, RSS bifurcates into two opposing formats: Dave Winer's RSS 0.92 and the RDF-based RSS 1.0."
 date: 2025-09-17
 permalink: "p/blogs-rss-2000/"
-tags: ['dotcom', '2000', 'season4']
+tags: ['dotcom', '2000']
 featureImage: "/assets/images/2671536366_4c5418e326_oc.jpg"
 ---
 

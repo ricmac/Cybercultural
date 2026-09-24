@@ -3,7 +3,7 @@ title: "2003: BowieNet 3 Launch and the Peak of Flash Web Design"
 description: "Flash websites reach their peak in 2003, becoming almost the default for creative design on the web. David Bowie is on top of this internet trend and commissions a full Flash redesign of BowieNet."
 date: 2025-12-09
 permalink: "p/bowienet-v3-flash-2003/"
-tags: ['dotcom', '2003', 'season4']
+tags: ['dotcom', '2003']
 featureImage: "/assets/images/david-bowie-2003-feature.png"
 youtube: "true"
 ---
