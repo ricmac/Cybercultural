@@ -2,7 +2,11 @@
 title: "My Web Values: Why I Quit X and Feed the Fediverse Instead"
 description: "I stopped posting on Twitter, now known as X, in November 2023. X isn't open, it throttles distribution, and devalues links. Simply put, it doesn't align with my values as a supporter of the open web."
 date: 2025-03-20
-permalink: "p/web-values/"
+# Unpublished Sep 2026. The post stays in the repo; to republish, restore
+# permalink: "p/web-values/" and delete the two lines below it (and its entry in
+# src/pages/forwarding-pages.njk).
+permalink: false
+eleventyExcludeFromCollections: true
 tags: ['notes']
 featureImage: "/assets/images/fediverse-rebel-alliance.jpg"
 ---

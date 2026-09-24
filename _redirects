@@ -1,6 +1,6 @@
 # Cloudflare stopped applying rules past roughly the 103rd rule in this file
 # (Sep 2026), silently. Keep it at 100 rules or fewer: merge rules where you can,
-# or use forwarding pages (see src/pages/seasons-redirects.njk), before adding more.
+# or use forwarding pages (see src/pages/forwarding-pages.njk), before adding more.
 # Cloudflare's docs also say static rules (exact paths) must come before dynamic
 # ones (any rule with * or :placeholder).
 

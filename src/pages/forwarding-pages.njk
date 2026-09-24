@@ -1,9 +1,8 @@
 ---
-# Seasons were dropped from the site in Sep 2026. Each old season URL, and the
-# two posts unpublished with them, gets a tiny page that forwards to the closest
-# live page. These are pages rather than _redirects rules because Cloudflare
-# silently ignores rules past roughly the 100th. The old URLs are fixed history,
-# so this list never needs to grow.
+# Old URLs for pages that were removed or unpublished, each forwarding to the
+# closest live page. These are pages rather than _redirects rules because
+# Cloudflare silently ignores rules past roughly the 100th. Seasons were dropped
+# from the site in Sep 2026, along with the posts unpublished at the same time.
 pagination:
   data: moved
   size: 1
@@ -24,6 +23,7 @@ moved:
   - {from: /season5/, to: /internet-history/}
   - {from: /p/seasons/, to: /internet-history/}
   - {from: /p/history-of-web-design/, to: /dotcom/}
+  - {from: /p/web-values/, to: /notes/}
 permalink: "{{ move.from }}index.html"
 eleventyExcludeFromCollections: true
 excludeFromSitemap: true
