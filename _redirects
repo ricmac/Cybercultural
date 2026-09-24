@@ -2,6 +2,10 @@
 /feed /feed.xml 301
 /feed/ /feed.xml 301
 
+# Enshittocene era renamed to Platforms (Sep 2026)
+/enshittocene /platforms/ 301
+/enshittocene/* /platforms/:splat 301
+
 # WDH timeline moved from a .html file to a folder URL
 /wdh/timeline.html /wdh/timeline/ 301
 
@@ -109,7 +113,6 @@
 /p/cybercultural-update* / 301
 /p/weekly-wrap-up* / 301
 
-# Enshittocene era renamed to Platforms (Sep 2026). Handled by forwarding pages
-# in src/pages/enshittocene-redirects.njk, not here: Cloudflare stopped applying
-# rules past roughly the 100th line of rules in this file, so keep it under 100
-# (merge rules where you can) before adding more.
+# Cloudflare stopped applying rules past roughly the 103rd rule in this file
+# (Sep 2026), silently. Keep it at about 100 rules or fewer: merge rules where you can
+# before adding more.
