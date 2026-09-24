@@ -12,12 +12,10 @@
 /donate* /subscribe 301
 
 # Substack main menu redirects
-/archive / 301
-/archive/ / 301
+/archive* / 301
 /s/memoir* /memoir 301
-/s/culture-tech* / 301
-/s/tech-history* / 301
 /s/web-history* /internet-history/ 301
+/s/* / 301
 /people/232063-richard-macmanus* /about/ 301
 
 # Eleventy redirects
@@ -59,7 +57,7 @@
 /p/the-micropayments-market* / 301
 /p/taking-on-internet-platform-bullies* / 301
 /p/adapting-to-the-post-print-world* / 301
-/p/exclusive-data-online-gaming-habits* / 301
+/p/exclusive-data-* / 301
 /p/nearly-extinct-pop-culture-activities* / 301
 /p/facebook-svod-google-podcast-search* / 301
 /p/amazon-publishing-muscle-netflix* / 301
@@ -79,7 +77,6 @@
 /p/bowie-houdini-and-other-reasons-i* /p/reasons-i-love-blogs-and-newsletters/ 301
 /p/apple-culture-tech-news-the-rise* / 301
 /p/peak-tv-vevo-vs-spotify-bjrk-vr-ebook* / 301
-/p/exclusive-data-email-newsletters* / 301
 /p/new-washington-post-ad-network-and* / 301
 /p/facebook-portal-pop-music-pressures* / 301
 /p/spotify-upgrades-artist-app-espn* / 301
@@ -109,15 +106,10 @@
 /p/loneliness* / 301
 /p/mobile-internet* / 301
 /p/quick-reader-survey* / 301
-/p/cybercultural-update-survey-results* / 301
-/p/cybercultural-update-launching-paid* / 301
-/p/weekly-wrap-up-7-13-sep-19* / 301
-/p/weekly-wrap-up-14-20-sep-2019* / 301
-/p/weekly-wrap-up-21-27-sep-2019* / 301
-/p/weekly-wrap-up-28-sep-4-oct-19* / 301
+/p/cybercultural-update* / 301
+/p/weekly-wrap-up* / 301
 
-# Enshittocene era renamed to Platforms (Sep 2026)
-/enshittocene /platforms/ 301
-/enshittocene/ /platforms/ 301
-/enshittocene/page/* /platforms/page/:splat 301
-/enshittocene/* /platforms/:splat 301
+# Enshittocene era renamed to Platforms (Sep 2026). Handled by forwarding pages
+# in src/pages/enshittocene-redirects.njk, not here: Cloudflare stopped applying
+# rules past roughly the 100th line of rules in this file, so keep it under 100
+# (merge rules where you can) before adding more.
