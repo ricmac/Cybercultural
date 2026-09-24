@@ -79,9 +79,7 @@
 
     {% include "partials/footer.njk" %} {% if youtube %}
     <!-- youtube, if actvated in frontmatter -->
-    <script type="module">
-import justinribeiroliteYoutube from 'https://cdn.jsdelivr.net/npm/@justinribeiro/lite-youtube@1.7.1/+esm'
-</script>
+    <script type="module" src="/assets/scripts/lite-youtube.js?v=__ASSET_HASH_YOUTUBE__"></script>
     {% endif %}
   </body>
 </html>

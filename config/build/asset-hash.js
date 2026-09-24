@@ -3,22 +3,23 @@ import fs from 'node:fs';
 import path from 'node:path';
 
 /**
- * Cache-busting for the stylesheet and the app bundle.
+ * Cache-busting for the stylesheet and the script bundles.
  *
- * base.njk ships the placeholders __ASSET_HASH_CSS__ / __ASSET_HASH_JS__ in the
+ * base.njk ships placeholders such as __ASSET_HASH_CSS__ / __ASSET_HASH_JS__ in the
  * query string. Once the build has written the real files we hash their actual
  * bytes and substitute the hash in. The URL is therefore stable across builds
  * that produce identical assets — so a reader downloads global.css once instead
  * of once per page — and changes as soon as the asset's content changes.
  *
  * Hashing the compiled output rather than the sources matters here: global.css
- * is assembled by postcss and Tailwind, so its content can change when a
+ * is assembled by postcss from many files, so its content can change when a
  * template changes even though no file under src/assets/css did.
  */
 
 const ASSETS = {
   CSS: 'assets/css/global.css',
-  JS: 'assets/scripts/app.js'
+  JS: 'assets/scripts/app.js',
+  YOUTUBE: 'assets/scripts/lite-youtube.js'
 };
 
 const HTML_EXTENSIONS = new Set(['.html']);
@@ -55,7 +56,7 @@ export default function rewriteAssetHashes(outputDir) {
     hashes[token] = hash || 'static';
   }
 
-  const pattern = /__ASSET_HASH_(CSS|JS)__/g;
+  const pattern = /__ASSET_HASH_(CSS|JS|YOUTUBE)__/g;
   let rewritten = 0;
 
   for (const file of htmlFiles(outputDir)) {
@@ -66,6 +67,6 @@ export default function rewriteAssetHashes(outputDir) {
   }
 
   console.log(
-    `[asset-hash] css=${hashes.CSS} js=${hashes.JS} — stamped into ${rewritten} pages`
+    `[asset-hash] css=${hashes.CSS} js=${hashes.JS} youtube=${hashes.YOUTUBE} — stamped into ${rewritten} pages`
   );
 }

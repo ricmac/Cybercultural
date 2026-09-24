@@ -6,7 +6,9 @@ export default function (eleventyConfig) {
   eleventyConfig.addExtension('js', {
     outputFileExtension: 'js',
     compile: async (content, path) => {
-      if (path !== './src/assets/scripts/app.js') {
+      // Bundled entry points; any other .js file under src is left alone.
+      const entryPoints = ['./src/assets/scripts/app.js', './src/assets/scripts/lite-youtube.js'];
+      if (!entryPoints.includes(path)) {
         return;
       }
 
