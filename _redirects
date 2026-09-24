@@ -1,17 +1,14 @@
 # Cloudflare stopped applying rules past roughly the 103rd rule in this file
-# (Sep 2026), silently. Keep it at about 100 rules or fewer: merge rules where you can
-# before adding more.
-# Cloudflare's docs: static redirects (exact paths) must come before dynamic ones
-# (any rule with * or :placeholder), and dynamic rules are capped at 100.
+# (Sep 2026), silently. Keep it at 100 rules or fewer: merge rules where you can,
+# or use forwarding pages (see src/pages/seasons-redirects.njk), before adding more.
+# Cloudflare's docs also say static rules (exact paths) must come before dynamic
+# ones (any rule with * or :placeholder).
 
 ### Static rules ###
 
 #High level redirects
 /feed /feed.xml 301
 /feed/ /feed.xml 301
-
-# Enshittocene era renamed to Platforms (Sep 2026)
-/enshittocene /platforms/ 301
 
 # WDH timeline moved from a .html file to a folder URL
 /wdh/timeline.html /wdh/timeline/ 301
@@ -37,12 +34,8 @@
 ### Dynamic rules ###
 
 # Enshittocene era renamed to Platforms (Sep 2026)
-/enshittocene/* /platforms/:splat 301
-
-# Seasons dropped from the site (Sep 2026): season pages and the two unpublished posts
-/season* /internet-history/ 301
-/p/seasons* /internet-history/ 301
-/p/history-of-web-design* /dotcom/ 301
+# One rule covers /enshittocene, /enshittocene/ and /enshittocene/page/N/
+/enshittocene* /platforms:splat 301
 
 # Eleventy site changed menu names
 /personal* /notes 301

@@ -1,0 +1,43 @@
+---
+# Seasons were dropped from the site in Sep 2026. Each old season URL, and the
+# two posts unpublished with them, gets a tiny page that forwards to the closest
+# live page. These are pages rather than _redirects rules because Cloudflare
+# silently ignores rules past roughly the 100th. The old URLs are fixed history,
+# so this list never needs to grow.
+pagination:
+  data: moved
+  size: 1
+  alias: move
+moved:
+  - {from: /seasons/, to: /internet-history/}
+  - {from: /season1/, to: /internet-history/}
+  - {from: /season1/page/2/, to: /internet-history/}
+  - {from: /season1/page/3/, to: /internet-history/}
+  - {from: /season2/, to: /internet-history/}
+  - {from: /season2/page/2/, to: /internet-history/}
+  - {from: /season2/page/3/, to: /internet-history/}
+  - {from: /season4/, to: /internet-history/}
+  - {from: /season4/page/2/, to: /internet-history/}
+  - {from: /season4/page/3/, to: /internet-history/}
+  - {from: /season4/page/4/, to: /internet-history/}
+  - {from: /season4/page/5/, to: /internet-history/}
+  - {from: /season5/, to: /internet-history/}
+  - {from: /p/seasons/, to: /internet-history/}
+  - {from: /p/history-of-web-design/, to: /dotcom/}
+permalink: "{{ move.from }}index.html"
+eleventyExcludeFromCollections: true
+excludeFromSitemap: true
+---
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Page moved | Cybercultural</title>
+<link rel="canonical" href="{{ meta.url }}{{ move.to }}">
+<meta name="robots" content="noindex">
+<meta http-equiv="refresh" content="0; url={{ move.to }}">
+<script>location.replace("{{ move.to }}" + location.search + location.hash);</script>
+</head>
+<body>
+<p>This page has moved to <a href="{{ move.to }}">{{ move.to }}</a>.</p>
+</body>
+</html>
