@@ -29,9 +29,9 @@ preloads:
       {%- set tagTitle = taxonomy.tags[tag].label -%}
 
       {%- if tagTitle -%}
-        <a href="/{{ tag | slug }}">{{ tagTitle }}</a>
+        <a href="/{{ tag | slug }}/">{{ tagTitle }}</a>
       {%- else -%}
-        <a href="/tags/{{ tag | slug }}">{{ tag }}</a>
+        <a href="/tags/{{ tag | slug }}/">{{ tag }}</a>
       {%- endif -%}
 
       {%- if not loop.last %}, {% endif -%}

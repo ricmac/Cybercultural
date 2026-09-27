@@ -20,11 +20,11 @@ After ReadWriteWeb I kept writing about technology as a journalist and editor. F
 
 Originally from New Zealand, I now live in the UK. My full [career archive](https://ricmac.org/career-archive/) is on my personal site, ricmac.org.
 
-Cybercultural is [free to read](/subscribe), but you can support the project via a small donation on [my Ko-fi page](https://ko-fi.com/cybercultural):
+Cybercultural is [free to read](/subscribe/), but you can support the project via a small donation on [my Ko-fi page](https://ko-fi.com/cybercultural):
 
 <script src='https://storage.ko-fi.com/cdn/widget/Widget_2.js'></script><script>kofiwidget2.init('Support Cybercultural', '#b80103', 'F1F61AI58P');kofiwidget2.draw();</script> 
 
-See the [site colophon](/uses) for details on how I built Cybercultural.
+See the [site colophon](/uses/) for details on how I built Cybercultural.
 
 ## Testimonials
 

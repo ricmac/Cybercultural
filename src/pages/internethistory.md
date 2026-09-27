@@ -7,16 +7,16 @@ layout: internethistory
 
 To explore Cybercultural's archive of internet history articles, you can browse by internet era:
 
-* [Pre-web](/preweb) (1960s-80s)
+* [Pre-web](/preweb/) (1960s-80s)
 * [Web 1.0](/web1/) (1990-2003)
-* [Web 2.0](/web20) (2004-2012)
-* [Platforms](/platforms) (2013-2021)
-* [AI](/ai) (2022-current)
+* [Web 2.0](/web20/) (2004-2012)
+* [Platforms](/platforms/) (2013-2021)
+* [AI](/ai/) (2022-current)
 
-[Yearly reviews](/year) provide an overview of internet history in a certain year (e.g. [1995](/p/internet-1995/) or [2004](/p/internet-2004/)).
+[Yearly reviews](/year/) provide an overview of internet history in a certain year (e.g. [1995](/p/internet-1995/) or [2004](/p/internet-2004/)).
 
 Other pages you might like to explore:
 
 * [Notes](/notes/) are posts that aren't necessarily about internet history and are a mix of personal and admin.
-* [RWW archive](/rww) is a replanting of old posts I wrote for ReadWriteWeb.
-* [Search Cybercultural](/search) for anything else you're looking for in internet history.
+* [RWW archive](/rww/) is a replanting of old posts I wrote for ReadWriteWeb.
+* [Search Cybercultural](/search/) for anything else you're looking for in internet history.
