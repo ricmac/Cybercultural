@@ -4,7 +4,7 @@ description: "Announcing the release of my memoir as a paperback and eBook. Four
 date: 2024-12-20
 lastUpdated: 2025-08-04
 permalink: "p/book-release-bubbleblog/"
-tags: ['memoir']
+tags: ['memoir', 'web20']
 featureImage: "/assets/images/bubble-blog-cover-1280x720.jpg"
 ---
 
