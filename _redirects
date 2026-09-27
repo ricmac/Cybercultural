@@ -10,6 +10,10 @@
 /feed /feed.xml 301
 /feed/ /feed.xml 301
 
+# Enshittocene era renamed to Platforms (Sep 2026). Bare path goes straight to
+# the trailing-slash URL, so there's no extra hop through Cloudflare's /platforms -> /platforms/
+/enshittocene /platforms/ 301
+
 # WDH timeline moved from a .html file to a folder URL
 /wdh/timeline.html /wdh/timeline/ 301
 
@@ -23,7 +27,6 @@
 /p/roadmap /p/roadmap-bubbleblog/ 301
 /p/roadmap/ /p/roadmap-bubbleblog/ 301
 /p/roadmap- /p/roadmap-bubbleblog/ 301
-/p/roadmap-/ /p/roadmap-bubbleblog/ 301
 
 # Old Cybercultural links from Substack
 /p/spotify-and-google-make-moves-in/ /p/spotify-and-google-make-moves-in-podcasting/ 301
@@ -33,9 +36,8 @@
 
 ### Dynamic rules ###
 
-# Enshittocene era renamed to Platforms (Sep 2026)
-# One rule covers /enshittocene, /enshittocene/ and /enshittocene/page/N/
-/enshittocene* /platforms:splat 301
+# Enshittocene era renamed to Platforms (Sep 2026): /enshittocene/ and page/N/
+/enshittocene/* /platforms/:splat 301
 
 # Eleventy site changed menu names
 /personal* /notes 301
