@@ -163,12 +163,21 @@ nav.navbar .dropdown-menu {
   nav.navbar .dropdown-menu a {
     --text-color: #333;
     padding: 8px 16px;
+    white-space: nowrap;
   }
 
   nav.navbar .dropdown-menu a:where(:hover, :focus) {
     --border-color: transparent;
     background-color: #f0f0f0;
   }
+}
+
+/* Each era's years sit beside its name, so short names like "Platforms"
+   and "AI" read as eras rather than topics. */
+nav.navbar .era-years {
+  font-size: 0.8em;
+  opacity: 0.7;
+  white-space: nowrap;
 }
 
 @keyframes dropdown-fade-in {
