@@ -40,14 +40,14 @@
 /enshittocene/* /platforms/:splat 301
 
 # Eleventy site changed menu names
-/personal* /notes 301
-/misc* /notes 301
-/blog* /notes 301
-/donate* /subscribe 301
+/personal* /notes/ 301
+/misc* /notes/ 301
+/blog* /notes/ 301
+/donate* /subscribe/ 301
 
 # Substack main menu redirects
 /archive* / 301
-/s/memoir* /memoir 301
+/s/memoir* /memoir/ 301
 /s/web-history* /internet-history/ 301
 /s/* / 301
 /people/232063-richard-macmanus* /about/ 301
