@@ -3,7 +3,7 @@ title: "What the Internet Was Like in 2002"
 description: "With Flash websites and CSS designs, the broadband-fueled 2002 internet is full of creativity. Meanwhile, online music is the wild west and the blogosphere points the way to a more social web."
 date: 2025-12-02
 permalink: "p/internet-2002/"
-tags: ['dotcom', 'year', '2002']
+tags: ['web1', 'year', '2002']
 featureImage: "/assets/images/kazaa-feature-image-2002.jpg"
 youtube: "true"
 ---

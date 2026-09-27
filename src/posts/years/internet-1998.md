@@ -3,7 +3,7 @@ title: "What the Internet Was Like in 1998"
 description: "It's 1998, the middle of the dot-com boom. Portals are advertising on TV, web developers are fighting browser companies, Microsoft and Amazon are gaining power, and Netscape is going open source."
 date: 2025-07-15
 permalink: "p/internet-1998/"
-tags: ['dotcom', 'year', '1998']
+tags: ['web1', 'year', '1998']
 featureImage: "/assets/images/do-you-yahoo-1998-tv-advert.jpg"
 ---
 

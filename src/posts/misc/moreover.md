@@ -3,7 +3,7 @@ title: "Paradise Lost: How Moreover Won & Lost the Real-Time Web"
 description: "News aggregator Moreover was born in the late 1990s, at the same time as Google, and at one point dominated the real-time news market. So why did Moreover turn its back on the consumer web?"
 date: 2015-03-17
 permalink: "p/moreover/"
-tags: ['dotcom']
+tags: ['web1']
 featureImage: "/assets/images/moreover-featureimage.jpg"
 ---
 

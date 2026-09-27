@@ -4,7 +4,7 @@ description: "Part web portal, part Internet Service Provider, part proto-blog â
 date: 2023-01-10
 lastUpdated: 2024-02-15
 permalink: "p/bowienet-the-inside-story/"
-tags: ['dotcom', '1998']
+tags: ['web1', '1998']
 featureImage: "/assets/images/bowienet-feature-1280x720.jpg"
 ---
 

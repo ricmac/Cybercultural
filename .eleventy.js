@@ -56,7 +56,7 @@ export default function(eleventyConfig) {
   eleventyConfig.addLayoutAlias('page', 'page.njk');
   eleventyConfig.addLayoutAlias('home', 'home.njk');
   eleventyConfig.addLayoutAlias('post', 'post.njk');
-  eleventyConfig.addLayoutAlias('dotcom', 'dotcom.njk');
+  eleventyConfig.addLayoutAlias('web1', 'web1.njk');
   eleventyConfig.addLayoutAlias('web20', 'web20.njk');
   eleventyConfig.addLayoutAlias('preweb', 'preweb.njk');
   eleventyConfig.addLayoutAlias('blog', 'blog.njk');
@@ -164,7 +164,7 @@ export default function(eleventyConfig) {
       .filter(post => {
         return post.data.tags && (
           post.data.tags.includes("web20") ||
-          post.data.tags.includes("dotcom") ||
+          post.data.tags.includes("web1") ||
           post.data.tags.includes("notes") ||
           post.data.tags.includes("platforms") ||
           post.data.tags.includes("season1") ||

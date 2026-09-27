@@ -3,7 +3,7 @@ title: "What the Internet Was Like in 2003"
 description: "Blogging goes mainstream in 2003; and with the launch of Google AdSense, pro blogs emerge too. Also the iTunes store debuts, social networks ramp up, and Flash websites are everywhere."
 date: 2025-12-23
 permalink: "p/internet-2003/"
-tags: ['dotcom', 'year', '2003']
+tags: ['web1', 'year', '2003']
 featureImage: "/assets/images/jamiroquai-flash-website-2003.jpg"
 youtube: "true"
 ---

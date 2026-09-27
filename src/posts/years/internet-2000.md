@@ -3,7 +3,7 @@ title: "What the Internet Was Like in 2000"
 description: "In 2000, Flash websites proliferate, blogging expands, social news sites like Slashdot gain influence — all of this while the dot-com bubble slowly deflates and Napster dominates headlines."
 date: 2025-10-08
 permalink: "p/internet-2000/"
-tags: ['dotcom', 'year', '2000']
+tags: ['web1', 'year', '2000']
 featureImage: "/assets/images/macromedia-june2000.jpg"
 youtube: "true"
 ---

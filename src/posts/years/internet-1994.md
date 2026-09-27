@@ -3,7 +3,7 @@ title: "What the Internet Was Like in 1994"
 description: "In 1994, the World Wide Web becomes the default multimedia channel of the Internet. With the launch of Netscape Navigator and early websites like Yahoo! and HotWired, the Web achieves lift-off."
 date: 2025-03-05
 permalink: "p/internet-1994/"
-tags: ['dotcom', 'year', '1994']
+tags: ['web1', 'year', '1994']
 featureImage: "/assets/images/1994-internet-feature-mozilla.jpg"
 ---
 

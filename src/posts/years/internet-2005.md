@@ -47,7 +47,7 @@ Along with RSS, APIs and Ruby on Rails, Ajax was among the most talked about tec
 
 ## Web 2.0 Business in 2005
 
-There was [cautious optimism](https://web.archive.org/web/20021031221517if_/http://www.readwriteweb.com/archives/002875.php) throughout 2005 that people could actually make money from Web 2.0 — that it would be different from how the [dot-com era](/dotcom/) ended. In a 2005 post I wrote [on ZDNet](https://web.archive.org/web/20060818060016/http://blogs.zdnet.com/web2explorer/?p=71), I discussed one of the trending product categories at this time: mashups.
+There was [cautious optimism](https://web.archive.org/web/20021031221517if_/http://www.readwriteweb.com/archives/002875.php) throughout 2005 that people could actually make money from Web 2.0 — that it would be different from how the [dot-com era](/web1/) ended. In a 2005 post I wrote [on ZDNet](https://web.archive.org/web/20060818060016/http://blogs.zdnet.com/web2explorer/?p=71), I discussed one of the trending product categories at this time: mashups.
 
 > “Mashups is a current hot topic and many people are getting excited about the possibility of earning money by mashing up several services into one. I recently did a review of the top mashups on the Web today and was impressed by the quality and number of mashups and API services, from Virtual Places to mashingtonpost.com.”
 

@@ -21,7 +21,7 @@ const taxonomy = {
       label: 'Web 2.0',
       about: {name: 'Web 2.0', sameAs: ['https://en.wikipedia.org/wiki/Web_2.0']}
     },
-    dotcom: {
+    web1: {
       label: 'Web 1.0',
       about: {name: 'History of the World Wide Web', sameAs: ['https://en.wikipedia.org/wiki/History_of_the_World_Wide_Web']}
     },

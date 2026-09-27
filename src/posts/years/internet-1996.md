@@ -3,7 +3,7 @@ title: "What the Internet Was Like in 1996"
 description: "In 1996, the internet becomes an integral part of society. Web portals are all the rage, e-commerce matures, web designers get new tools (like CSS and Flash), and web applications begin to appear."
 date: 2025-05-09
 permalink: "p/internet-1996/"
-tags: ['dotcom', 'year', '1996']
+tags: ['web1', 'year', '1996']
 featureImage: "/assets/images/internet-1996-feature.jpg"
 ---
 

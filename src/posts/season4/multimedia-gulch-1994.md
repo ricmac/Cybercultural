@@ -3,7 +3,7 @@ title: "Multimedia Gulch in 1994: The Age of Interactive CD-ROMs"
 description: "Multimedia Gulch is a trendy neighbourhood in San Francisco in the 1990s, home to wannabe rock stars making CD-ROM adventure games. They live fast in a time of slow modems."
 date: 2025-01-16
 permalink: "p/multimedia-gulch-1994/"
-tags: ['dotcom', '1994']
+tags: ['web1', '1994']
 featureImage: "/assets/images/multimedia-gulch-feature-1280.jpg"
 ---
 
@@ -72,7 +72,7 @@ A modem, short for "modulator-demodulator,” was a piece of equipment that tran
 
 In a November 1994 review of the Netscape beta, David Brody [wrote](https://web.archive.org/web/19961102091029/http://desires.com/1.1/Features/netscape.html) that “Mosaic Netscape was developed with the aim of addressing the needs of bandwidth deprived computer owners like me,” but that it was still “a snail when it comes to loading those cool color pictures and happening sounds.” He noted that Mosaic Netscape had a nifty feature to help cope with slow downloads: it would allow the user to go on browsing while the browser downloaded items in the background. This would become a familiar feature of the early web browsing experience in the mid-1990s — images loading “a piece at a time” (as Brody put it), so that you could at least read the surrounding text while you waited for the full web page to appear.
 
-So while the multimedia Web did in a sense arrive with the beta of Mosaic Netscape, the user experience was far from optimal. Which is why CD-ROMs were still seen as the best format for multimedia in those [early years of the Web](/dotcom/).
+So while the multimedia Web did in a sense arrive with the beta of Mosaic Netscape, the user experience was far from optimal. Which is why CD-ROMs were still seen as the best format for multimedia in those [early years of the Web](/web1/).
 
 ## Multimedia and Interactivity
 

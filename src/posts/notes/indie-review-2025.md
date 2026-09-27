@@ -30,7 +30,7 @@ Here were the top 10 posts on Cybercultural this year, not counting the homepage
 9. [What the Internet Was Like in 2005](/p/internet-2005/); published June 1, 2024
 10. [What the Internet Was Like in 1995](/p/internet-1995/); published March 26, 2025
 
-Five of the posts covered the dot-com period (including four from my [dot-com series](/dotcom/)) and five were posts in my annual wrapup series. The latter series has done relatively well in search engines and the posts are being cited by LLMs.
+Five of the posts covered the dot-com period (including four from my [dot-com series](/web1/)) and five were posts in my annual wrapup series. The latter series has done relatively well in search engines and the posts are being cited by LLMs.
 
 Six of the top 10 posts were written this year, three in 2024, and one (the birth of JavaScript) was written way back in 2020. All my posts are designed to be "evergreen," although I'm not even sure what that means anymore in the age of AI and declining SEO. But that JavaScript post has endured — including as a source quoted by LLMs.
 
@@ -79,7 +79,7 @@ I'll be praying to the Google Discover gods again in 2026, because coverage ther
 
 ## The Dot-com Series and Replanting
 
-This year I focused on [the dot-com era](/dotcom/), with the theme 'the birth of digital culture'. I began on January 16 with a post about [multimedia in 1994](/p/multimedia-gulch-1994/); and now in December I'm finishing up the 2003 series of posts.
+This year I focused on [the dot-com era](/web1/), with the theme 'the birth of digital culture'. I began on January 16 with a post about [multimedia in 1994](/p/multimedia-gulch-1994/); and now in December I'm finishing up the 2003 series of posts.
 
 ![Cybercultural homepage, December 2025](/assets/images/cybercultural-homepage-17dec2025.png)
 *Cybercultural homepage, December 2025.*

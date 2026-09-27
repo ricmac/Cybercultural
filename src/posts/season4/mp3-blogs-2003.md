@@ -3,7 +3,7 @@ title: "2003: MP3 Blogs and Pitchfork Shake Up Music Media"
 description: "Online music and blogging were two key trends in the first decade of digital culture. In 2003, they combine in the form of MP3 blogs. Together with Pitchfork, they revolutionize music journalism."
 date: 2025-12-30T15:42:00Z
 permalink: "p/mp3-blogs-2003/"
-tags: ['dotcom', '2003']
+tags: ['web1', '2003']
 featureImage: "/assets/images/pitchfork-rapture-review-2003.png"
 youtube: "true"
 ---
@@ -11,7 +11,7 @@ youtube: "true"
 ![Pitchfork website in 2003](/assets/images/pitchfork-rapture-review-2003.png){loading="eager"}
 *Pitchfork's 2003 [review](https://web.archive.org/web/20031202212002/http://www.pitchforkmedia.com/record-reviews/r/rapture/echoes.shtml) of MP3 blogger favorite, The Rapture.*
 
-This year Cybercultural has focused on [the rise of digital culture](/dotcom/) from 1994 through to 2003, a period that encompasses the beginning of the web, moves through the dot-com boom and bust, and ends the year before Web 2.0 emerges. During this series, I've written a lot about how both online music and blogging evolved from 1994-2003 — helping to push the internet into mainstream culture. It's appropriate, then, that the final post of this series looks at a sub-trend that combines these two topics: music blogs, a.k.a. "MP3 blogs."
+This year Cybercultural has focused on [the rise of digital culture](/web1/) from 1994 through to 2003, a period that encompasses the beginning of the web, moves through the dot-com boom and bust, and ends the year before Web 2.0 emerges. During this series, I've written a lot about how both online music and blogging evolved from 1994-2003 — helping to push the internet into mainstream culture. It's appropriate, then, that the final post of this series looks at a sub-trend that combines these two topics: music blogs, a.k.a. "MP3 blogs."
 
 By 2003, with [the blogosphere now established](/p/blogosphere-2003/), music fans had begun to gravitate to blogs to pontificate about the music and artists they loved. It was no longer necessary to set up an entire website, like the proprietors of Teenage Wildlife and BowieWonderworld — [two leading David Bowie fan sites](/p/david-bowie-website-1995-1997/) — had done in the 1990s. If you simply wanted to express your opinions about music online, without the technical hassle of dealing with a web server, then a blogging service like Blogger or LiveJournal was the way to go. (You could still opt for [a Geocities site](/p/geocities-1995/), but its geographic metaphors were now considered passé on the web).
 

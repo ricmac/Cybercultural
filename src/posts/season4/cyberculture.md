@@ -119,7 +119,7 @@ Nowadays this field of study is more broadly called "media studies." The word "c
 
 Of course, what Hilton defined as cyberculture — an automated society where mankind is freed from drudgery by computers — is very different to what it ended up meaning in the 90s. You could even argue that McLuhan got it right, that society has been flattened to a “global village" because of the internet. But I for one am more attracted to Hilton's goal (and Engelbart's): to uplift humanity through that same technology. And who knows, Hilton's theories may end up being extremely relevant if AI continues on its current trajectory.
 
-The fact remains that McLuhan got all the glory in internet culture and Hilton was mostly forgotten after the 1960s. Then again, the peak of technology for McLuhan was television (since he died in 1980, before PCs really gained traction). Hilton got to see and experience PCs, then [the web](/dotcom/) and internet culture. Her death in 2011 happened near the end of [Web 2.0](/web20/), so she may even have sampled social media.
+The fact remains that McLuhan got all the glory in internet culture and Hilton was mostly forgotten after the 1960s. Then again, the peak of technology for McLuhan was television (since he died in 1980, before PCs really gained traction). Hilton got to see and experience PCs, then [the web](/web1/) and internet culture. Her death in 2011 happened near the end of [Web 2.0](/web20/), so she may even have sampled social media.
 
 Unfortunately, Hilton left no trace of what she thought of the internet and web revolutions. But we can at least be grateful for her 1960s vision for a cybercultural revolution. Some of us are still pursuing it.
 

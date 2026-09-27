@@ -4,7 +4,7 @@ description: "In October 2001, Brewster Kahle demonstrates a new time machine fr
 date: 2025-10-21
 lastUpdated: 2026-09-21
 permalink: "p/wayback-machine-launch-2001/"
-tags: ['dotcom', '2001']
+tags: ['web1', '2001']
 featureImage: "/assets/images/internet-archive-website-nov01.jpg"
 ---
 

@@ -3,7 +3,7 @@ title: "What the Internet Was Like in 1999"
 description: "In 1999, Microsoft vanquishes Netscape in the browser war, Google starts to show up competing search engines, Blogger launches, and Napster loudly arrives to shake up our culture."
 date: 2025-09-03
 permalink: "p/internet-1999/"
-tags: ['dotcom', 'year', '1999']
+tags: ['web1', 'year', '1999']
 featureImage: "/assets/images/napster-1999-1280x720.jpg"
 ---
 
@@ -12,7 +12,7 @@ featureImage: "/assets/images/napster-1999-1280x720.jpg"
 
 When AOL completed its [acquisition of Netscape](/p/1999-the-fall-of-netscape-and-the-rise-of-mozilla/) in March 1999, a part of the [old web](/p/internet-1994/) died forever. By the end of the year (and the century), Netscape's share of the browser market had shrunk to about 20% and Microsoft's Internet Explorer had become dominant.
 
-Meanwhile, the [dot-com](/dotcom) bubble continued to expand, with IPOs from Nvidia (now the world's most valuable company), Netscape co-founder Jim Clark's Healtheon, priceline.com, Ask Jeeves, Red Hat, TiVo, Akamai and others. Also, Google received its first VC funding round in June and declared its bold goal “to organize the world’s information, making it universally accessible and useful.”
+Meanwhile, the [dot-com](/web1/) bubble continued to expand, with IPOs from Nvidia (now the world's most valuable company), Netscape co-founder Jim Clark's Healtheon, priceline.com, Ask Jeeves, Red Hat, TiVo, Akamai and others. Also, Google received its first VC funding round in June and declared its bold goal “to organize the world’s information, making it universally accessible and useful.”
 
 But 1999 might best be remembered as the year of three revolutionary new internet technologies: Napster's disruption of the music industry, the launch of Blogger ushering in the age of weblogs, and RSS as a new way to syndicate web content.
 

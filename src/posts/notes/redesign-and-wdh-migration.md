@@ -35,7 +35,7 @@ This entire process — importing WDH content, upgrading to 11ty v3, new nav str
 
 ## A New Era
 
-So, Cybercultural is an internet history newsletter / website that now covers multiple eras of the internet — from the Doug Engelbart-inspired [pre-web era](/preweb/) of the late-1960s, through to the birth of the World Wide Web and subsequent [dot-com era](/dotcom/) of the 1990s, to the [Web 2.0 era](/web20/) of the 2000s, right up till the 2010s (although I haven’t focused much on this time period yet — also, what will I call it?).
+So, Cybercultural is an internet history newsletter / website that now covers multiple eras of the internet — from the Doug Engelbart-inspired [pre-web era](/preweb/) of the late-1960s, through to the birth of the World Wide Web and subsequent [dot-com era](/web1/) of the 1990s, to the [Web 2.0 era](/web20/) of the 2000s, right up till the 2010s (although I haven’t focused much on this time period yet — also, what will I call it?).
 
 I have done a lot of work on Cybercultural this year, especially after I [migrated it from Substack](https://ricmac.org/2024/01/26/why-i-migrated-my-newsletter-from-substack-to-eleventy-and-buttondown/) to the current Eleventy site back in January. Since then I have re-discovered the joy of running an indie website — being able to design it how I like, build up the brand, add a whole bunch more content, participate in a cool community (11ty), and more. Just like ReadWriteWeb was my professional web brand in the Web 2.0 era, Cybercultural is that to me now. It’s my online baby, and I’m having fun developing it and continuing to grow the content.
 

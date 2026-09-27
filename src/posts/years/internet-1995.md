@@ -3,7 +3,7 @@ title: "What the Internet Was Like in 1995"
 description: "In 1995, Netscape goes public and Microsoft notices the internet — the browser wars begin. Also this year, Amazon and eBay launch, JavaScript and PHP debut, and the web becomes mainstream."
 date: 2025-03-26
 permalink: "p/internet-1995/"
-tags: ['dotcom', 'year', '1995']
+tags: ['web1', 'year', '1995']
 featureImage: "/assets/images/jeff-bezos-1995-feature.jpg"
 ---
 

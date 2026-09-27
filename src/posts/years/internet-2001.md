@@ -3,7 +3,7 @@ title: "What the Internet Was Like in 2001"
 description: "Even in the middle of the dot-com bust in 2001, there are rays of hope: Wikipedia and the Wayback Machine launch, digital music turns legit with iTunes and the iPod, and blogging goes mainstream."
 date: 2025-11-05
 permalink: "p/internet-2001/"
-tags: ['dotcom', 'year', '2001']
+tags: ['web1', 'year', '2001']
 featureImage: "/assets/images/apple-ipod-advert-2001.jpg"
 youtube: "true"
 ---

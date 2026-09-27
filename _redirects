@@ -1,14 +1,20 @@
-# Cloudflare stopped applying rules past roughly the 103rd rule in this file
-# (Sep 2026), silently. Keep it at 100 rules or fewer: merge rules where you can,
-# or use forwarding pages (see src/pages/forwarding-pages.njk), before adding more.
-# Cloudflare's docs also say static rules (exact paths) must come before dynamic
-# ones (any rule with * or :placeholder).
+# LIMIT (found Sep 2026, fails silently): Cloudflare applied only the first 100
+# rules counted from the FIRST dynamic rule (any rule with * or :splat); every
+# rule after that was ignored. Static rules (exact paths) placed above the first
+# dynamic rule don't appear to count. So:
+#   - keep every static rule in the static section below, above all dynamic ones
+#   - keep the dynamic section at 100 rules or fewer (merge where you can)
+#   - or use forwarding pages (src/pages/forwarding-pages.njk) for exact old URLs
+#   - every target that is a folder must end in / or Cloudflare adds a second hop
 
 ### Static rules ###
 
 #High level redirects
 /feed /feed.xml 301
 /feed/ /feed.xml 301
+
+# Dot-com era renamed to Web 1.0 (Sep 2026)
+/dotcom /web1/ 301
 
 # Enshittocene era renamed to Platforms (Sep 2026). Bare path goes straight to
 # the trailing-slash URL, so there's no extra hop through Cloudflare's /platforms -> /platforms/
@@ -35,6 +41,9 @@
 /p/are-we-doing-enough-to-archive-digital/ /p/are-we-doing-enough-to-archive-digital-culture/ 301
 
 ### Dynamic rules ###
+
+# Dot-com era renamed to Web 1.0 (Sep 2026): /dotcom/ and page/N/
+/dotcom/* /web1/:splat 301
 
 # Enshittocene era renamed to Platforms (Sep 2026): /enshittocene/ and page/N/
 /enshittocene/* /platforms/:splat 301

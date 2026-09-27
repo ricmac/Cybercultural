@@ -3,7 +3,7 @@ title: "1994: How Perl Became the Foundation of Yahoo"
 description: "The founding of Yahoo is one of the iconic Silicon Valley business stories. What’s lesser known is the web development story of Yahoo throughout 1994, based on a scripting language called Perl."
 date: 2021-08-10
 permalink: "p/1994-perl-yahoo/"
-tags: ['dotcom', '1994']
+tags: ['web1', '1994']
 featureImage: "/assets/images/wdh/yahoo_94_feature-1280x720.jpg"
 ---
 
@@ -78,7 +78,7 @@ So there was balance of manual labour (filtering and categorizing the data) and 
 1994: What Else Was Going On?
 -------------------------------
 
-1994 was a time of experimentation — the [dot-com boom](/dotcom/) was a year away and most people were still trying to figure out if (not when) the web would go mainstream. Even the web application that Yahoo was built on top of, the web browser, wasn’t yet a viable market. Yang and Filo were developing the bones of Yahoo before corporate browsers like Netscape and Internet Explorer came along — they were reliant on the Mosaic browser, which (like Yahoo) was built by college students. As it turned out though, Netscape the company was founded in April 1994 — around the time the Yahoo name was first attached to Yang and Filo’s directory.
+1994 was a time of experimentation — the [dot-com boom](/web1/) was a year away and most people were still trying to figure out if (not when) the web would go mainstream. Even the web application that Yahoo was built on top of, the web browser, wasn’t yet a viable market. Yang and Filo were developing the bones of Yahoo before corporate browsers like Netscape and Internet Explorer came along — they were reliant on the Mosaic browser, which (like Yahoo) was built by college students. As it turned out though, Netscape the company was founded in April 1994 — around the time the Yahoo name was first attached to Yang and Filo’s directory.
 
 Yahoo’s founders, then, were among the web’s earliest users and builders. In [an interview with Sun Microsystems](https://web.archive.org/web/19961020055342/http://www.sun.com/950523/yahoostory.html) carried out in May 1995, Filo explained that he and Yang had been using the web “pretty much ever since \[NCSA\] Mosaic came out in mid to late ’93. And before Mosaic, we used gopher a bit… and of course we used e-mail and newsgroups before that.”
 

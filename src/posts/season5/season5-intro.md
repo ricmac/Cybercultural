@@ -6,7 +6,7 @@ date: 2026-01-13T14:00:00Z
 # repo; to republish, restore permalink: "p/history-of-web-design/" and delete the two lines below it (and its entry in src/pages/forwarding-pages.njk).
 permalink: false
 eleventyExcludeFromCollections: true
-tags: ['dotcom', 'web20']
+tags: ['web1', 'web20']
 featureImage: "/assets/images/web-design-feature-season5.jpg"
 ---
 

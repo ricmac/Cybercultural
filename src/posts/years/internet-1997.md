@@ -3,7 +3,7 @@ title: "What the Internet Was Like in 1997"
 description: "In 1997, the first browser war begins amid new internet trends like 'push' and DHTML. Meanwhile, instant messaging apps like ICQ and AIM become popular and GeoCities achieves 1 million users."
 date: 2025-06-11
 permalink: "p/internet-1997/"
-tags: ['dotcom', 'year', '1997']
+tags: ['web1', 'year', '1997']
 featureImage: "/assets/images/mozilla-vs-ie-sep1997.jpg"
 ---
 
