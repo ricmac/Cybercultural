@@ -11,6 +11,7 @@ To explore Cybercultural's archive of internet history articles, you can browse 
 * [Dot-com](/dotcom) (1990-2003)
 * [Web 2.0](/web20) (2004-2012)
 * [Platforms](/platforms) (2013-2021)
+* [AI](/ai) (2022-current)
 
 [Yearly reviews](/year) provide an overview of internet history in a certain year (e.g. [1995](/p/internet-1995/) or [2004](/p/internet-2004/)).
 
