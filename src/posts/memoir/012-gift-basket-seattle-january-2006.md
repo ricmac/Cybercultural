@@ -84,5 +84,5 @@ Before we left, I promised to try and make it to the Andy Warhol-themed party Er
 
 This post is part of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. View [table of contents](/p/roadmap-bubbleblog/).
 
-Next up: [013\. Visiting the Microsoft Campus](/p/013-visiting-the-microsoft-campus)
+Next up: [013\. Visiting the Microsoft Campus](/p/013-visiting-the-microsoft-campus/)
 

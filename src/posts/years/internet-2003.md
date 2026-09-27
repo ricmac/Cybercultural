@@ -11,7 +11,7 @@ youtube: "true"
 ![Jamiroquai website in 2003](/assets/images/jamiroquai-flash-website-2003.jpg){loading="eager"}
 *Flash at full volume: [Jamiroquai’s website in 2003](https://web.archive.org/web/20031005233153/http://www.jamiroquai.co.uk/flash.htm).*
 
-By 2003, the internet had weathered the worst of the dot-com crash and developers and entrepreneurs were beginning to come out of hibernation. While it would take another year for Silicon Valley to start inflating another bubble — this one would be [named "Web 2.0"](/p/003-the-first-web-20-conference-2004) — there was a renewed sense of optimism.
+By 2003, the internet had weathered the worst of the dot-com crash and developers and entrepreneurs were beginning to come out of hibernation. While it would take another year for Silicon Valley to start inflating another bubble — this one would be [named "Web 2.0"](/p/003-the-first-web-20-conference-2004/) — there was a renewed sense of optimism.
 
 [Blogging and RSS](/p/blogosphere-2003/) moved into the mainstream in 2003, helped by the emergence of consumer-friendly RSS Readers like NetNewsWire and Bloglines. There was even now an economic model for blogging, with the launch of Google's AdSense in March. Also, online music went legit with Apple's iTunes store, and social networking began to take recognizable form with Friendster and MySpace.
 

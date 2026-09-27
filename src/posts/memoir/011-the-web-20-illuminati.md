@@ -103,5 +103,5 @@ And why wouldn’t I? The bubble was only just getting started.
 
 This post is part of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. View [table of contents](/p/roadmap-bubbleblog/).
 
-Next up: [012\. The Gift Basket; Seattle, January 2006](/p/012-gift-basket-seattle-january-2006)
+Next up: [012\. The Gift Basket; Seattle, January 2006](/p/012-gift-basket-seattle-january-2006/)
 

@@ -84,5 +84,5 @@ Before we knew it, Josh and I had been shuffled out the door so that Tim could p
 
 This post is part of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. View [table of contents](/p/roadmap-bubbleblog/).
 
-Next up: [007\. Day 2 of the 2005 Web 2.0 Conference](/p/007-2005-web-20-conference-day-2)
+Next up: [007\. Day 2 of the 2005 Web 2.0 Conference](/p/007-2005-web-20-conference-day-2/)
 

@@ -9,7 +9,7 @@ featureImage: "/assets/images/bowie-blogs-feature-2019-1000x563.jpg"
 
 ![Bowie tumblr](/assets/images/bowie-blogs-feature-2019.jpg){loading="eager"}
 
-Last week I argued that [blogs, Tumblr and email newsletters](/p/blogs-newsletters-and-tumblr-fight-back) can offer an alternative to the Black Mirror world of social media we currently live in. In particular, that we can build this new world — the blogosphere 2.0 — around cultural content. 
+Last week I argued that [blogs, Tumblr and email newsletters](/p/blogs-newsletters-and-tumblr-fight-back/) can offer an alternative to the Black Mirror world of social media we currently live in. In particular, that we can build this new world — the blogosphere 2.0 — around cultural content. 
 
 Once again I have to caution: I don’t see this as _competing_ with social media, because that horse has bolted. Rather, I see this as an alternative way to creatively spend time on the internet and meet other people passionate about the same topics as you. Which is something social media promised us it would do, back in Web 2.0, but utterly failed to deliver. However all is not lost, because blogs and newsletters _can be_ the platform that we need to continue exploring and enjoying cultural content. 
 

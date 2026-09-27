@@ -10,7 +10,7 @@ featureImage: "/assets/images/web20-earlydays-1280.jpg"
 ![Web 2.0 images](/assets/images/web20-earlydays-1280.jpg){loading="eager"}
 *The first Web 2.0 Conference program and the author in early Web 2.0.*
 
-Web 2.0 was well and truly over by the time [I left ReadWriteWeb](/p/066-readwriteweb-2012/). There had been no Web 2.0 conferences in 2012, and by the end of the year, even O’Reilly Media — the company that had [coined the term *Web 2.0*](/p/003-the-first-web-20-conference-2004) — had stopped using it. It’s no coincidence that during this time, there was an expectation in the public markets that the tech bubble was about to burst.
+Web 2.0 was well and truly over by the time [I left ReadWriteWeb](/p/066-readwriteweb-2012/). There had been no Web 2.0 conferences in 2012, and by the end of the year, even O’Reilly Media — the company that had [coined the term *Web 2.0*](/p/003-the-first-web-20-conference-2004/) — had stopped using it. It’s no coincidence that during this time, there was an expectation in the public markets that the tech bubble was about to burst.
 
 In a December [front-cover profile](https://web.archive.org/web/20121226041610/http://www.wired.com/business/2012/12/mf-tim-oreilly-qa/all/) in *Wired* magazine, Tim O’Reilly was asked if there was a disconnect between the tech world and the rest of the country. “Oh, absolutely,” he replied. “I think people in Silicon Valley don’t realize what a bubble they’re living in. We saw that bubble get pricked in 2001, and it will get pricked again.”
 

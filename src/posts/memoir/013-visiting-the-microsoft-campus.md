@@ -14,7 +14,7 @@ It was a cold but sunny Wednesday morning and a Microsoft charter bus pulled int
 
 The two days of Search Champs would be held in Building 31. I didn’t know how this area of the campus compared to the others, but what I saw was an unexpected blend of office and nature. Green and red shrubbery lined the buildings, and evergreen Douglas fir trees dotted the exterior. It was the middle of winter, so the smaller deciduous trees inside the campus were bare; their reddish-brown branches appearing to blend in with the neatly patterned brick of the buildings.
 
-Compared to the bright yellow and purple themed [Yahoo campus](/p/009-richard-goes-to-yahoo), with its gleaming concrete and glass offices and artificially neat lawns, the Microsoft campus seemed calmer and more attuned to the surrounding nature. Perhaps that was simply because it was a decade or two older than the Yahoo offices, and so nature had had more time to come to terms with the encroachment of technology.
+Compared to the bright yellow and purple themed [Yahoo campus](/p/009-richard-goes-to-yahoo/), with its gleaming concrete and glass offices and artificially neat lawns, the Microsoft campus seemed calmer and more attuned to the surrounding nature. Perhaps that was simply because it was a decade or two older than the Yahoo offices, and so nature had had more time to come to terms with the encroachment of technology.
 
 ![The Microsoft campus in Redmond, January 2006](/assets/images/515b3a1f-7c51-478f-91a0-ca6485d6b206_1637x1228.jpg "The Microsoft campus in Redmond, January 2006")
 *The Microsoft campus in Redmond, January 2006. Photo by me.*
@@ -101,5 +101,5 @@ As for Microsoft, it simply wanted to latch onto the new, new thing — whatever
 
 This post is part of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. View [table of contents](/p/roadmap-bubbleblog/).
 
-Next up: [014\. Reluctant Salesman](/p/014-the-sponsor-ads-era-2006)
+Next up: [014\. Reluctant Salesman](/p/014-the-sponsor-ads-era-2006/)
 

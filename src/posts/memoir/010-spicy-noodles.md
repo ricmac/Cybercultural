@@ -86,5 +86,5 @@ As for Gabe, he used sarcasm a lot to deflect serious conversations, but I could
 
 This post is part of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. View [table of contents](/p/roadmap-bubbleblog/).
 
-Next up: [011\. The Web 2.0 Illuminati](/p/011-the-web-20-illuminati)
+Next up: [011\. The Web 2.0 Illuminati](/p/011-the-web-20-illuminati/)
 

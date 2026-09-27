@@ -89,5 +89,5 @@ In hindsight, he was only partially right — blogs and RSS eventually gave way 
 
 This post is part of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. View [table of contents](/p/roadmap-bubbleblog/).
 
-Next up: [010\. Spicy Noodles](/p/010-spicy-noodles)
+Next up: [010\. Spicy Noodles](/p/010-spicy-noodles/)
 

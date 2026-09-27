@@ -75,5 +75,5 @@ As for me, I was enjoying my new surroundings, but I still felt overwhelmed with
 
 This post is part of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. View [table of contents](/p/roadmap-bubbleblog/).
 
-Next up: [006\. Revving Up at the Web 2.0 Conference](/p/006-revving-up-2005-web-20-conference)
+Next up: [006\. Revving Up at the Web 2.0 Conference](/p/006-revving-up-2005-web-20-conference/)
 

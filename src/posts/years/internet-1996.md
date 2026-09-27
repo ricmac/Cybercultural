@@ -35,7 +35,7 @@ According to Bell, Excite was engaged in a “land grab” to “become that sta
 
 ## E-Commerce
 
-After Amazon.com and eBay [launched in 1995](/p/internet-1995), e-commerce began to infiltrate mainstream culture. In May 1996, Amazon founder Jeff Bezos got his first profile in a large-scale newspaper. The Wall St Journal ran [a story](https://www.wsj.com/articles/SB832204437381952500) entitled "Wall Street Whiz Finds Niche Selling Books on the Internet," which included the following description of how the Web had brought something entirely new to the retail experience:
+After Amazon.com and eBay [launched in 1995](/p/internet-1995/), e-commerce began to infiltrate mainstream culture. In May 1996, Amazon founder Jeff Bezos got his first profile in a large-scale newspaper. The Wall St Journal ran [a story](https://www.wsj.com/articles/SB832204437381952500) entitled "Wall Street Whiz Finds Niche Selling Books on the Internet," which included the following description of how the Web had brought something entirely new to the retail experience:
 
 > "Amazon has caught fire because, unlike most retailers, Mr. Bezos has found a way to use the Web's technology to offer services that a traditional store or catalog can't match. An Amazon customer can romp through a database of 1.1 million titles (five times the largest superstore's inventory), searching by subject or name. When you select a book, Amazon is programmed to flash other related titles you may also want to buy. If you tell Amazon about favorite authors and topics, it will send you by electronic mail a constant stream of recommendations."
 

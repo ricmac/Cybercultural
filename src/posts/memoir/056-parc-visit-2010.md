@@ -14,7 +14,7 @@ In July, as I was trying to make progress on a number of troublesome fronts — 
 
 I’d not heard of i-stage before, and I also hadn’t been to the CEA’s better-known Consumer Electronics Show convention, which ran every January in Las Vegas. As far as I could tell, i-stage was a clone of the DEMO conference or (more recently) TechCrunch Disrupt. “Finalists receive three minutes to pitch an audience of technology leaders, investors, press, and you, the judges, all eager to help them break out as the next big thing,” Shapiro said in his email.
 
-I decided to accept the invitation, as it would be something a bit different from usual. I-stage was scheduled just a month before the Web 2.0 Summit; initially I planned to attend both events, but soon I decided to skip the summit. I had a [long history](/p/006-revving-up-2005-web-20-conference) with the conference, but the Web 2.0 Expo earlier that year had [left me a bit cold](/p/048-readwriteweb-facebook-login/). 
+I decided to accept the invitation, as it would be something a bit different from usual. I-stage was scheduled just a month before the Web 2.0 Summit; initially I planned to attend both events, but soon I decided to skip the summit. I had a [long history](/p/006-revving-up-2005-web-20-conference/) with the conference, but the Web 2.0 Expo earlier that year had [left me a bit cold](/p/048-readwriteweb-facebook-login/). 
 
 ![Silicon Welly](/assets/images/richard_dompost_sep10.jpg)
 *"Most people in New Zealand have never heard of him, but out of his house in Petone, Richard MacManus runs one of the world's most popular blogs." An interview with my hometown newspaper, The Dominion Post, September 2010.*

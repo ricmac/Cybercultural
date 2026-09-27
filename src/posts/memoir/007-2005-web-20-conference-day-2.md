@@ -98,5 +98,5 @@ All of that was in the future, as I supped my beer at the House of Shields and w
 
 This post is part of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. View [table of contents](/p/roadmap-bubbleblog/).
 
-Next up: [008\. The Colors of Web 2.0 Party](/p/008-the-colors-of-web-20-party)
+Next up: [008\. The Colors of Web 2.0 Party](/p/008-the-colors-of-web-20-party/)
 

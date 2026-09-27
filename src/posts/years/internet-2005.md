@@ -10,7 +10,7 @@ featureImage: "/assets/images/21367593_c03780d433_o-1280.jpg"
 
 ![Browse. Search. Subscribe.](/assets/images/21367593_c03780d433_o-1280.jpg){loading="eager"}
 
-By 2005, Web 2.0 — [the Web as platform](/p/003-the-first-web-20-conference-2004) — was the driving trend of Silicon Valley. It was [a new tech bubble](/p/006-revving-up-2005-web-20-conference), and that meant startup launches galore. YouTube and Reddit were just a couple of the future all-star web products launched in 2005. There were also plenty of acquisitions that year, including the leading social network of the day, MySpace, being purchased by NewsCorp.
+By 2005, Web 2.0 — [the Web as platform](/p/003-the-first-web-20-conference-2004/) — was the driving trend of Silicon Valley. It was [a new tech bubble](/p/006-revving-up-2005-web-20-conference/), and that meant startup launches galore. YouTube and Reddit were just a couple of the future all-star web products launched in 2005. There were also plenty of acquisitions that year, including the leading social network of the day, MySpace, being purchased by NewsCorp.
 
 There were technological advances too — in RSS aggregation, next-generation search services, "mashups" with APIs, and (perhaps the most glitzy innovation of all) a new JavaScript technique named Ajax.
 
@@ -59,14 +59,14 @@ Real web businesses were forming in 2005 and some — like Atlassian — would t
 
 ## The Rise of Tech Blogs
 
-Over the course of 2005, I found my groove with my tech blog Read/WriteWeb — especially after my [revelatory first trip to Silicon Valley](/p/005-arriving-at-the-techcrunch-ranch) in September/October 2005. I'd started RWW in 2003, but [2005 was the tipping point](/p/2005-growth-of-web-20-and-rww/) in its popularity.
+Over the course of 2005, I found my groove with my tech blog Read/WriteWeb — especially after my [revelatory first trip to Silicon Valley](/p/005-arriving-at-the-techcrunch-ranch/) in September/October 2005. I'd started RWW in 2003, but [2005 was the tipping point](/p/2005-growth-of-web-20-and-rww/) in its popularity.
 
 ![RWW in Dec 2005](/assets/images/36b6618f-41b3-49df-8767-bbfd1ba7df84_2170x1454.jpg "RWW in Dec 2005")
 *As 2005 drew to a close, I did [a re-design of my blog](https://web.archive.org/web/20051223075615if_/http://readwriteweb.com/). Although it still looks a little amateurish (I wasn’t a professional designer), it consolidated the “RWW red” branding.*
 
 A few other notable tech blogs launched during this time: TechCrunch [in June](https://web.archive.org/web/20050614012404/http://www.techcrunch.com/), Mashable [around July](https://web.archive.org/web/20050730090446/http://mashable.com/) (Pete Cashmore first left a comment on RWW in September ‘05), and ProgrammableWeb by John Musser [in August](https://web.archive.org/web/20051124200326/http://www.programmableweb.com/about).
 
-Even though Web 2.0 as a trend took off after the [Web 2.0 Conference I attended in October](/p/007-2005-web-20-conference-day-2), it wasn’t yet apparent in the [Technorati Top 100 list](https://web.archive.org/web/20051231055421/http://technorati.com/pop/blogs/) at the end of the year. There was only one tech blog that focused on Web 2.0 in the list at that point — Mike Arrington’s TechCrunch at number 70. But fast-forward just a year and TechCrunch was up to number 4 and Read/WriteWeb was at number 68 (I finally cracked the top 10 in 2008!). 
+Even though Web 2.0 as a trend took off after the [Web 2.0 Conference I attended in October](/p/007-2005-web-20-conference-day-2/), it wasn’t yet apparent in the [Technorati Top 100 list](https://web.archive.org/web/20051231055421/http://technorati.com/pop/blogs/) at the end of the year. There was only one tech blog that focused on Web 2.0 in the list at that point — Mike Arrington’s TechCrunch at number 70. But fast-forward just a year and TechCrunch was up to number 4 and Read/WriteWeb was at number 68 (I finally cracked the top 10 in 2008!). 
 
 ![Technorati 2005](/assets/images/87e20616-45f8-4c6e-9c2f-b695915ab370_1674x1572.png)
 *Technorati, [1 Oct 2005](https://web.archive.org/web/20051001090738/http://technorati.com/pop/blogs/). Bloggers soon became very addicted to this site!*

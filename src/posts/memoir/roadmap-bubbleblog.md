@@ -17,59 +17,59 @@ My book, *Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revo
 
 Or search for "Bubble Blog MacManus" on your local online bookstore.
 
-If you are looking for a good overview of my book project, see [the launch post](/p/bubble-blog-web20-memoir).
+If you are looking for a good overview of my book project, see [the launch post](/p/bubble-blog-web20-memoir/).
 
 ## Introduction
 
-*   [001\. Introduction to Bubble Blog](/p/001-introduction-to-bubble-blog-book)
+*   [001\. Introduction to Bubble Blog](/p/001-introduction-to-bubble-blog-book/)
     
 
 ## PART 1: 2004-2006
 
 ### 1\. Amateur Journo
 
-*   [002\. The Early Years of ReadWriteWeb](/p/002-the-early-years-of-readwriteweb)
+*   [002\. The Early Years of ReadWriteWeb](/p/002-the-early-years-of-readwriteweb/)
     
-*   [003\. The First Web 2.0 Conference](/p/003-the-first-web-20-conference-2004)
+*   [003\. The First Web 2.0 Conference](/p/003-the-first-web-20-conference-2004/)
     
-*   [004\. A Call With Tim O'Reilly](/p/004-call-with-tim-oreilly-2004)
+*   [004\. A Call With Tim O'Reilly](/p/004-call-with-tim-oreilly-2004/)
     
 
 ### 2\. Coming to America
 
-*   [005\. Arriving at the TechCrunch Ranch](/p/005-arriving-at-the-techcrunch-ranch)
+*   [005\. Arriving at the TechCrunch Ranch](/p/005-arriving-at-the-techcrunch-ranch/)
     
-*   [006\. Revving Up at the Web 2.0 Conference](/p/006-revving-up-2005-web-20-conference)
+*   [006\. Revving Up at the Web 2.0 Conference](/p/006-revving-up-2005-web-20-conference/)
     
-*   [007\. Day 2 of the 2005 Web 2.0 Conference](/p/007-2005-web-20-conference-day-2)
+*   [007\. Day 2 of the 2005 Web 2.0 Conference](/p/007-2005-web-20-conference-day-2/)
     
-*   [008\. The Colors of Web 2.0 Party](/p/008-the-colors-of-web-20-party)
+*   [008\. The Colors of Web 2.0 Party](/p/008-the-colors-of-web-20-party/)
     
 
 ### 3\. Spicy Noodles
 
-*   [009\. Richard Goes to Yahoo!](/p/009-richard-goes-to-yahoo)
+*   [009\. Richard Goes to Yahoo!](/p/009-richard-goes-to-yahoo/)
     
-*   [010\. Spicy Noodles](/p/010-spicy-noodles)
+*   [010\. Spicy Noodles](/p/010-spicy-noodles/)
     
-*   [011\. The Web 2.0 Illuminati](/p/011-the-web-20-illuminati)
+*   [011\. The Web 2.0 Illuminati](/p/011-the-web-20-illuminati/)
     
 
 ### 4\. Becoming a Business
 
-*   [012\. The Gift Basket; Seattle, January 2006](/p/012-gift-basket-seattle-january-2006)
+*   [012\. The Gift Basket; Seattle, January 2006](/p/012-gift-basket-seattle-january-2006/)
     
-*   [013\. Visiting the Microsoft Campus](/p/013-visiting-the-microsoft-campus)
+*   [013\. Visiting the Microsoft Campus](/p/013-visiting-the-microsoft-campus/)
     
-*   [014\. Reluctant Salesman](/p/014-the-sponsor-ads-era-2006)
+*   [014\. Reluctant Salesman](/p/014-the-sponsor-ads-era-2006/)
 
 ### 5\. Power Laws
 
-*   [015\. Digg and the Power Laws of Silicon Valley](/p/015-digg-power-laws-of-silicon-valley)
+*   [015\. Digg and the Power Laws of Silicon Valley](/p/015-digg-power-laws-of-silicon-valley/)
 
-*   [016\. The Core Values of Blogging](/p/016-the-core-values-of-blogging)
+*   [016\. The Core Values of Blogging](/p/016-the-core-values-of-blogging/)
 
-*   [017. Gnomedex 2006 and My Corporate Blogging Adventure](/p/017-gnomedex-2006-corporate-blogging)
+*   [017. Gnomedex 2006 and My Corporate Blogging Adventure](/p/017-gnomedex-2006-corporate-blogging/)
     
 ### 6\. Lou Reed
 

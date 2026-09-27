@@ -9,7 +9,7 @@ featureImage: "/assets/images/bubble-blog-cover-notext-1280x720.jpg"
 
 ![Bubble Blog book cover](/assets/images/5bb99c88-7e3e-4ea2-ad9f-3d32600357a5_3400x2134.jpg){loading="eager"}
 
-Welcome to the first post in the serialization of my Web 2.0 memoir. This is the introduction, which sets the scene for the 20 chapters to come. Each following chapter will have a number of sections, which you’ll receive as posts via email. There is also [a roadmap (table of contents)](/p/roadmap-bubbleblog), which lists all the sections in order — in case you need to catch-up at any point. Thank you for joining me on this journey to the heart of Web 2.0. Please leave comments and/or share on social media if you enjoy it — this is the read/write web after all!
+Welcome to the first post in the serialization of my Web 2.0 memoir. This is the introduction, which sets the scene for the 20 chapters to come. Each following chapter will have a number of sections, which you’ll receive as posts via email. There is also [a roadmap (table of contents)](/p/roadmap-bubbleblog/), which lists all the sections in order — in case you need to catch-up at any point. Thank you for joining me on this journey to the heart of Web 2.0. Please leave comments and/or share on social media if you enjoy it — this is the read/write web after all!
 
 ***
 
@@ -118,4 +118,4 @@ I felt like I’d just joined the ranks of Silicon Valley’s insiders. And, as 
 
 This post is part of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. View [table of contents](/p/roadmap-bubbleblog/).
 
-Next up: [002\. The Early Years of ReadWriteWeb](/p/002-the-early-years-of-readwriteweb)
+Next up: [002\. The Early Years of ReadWriteWeb](/p/002-the-early-years-of-readwriteweb/)

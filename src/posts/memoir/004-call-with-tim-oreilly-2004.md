@@ -92,4 +92,4 @@ By this point, it was clear what the focus of my blog would be going forward: We
 
 This post is part of my serialized book, **Bubble Blog: From Outsider to Insider in Silicon Valley's Web 2.0 Revolution**. View [table of contents](/p/roadmap-bubbleblog/).
 
-Next up: [005\. Arriving at the TechCrunch Ranch](/p/005-arriving-at-the-techcrunch-ranch)
+Next up: [005\. Arriving at the TechCrunch Ranch](/p/005-arriving-at-the-techcrunch-ranch/)
