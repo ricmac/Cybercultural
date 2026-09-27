@@ -8,7 +8,7 @@ layout: internethistory
 To explore Cybercultural's archive of internet history articles, you can browse by internet era:
 
 * [Pre-web](/preweb) (1960s-80s)
-* [Dot-com](/dotcom) (1990-2003)
+* [Web 1.0](/dotcom) (1990-2003)
 * [Web 2.0](/web20) (2004-2012)
 * [Platforms](/platforms) (2013-2021)
 * [AI](/ai) (2022-current)

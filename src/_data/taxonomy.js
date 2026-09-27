@@ -22,8 +22,8 @@ const taxonomy = {
       about: {name: 'Web 2.0', sameAs: ['https://en.wikipedia.org/wiki/Web_2.0']}
     },
     dotcom: {
-      label: 'Dot-com',
-      about: {name: 'Dot-com bubble', sameAs: ['https://en.wikipedia.org/wiki/Dot-com_bubble']}
+      label: 'Web 1.0',
+      about: {name: 'History of the World Wide Web', sameAs: ['https://en.wikipedia.org/wiki/History_of_the_World_Wide_Web']}
     },
     preweb: {
       label: 'Pre-web',
