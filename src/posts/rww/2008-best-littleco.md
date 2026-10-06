@@ -15,6 +15,8 @@ canonical: "https://ricmac.org/2008/12/22/best-littleco-of-2008-most-promising-f
 
 Every year we do a review of the top Internet companies, to identify the ones that had the biggest impact. Last week we announced that **Apple** was our choice for [Best BigCo of 2008](/p/best-bigco-2008-apple/). Today we're announcing **Best LittleCo** and **Most Promising Company**, as selected by the ReadWriteWeb writers. There were a number of small companies that were in contention for Best LittleCo: [FriendFeed](https://web.archive.org/web/20081223075410/http://www.friendfeed.com/), [Meebo](https://web.archive.org/web/20081223075410/http://www.meebo.com/), and last year's winner [Twitter](https://web.archive.org/web/20081223075410/http://www.twitter.com/) would all have been deserving winners. In the end, we chose a 'little company that could' in the enterprise space. Our pick for Most Promising is something you could be using a lot on your mobile phone next year...
 
+## Five Years of Best LittleCo Picks
+
 This is the 5th year we've done this and many of the small companies we choose each year go onto much bigger things. Here's a quick look back at previous winners:
 
 *   [In 2004](/p/best-web20-companies-2004/) **Ludicorp**, creators of Flickr, was named Best LittleCo and **Feedburner** Most Promising. Both of course have since been acquired (by Yahoo! and Google respectively).

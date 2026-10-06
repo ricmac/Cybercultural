@@ -21,6 +21,8 @@ So that was the goal of [David Bowie’s digital partner, N2K](/p/david-bowie-we
 ![Bowie website, October 1996](/assets/images/bowie-website-home-oct1996.jpg)
 *David Bowie's website, October 1996; [via Wayback Machine](https://web.archive.org/web/19961018163535/http://www.davidbowie.com:80/).*
 
+## Electronic Distribution in 1996
+
 By 1996, the [retail part of online music existed](/p/state-of-online-music-1996/), but not the electronic distribution part. At that time, buying music online meant purchasing a CD — or some other physical format provided by a record label — on a retail website like Music Boulevard (owned by N2K) or CDnow (its arch-rival). 
 
 Although the pioneering [Internet Underground Music Archive](/p/iuma-1994/) had proven that downloading music as a digital file was possible, the low bandwidth of the era made it hugely impractical. But Rosen thought that, eventually, records would be able to be “electronically transmitted” over the internet — “you would take those sounds and convert them into bits and send them to somebody on the other end, on a global basis, and they would store it.” 

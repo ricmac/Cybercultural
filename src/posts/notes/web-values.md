@@ -18,6 +18,8 @@ Every time I come across someone I respect in the web world who is still posting
 
 And yes I know the justifications: you’re POSSE-first (Publish on your Own Site, Syndicate Elsewhere), your network is still on X, you’re a struggling creator, etc. I get all that. But when I came across the following quote recently, it resonated with me and I thought I’d write up my own philosophy on why I don’t post to X.
 
+## “A Vote for Its Values”
+
 > “Feeding your words to a platform is a vote for its values, whether you like it or not.”
 
 Those words are from Matt Webb, a long-time blogger who still runs an active blog at interconnected.org. The quote was re-blogged by Jeremy Keith, another OG, who had originally [posted it](https://adactio.com/notes/21795) to his website, where it was syndicated to Mastodon (POSSE in action), which is where I saw it. I clicked through to Matt’s post to read the context, and was treated to [a wonderful blog post](https://interconnected.org/home/2025/02/19/reflections) entitled, "Reflections on 25 years of Interconnected.” I was on a desktop computer and couldn’t help but notice that “X/Twitter” was linked in his sidebar (along with Mastodon and Bluesky). Again, I really don’t want to be judgmental…but I did flinch when I clicked through and saw that he still posts there.

@@ -16,6 +16,8 @@ In previous posts, we've seen how web design elements were limited in the early 
 
 Despite those layout limitations, in the first half of 1995 we saw a few websites emerge that had a pronounced visual flair — these sites felt like something to be experienced, rather than simply a collection of pages to read.
 
+## The Batman Forever Website
+
 The Batman Forever site was one of these new experiences. It was designed by three creatives at Grey Entertainment, a New York advertising agency. One of them, [Jeffrey Zeldman](https://zeldman.com/), went on to become one of the Web's most influential web designers. The other two, [Alec Pollak](https://www.linkedin.com/in/apollak/) and [Steve McCarron](https://www.linkedin.com/in/stevemccarron/), later had successful careers in digital marketing. But in early 1995, when they were tasked with creating a website for an upcoming movie sequel, they were all inexperienced in web design.
 
 ![Batcave, 1995](/assets/images/batcave-1995.jpg)

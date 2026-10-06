@@ -21,6 +21,8 @@ After a little prompting from Ken, Matt explained the history of SAY Media. Its 
 ![TechCrunch report on SAY Media, September 2010](/assets/images/tc-saymedia-news2010.jpg)
 *[TechCrunch](https://web.archive.org/web/20100922201113/https://techcrunch.com/2010/09/21/video-egg-will-acquire-six-apart-and-rename-itself-say-media/) on VideoEgg acquiring Six Apart and becoming SAY Media, September 2010.*
 
+## SAY’s Tempest Platform
+
 Matt then explained that SAY was building a brand-new publishing platform called [Tempest](https://web.archive.org/web/20140517011643/http://www.saymedia.com/tempest), which Ben oversaw. From the gleam in his eye, I could tell this was Matt’s pet project. He said it was being built from the ground up for digital magazines. I didn’t know exactly what he meant by “digital” magazines, but he said the platform would enable publishers to “create rich [editorial experiences](https://www.inpublishing.co.uk/articles/say-media-launches-new-publishing-platform-tempest-5932)” that would in turn be attractive to advertisers. Tempest was still early in its development, but Matt said it would be easy to transfer RWW onto this platform, given that we were already using Movable Type.
 
 I exchanged a quick glance with Sean at this point, since one of the big (and expensive) projects we’d originally slated for the end of 2011 was a migration from Movable Type onto WordPress. We’d put that project on hold while we explored an acquisition, but in one look with Sean we’d decided the WordPress migration was now canceled.
@@ -48,6 +50,8 @@ By the following weekend, Sean and I had a clearer idea of who was in and out of
 ![RWW 31 October 2011](/assets/images/rww-31oct2011.jpg)
 *A RWW article from the end of October 2011; [via Wayback Machine](https://web.archive.org/web/20111102043127/http://www.readwriteweb.com/archives/alternatives_to_google_reader.php).*
 
+## SAY Media’s Offer
+
 On Wednesday morning my time, November 2, Sean and I had a video Skype meeting with SAY Media. It seemed like most of their executives were present on their side of the call, which took place in one of SAY’s meeting rooms. It was Troy Young, SAY’s president, who quickly took control and began outlining what their offer would be. Troy was in his mid to late forties, with entirely grey hair that was receding a bit at front. He had thick black glasses and a confident, sometimes brusque, way of talking. He’d worked with Matt Sanchez now for several years, going back to the VideoEgg days. But given Matt’s reserved nature, I got the impression that Troy was the mouthpiece of the company in meetings like this.
 
 Troy began by explaining that it would be a cash offer and there wouldn’t be any earn-out clauses. This was music to my ears, since it was the earn-out fine print that had [sunk my 2008 deal with ZDE](/p/034-rww-withdraws-from-zde-deal/). But then Troy segued into how much money SAY had available to spend on an acquisition like this, via its VCs. It was a number in the millions, but not what we’d been hoping for. “We know you value your business at more than this,” he told us, “but this is all we have to spend.” He noted again that it was a cash offer and that they wouldn’t impose a revenue or profit target for earn-outs, since SAY would effectively be taking over the revenue side of the business. It was as clean an offer as we’d get. He finished by reiterating that they couldn’t go any higher, so we should consider this their final offer.
@@ -69,6 +73,8 @@ We thanked the SAY team for the offer and promised we’d discuss it and get bac
 However, only FM came back to us and indicated that they would propose a deal based around revenue advances. FM didn’t know that the other company was SAY Media, one of their primary competitors in the online ad market. I’m not sure it would’ve made a difference in FM’s proposal had we mentioned it, but we also didn’t want to upset FM — we’d been working with them for more than five years now, so it was important to keep that relationship positive.
 
 While we tried to get more offers on the table, the following day Sean wrote back to SAY with our counter. We knew we couldn’t push on the price (at least while we had no other offers), so we tried to improve our outcome in a couple of other ways. First, we wanted to keep the receivables and cash on hand (a not insignificant amount, in the several hundreds of thousands of dollars). Second, I asked for some stock in SAY Media as part of my employment agreement.
+
+## FM Publishing’s Counterproposal
 
 While we waited to hear back from SAY, our talks with FM Publishing progressed. They proposed two advance payments based on future revenue: the first would be in January 2012, the second in January 2013. It was two-year commitment and was highly dependent on page-view growth, since it would involve a certain number of ad impressions and content marketing campaigns. In other words, there was risk involved in accepting these advances. That aside, it was a decent proposal, and the total amount of the advances was more than what SAY Media was offering.
 

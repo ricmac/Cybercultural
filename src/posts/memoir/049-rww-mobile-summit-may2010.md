@@ -17,6 +17,8 @@ The ReadWriteWeb Mobile Summit was held on Friday, May 7, [once more](/p/042-rea
 
 One of the interesting things about that time on the internet was that most people still thought the mobile web — websites optimized for mobile browsers — would ultimately win out over iOS or Android native apps. I cited some statistics showing that there were 185,000 iPhone apps in the App Store and 27,000 apps in the Android store, but 326,000 “mobile touch web sites” worldwide. The trend seemed clear: mobile websites were the future. Facebook certainly [believed this](https://techcrunch.com/2012/09/11/mark-zuckerberg-our-biggest-mistake-with-mobile-was-betting-too-much-on-html5/), as it was focusing most of its mobile development at this time on [HTML5](https://en.wikipedia.org/wiki/HTML5), a mobile-friendly version of the staple web-markup language. Even Apple CEO Steve Jobs was a big proponent of HTML5 — the previous month he’d published a now-famous [open letter](https://web.archive.org/web/20100519224402/https://www.apple.com/hotnews/thoughts-on-flash/) declaring that Apple would stop supporting Flash on its mobile devices going forward and support HTML5 instead. (That letter effectively spelled the end of Flash.)
 
+## Burbn, Before It Became Instagram
+
 In my summit presentation, the example I chose to illustrate the benefits of browser-based mobile apps would turn out to be deeply ironic. It was an application called Burbn, which I noted was an “HTML5 location-based social network.” The slide I’d made of Burbn was a last-minute addition to my presentation. Earlier that week, a mutual friend had connected Sean with one of Burbn’s founders, Kevin Systrom. Sean invited Kevin to demo the product at our event, during our “speed-geeking session” after lunch. “I’d love to have you show Burbn off,” Sean wrote, “especially given the number of people who have mentioned they are interested in discussing browser based versus native apps.” Kevin enthusiastically agreed.
 
 ![Burbn, May 2010](/assets/images/burbn_may2010.jpg)
@@ -30,6 +32,8 @@ Needless to say, native apps won out over mobile browser apps.
 
 ![Native Apps vs. Mobile Web Apps Session](/assets/images/rww-mobilesummit-html-vs-appsb.jpg)
 *The Native Apps vs. Mobile Web Apps Session; I think that is Kevin Systrom seated on the right in white shirt? Perhaps taking notes for the upcoming pivot. Photo [by Chris Cameron](https://www.flickr.com/photos/chcameron/4600447960/).*
+
+## How the Mobile Summit Went
 
 My presentation went smoothly, and indeed, the whole event was a success. I was busy the entire day with people coming up to tell me about their mobile projects, and it seemed like everyone else had been immersed in stimulating conversations too. In addition, we exceeded 100,000 views on Justin&#46;tv, which had livestreamed the event.
 
@@ -70,6 +74,8 @@ The apartment we’d be staying at was one of a number in Brooklyn being adverti
 I didn’t realize it at the time, but Hotel Toshi Toshi was rather controversial among the residents of Williamsburg — just the week before I arrived, there was [a report](https://www.brooklynpaper.com/neighbors-say-hotel-toshi-is-a-horrorshow-hostel/) in Brooklyn Paper (a local media website) with the headline “Neighbors Say Hotel Toshi Is a Horrorshow Hostel.” The article didn’t seem to be about the specific apartment building we were in, but it warned of “transient guests” throwing “rowdy late-night parties.” Questions were also [being raised](https://therealdeal.com/miami/2011/06/30/south-florida-hotels-prepare-for-fourth-of-july-with-perks-not-price-cuts/) in the media about the legality of the operation, which was a common theme with Airbnb in its early years. I wasn’t aware of any of this, but on the first night I discovered that noise would indeed be a problem for the next five nights. I could hear people coming and going in the building all night, and I got hardly a wink of sleep for the second straight night.
 
 When Sean arrived the next evening and saw my haggard face, he offered to swap rooms — perhaps the room farthest from the door would be slightly quieter, he suggested. But by then I’d worked out that all the walls throughout the apartment were paper-thin, so I doubted that. I told him I’d stick with my current room. “Well at least this place is saving RWW a lot of money,” Sean said, giving me a concerned look. I could see that he was worried he’d let me down by hiring a dubious apartment in Brooklyn, but I assured him that it was fine and we’d survive for the next four nights.
+
+## Museums and the ITP Spring Show
 
 One positive about the location was that it was an easy subway ride from Williamsburg into Manhattan. Over Sunday and Monday, which were days I had mostly to myself, I toured all the main art museums: the Met, MOMA, the Guggenheim. On Monday evening I attended New York University’s annual Interactive Telecommunications Program (ITP) [Spring Show](https://itp.nyu.edu/shows/spring2010/category/projects/). I’m not sure how I’d heard about this, since it wasn’t part of Creative Week, but ITP was a graduate program at NYU and the show was a chance for students to showcase their interactive projects. I saw everything from *Matrix*-like interactive squiddies to a woman on stilts powered by an iPhone app to a paintbrush that made music.
 

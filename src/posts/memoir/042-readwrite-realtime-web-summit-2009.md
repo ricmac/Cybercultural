@@ -19,6 +19,8 @@ Bernard and Marshall were here at the Avante with me, as was Frederic, who had m
 
 Unfortunately, neither Sean Ammirati nor Alex Iskold could make it; both were busy with their own businesses. However, I’d made plans to meet up with Sean at the Web 2.0 Summit the week after. Among other things, he would be a good sounding board for the growing concerns I had about Bernard.
 
+## Arriving at the Computer History Museum
+
 The team and I arrived at the Computer History Museum by shuttle at around 7:30 a.m. The day was already promising glorious sunshine, and that helped to settle my nerves as I sipped my takeaway hotel coffee and admired the view from outside. It really was a delightful venue, with a swath of green grass laid out in front of a shiny white-and-silver building. It had previously been the HQ of Silicon Graphics, a famous 1980s computer company, before being converted into the museum in 2002. So the venue felt modern and yet classic Silicon Valley at the same time.
 
 Inside the building, I inspected the check-in table and the signage in the hallway and then the setup inside the main room. It was a cavernous space, with plenty of natural light coming in through the windows. Giant silver air-conditioning ducts ran across the ceiling, which made me think of an aircraft hangar. Rows of white and black chairs were laid out in front, along with a projector and screen, and multiple round tables were dotted throughout the rest of the room. Even the tall sponsor boards looked great — very professionally designed.
@@ -32,6 +34,8 @@ Ah yes, the speech — now I was nervous all over again, so I walked back out of
 
 ![Marshall and Richard](/assets/images/4014808146_1357ed042f_o.jpg)
 *Marshall and me preparing for our speeches; photo [by Alex Williams](https://www.flickr.com/photos/hazardsociety/4014808146/).*
+
+## My Opening Speech
 
 When the time came to open the conference, I gulped down the last of my coffee and made my way to the front of the room. It was now filled with people — we had sold out the event and were expecting around three hundred attendees. The large room was buzzing, and it occurred to me that this was the sound of hundreds of happy RWW readers gathered under one roof. That was unusual in itself, since RWW was a completely virtual community every other day of the year. It gave me a jolt of pride to realize that the little website I’d created just over six years ago was now hosting a real-life event in the heart of Silicon Valley.
 
@@ -71,6 +75,8 @@ Within thirty minutes the entire mass of white paper was covered with giant Post
 *The crowdsourced schedule.*
 
 I hadn’t proposed to lead any of the sessions myself. Our job at RWW was to report on what the industry was doing and thinking, so I was mostly just curious about what the attendees wanted to discuss. Throughout the day I cruised in and out of sessions — rarely staying for an entire breakout. Partly this was just to show my face in as many sessions as possible, as the founder of the company hosting this event. But also, I wanted to take the temperature of all the discussions— which ones were full of ideas and enthusiasm, which were contentious, which were dull (there were only a couple). This would help me decide which topics were worth exploring more and potentially writing up later as RWW articles.
+
+## Jason Shellen’s Session
 
 One of the sessions I stayed in for a while was run by Jason Shellen from Google. He’d been one of the creators of Google Reader and was running a discussion entitled “What Do We Hate About the Real Time Web.” The common theme was that users didn’t have enough control over feed consumption and other management tools for the real-time web. (Interestingly, Twitter had released a new product that very day to help with this — [lists](https://opusresearch.net/wordpress/2009/10/15/twitter-lists-launch-coincides-with-real-time-web-summit/). But it was too soon to say how well lists would work or how much Twitter would promote them.)
 

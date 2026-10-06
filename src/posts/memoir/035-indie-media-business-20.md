@@ -18,6 +18,8 @@ We were still in the Technorati Top 10 list at this stage — hovering between s
 ![Technorati top 10](/assets/images/2810856642_3537c3a2b5_o.png)
 *By the end of August 2008, RWW had got to number 8 in the Technorati list of the top blogs in the world; [via Flickr](https://www.flickr.com/photos/ricmac/2810856642/).*
 
+## Building Out the Team
+
 I’d known for many months that I needed help to grow the business — after all, that was the main reason I’d wanted to sell to a larger media company. So now, after all the delays and eventual collapse of the acquisition deal, I felt I had to move quickly and bring on at least two executive-level people. I’d mapped out two different roles to be filled: VP of content development and VP of business development. The former was for Marshall, and the latter was tailored for Bernard (who was unsure whether he wanted it). Whoever filled the biz dev role, I envisioned the three of us forming a leadership team for RWW. I’d be a hybrid CEO and editor; overseeing the business and content strategies but focusing my daily efforts on leading the editorial team.
 
 By the end of July, with Bernard’s help, I came to an agreement with Marshall for the VP of content dev role. I [announced it on the site](https://web.archive.org/web/20080804235829/http://www.readwriteweb.com/archives/marshall_kirkpatrick_joins_rww_as_vp_content_dev.php) on July 31, noting that he “will be responsible for driving a lot of our upcoming content developments,” including “premium content, publishing system enhancements, and more magic things.”
@@ -35,6 +37,8 @@ Meanwhile, I turned my attention back to editorial matters.
 
 
 
+## New Writers in 2008
+
 Even though over half of 2008 had now disappeared in a blur of unconsummated business dealings, I had still managed to expand our writing team. I’d hired Sarah Perez as a freelancer in early January, after subscribing to [her personal blog](https://web.archive.org/web/20071219030024/http://www.sarahintampa.com/) the previous year. She had a full-time IT job in Tampa, Florida, and did blogging for Microsoft on the side. She told me she’d be able to quit her IT job and go full-time on blogging if I could offer her twelve posts per week on RWW. I’d readily agreed, and Sarah officially joined RWW and quit her day job. Marshall and I both loved her posts, and by the middle of 2008 she was an established part of our daily writing team.
 
 Another new writer started in May: a twenty-year-old Black woman from Atlanta named Corvida Raven. She ran her own blog, [SheGeeks](https://web.archive.org/web/20080720104009/http://shegeeks.net/about/), and described herself as “an avid follower of ReadWriteWeb.” After a successful trial post, I hired her as a regular blogger at the same per-post rate as Sarah. Corvida made an immediate impact — one of her first paid posts made it to the top of Techmeme while I was in New York.
@@ -43,6 +47,8 @@ Another new writer started in May: a twenty-year-old Black woman from Atlanta na
 *One of the things I'm most proud of during this era of RWW is that we discovered and hired some very talented new [writers](https://web.archive.org/web/20080810062619/http://www.readwriteweb.com/about_readwriteweb.php). Two of them (Sarah and Frederic) are leading tech bloggers to this day; and both got their start as pro bloggers at ReadWriteWeb.*
 
 During the due-diligence hubbub in June I hired another promising writer. Frederic Lardinois was a thirty-two-year-old graduate student from Portland who had a tech blog called [The Last Podcast](https://web.archive.org/web/20080704172919/http://www.lastpodcast.net/) (“opinionated web 2.0 news and commentary”). He’d responded to a short blog post I’d put up [on June 15, 2008](https://web.archive.org/web/20080618093055/http://www.readwriteweb.com/archives/wanted_rww_writer_june08.php), advertising for a new blogger to “cover breaking web tech news and product reviews” at RWW. I wrote, “Ideally we’re after a blogger based in Silicon Valley, who can attend the local events on our behalf and meet with startups,” but I was open to “non-Valley bloggers too.” (How could I, of all people, discriminate on geography?)
+
+## The Apple App Store Launches
 
 One of the first news stories Frederic covered for us was the [launch of the Apple App Store](https://web.archive.org/web/20080801065919/http://www.readwriteweb.com/archives/apples_iphone_app_store_launch.php) on July 10, 2008, the same day that the second-generation iPhone 3G launched. There were 552 apps in the store at launch, Frederic noted, of which about a quarter were free. That same day, I [posted a bunch of screenshots](https://web.archive.org/web/20080714025437/http://www.readwriteweb.com/archives/iphone_3g_in_the_flesh.php) of the iPhone 3G. Because New Zealand was a day ahead in time zones, I’d received my iPhone 3G before many US tech bloggers had gotten their hands on it — for once, I had an advantage over my American blogger friends.
 
@@ -80,6 +86,8 @@ It had taken nearly a year of extensive (and expensive) discussions with various
 
 ![NYT tech blog syndication announcement](/assets/images/nyt_techblogs_announcement_sep08.jpg)
 *The NYT announcement. Seeing ReadWriteWeb's name in the "newspaper of record" was a big thrill.*
+
+## Syndication on the New York Times
 
 We’d been fishing for a mainstream-media syndication partner ever since the ZDE deal went south. As usual, it was partly inspired by what our tech-blog competition was doing. TechCrunch had inked a syndication deal with the *Washington Post* [in May](https://techcrunch.com/2008/05/08/techcrunch-stories-now-appear-on-washingtonpostcom/), and GigaOm had a similar deal with *BusinessWeek*. We’d first tried the *Wall Street Journal* but got nowhere. Fortunately, Alex Iskold had a contact at the *New York Times* and reached out in July. His contact responded positively, and Alex handed the conversation to Bernard to follow up.
 

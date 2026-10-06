@@ -32,6 +32,8 @@ I have to thank kiwi journalist Mark Evans for the inspiration for this series. 
 
 \- Lots of **bigco partnering**. Allow me to quote directly from Mark Evans here, as he captured this trend very nicely: "Ebay and Yahoo have snuggled up together, announcing in May that Yahoo would serve display ads to Ebay’s US users and promote Paypal – Ebay’s payment service – to Yahoo users. In August, Ebay signed Google to serve ads to international Ebay users. A dollar each way, perhaps?"
 
+## VC Money and the Enterprise
+
 \- 2006 also saw the **return of the VC money** (see web 2.0 hype above!). Although [VC money](https://web.archive.org/web/20061213061731/http://www.readwriteweb.com/archives/the_web_vc_chart.php) this time round seems to be much more circumspect and generally lower valuations than in the dot com boom. Indeed an associated trend is that web startups are increasingly going it alone and bootstrapping, thanks to open source technologies (e.g. the LAMP platform) and ability to work anywhere anytime. On the flip side (pardon the pun), it still pays to be located in Silicon Valley — as that is where the key networking and fundraising activity still takes place.
 
 \- **Localization really matters in Web space** — for example [TradeMe](https://web.archive.org/web/20061213061731/http://www.trademe.co.nz/) dominates New Zealand traffic and similar local products often outrank the likes of Yahoo and Google in their local markets. The larger trend here is that cultural and language differences mean that big US companies don't always dominate in international markets. Having said that, there is also a lot of overseas [cloning](https://web.archive.org/web/20061213061731/http://www.readwriteweb.com/archives/cloning_vs_originality.php) of successful Silicon Valley apps (e.g. digg, flickr). See Read/WriteWeb's continuing [coverage of international markets](https://web.archive.org/web/20061213061731/http://www.readwriteweb.com/archives/cat_international_markets.php) for individual country drill-downs.
@@ -39,6 +41,8 @@ I have to thank kiwi journalist Mark Evans for the inspiration for this series. 
 \- **The consumerization of the enterprise** has been an emerging trend all year. More and more social web apps are coming into the enterprise (e.g. Skype, IM), and organizations are adopting read/write Web philosophies. Corporate blogging got popular in 2006 and blogs are usually part of the mix now in marketing plans.
 
 \- In particular, I've been tracking the trend of [**Web Office**](https://web.archive.org/web/20061213061731/http://www.readwriteweb.com/archives/web_office_update_aug06.php). As well as lots of startup action (Zoho, Zimbra, ThinkFree, et al), late this year saw a flurry of action from Google in this space — Google Apps For Your Domain, the acquisitions of Writely and [JotSpot](https://web.archive.org/web/20061213061731/http://www.readwriteweb.com/archives/google_acquires_jotspot.php), the launch of Google Docs & Spreadsheets, and more. In 2007 a major area of focus will be the increasing competition in office software between Google and Microsoft.
+
+## Widgets, Video and Browser Wars 2.0
 
 \- **Widgets** (mini web apps) were all the rage this year, culminating in its own conference. Related to this, ['personalized start pages'](https://web.archive.org/web/20061213061731/http://www.readwriteweb.com/archives/business_models_start_pages.php) (live.com, netvibes, pageflakes, etc) ramped up, enabling users to collect their widgets together on the one site.
 
@@ -55,6 +59,8 @@ I have to thank kiwi journalist Mark Evans for the inspiration for this series. 
 \- **Ajax** had [strong growth](https://web.archive.org/web/20061213061731/http://www.readwriteweb.com/archives/the_state_of_web_development.php) this year and according to some reports is not that far behind Flash now.
 
 \- [**World Internet Penetration**](https://web.archive.org/web/20061213061731/http://www.readwriteweb.com/archives/world_internet_penetration_sept06.php) is 16% and growing — Asia in particular is ramping up fast! Also noteworthy is that [3/4 of traffic to top websites is international](https://web.archive.org/web/20061213061731/http://www.readwriteweb.com/archives/traffic_non-us.php).
+
+## Smaller Trends
 
 Those were the major trends from the Web this year, but there are many other smaller trends. Here is a starter for 10:
 

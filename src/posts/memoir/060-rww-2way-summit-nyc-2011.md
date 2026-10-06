@@ -27,6 +27,8 @@ Sure enough, as the time for our opening remarks approached, I looked around the
 ![Conference opening](/assets/images/2way-summit-2011b.jpg)
 *Photo I took soon after the conference opening.*
 
+## Our Lineup of Speakers
+
 Nobody could fault our [lineup of speakers](https://web.archive.org/web/20110711221507/http://www.readwriteweb.com/2way/program/) that first morning. First up was NPR senior journalist Andy Carvin, who spoke passionately about the [Arab Spring](/p/internet-2010/). He said his Twitter feed of the uprisings that year was “as close to real-time war reporting as we’ve ever come.” 
 
 Then Fred Wilson, the well-known New York VC who [I'd met last year](/p/050-meeting-new-york-times-2010/), did a keynote presentation on “[content shifting](https://prezi.com/5misi-t1qaj5/content-shifting/).” It was a commentary on the many different digital devices people were now using. 

@@ -19,6 +19,8 @@ For editorial statistics, Sean listed the monthly page views at about five milli
 ![RWW editorial vision, October 2011](/assets/images/rww-editorial-vision-oct2011.jpg)
 *RWW editorial vision, October 2011.*
 
+## Meetings With GigaOm and O’Reilly
+
 The first meeting was on Monday morning with GigaOm CEO Paul Walborsky. This was the deal we were least optimistic about, since it would probably be stock based with only a little cash (perhaps even none). Sean also didn’t think their stock would be worth much, given the number of funding rounds they’d had.
 
 We met Paul at the GigaOm office on Second Street. I was disappointed to find that Om Malik himself wasn’t in the office that day. Paul suggested I make a time to meet Om separately, so that the two of us could make sure we were aligned editorially. As for the meeting, it’s fair to say that neither side learned much about the other. Paul and Sean danced around the key metrics of our respective businesses, each wary that we were competitors (albeit friendly ones). Paul did confirm, though, that any deal would have to involve stock.

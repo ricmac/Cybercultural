@@ -21,6 +21,8 @@ The focus for MIX this year was a new product called [Silverlight](https://web.a
 ![RWW poll](/assets/images/rww_poll_silverlight_may07.png)
 *One of the neat community tools we had on the site by 2007 was polls, provided by PollDaddy.*
 
+## Lunch With Ray Ozzie and Scott Guthrie
+
 As part of the marketing push for Silverlight, I was invited to a [blogger lunch](https://web.archive.org/web/20110501145342/http://www.readwriteweb.com/archives/lunch_with_ray.php) with Microsoft executives Ray Ozzie and Scott Guthrie. Ozzie had taken over from Bill Gates as Microsoft’s chief software architect the previous June, so he was still relatively new to his role — and, of course, replacing Gates at Microsoft was always going to be impossible. He was fifty-one and looked the part with his swept-back silver hair and Gates-like glasses. But in person, he came across as reserved and not entirely comfortable in the limelight. Whereas Gates always reveled in being the smartest person in the room — and made sure that you knew it — Ozzie seemed reluctant to accept that responsibility.
 
 ![Ray Ozzie at MIX 2007](/assets/images/rayozzie_mix07.jpg)
@@ -45,6 +47,8 @@ The sponsor ads and the advertising supplied by FM Publishing, along with other 
 
 ![August 2007 screenshot](/assets/images/aug07_screenshot.jpg)
 *A screenshot taken in August 2007, which shows how many ads I had running at the time.*
+
+## Web 2.0 Becomes Big Business
 
 The Web 2.0 industry was now big business. This was confirmed by the sale of two large advertising networks to tech companies in the first half of 2007. First, in April, [Google acquired](https://web.archive.org/web/20070416003802/http://www.readwriteweb.com/archives/google_to_acquire_doubleclick.php) the online advertising platform DoubleClick for $3.1 billion. [Microsoft quickly countered](https://web.archive.org/web/20080111145106/http://www.readwriteweb.com/archives/microsoft_gets.php) the following month by buying a digital marketing company called aQuantive for $6 billion. While I didn’t use those platforms, RWW was — in its own small way — among the beneficiaries of [record internet ad spending](https://money.cnn.com/2007/06/06/news/companies/onlineads/index.htm) that year.
 
@@ -73,6 +77,8 @@ I’d written up a three-page document for Emily and Max, outlining my goals for
 In mid-August Emily and Max sent me a proposal for the redesign work, including a generous “friends’ rate” for the project. At the same time, I was having discussions with Six Apart (owners of Movable Type) and my web hosts Media Temple about upgrading our server setup. In addition, I was figuring out my taxes and investigating a business plan involving premium content.
 
 With the business planning, redesign, publishing platform upgrade, sponsor management, SEO, and finalizing agreements with Steve and Charles on the network blogs — not to mention writing several RWW articles every day — I was now very stretched on the work front. I was trying to defocus other demands on my time. I’d been having informal discussions about a RWW China site with a guy named Gang Lu. But I hit pause on that. Among a list of things I wrote down in my notebook under the heading “Defocus” was this: “emails (do auto reply?).” But alas, generative AI software was still many years into the future.
+
+## Launching Read/WriteTalk
 
 One project I didn’t put off was a new podcast site to be run by Sean Ammirati, called Read/WriteTalk. I’d learned my lesson about using the RWW branding [for a new network blog](https://cybercultural.com/p/021-iphone-debut-2007-rww-network/). I set up a space on the server and handed over the design template, and Sean did most of the work to create the new site. It was his idea, and I was pleased to have a podcast site up and running under the RWW banner.
 

@@ -12,6 +12,8 @@ featureImage: "/assets/images/ricmac-rwrealtime-summit-june2010-1280x720.jpg"
 
 It was another late arrival coming into New York — near midnight on Sunday, June 6 — but this time I had booked a hotel in Manhattan. It was a fifteen-minute walk from the Metropolitan Pavilion, our Real-Time Web Summit venue. That would be on Friday, but I’d arrived early to participate in events attached to New York’s Internet Week.
 
+## The CM Summit
+
 The first event I went to was the [CM Summit](https://web.archive.org/web/20100623063652/http://cmsummit.com/Agenda), run by our advertising partners FM Publishing (the *CM* stood for “conversational marketing”). There I ran into Dick Costolo, the Feedburner founder who was now COO at Twitter (within a few months, [he’d be appointed CEO](https://archive.ph/20130119065857/http://www.chicagotribune.com/business/ct-biz-0206-twitter-costolo-20110206,0,2960609.story)). I had always enjoyed talking to Dick, and from day one at Feedburner, he’d gone above and beyond trying to keep early adopters like me happy. When my blog was still relatively young, during the first half of 2005, he would email me back on support queries even when it was late at night his time. I hoped he would bring the same passion for customer satisfaction to Twitter. 
 
 ![RWW coverage of Twitter, 2010](/assets/images/rww-twitter-dev-restrictions-2010.jpg)

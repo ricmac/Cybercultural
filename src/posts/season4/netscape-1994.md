@@ -22,6 +22,8 @@ In the 1.0 announcement of Netscape Navigator (previously called Mosaic Netscape
 ![Netscape 1.0, December 1994](/assets/images/Netscape1-screenshot.png)
 *Netscape 1.0, December 1994; [via WinWorld](https://winworldpc.com/product/netscape-navigator/1x).*
 
+## The Arrival of 28.8K Modems
+
 The “as well as higher bandwidth lines” bit was due to the appearance of the first 28.8 kilobit/second modems onto the market in late-1994 — potentially offering speeds twice as fast as the previous generation. The international standard for 28.8 Kbps (V.34) had been ratified [in September 1994](https://www.itu.int/rec/T-REC-V.34-199409-S/en), but it took months for this to filter through to computer retailers. As late as March 1995, [a Washington Post article](https://www.washingtonpost.com/archive/business/1995/03/13/with-modems-speed-is-the-need-if-you-want-to-succeed/9cafd33c-5fa0-49dd-b0a4-fda5b18d284e/) about modems stated that 14.4 Kbps modems were “today's most popular models” — although it added that “manufacturers are now pushing hard to get you interested in 28.8 kbps modems.”
 
 Even if you had a new 28.8 Kbps modem by the end of 1994, there was no guarantee your phone line would be capable of reaching the top speeds. It was common for large file downloads requested on a 28 Kbps modem to run at an average of [between 1 and 6 Kbps](https://www.gwsmedia.com/articles/how-internet-system-requirements-have-changed). So the true speed of data transfer in late 1994, when Netscape Navigator 1.0 was released, was often only about one fifth of the advertised one. These problems were exacerbated at peak times of Internet usage, such as the early evening.

@@ -20,6 +20,8 @@ I had instructed the Uber driver to drop me off at a car park with an Internet A
 
 It turned out a group of people had already made themselves comfortable inside the main building, drinking complimentary cokes, beers or mineral water, and eating finger food. The crowd was a mix of older people (perhaps from the generation that worked in Silicon Valley during the 1960s and 70s) and younger geeks (my guess is that many were either librarians or professional webheads — me being an example of the latter).
 
+## A Tour With Brewster Kahle
+
 When the tour began about half an hour later, thirty or forty people gathered in front of an enthusiastic red-shirted man with thinning gray hair. He was of course the founder of the Internet Archive, Brewster Kahle. At first, I was surprised he would be conducting the tour himself, but it soon became clear that Kahle lives and breathes the mission of the Internet Archive. He began by showing us the shipping containers full of old books and other materials, while reeling off some facts (“the Internet Archive is a nonprofit library; we started it 27 years ago, 1996.”).
 
 ![Brewster Kahle in front of containers](/assets/images/5a9caca3-brewster_containers.jpg)

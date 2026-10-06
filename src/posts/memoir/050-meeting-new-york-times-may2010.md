@@ -16,6 +16,8 @@ If I’d been one of the first professional tech bloggers, Fred had pioneered th
 ![Cosmic 140](/assets/images/cosmic_140-1280.jpg)
 *The Cosmic 140: the "the 140 most influential people on twitter" in May 2010, according to [Information Architects, Inc.](https://web.archive.org/web/20100524215805/http://informationarchitects.jp/c140/) (creators of the [Web Trend Map](/p/037-googleplex-2009-rww-channels/)). Fred and I were at least in the same galaxy.* 
 
+## Meeting Fred Wilson
+
 I’d been introduced to Fred over email by (who else?) Alex Iskold, and we’d arranged to meet him in his Union Square Ventures office at 915 Broadway, between Twentieth and Twenty-First. By coincidence, Sean and I had bumped into him earlier that day in a Manhattan café. So when we entered his fourteenth-floor office at 3:00 p.m. on Tuesday, it was our second encounter.
 
 Fred was about my height and had short dark brown hair, styled almost in a bowl cut. Despite the boyish hair, he was exactly ten years older than me and so was forty-eight when we met. He wore a sky-blue-striped shirt and black blazer over a pair of designer jeans. But the thing I remember most about him that day were his eyes, which were pale blue but had a penetrating look that I found psychologically intimidating. This effect was enhanced by the deep rings under his eyes, which suggested a businessman who worked long hours and didn’t have time to suffer fools.
@@ -26,6 +28,8 @@ Fred was about my height and had short dark brown hair, styled almost in a bowl 
 After we’d sat down, he immediately peppered me with questions about RWW. One reason for our meeting was to discuss the possibility of getting funded, but he quickly nixed that — he wasn’t interested in investing in media, he said, as it wouldn’t scale enough. I’d already heard that line from other investors, so it wasn’t a surprise. Still, I was beginning to feel uncomfortable at all the questions about RWW and how we did business. It wasn’t the usual, easy conversation I had with other bloggers — it felt more like I was interviewing for a job (and what’s more, a job I couldn’t get). My face was getting flushed under Fred’s relentless gaze and rapid-fire questions, so I was grateful when Sean took over the explanation of our revenue model.
 
 It was good to meet Fred, but I didn’t come away from that meeting thinking I’d made a new friend. Most of the time when I met other bloggers, we’d make a lasting connection. But I doubted that Fred would even remember my name the next time we met.
+
+## Planning the Unconference With Kaliya
 
 Later that day, Sean and I had a somewhat more relaxing meeting with Kaliya Hamlin to discuss our upcoming unconference. We met at the Heartland Brewery in Union Square and had a good discussion about event logistics. Since this was our third event with Kaliya, there weren’t any surprises and we trusted that she had everything covered.
 

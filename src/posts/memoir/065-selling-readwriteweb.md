@@ -20,6 +20,8 @@ Kourosh Karimkhany was put in charge of looking after me for the three days. He 
 
 Kourosh was a good-looking guy in his forties who had a stylish dress sense. He usually wore skinny jeans with a brightly colored button-down and blue jacket, and his salt-and-pepper hair was slicked back. He looked exactly like how I imagined a Silicon Valley executive wanted to look; indeed, he’d worked at many of the usual tech media suspects throughout the years (*Wired* Digital, Yahoo, Condé Nast). I found that I got on well with him in person, although I felt underdressed compared to both him and Matt Sanchez. Perhaps I’d have the budget to upgrade my wardrobe once this deal went through!
 
+## Hardball on the Contract
+
 Despite the friendly welcome from Matt, Troy, Kourosh, and the rest of the SAY team, they did play hardball over the three days I was there. We didn’t end up getting all the receivables — we eventually agreed that RWW would keep the direct-sales receivables (about $100,000 worth), but SAY would keep the FM receivables (over $300,000). This revenue had been earned before the date of acquisition, they said, and so it was needed to cover short-term staffing and other expenses. It was a fair point, but just one of a number of little things that SAY dug in about.
 
 I also discovered they would not be giving all the writers full-time positions and in fact wanted to move most of them to a paid-per-post freelancer model instead of a set monthly sum. However, they did want a couple of writers based in San Francisco, so we discussed hiring Jon Mitchell and Dan Rowinski as full-time employees for those roles. We also discussed hiring Abraham and David full-time, and one or two of the channels team. Unfortunately, Robyn, Curt, Jared, and Tyler didn’t fit into the structure SAY wanted. So while I was pleased for the people who would get hired as employees, I was disappointed for the others in the team.
@@ -50,6 +52,8 @@ I stumbled into my home office, located directly opposite my bedroom, and switch
 *Behold, my home office. Both me and my office were in a state of turmoil that day.*
 
 That woke me up! I checked Skype and saw a panicked message from Sean. I flipped to Twitter and saw that the news was beginning to bubble up there as well. I was also getting DMs congratulating me on the sale. By 3:40 a.m. my time, TechCrunch had [posted a story](https://techcrunch.com/2011/12/14/say-media-acquires-readwriteweb/) based entirely on Adweek’s (the writer must not have gotten the embargoed news). This was problematic, since Adweek’s story focused a little too much on SAY’s hiring of Dan Frommer as a RWW “editor at large.” So the messaging, at least from my side, was already out of whack. Dan was well-known in tech media as a former *Forbes* reporter and an early employee at Business Insider. I was pleased that SAY had hired him, but in my draft post I’d only briefly mentioned it. Now it was part of Adweek and TechCrunch’s lede.
+
+## A Broken Embargo
 
 The breaking of embargoes was a known problem in the blogosphere at this time. The cynical goal was to get juice on social media before anyone else, as well as land the lead story on Techmeme. I found out later that it was an Adweek editor who had broken the embargo (the reporter profusely apologized to me). Regardless, I had a frantic back-and-forth on Skype with Sean and members of the SAY team. I hadn’t even had time to get a coffee, but it didn’t matter because I was running on adrenaline now.
 

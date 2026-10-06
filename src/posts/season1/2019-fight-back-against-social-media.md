@@ -15,6 +15,8 @@ However, it became clear after 2007 that Twitter was _not_ blogging. Instead Twi
 
 Tumblr always had more in common with Wordpress, the world’s leading blog platform, than it did with Twitter. That is, most Tumblr sites were made up of “discrete, often informal” posts “typically displayed in reverse chronological order” (from [Wikipedia’s definition](https://en.wikipedia.org/wiki/Blog) of “blog”). But what differentiated Tumblr from Wordpress and others was the prevalence of non-textual content among its users: images, videos, GIFs, audio and other forms of multimedia were more popular than text posts. Tumblr also nailed the social side of blogging, far more than Wordpress did. 
 
+## Automattic Buys Tumblr
+
 So when Automattic, the owners of Wordpress, announced last month that it had acquired the distressed assets of Tumblr from Verizon, most Web fans rejoiced. While Tumblr’s heyday is long gone, the Automattic acquisition got people wondering: will this help blogs compete again with social media? After all, Wordpress bloggers could sure use some of Tumblr’s magic social dust. 
 
 A more pertinent question may be: is it too late for blogs, since email newsletters have seemingly replaced them?

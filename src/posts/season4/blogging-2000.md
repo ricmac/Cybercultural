@@ -22,6 +22,8 @@ On her site, [Anita Rowland commented](https://web.archive.org/web/2000041704403
 ![Weblog gather, February 2000](/assets/images/weblog-gather-feb2000.jpg)
 *Anita Rowland's blog post about the "weblog gather" in Seattle.*
 
+## Bloggers on NPR’s The Connection
+
 On 18 May 2000, Blood and two other bloggers went on an NPR radio show called The Connection, hosted by Christopher Lydon (who used the occasion to [start a blog](https://web.archive.org/web/20000619005103/http://www.wbur.org/connection/archive/2000/05/0518b.shtml) for the show, complete with blogroll). Also [on the radio](http://archives.wbur.org/theconnection/2000/05/18/web-logging.html) that day were Brad Graham, creator of Bradlands.com, and Evan Williams, CEO of Blogger.com. 
 
 Graham had actually [coined the term “blogosphere”](https://www.npr.org/2010/01/06/122277812/the-man-is-gone-but-long-live-the-blogosphere) back in September 1999 — albeit jokingly. However, the term didn’t gain traction until 2002, when it was “recoined” by William Quick. So on the day Lydon interviewed him, the “blogosphere” wasn’t mentioned. (Tragically, Graham died in January 2010, aged just 41.)
@@ -32,6 +34,8 @@ During the radio show in May 2000, Graham said that he felt a personal connectio
 
 ![The BradLands, May 2000](/assets/images/the-bradlands-may2000.jpg)
 *[Brad Graham's weblog](https://web.archive.org/web/20000520005654/http://www.bradlands.com/), 20 May 2000, just after his radio appearance.*
+
+## The Rise of the Blogroll
 
 But of course, not all bloggers lived in a big city and could easily meet up in meatspace. I started blogging in 2002, and lived across the world from people like Graham, Williams and Blood — so there was no opportunity to meet them in person. In any case, the sense of camaraderie amongst webloggers that Graham hinted at was most commonly expressed virtually, in what would come to be known as the blogroll.
 
@@ -93,6 +97,8 @@ On 14 August, [Dornfest posted a proposal](https://lists.w3.org/Archives/Public/
 *RDF frontpage on W3C, August 2000.*
 
 Incidentally, Winer was still a couple of years away from coining his version of what the acronym meant: “Really Simple Syndication.” That didn't come till 2002. In 2000, he simply used “RSS” and didn’t say what the letters stood for.
+
+## RSS 1.0 Versus RSS 0.92
 
 Progress from the RSS-DEV group was quick. On 6 December 2000, they officially [launched RSS 1.0](https://web.resource.org/rss/1.0/). As explained in the document, the goal was to go back to the roots of Netscape’s original RDF-based version, RSS 0.90:
 

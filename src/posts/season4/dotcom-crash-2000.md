@@ -72,6 +72,8 @@ Sheff ends the story almost as if it’s a modern-day business fable:
 ![Loudcloud feature, August 2000](/assets/images/loudcloud-feature-aug2000.jpg)
 *[An article](https://web.archive.org/web/20000815061751/http://www.loudcloud.com/silverlining/index.html) cowritten by Loudcloud CEO and Andreessen's co-founder, Ben Horowitz. Later, in 2009, the pair would co-found the VC firm Andreessen Horowitz (a16z).*
 
+## Loudcloud Rides Out the Bust
+
 Loudcloud did indeed become a successful business over the next several years; or, at least, it managed to ride out the dot-com bust and come out the other side. To do so, it had to change its business model (pivoting from services to selling back-end software) and also its name (to the decidedly more boring OpsWare), but the company was eventually sold to Hewlett-Packard in 2007 for $1.6 billion. 
 
 So it wasn’t all doom and gloom once the internet bubble began deflating in March 2000 — some internet companies were still building value. With that said, we never heard about IBM’s “eNewspaper” technology again.

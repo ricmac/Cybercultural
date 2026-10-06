@@ -18,6 +18,8 @@ Another of my passion projects as a tech reporter was the Semantic Web (it was a
 
 The Semantic Web was a vision for the internet that the web’s inventor, Tim Berners-Lee, and the World Wide Web Consortium (W3C) that he led were pushing hard. I thought it was an admirable goal — to make the web more structured and based on open data. This was important because despite the talk of “open platforms” by big companies, including Facebook and Google, there was a growing suspicion that they weren’t quite as open as they claimed. 
 
+## Mark Zuckerberg’s Idea of “Open”
+
 In an [April 2009 interview with Wired](https://web.archive.org/web/20090705110610/http://www.wired.com/epicenter/2009/06/mark-zuckerberg-speaks/), Mark Zuckerberg used the word *open* nearly thirty times! The media — including RWW — was guilty of indulging Zuckerberg and other tech CEOs when they talked about openness. On the other hand, supporting open standards was a core part of RWW’s mission — the web, after all, is the ultimate open internet platform. 
 
 ![Mark Zuckerberg openness, May 2009](/assets/images/facebook_open_2009.jpg)
@@ -44,6 +46,8 @@ For all the strangeness of the Stata Center, I warmed to it immediately. It seem
 ![Stata Center, June 2009](/assets/images/stata_building_jun09.jpeg)
 *Stata Center on the day of my visit, June 26, 2009.*
 
+## Meeting Tim Berners-Lee
+
 As instructed, I entered the Gates Tower (named after the Microsoft founder) and took the elevator to the fifth floor. Amy came out to greet me and quickly ushered me into Tim’s office. Before I knew it, I was shaking hands with the inventor of the World Wide Web.
 
 Tim, who had turned fifty-four earlier that month, was wearing a teal-green short-sleeved shirt and light blue slacks. He was a bundle of nervous energy with a receding hairline. His apparently habitual twitchiness came through in his speech; he stuttered slightly, and words flowed out of his mouth a little too quickly. Despite his nervy demeanor, he was relaxed and friendly. He politely invited me to sit down and only followed suit when I did.
@@ -61,6 +65,8 @@ We then got down to business with [the interview](/p/tim-berners-lee-interview-2
 
 ![semtech 2009](/assets/images/semweb_web3.jpg)
 *A slide from SemTech that captures the "Web 3.0" branding around Semantic Web at this time; photo [by Mike Dunn](https://www.flickr.com/photos/glemak/3648512577/).*
+
+## A Photo With Tim
 
 After the interview concluded, we stood up and shook hands again. Up till this point, I hadn’t even thought of asking for his autograph or for a selfie, but fortunately his assistant Amy was much more aware of the situation. She gestured to my iPhone and asked if I’d like a photo of me and Tim. “Oh! Absolutely,” I said, a little too enthusiastically.
 

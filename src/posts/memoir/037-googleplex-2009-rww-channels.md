@@ -21,12 +21,16 @@ Having a young family and running a thriving, exciting media business should be 
 
 The RWW expansion picked up steam over January. After hitting two million monthly page views in December, we were on track to surpass that in January. On a single day in mid-January we got 150,000 page views (our highest-ever daily number). That said, we were also currently running at a slight loss for the first time since we’d absorbed the [M&A expenses last year](/p/034-rww-withdraws-from-zde-deal/), mainly due to the increased expenses of three executive salaries and more freelance writer invoices. Our sponsor and advertising revenue was still solid, despite the [economic headwinds](/p/036-web20-summit-2008/), but I told Bernard that getting the monthly trading profit back into the black by Q2 was a priority.
 
+## Skipping the Crunchies
+
 In order to further focus on our business, we’d decided not to participate in [the Crunchies awards show](/p/026-rww-redesign-2007-crunchies/) in early January. We felt the branding was too TechCrunch-centric, but also the previous year’s profit of less than $10,000 had proven it wasn’t a big revenue generator. Another factor was that relations between Mike Arrington and me had soured a little during 2008. We were both under pressure that year, and what little communication we managed was brusque and unfriendly on both sides. I felt bad about it and had emailed an apology, hoping to reestablish the friendship, but had not received a reply.
 
 The night before the Crunchies, I received an email from Mike: “I’m sorry you won’t be part of the Crunchies tomorrow evening Richard. It isn’t the same without you. Hope we can work together again this year.” I appreciated the note and the willingness to mend fences. I wrote back wishing him luck for the event, adding, “I kind of miss the ‘good old days’ of blogging, so hope we can work together in the future.”
 
 ![Marshall, Sarah, Lid](/assets/images/marshall-sarah-lid-april2009.jpg)
 *Three of the RWW crew in April 2009: Marshall Kirkpatrick, Sarah Perez, Lidija Davis; [photo via Lid](https://www.flickr.com/photos/i-lid/3439430493/).*
+
+## Launching the ReadWrite Channels
 
 As part of the renewed focus on core RWW business during the first quarter of 2009, we planned to increase revenue by launching several new “channels,” each of which would have its own sponsor. These would be subsites of RWW, but closely connected to the brand and part of the same domain. We’d already [launched an enterprise channel](https://web.archive.org/web/20081107052944/http://www.readwriteweb.com/archives/enterprise_20_nature_of_the_firm.php) back in August, which Bernard was running. However, we didn’t have a sponsor for it and it wasn’t yet a subsite (technically, it was just a category of RWW). So there was much work to do on both operations and the sales side.
 
@@ -59,6 +63,8 @@ It was a glorious, blue-skied day in Mountain View when I arrived. I was met by 
 
 ![Googleplex, March 2009](/assets/images/googleplex_march2009.jpg)
 *Scenes from the Google campus on 12 March 2009.*
+
+## OpenSocial and Android
 
 After lunch I met David Glazer, a director of engineering who oversaw OpenSocial, an open standard for social networking. This initiative would allow Google sites to interconnect with the likes of MySpace and Ning. The idea was clearly to compete with Facebook, and at RWW, we were generally supportive of it. Unfortunately, the project would be hampered over the next few years by Google’s confused social network product strategy. At the time of my trip, Google was promoting something called Google Friend Connect, which would turn into a variety of products over the next two years: [Google Wave](https://web.archive.org/web/20091228080935/http://www.readwriteweb.com/archives/google_wave_google_tries_to_reinvent_email.php), Google Buzz, and finally Google+. All of them failed to make inroads into Facebook’s ever-increasing popularity, and so OpenSocial eventually faded into the background.
 

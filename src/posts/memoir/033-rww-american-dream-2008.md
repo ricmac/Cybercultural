@@ -28,6 +28,8 @@ I didn’t see Steve (ZDE’s chairman and CEO) at all that day, but he sent me 
 
 
 
+## A Quieter Wednesday at ZDE
+
 Wednesday morning at ZDE was more relaxed, with no talk of RWW finances. In fact, it was more about getting my opinions on various ZDE initiatives — their multimedia efforts, what it meant to be a blogger in 2008 (the words *passion* and *authenticity* were listed on the agenda as a guidepost to that discussion), and how to grow ZDE’s developer community, DevShed. 
 
 By lunchtime the official due diligence appeared to be over. I was on my own for the rest of the day, and there would be no need for me to come into the office again tomorrow. I’d already cut short my trip by a day and booked a Friday-morning flight home, after realizing that the meetings with ZDE and Insight wouldn’t take the whole week. 
@@ -35,6 +37,8 @@ By lunchtime the official due diligence appeared to be over. I was on my own for
 I didn’t know what to do with myself for the remainder of my time in New York City. Kobi wanted to do lunch with me before I left, and I was also planning a dinner with Bernard and Alex. But both appointments would have to wait till Thursday, due to everyone’s busy calendars. The only thing I wanted to do before I left was see the Empire State Building. I figured I would do that between lunch with Kobi and dinner with my colleagues.
 
 It wasn’t as if I lacked things to do in New York. I could’ve gone to MOMA or the art galleries in Chelsea that Wednesday afternoon, but it had been an intense week and I was feeling worn out. So I went back to my hotel room to catch up on RWW business. 
+
+## Writing to Marshall About Editorial
 
 I decided to finally write the detailed email I had promised to Marshall about our editorial operations. “Firstly I have to apologize for not spending more time talking to you in recent weeks,” I began. “I have been very busy on the biz side of things.” That was certainly true but obviously avoided the whole truth! I went on to note that I didn’t think our content was “as good as it could be right now,” adding that one reason was that I hadn’t been as involved in editorial as I needed to be. I was the site’s editor, so any content issues were ultimately on me.
 
@@ -74,6 +78,8 @@ Kobi was very friendly and enjoyed seeing me tackle the ridiculous sandwich, but
 In between mouthfuls of meat washed down with Diet Coke, I told Kobi that I had enjoyed meeting Steve and his ZDE team, and I felt that Steve understood what RWW needed in order to take the next step as a tech-media business. We seemed to be aligned on the plan to fold RWW into ZDE’s operations, although I reiterated that I would be trusting them to set up a suitable structure for sales and admin. Kobi assured me that ZDE would do the right thing on the operations side — they all wanted me focused on editorial and on expanding the RWW brand.
 
 I nodded, gulped down another forkful of pastrami, and told Kobi that I was comfortable moving forward with the deal. Insight and ZDE were keen to get it done too, he said, grinning as I started to show signs of meat fatigue — not even halfway through the sandwich. It was just a matter of working through the final few weeks of paperwork, he added, handing me a napkin for the soon-to-arrive meat sweats.
+
+## The View From the Empire State Building
 
 After lunch, I walked back downtown to the Empire State Building — or maybe I should say I waddled. The view from the top quickly cleared my head, though. It was a fine, cloudy day and I could feel the hum of the city as I gazed out on the mass of high-rise buildings. It sounded like millions of people were chattering all at once, continuously interrupted by honking cars. Even though I couldn’t see anyone eighty-six floors below, the density of people on the ground and inside the buildings pulsed through me. I could feel the vibrations of America in my bones, like Walt Whitman’s “body electric” come to life.
 

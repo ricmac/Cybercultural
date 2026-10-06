@@ -25,6 +25,8 @@ The AAP report showed slight increases in print too, with a 6.9% increase in har
 
 It’s worth noting that ebook sales are still over twice what audiobooks are ($1,016.2M and $469.3M respectively), and that print is much bigger than both (around $5.7B). But clearly, audiobooks are fast catching up with ebooks. 
 
+## Audible Leads the Market
+
 Amazon’s Audible is the undisputed market leader in audiobooks. Audible Publisher Beth Anderson [told Vulture](https://www.vulture.com/2018/09/audiobooks-are-booming-but-how-long-will-that-last.html) last September that her company “has had double-digit year-on-year subscriber growth, keeping pace with the market.” 
 
 Anderson also noted in that article that “subscribers typically buy five books on top of the twelve included with their membership.”

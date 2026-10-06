@@ -38,6 +38,8 @@ In response to Gerard’s question, someone [pointed out](https://lists.w3.org/A
 ![Netscape homepage, Oct 1996](/assets/images/wdh/netscape_homepage_oct96-1024x618.jpg)
 *Netscape homepage, Oct 1996.*
 
+## JavaScript and Frames
+
 But while many early JavaScript features were dismissed as being mere “annoyances” (to use Eich’s term), JavaScript could also be put to use in more pragmatic ways. [For instance](https://lists.w3.org/Archives/Public/www-html/1996Feb/0027.html), adding a back button to a page with multiple frames — so that when pressed, the ‘back’ function is applied to just one frame and not the entire page.
 
 A little context: frames were another new feature in Navigator 2.0 and they allowed you to embed two or more separate HTML documents in one web page. Most commonly, frames were used to put a persistant menu on the left side of the page, with the primary content in the second frame on the right (usually taking up the bulk of the page width). You could also have your header and footer in separate frames. In later years, web designers would use CSS to do this — but in early 1996, frames were the go-to option.

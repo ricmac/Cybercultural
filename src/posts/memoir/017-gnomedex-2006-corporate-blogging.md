@@ -26,6 +26,8 @@ Another Gnomedex session that stood out for me was run by Ethan Kaplan, who work
 ![Dave Dederer from the band the Presidents of the United States of America](/assets/images/867d7f88-2d06-4d1a-92b1-14408cb3ac3f_1154x1043.jpg "Dave Dederer from the band the Presidents of the United States of America")
 *Dave Dederer from the band the Presidents of the United States of America; photo [by Niall Kennedy](https://www.flickr.com/photos/niallkennedy/178687230)*
 
+## Dinner With the Yahoo! Publisher Network
+
 On Friday, I took a break from Gnomedex festivities to attend a dinner organized by the Yahoo! Publisher Network at Tulio on Fifth Avenue. It was pitched to me as “an intimate gathering of some fellow Yahoo’s and industry thought leaders (like yourself) to break bread and discuss the state of technology and the Internet.” It was, however, forgettable, in part because I no longer had any career ambitions with the company. 
 
 Back in March, I’d flown to Sydney to interview for a job at Yahoo!7, a joint company formed by Yahoo and an Australian media network called Seven. The job title was Consumer Insights Manager, but it turned out they weren’t very interested in the insights part. In the rejection email, I was told I had “a very strong background and incredible mind,” but that two other candidates had “a better personality match for the role.” Once again, my introversion and social awkwardness had killed off a career opportunity. 
@@ -34,6 +36,8 @@ Fortunately, those were two aspects of my personality that I could effectively h
 
 ![Me at Gnomedex, 2 July 2006](/assets/images/e41f089b-822a-4f81-a8d3-4d67e7f4375a_800x869.jpg "Me at Gnomedex, 2 July 2006")
 *Me at Gnomedex, 2 July 2006; photo [by Ben Metcalfe](https://www.flickr.com/photos/dotben/181336380)*
+
+## Plans for a Self-Sufficient Read/WriteWeb
 
 My notebooks from this time are full of plans for Read/WriteWeb — my goal now was to turn it into “a blog that makes me self-sufficient,” which meant earning at least $6,000 per month. Once I’d achieved that, I noted, I would decrease or even drop my consulting work and other blogging jobs.
 
@@ -66,9 +70,13 @@ Michael and Jonathan had initially called the product that we’d be producing I
 ![An early draft of the IntraCast product](/assets/images/4834a05e-c2bb-46d6-ae7b-9b106788f5b6_1980x1488.jpg "An early draft of the IntraCast product")
 *An early draft of the IntraCast product, by Michael Bayler; Feb 2006*
 
+## The Breakfast Bulletin
+
 During April I planned the schedule for the Breakfast Bulletin, a daily blog and podcast to be published early morning UK time (evening for me). We’d do three bulletins per week at first. I was already working every night, and this schedule would exacerbate that. Effectively I would be the managing editor for the bulletin, pulling in blog and podcast contributions about the day’s theme. The freelancers were being paid $90 per contribution; not bad, bearing in mind that very few bloggers got paid for their work in that era.
 
 We did a few trials runs in April. I’d not done much podcasting before, so my first audio contributions were full of ums and ahs — Michael surprised me by sending back an edited version with those tics taken out. The final trial run was on the topic of “marketers are into YouTube,” which got an enthusiastic response from the contributors. Style and length of contribution varied greatly, but I was a good editor and so I was able to make it work. We decided to make this the launch bulletin for BT, currently the only client, which we did on Monday, April 24.
+
+## Micro Media Corp Peters Out
 
 Micro Media Corp ended up being a good source of monthly income for me over 2006, but it soon became clear that nobody other than BT was subscribing to it. Despite the talk of selling the product into various corporations, there was only ever that single client. I blogged about it on RWW in June, which brought in some leads. In September I posted [an example of a bulletin](https://web.archive.org/web/20061017004346if_/http://www.readwriteweb.com/archives/google_office_micro_media.php) on RWW and again put the call out: “If your organization is looking for regular thought leadership in the Web 2.0 and New Media world, email me and I’ll send you subscription details.”
 

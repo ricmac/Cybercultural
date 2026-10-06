@@ -11,6 +11,8 @@ featureImage: "/assets/images/cybercultural_wdh-sep24b-1280x720.jpg"
 
 Today I completed a redesign of [Cybercultural](https://cybercultural.com/), including a new navigation structure and other changes related to an upgrade in my publishing system, Eleventy. I've upgraded from Eleventy version 2 to the latest [3.0 beta version](https://www.11ty.dev/blog/canary-eleventy-v3/), which required significant changes to my code. There’s also a bunch of new content on the site, since I decided to migrate my previous history website — Web Development History (WDH) — into Cybercultural.
 
+## Folding In Web Development History
+
 I ran WDH from the end of 2020 until the end of 2021; up till today, it existed at the domain WebDevelopmentHistory&#46;com. Most of the content was focused on the 1990s, with a few posts about the pre-web period. Prior to the WDH migration, Cybercultural was mostly focused on the Web 2.0 era — primarily because that’s the period [my serialised memoir](/p/roadmap-bubbleblog/) takes place in. So folding in WDH gave me the idea to create a new, eras-based menu structure for Cybercultural. Accordingly, there are now four main categories:
 
 - Pre-web
@@ -22,6 +24,8 @@ I ran WDH from the end of 2020 until the end of 2021; up till today, it existed 
 *Web Development History website prior to migration.*
 
 All of the WDH content slots into the Pre-web and Dot-com categories, while my memoir posts are in the Web 2.0 category (along with a bunch of other posts about Web 2.0). The Personal category is for anything that doesn’t fit into the three other categories.
+
+## Eleventy 3.0, Tags and Cloudflare
 
 Running parallel to the WDH migration, I upgraded my Eleventy software to the 3.0 beta — including moving everything to [ESM syntax](https://www.zachleat.com/web/eleventy-v3-esm/). This enabled me to make some other changes. Firstly, I added the [Eleventy image plugin](https://www.11ty.dev/docs/plugins/image/) for optimization of images, which means my site now runs faster and has a better user experience. I also added pagination across the site, which can be [a tricky thing in 11ty](https://11tybundle.dev/categories/pagination/) (it wasn't my first attempt!).
 

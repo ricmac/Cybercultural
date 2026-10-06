@@ -15,6 +15,8 @@ After the ReadWriteWeb management meetings and in-between the SXSW partying, I m
 ![Sarah and Frederic](/assets/images/6a00d83451c79e69e2014e86d73ad0970d-500wi.jpg)
 *Sarah Perez with Frederic Lardinois (who had recently left RWW). Photo [by Renee Blodgett](https://weblogtheworld.com/countries/northern-america/sxsw-interactive-2011-photo-picks).*
 
+## A Difficult Talk With Mike Melanson
+
 My meeting with Mike Melanson wasn’t quite so straightforward. We met up in the hallways of the main conference center on the afternoon of Tuesday, the day before I was to head out of Austin. In fact, it was my last scheduled meeting of the event. Mike was a talented writer and one of our best performers, but I’d also come to realize that he was an extremely sensitive character who often adopted a defensive posture in his online communications. He was a stocky guy with fair hair and a beard — and usually good-humored in person, in my limited experience seeing him. But on this afternoon, his face was red and he had a strange mix of anxiety and anger in his eyes. He clearly had something he wanted to tell me.
 
 I asked him for his thoughts on our editorial systems and he immediately sounded off. He thought his story assignments from Marshall were inconsistent, and he questioned the content guidance the writers were being given by both Marshall and me. He seemed most perturbed, however, by the RSS system for covering news that Marshall had built. He complained that it felt like he was chained to his desk all day, watching RSS feeds roll by. He reminded me that he was currently living in San Francisco, the world’s leading tech city, so he should be out doing original reporting and making contacts.
@@ -30,6 +32,8 @@ I also recognized that if RWW was to continue growing, we would need more struct
 
 ![SXSW 2011 hallways](/assets/images/sxsw-2011-inside.jpg)
 *Inside the SXSW conference venue; photo [by geekgiant](https://www.flickr.com/photos/geekgiant/5570113051/).*
+
+## Foo Fighters at Stubb’s
 
 To take my mind off the pressures of the business, I attended a Foo Fighters concert at Stubb’s that evening. My Irish friend Lenny, who now worked for Automattic, had a couple of tickets and offered one to me. To everyone’s surprise, the band debuted a brand-new album, *Wasting Light*, which was scheduled for release in April. Although none of the crowd knew the songs, they were so immediately catchy and hard rocking that everyone soon had their hands in the air and heads bobbing. The Foos followed the new album with an hour of greatest hits, culminating in one of my personal favorites from their first album, “This Is a Call.” 
 
@@ -59,6 +63,8 @@ I had to admit, this was also a crisis of confidence on my part. I had enough of
 Sure enough, Sean was enthusiastic about the CEO transition plan. In one email, I concluded with this line: “I feel like RWW is at a turning point now — and the company needs its people focused on what they do best in order to get the best outcome.” It was a sentiment he thoroughly agreed with.
 
 We quickly began drawing up a plan for the transition. We would need to beef up the sales and operations side of the company to take some of the load off Sean. Then it would be a matter of dividing up the leadership responsibilities. In a “First 100 Days Plan” document, we mapped out a plan of action. It included a visit to the West Coast by Sean during April. He would have a bunch of meetings in San Francisco, including with FM Publishing to tell them the news, and then visit Portland to hold an in-person company meeting (with me joining on Skype). Hopefully, by our next New York event in June, the new company structure would be well and truly bedded in.
+
+## Checking With Our US Lawyer
 
 In one of our emails in early April, Sean mentioned that we ought to check with our US lawyer, Camille Linson, about what might need adjusting in his contract. He pointed out that he would still technically be a contractor but would now be operating as a CEO contractor. I hadn’t considered that this might be an issue, but I told Sean to have a word with Camille about it.
 

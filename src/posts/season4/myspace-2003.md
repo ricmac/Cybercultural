@@ -20,6 +20,8 @@ Whether or not the education system adapted in the rest of the aughts, I’m not
 ![MySpace, October 2003](/assets/images/myspace-oct2003.jpg)
 *[MySpace homepage](https://web.archive.org/web/20031004101518/http://myspace.com/) when it launched in 2003.*
 
+## eUniverse and the Birth of MySpace
+
 The origin of MySpace is a curious mix of internet corporatism and digital native exploration. Its two main founders, Chris DeWolfe and Tom Anderson, were employees of a company called eUniverse, which was a network of low-brow online entertainment properties. In [a December 2001 profile](https://www.nytimes.com/2001/12/17/business/technology-media-for-some-dot-coms-there-are-real-profits.html) in the New York Times, eUniverse was characterised as a scrappy, somewhat seedy, dot-com survivor:
 
 > “Aimed at women aged 25 to 54, its network of sites are cheap, corny, crass and profitable. Its advertisers are more likely to sell debt refinancing and online diets than cars or perfume.”

@@ -20,6 +20,8 @@ Last week we announced that Google was our choice for [Best BigCo of 2009](/p/be
 ![Featured posts December 2009](/assets/images/featured-posts-bestlittleco-2009.png)
 *Featured posts [on ReadWriteWeb](https://web.archive.org/web/20091222015410/http://www.readwriteweb.com/) at the end of December 2009.*
 
+## Past Winners, 2004 to 2008
+
 This is the 6th year we've done this and many of the small companies we choose each year go onto much bigger things. Here's a quick look back at previous winners:
 
 *   [In 2008](https://web.archive.org/web/20091223065320/http://www.readwriteweb.com/archives/best_littleco_of_2008.php) we chose web office vendor **Zoho** as Best LittleCo and **Brightkite** as our Most Promising. Zoho is still competing well above its weight bracket against office software giants like Microsoft and Google. However it's fair to say that Brightkite hasn't delivered as much on its promise as we thought it might, due in part to [the emergence of Foursquare](https://web.archive.org/web/20091223065320/http://www.readwriteweb.com/archives/foursquare.php) as 'the next big thing' in mobile social networking.

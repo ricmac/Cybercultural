@@ -15,6 +15,8 @@ Every year since 2004, ReadWriteWeb has selected a best "little company." These 
 
 This year there were a number of worthy contenders for Best LittleCo. Square, Evernote, Flipboard, BetaWorks, SoundCloud and Tumblr (again) have all had cracker years. So our winner must be something pretty special, right?
 
+## The Winner: Dropbox
+
 Indeed, this year's Best LittleCo has become the leading service in a rapidly growing market: the [Consumer Cloud](https://web.archive.org/web/20120107124427/http://www.readwriteweb.com/archives/how_to_store_your_files_in_the_cloud.php). **Our Best LittleCo is [Dropbox](https://web.archive.org/web/20120107124427/http://www.dropbox.com/), the popular file backup, sync and sharing service.**
 
 Other startups were earlier to launch with a cloud service for files, but since launching to the public [in September 2008](https://web.archive.org/web/20120107124427/http://blog.dropbox.com/?p=13) Dropbox has gone from strength to strength. 2011 has been its best year yet, as millions of consumers turn to online file management to access their business and personal files across devices.
@@ -22,6 +24,8 @@ Other startups were earlier to launch with a cloud service for files, but since 
 We also named Dropbox as our [#2 Consumer Web Product of 2011](https://web.archive.org/web/20120107124427/http://www.readwriteweb.com/archives/top_10_consumer_web_products_of_2011.php), behind only Google's Chrome browser.
 
 ![Dropbox logo](/assets/images/littleco11-dropbox_logo_0411.jpg)
+
+## Dropbox by the Numbers
 
 Dropbox has 87 employees, according to its [About page](https://web.archive.org/web/20120107124427/https://www.dropbox.com/about). The company was founded in 2007 by Drew Houston and Arash Ferdowsi, two MIT students "tired of emailing files to themselves to work from more than one computer." It now claims to have 45 million users across the globe.
 

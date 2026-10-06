@@ -24,6 +24,8 @@ Hummer Winblad was also an investor in Liquid Audio, the company that had provid
 ![Napster, 7 April 2000](/assets/images/napster-7april2000.jpg)
 *Napster website, 7 April 2000; [via Wayback Machine](https://web.archive.org/web/20000407210312/http://www1.napster.com:80/).*
 
+## Judge Patel’s Injunction
+
 But before Napster even had a chance to contemplate a possible team-up with Liquid Audio, the RIAA ratcheted up its legal case against them. On June 12, the RIAA filed for a preliminary injunction to shut down Napster. “Napster has been aware from the moment of its creation that its service offers little but pirated music, and that rampant infringement of the most commercially popular music in the world is the very foundation of its system,” its lawyers wrote.[^1] In addition to the RIAA, Napster was fending off lawsuits from the rock band Metallica and rap artist Dr Dre.
 
 On July 26, 2000, Judge Marilyn Hall Patel sided with the RIAA and [ordered](https://money.cnn.com/2000/07/26/news/napster/index.htm) Napster to stop distributing copyrighted songs. As part of her decision, the judge said that 70 million people are expected to be using Napster by the end of the year and "what lures them is the infringing use." Napster’s lawyer, David Boies, protested that it would be hard for the company to comply with the order, since Napster couldn’t easily track which songs were copyrighted. Judge Patel had little sympathy. “That's their problem, they created this monster," [she said](https://personal.utdallas.edu/~liebowit/knowledge_goods/napstergomes.html).
@@ -37,6 +39,8 @@ So the company could continue operating, although its future was still imperille
 
 ![Lars Ulrich testifying against Napster](/assets/images/lars-ulrich-vs-napster-2000.jpg)
 *Metallica's Lars Ulrich [testifies](https://www.youtube.com/watch?v=BzGk0xY5Vh0) to Senate Judiciary Committee against Napster, 11 July, 2000.*
+
+## Shawn Fanning, Rock Star
 
 In the months following, Fanning became something of a rock star in popular culture. On September 7, he appeared on the MTV Video Music Awards show, introducing Britney Spears. Fanning wore a Metallica tee-shirt on-stage and [awkwardly joked](https://www.youtube.com/watch?v=_q0Z3gBActg) with host Carson Daly that it had been “shared” with him, but he was thinking about buying it. The camera panned to Metallica drummer Lars Ulrich in the audience, who looked decidedly unamused.
 
@@ -99,6 +103,8 @@ SoundJam had only been released in the summer of 1999, but just over a year late
 *"Soundjam's conversion facilities are flexible and allow you to convert both to and from MP3 format." Sound on Sound, March 2000.*
 
 The original vision for iTunes was to manage the music that Mac users already owned. It would be just a music player, not a music store — according to Steve Jobs biographer Walter Isaacson, the record labels didn’t approach Jobs until the beginning of 2002.[^2] However, Jobs had begun to think about pairing iTunes with a portable music player. The planning for what would turn into the iPod began in the fall of 2000, wrote Isaacson.
+
+## The Heavenly Jukebox
 
 With the rising notoriety of Napster and the secret projects inside of Apple to build a digital jukebox — and soon a portable MP3 player — the time was ripe for the music industry to make the shift from analog formats (CDs, vinyl records, AM and FM radio) to digital (MP3, internet radio, [streaming](/p/video-streaming-1997/)). The cultural implications of this were discussed in a cover story of *The Atlantic Monthly* magazine in September 2000, entitled “[The Heavenly Jukebox](https://www.theatlantic.com/past/docs/issues/2000/09/mann.htm).” 
 

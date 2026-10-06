@@ -32,6 +32,8 @@ On Monday, Audrey emailed that she wanted to focus more on ed tech (her personal
 
 The five nights in Seattle and two in San Francisco went by in a blur. In truth, I was too distracted by the internal issues with my company to focus on these meetings. 
 
+## The Flight Home
+
 The following Friday, June 24, I was on a plane home to New Zealand. It had been a hectic and stressful trip. The pressure was unrelenting, and my blood-sugar levels had been erratic lately — it always seemed to be a problem when I traveled. Despite this, I tried to remind myself that I had a good life. I’d had fun visiting museums and art galleries in New York, Seattle, and San Francisco, having dinners and drinks with friends and new acquaintances, and taking in new sights and experiences across the three weeks. I recalled a quote from a book I was reading about Taoism: “The way you feel about life, people, and the world around you, the things you think, say, and do, fashion the response you get back from life, and shape your reality. So you get from the world what you give to the world.”
 
 I had bought that book, *Every Day Tao*, the previous month during a visit to Christchurch. The city had been badly damaged by an earthquake in February 2011, and I’d attended a special TED event there in May to discuss solutions for rebuilding. It was sobering to see the destruction in the inner city — the havoc it had caused in people’s lives, including for many of my extended relatives who lived there. The part of New Zealand where I lived, Wellington, was also prone to earthquakes, so it had made me think how easily it could’ve been my home that crumpled to the ground.

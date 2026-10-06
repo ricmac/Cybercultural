@@ -17,9 +17,13 @@ However, this past decade has been noticeably darker in tone too, like the 1970s
 
 With that in mind, here are what I’ve identified as the major culture-tech trends of the past decade…
 
+## The Streaming Decade
+
 Firstly, **streaming is now the defining distribution method** for the entertainment industries. At the beginning of 2010, it was a nascent technology – largely because broadband and 3G speeds still weren’t optimal. Netflix first introduced streaming in 2007, but it wasn’t until the company began creating its own tv shows in 2013 (starting with ‘House of Cards’) that streaming really took off. Not coincidentally, at the same time “binging” a tv series became de rigueur. As for music, Spotify hadn’t even launched in the US at the start of this decade (it did so in July 2011).
 
 By the end of the decade, Netflix led the pack in tv and movie streaming – although other corporations, like Disney and Apple, are catching up fast. In music, Spotify is the current dominant player and its app is how many of us now consume music. Amazon, Apple and Google are all powerful players in entertainment streaming, while Facebook is increasingly competing with Google’s YouTube on social video streaming.
+
+## Smartphones and Apps
 
 If streaming is the defining distribution method of this past decade, then **the smartphone is the defining hardware**. This slide from Mary Meeker’s [2019 Internet Trends report](https://www.bondcap.com/report/itr19/) shows just how much mobile came to dominate both consumption _and_ revenue over the decade:
 
@@ -35,9 +39,13 @@ Two companies now control the mobile operating system market: Google and Apple. 
 
 Because mobile rules, **apps are where the internet mostly happens now**. Back in 2010, when desktop computers still ruled, the Web browser was king. At that time, Microsoft’s Internet Explorer still held over half the market share for browsers (Google’s Chrome became market leader in mid-2012, and hasn’t relinquished that lead since). But think about how you now watch tv, listen to music, read the news, even read a book. Netflix, Spotify, Facebook, the NY Times, Kindle on your iPhone or Android device…they’re all apps.
 
+## Social Media Takes Over
+
 **Social media took over the media landscape**, gobbling up audience, attention and revenue. Facebook grew from just over [600 million](https://www.statista.com/chart/870/facebooks-user-growth-since-2004/) in 2010 to about [2.5 billion](https://www.statista.com/statistics/264810/number-of-monthly-active-facebook-users-worldwide/) now. Twitter [grew](https://www.statista.com/statistics/282087/number-of-monthly-active-twitter-users/) from 30 million users at the start of 2010 to 330m in 2019. The New York Times first introduced a “metered paywall” in 2011, in hindsight a savvy move that would eventually save it from the trail of destruction social media wrought in the media industry.
 
 Social media has also perverted the read/write web over the past decade, with toxic opinions and groupthink having replaced the (admittedly naive) notions of community and collaboration that defined Web 2.0. I believe this has had an impact on the cultural industries too, with ideology now seemingly more important than aesthetics in tv, movies, music and books.
+
+## Interactive Media
 
 The other major trend of the past decade worth noting is **the rise of interactive media**; mainly gaming (e.g. Minecraft and Fortnite), Virtual Reality and Augmented Reality. AR game Pokémon Go was launched in July 2016 and became a worldwide cultural phenomenon that year. Meanwhile, the first commercial release of the Oculus Rift was in 2016, a couple of years after Facebook acquired it. Fortnite became popular with its “Battle Royale” mode, which was released in September 2017.
 

@@ -27,6 +27,8 @@ Although my percentage stats growth was impressive over the year (more on that s
 
 > “…page views are currently around 28-30k p/mth, which doesn't include RSS hits of course. As for my current count of RSS subscribers: peak this week was 926 according to Feedburner (nb: Feedburner stats fluctuate during a week and drop in the weekends).”
 
+## Unreliable Page View Counts
+
 It’s worth noting that page view counting was very unreliable in this era of the blogosphere. In fact, I discovered later (in March 2006) that Google’s Urchin — the product that would later turn into Google Analytics — was overcounting page views by perhaps **five times as much** as Statcounter, the app I was using over 2005. As I wrote [in March 2006](https://web.archive.org/web/20060315001339/http://www.readwriteweb.com/archives/on_dodgy_web_an.php):
 
 > “You see recently I've been using Urchin (owned by Google) web stats as part of my MediaTemple web hosting arrangement, along with statcounter.com which I've used for years. I've been noticing that Urchin page view stats are MUCH higher than statcounter.com - in fact 5 times higher!”
@@ -36,6 +38,8 @@ So bear that in mind as you read this post. You may’ve seen much higher stats 
 In any case, even despite the dubious page view counting of that period, I knew that my stats didn’t compare well to more mainstream tech publications, such as Boing Boing or Gawker. Furthermore, my stats paled in comparison to highly targeted sites like Darren Rowse’s [digital photography blog](https://web.archive.org/web/20050406041242/http://www.livingroom.org.au/photolog/).
 
 But I also knew that Read/WriteWeb was a different kettle of fish than Boing Boing or a blog that reviewed digital cameras. RWW wasn’t writing about mainstream topics (like photography), and it wasn’t even mainstream in an ‘alternative’ way (like Boing Boing). Instead, I was reaching a small but highly influential audience of web entrepreneurs and developers — I knew this based on the emails I was getting and the comments on my blog.
+
+## Getting My First Sponsors
 
 This was around the time I was thinking about getting sponsors for my site, so I reached out to a few people for their advice. One was Rafat Ali, founder of PaidContent, who generously suggested a couple of pricing options for a site like mine.
 

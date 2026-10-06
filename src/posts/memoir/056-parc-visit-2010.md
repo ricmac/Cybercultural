@@ -19,6 +19,8 @@ I decided to accept the invitation, as it would be something a bit different fro
 ![Silicon Welly](/assets/images/richard_dompost_sep10.jpg)
 *"Most people in New Zealand have never heard of him, but out of his house in Petone, Richard MacManus runs one of the world's most popular blogs." An interview with my hometown newspaper, The Dominion Post, September 2010.*
 
+## Judging at i-stage
+
 The Fairmont Hotel turned out to be a grand old-fashioned hotel at the top of San Francisco’s Nob Hill. But right from the start, my trip felt off. Partly it was the location — I was used to being near Union Square or Market Street, where I always enjoyed walking in the evenings. I quickly discovered that I preferred my usual rickety hotels on or near Geary Street, for the comfort of being able to freely wander. But also, the event itself didn’t feel quite right. The CEA attracted a different crowd than the Web 2.0 conferences — it was more formal and businesslike and less developer-focused.
 
 I knew one of the other judges, Frank Gruber — a blogger from Chicago who I usually saw at the Web 2.0 events. He was about my age and ran a series of small mixer events called Tech Cocktail. It was good to catch up, but apart from Frank I didn’t see many other people I knew at i-stage.

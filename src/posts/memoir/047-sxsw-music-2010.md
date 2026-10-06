@@ -17,6 +17,8 @@ In addition, we’d gotten the rights to exclusively livestream the event and ha
 ![RWW activism story](/assets/images/rww_digital_activism_march2010.jpg)
 *RWW became more interested in online activism around this time.*
 
+## Team Meetup at Conjunctured
+
 In support of all this, the rest of the RWW team had arranged to meet up late afternoon on Monday at an Austin coworking space called Conjunctured. Our webmaster, Jared, would handle all the technical matters regarding livestreaming on our website. Mike and Frederic would write up articles on the day. The rest of our writers, including Marshall, would monitor Twitter and other social media while the event was running. Sean would be managing the whole operation and had also set up a Google Talk chat line with Elyssa in New York, to relay any necessary messages to me.
 
 With one exception, the entire team in Austin showed up to Conjunctured. Even Dana Oshiro, who no longer worked for us, was there. The conspicuous absence was Jolie, our community manager. In the group email she’d made an excuse about having prior interview commitments and added, “I didn’t know the coworking space was going to be so far away!” In reply, Sean pointed out that it was just a three-minute taxi ride, which she could charge to the company.
@@ -30,6 +32,8 @@ The Interactive part of SXSW would be over before I got back, but I had bought a
 
 ![SXSW Music, Sixth Street](/assets/images/sixth_street_2010.jpg)
 *Austin's famous 6th Street, during my time at SXSW Music 2010.*
+
+## Parting Ways With Jolie
 
 While I was on the way back to Austin on Wednesday, Jolie published a post to her personal blog entitled “[Why SXSW Sucks](https://web.archive.org/web/20100322231648/http://jolieodell.wordpress.com/2010/03/16/why-sxsw-sucks/).” The gist of it was that there were too many people, which prevented her from having “a wonderful time meeting up with my friends.” The post got a lot of attention on the social web that day. She’d made some good points about the lack of good technology content at the event and about the increased danger to women because of what she termed “swarms of douchebags.” But still, I couldn’t get past the fact that she was more focused on wanting to meet up with her friends than on the job that was paying her to work the event.
 
@@ -70,6 +74,8 @@ It was a productive time for RWW, but that meant it was super busy. We’d just 
 *ReadWriteCloud, March 2010; via [Wayback Machine](https://web.archive.org/web/20100302050330/readwriteweb.com/cloud).*
 
 Through all this, my personal life was far from settled. Even a year after I’d separated from my wife, I was still trying to hash out a financial settlement. At issue was the value of my business, which our two sets of lawyers and accountants were busy racking up large bills arguing about. I was also acutely aware that my daughter was growing up fast (she would be nine later this year) and that I needed to spend more time with her.
+
+## Saturday Night at Antone’s
 
 On Saturday, the weather suddenly turned cold and windy. I went to one party in the afternoon dressed in a light jacket but had to return to my hotel afterward to put on my winter jacket. That evening there was going to be a tribute concert at Antone’s nightclub for Alex Chilton, from the seventies band Big Star. The band had been scheduled to play at SXSW that week, but Chilton had died suddenly on Wednesday, aged fifty-nine. I’d heard that at least one member of REM — a longtime favorite band — would be at the tribute night.
 

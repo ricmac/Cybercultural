@@ -27,6 +27,8 @@ Over August, we solidified our plans and chose a date: October 15, the week befo
 
 By September the event was our primary focus and [we announced it on September 15](https://web.archive.org/web/20090920235934/http://www.readwriteweb.com/archives/real_time_web_event.php). I could see we were getting stretched on resources, though, so I decided to put a hold on several ongoing projects — including a third channel, any further country channels, and an e-book idea that Bernard had floated. I also suggested putting a hold on our discussions with Automattic, the leading WordPress vendor, to move our web operations to its VIP hosting platform.
 
+## The WordPress Project
+
 I’d initiated the WordPress project in August, after getting fed up with Movable Type bugs and ongoing issues with our existing web host. I’d seen Automattic CEO and WordPress cocreator Matt Mullenweg in Wellington that month (he was on holiday and we met up for coffee), and I’d griped to him about our publishing problems. He explained the WordPress VIP setup, and I was intrigued — they already hosted GigaOm and some other big media properties. So by early September we’d begun doing tests on their servers.
 
 ![Marshall demonstrating RWW in Movable Type](/assets/images/marshall-rww-mt-demo-2009b.jpg)
@@ -51,6 +53,8 @@ I looked once more at her résumé. There was one intriguing thing in it that co
 
 ![Caffiend, Petone](/assets/images/caffiend_petone.jpg)
 *Caffiend, one of my local cafes in Petone. Photo [via Localista](https://localista.com.au/search?place=petone%2C+nz&category=restaurants&qid=qepc43).*
+
+## Meeting Elyssa
 
 We met a couple of days later, on a Friday morning at a café in Wellington. It was soon clear to me that Elyssa wasn’t suitable for an editing role, but I thought she’d be helpful in a project-management role. The upcoming event was foremost in my mind, but I was also thinking about the operations side (the CMS and server issues) and our internal communications systems (in particular, improving how we used Basecamp).
 

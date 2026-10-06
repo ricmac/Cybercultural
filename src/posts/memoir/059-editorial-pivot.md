@@ -19,6 +19,8 @@ To make matters worse, even before I arrived in New York, we knew we’d be maki
 ![The ReadWriteWeb 2WAY Summit NYC, 2011](/assets/images/rww-2way-conf-promo-2011.jpg)
 *Promotion website for the ReadWriteWeb 2WAY Summit NYC, 2011. Via [Wayback Machine](https://web.archive.org/web/20110608170925/http://www.readwriteweb.com/2way/).*
 
+## Staffing Changes
+
 Given the poor social media results and the even worse event ticket sales, it was clear we’d have to let our community manager Seamus go straight after the event. But the problems at RWW ran deeper than that. The low page views, I believed, reflected the poor quality of our content. We just weren’t good enough, across the board. I sent out a message on Basecamp to the team about the May results, not hiding my disappointment. I probably should’ve held back and waited till I got to New York, so that I could discuss it in person with Sean and Marshall. But with [all the other frustrations in my life](/p/058-readwriteweb-ceo-dilemma/) at this time, my stress levels were bubbling over and I couldn’t hold back.
 
 Predictably, my Basecamp message further stoked resentment among the writing team. It was the final straw for Mike Melanson, who abruptly quit. Sarah also expressed her annoyance to me, in a private message via Skype. Coincidentally, Alex Williams announced his resignation the same week — he’d accepted a new position at a tech blog called Silicon Angle, so he’d already made plans to move on before the May stats bombshell.

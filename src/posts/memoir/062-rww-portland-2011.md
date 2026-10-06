@@ -12,6 +12,8 @@ featureImage: "/assets/images/ricmac-marshallk-oct2011-1000b.jpg"
 
 An opportunity arose to discuss a possible sale of ReadWriteWeb when Sean got back from a trip out west at the end of August, during which he’d visited the FM Publishing office in San Francisco. I asked him how it went, and he replied that he’d had a positive discussion with FM about several ad campaigns. “The only sticky thing is that our traffic really is tough and we need it to start growing,” he added.
 
+## Grim August Numbers
+
 The following day, September 2, I sent Sean the August statistics via Google Analytics. It made for grim reading: our total page views had dropped 11 percent month over month, to 4.34 million. It was our worst month in well over a year. Obviously, this had been impacted by [losing two of our highest page-view generators](/p/061-blog-business-pressure/) that year (Sarah and Klint), but I also had to admit to Sean that “both Marshall and I are struggling on the writing front.” I said that I was feeling burned out and that I thought there was a big danger Marshall would quit, given his continued unhappiness with [losing the coeditor role](/p/059-editorial-pivot/). I then made my rather weak pitch to him.
 
 “I really hate to even suggest this, but I think we should at least consider it: should we start to look for an acquirer now? Obviously it’s not good timing, but right now we still have a very strong brand, great audience demographics and lots of potential.” I argued that the business would operate significantly better if it had a stable US entity behind it — particularly for the writing staff, but also our ops team. It would finally enable RWW to offer benefits to staff and have a corporate structure in place that would make our people feel more comfortable.
@@ -44,6 +46,8 @@ By the time I got to Portland, we had six companies on our shortlist of potentia
 
 ![ricmac in Portland, October 2011](/assets/images/ricmac-portland-oct2011c.jpg)
 *Scenes from my Portland trip, October 2011.*
+
+## Marshall’s News
 
 Prior to my trip to Portland, I’d tried to arrange a meetup with Marshall and Abraham for Wednesday, but I hadn’t heard back from Marshall before I left. He hadn’t replied to a few of my emails recently and had been less responsive than usual over the past month or so. In the back of my mind, I was worried that he was about to leave. Then, while I was in the air, Marshall sent an email requesting that we meet up on Wednesday morning, just the two of us. It gave me a bad feeling.
 

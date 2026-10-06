@@ -89,6 +89,8 @@ So, more partnerships (AskJeeves) and more vertical search options (photo search
 
 But as the web grew, so did the need for effective search. One of the reasons Google began to gain traction the following year was its singular focus on producing good search results, which it presented as simply as possible as a list of plain blue links.
 
+## Google Incorporates
+
 First though, Google had to become a company and move off Stanford's web servers. On September 4, 1998, Page and Brin filed for incorporation. By the end of the year, the "beta" website was up and running on google.com. 
 
 Things would never be the same again in search — or on the web, for that matter. AltaVista (now owned by Compaq) didn't yet know it, but the age of the portals was quickly coming to an end.

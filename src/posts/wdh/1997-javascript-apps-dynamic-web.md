@@ -25,6 +25,8 @@ In the cookies article, Heinle [pointed out](https://web.archive.org/web/1997060
 
 As teenage computer wizards are wont to do, Heinle boasted that his functions were “twice as fast as Dortch’s.” That may’ve been so (I don’t know for sure), but it turns out Dortch was doing some much more innovative things with JavaScript around this time.
 
+## Bill Dortch’s JavaScript Experiments
+
 JavaScript inventor Brendan Eich later pointed to [a gallery website](https://web.archive.org/web/19970414102538/http://whitetailbutte.com/) developed by Dortch in 1996 that [Eich said](https://twitter.com/BrendanEich/status/1117201590476083200) was an “SPA \[Single Page Application\] years before Ajax.” Dortch himself [wrote in 1996](https://web.archive.org/web/19970415130400/http://www.hidaho.com/colorcenter/), about the Whitetail Butte Gallery website, that “JavaScript buffs will be interested to note that all the pages of WBG are generated on the fly, except for the artist biographies.”
 
 Although we can only view the gallery website now via the Internet Archive, we can see emulations of Dortch’s JavaScript innovation for two other websites from the same time period. The first, [DoodlePad](https://billdortch.site/doodlepad/index.html), was described by Dortch as “a simple JavaScript drawing app I wrote in February, 1996.” It may’ve been simple to use (and you can try for yourself in [an emulator](https://billdortch.site/doodlepad/DoodlePad-2019.html)), but the code behind the scenes was very sophisticated for this period.

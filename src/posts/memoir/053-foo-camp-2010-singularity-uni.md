@@ -18,6 +18,8 @@ SU had begun in 2009 as a nonprofit organization; it was the brainchild of Ray K
 ![Singularity University 2010](/assets/images/singularity-uni-jun2010a.jpg)
 *Singularity University welcomes 2010 Graduate Studies Program participants, June 2010.*
 
+## Thinking Exponentially
+
 The [stated goal](https://www.nytimes.com/2010/06/13/business/13sing.html) of SU was to teach students to “think exponentially” in order to solve “humanity’s grand challenges.” The fee for the graduate course Shawna had done was $25,000, for ten weeks of study. There was also a nine-day, $15,000 “executive” course. Overall, I was skeptical. The philosophy that Kurzweil and Diamandis were peddling was dubious, especially since AI at that time was very far from being a viable form of computer science. And the quest for immortality just seemed like a pipe dream for aging white men.
 
 Then again, if Shawna was any indication of the quality of students coming through the graduate program, then perhaps my gut instinct was wrong. She told me she was going to be a teaching fellow at SU this year, in medicine and neuroscience. It was all part of her ultimate plan to travel into space, she added.
@@ -65,6 +67,8 @@ We then went back to the gathering area in the backyard of the office building. 
 To my surprise, there were also a [bunch of kiwis](https://twitter.com/RWW/status/17060720349?tw_i=17060720349&tw_e=details&tw_p=archive) at the event. One was, of course, Nat Torkington, the O’Reilly employee from New Zealand I’d met on [my first trip to the States in 2005](/p/006-revving-up-2005-web-20-conference/). He also ran a kiwi Foo Camp, which I hadn’t yet been to. Also present were Courtney Johnston (a Wellington blogger in her early thirties who worked in the cultural industries), Roger Dennis (a likable tech consultant from Christchurch), and Rowan Simpson (cofounder of New Zealand’s eBay, Trade Me). And those were just the ones I knew!
 
 Unlike me, my kiwi compatriots weren’t shy about contributing to the group conversations that were a big part of Foo Camp. In truth, it was jarring to constantly hear the kiwi twang throughout the weekend — I was used to being the only New Zealander at these US events, other than occasionally running into Nat.
+
+## Meeting Kevin Kelly
 
 I enjoyed the first evening and got to meet some fascinating new people. I was most thrilled to meet Kevin Kelly for the first time. Kelly, one of the founding editors of *Wired* magazine, was in his late fifties at the time. He’d written several books that I admired, although my current favorite wouldn’t be released until a few months later. Entitled *What Technology Wants*, its theme was that technology is a force of nature — Kelly called it “the technium.” I came away from our discussion filled with an almost spiritual sense of optimism about technological progress. Then I filled up my beer cup again and went to a session called “Why Minecraft is the new Lego & making some guy in Sweden $300,000/day.”
 

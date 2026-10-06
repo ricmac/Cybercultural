@@ -19,6 +19,8 @@ I met up with Marshall and a couple of other RWWers on Wednesday, June 16, in o
 ![At dinner with Marshall and his wife, Mikalina, at an Ethiopian restaurant in Richmond](/assets/images/portland-restaurant-june10.JPG)
 *On Wednesday evening I had dinner with Marshall and his wife, Mikalina, at an Ethiopian restaurant in Richmond.*
 
+## Coffee With Abraham at Clyde Common
+
 As planned, on Thursday I met up with Abraham at a café called Clyde Common. Marshall was running late, so it was just the two of us for a bit. Abraham turned out to be a tall guy with close-cropped dark hair, small round earrings in both ears, and a kind but inscrutable face. His right arm had a prominent dark blue tattoo from the sleeve down, but it had no design — it was as if half his arm had been painted over. He was wearing a plain white T-shirt and blue jeans, and I got the impression this was his daily uniform. The overall effect was of someone who’d had an interesting past but didn’t particularly want to tell you about it.
 
 Abraham was a friendly and attentive guy, though, so we quickly gelled. Which was good because we had some staffing issues to discuss that day. A couple of our writers were underperforming, and we’d need to decide what to do about that. But a more pressing issue had come up earlier that day regarding Curt Hopkins, a relatively new, older writer based in nearby Eugene.
@@ -31,6 +33,8 @@ We’d hired Curt at the end of March, but it had soon become obvious he was be
 With this in mind, I’d emailed Curt that morning to suggest that we move him away from the news beat and onto a new “cultural” beat — with the same quantity of posts per day and same pay, so there would be no changes there. We’d be hiring another freelancer to take over the news role, I told him. He responded positively to my suggested role change, but added, “Why hire additional people when there are people who would like to go full-time?” I replied that this is something I’d address in the Friday team meetup.
 
 We were already negotiating with Frederic to bring him on full-time, but we were waiting on him to tell us his decision. Frederic was based in Portland but was out of town that week, so unfortunately, I wouldn’t get to see him. In any case, I was planning on telling our Portland crew that we were open to bringing on more writers full-time, but that it would be a slow process for a variety of reasons — including our budget after [the event loss](/p/051-realtimeweb-summit-nyc-2010/) and the low premium report sales.
+
+## Curt’s Google Doc
 
 Soon after this brief email exchange with Curt about the role change, he sent me a much longer Google Doc that outlined his thoughts on RWW’s direction. I hadn’t asked for this document, so it came as a surprise. I hadn’t had time to fully absorb it before my meeting with Abraham and Marshall, but I noticed that it listed a number of grievances. Among other things, Curt claimed there was “little in the way of reference material relating to policy and process” in the company and an “absence of clear guidance and expectations” from leadership. He complained about the [coeditor role that Marshall and I shared](/p/048-readwriteweb-facebook-login/), as an example of leadership issues, and said that the writers were not paid enough. There were also some odd strategic suggestions, such as “rethink the channels — fold them into the main page.”
 
@@ -70,6 +74,8 @@ The Curt drama and resolution was a valuable lesson for me. It was only when I 
 
 ![Curt Hopkins](/assets/images/curt-hopkins.jpg)
 *Curt Hopkins; photo via [his Facebook page](https://www.facebook.com/photo.php?fbid=937697964294043&set=pb.100041615433707.-2207520000.&type=3).*
+
+## Beer & Blog at the Green Dragon
 
 Later in the afternoon, the team made our way to the Green Dragon bar for Beer & Blog, a weekly meetup for the Portland startup community. The turnout was excellent, and I enjoyed meeting a variety of Portland bloggers and techies. One of them was Rick Turoczy, who ran a local tech blog called Silicon Florist, a reference to Rick’s focus on covering startups from the “Silicon Forest” — Portland and the surrounding Oregon area. Rick had written for RWW for several months at the end of 2008, so he was a familiar name to me, but this was our first in-person meeting.
 

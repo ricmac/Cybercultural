@@ -24,6 +24,8 @@ Companies that were not mentioned, but we think are worthy contenders, are: Digg
 
 If we had to make a shortlist (and we do, since this is a Best Of!), we think these small companies had a special impact in 2006... in no particular order: Netvibes, Digg, Meebo, Bebo, StumbleUpon. Those 5 all came of age in 2006 and each grew exponentially.
 
+## The Winner: YouTube
+
 But there's one "LittleCo" we've deliberately left till last and which had an outstanding impact on 2006. This particular company got snapped up by Google before the year was out, so they don't count as a LittleCo any more. But for most of 2006 they built up a huge audience on their own and came to dominate the user-generated video space, lording it over much bigger competitors (Google itself, Microsoft, Yahoo and others). Of course, I am talking about **[YouTube](https://web.archive.org/web/20070113014733/http://www.youtube.com/)**!
 
 YouTube is Read/WriteWeb's LittleCo of the year, for what they achieved as a tiny startup doing big things. Ironically they are now owned by this year's BigCo of the year, Google.

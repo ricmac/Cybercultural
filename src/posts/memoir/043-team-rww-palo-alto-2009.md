@@ -17,6 +17,8 @@ Frederic and Jolie had both impressed me in the lead-up to the event, and I want
 ![Team RWW at Red Rock cafe, October 2009](/assets/images/team-rww-redrock-oct09b.jpg)
 *The team at Red Rock cafe, October 2009.*
 
+## Hiring Alex Williams
+
 As for Alex Williams, our newest team member, he was already a solid performer. I’d hired him at the end of September to take over ReadWriteEnterprise. It turned out he was Marshall’s best friend, although I hadn’t realized that until Alex was on the shortlist with one other person. Marshall hadn’t wanted to influence the decision, and indeed he didn’t: Alex was the preferred candidate by that point, given his journalism background and experience writing about enterprise topics. I also saw that he had a lot of initiative and seemed very involved in the emerging cloud computing community. This would stand him in good stead — five years later he founded a cloud news and analysis site called The New Stack, which I ended up working for in 2020.
 
 When I first met him, in October 2009, I didn’t know much about Alex. He was about seven years older than me and was balding, with a big-boned stature. He seemed friendly enough but often wore a serious expression — sometimes even dour — and so I didn’t quite know what to make of his personality. In our one-on-one at Red Rock, he opened up and we got to talking about things like baseball (which he followed with a passion) and our respective kids.
@@ -25,6 +27,8 @@ When I first met him, in October 2009, I didn’t know much about Alex. He was a
 *Alex Williams at the RWW event, October 2009.*
 
 At some point during our meeting, Alex brought up his background in podcasting. Sean’s [*ReadWriteTalk* podcast](/p/023-microsoft-mix-2007/) had been on pause for the past six months, since he was so focused on his own startup, but Alex was keen to resurrect it. He told me he’d coproduced the first Gnomedex podcasts with Doug Kaye in 2005 and then ran an event called Podcast Hotel that same year. I was interested in the podcast idea, but I told him my main priority was to ensure that the troublesome Enterprise channel got some momentum at long last. The previous writer for the channel, Steven Walling, had ultimately been a disappointment, so I was hoping that Alex would turn it around — and certainly I’d been impressed by his posts so far.
+
+## An Evening in Palo Alto
 
 Later that afternoon, the team and I took the Caltrain from Mountain View to Palo Alto. It was only three stops away, but somehow we got off at the wrong stop, so it actually took us two Caltrain rides to make the short journey. Perhaps our brains were all fried by this point in the busy week, but we eventually found our way to University Avenue.
 

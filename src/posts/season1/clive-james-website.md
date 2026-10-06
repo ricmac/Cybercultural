@@ -15,6 +15,8 @@ After he died, I was reminded that I hadn’t read as much of his work as I shou
 
 Given its grand sweep, the book can’t help but dip – more often than is comfortable – into the dismal aspects of last century. So the atrocities committed by Hitler, Stalin and Mao are often examined. Yet within all that horror, James managed to unearth a persistent streak of wondrous humanism that ran through the twentieth century, principally via its cultural content.
 
+## “A Version of Immortality”
+
 What I hadn’t realised until I read _Cultural Amnesia_ is that James considered websites a viable way to preserve cultural content too. That the very humanism he espoused and illustrated throughout the book was also available, in hyperlinked form, on [his own website](http://clivejames.com/).
 
 He saw his website as a way to preserve his work, and even in a sense live forever. He told [The Financial Times](https://www.ft.com/content/a6393156-4c33-11e5-9b5d-89a026fda5c9) in 2015:
@@ -36,6 +38,8 @@ The Internet Archive operates a time travel search engine known as The Wayback M
 I’m currently writing a nonfiction book whose setting includes the Web of the 1990s and early 2000s, so I’ve been frequenting The Wayback Machine a lot this year. Alas, many of the websites I try to view in Wayback are beset with HTTP errors, redirect loops, or are no longer accessible due to obsolete technology.
 
 Even if a website was built using just that most basic of World Wide Web code, HTML, it may still have died off due to a missed domain name renewal or a web host that went under.
+
+## A Tour of clivejames.com
 
 Of course, Clive James had the noblest of intentions when he started his website (as many of us do). He aimed to “offer a critical guide, through the next medium, to works of thought and art.” Those words still grace his homepage today.
 
@@ -60,6 +64,8 @@ But the basics of Clive James’ online presence are all in place, so there’s 
 The domain, clivejames.com, was registered in June 2003 and has been reserved until June 2022 (it was last renewed in August 2019, a few months before James’ death). It seems James or his people originally acquired the domain from someone else, since an August 2000 [BBC report](http://news.bbc.co.uk/2/hi/business/874881.stm) quotes James as saying the domain had “already been snapped up by another Clive James – he’s a jetski instructor in Miami.”
 
 Incidentally, the same BBC report noted that “in the long run he hopes to start using the internet as a medium for getting his writing and broadcasting to a new audience.”
+
+## Built on Weebly
 
 In February 2009, clivejames.com was set up on the website builder and host Weebly, a Web 2.0 equivalent of previous Dot Com site building services like Geocities and Angelfire. In April 2018, the payments company Square, Inc. [acquired](https://techcrunch.com/2018/04/26/square-acquires-weebly/) Weebly, suggesting its future will revolve around the building and hosting of e-commerce websites. I mention this only because it’s possible that in a few years Weebly will no longer be an appropriate web host for clivejames.com, unless it sets up an online store to sell James’ books and DVDs.
 

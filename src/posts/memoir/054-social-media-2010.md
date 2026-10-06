@@ -17,6 +17,8 @@ In July 2010 we finally began the process of advertising for a new community man
 ![RWW post for community manager, July 2010](/assets/images/rww-community-manager-ad-july2010.jpg)
 *My post announcing we were looking for a community manager.*
 
+## Hiring Seamus Condron
+
 The applicant from New Jersey, Seamus Condron, was our early favorite — purely based on his résumé and email pitch. He’d been community manager at the media publication Mediabistro for over three years and was currently consulting for Hearst Digital Media. By comparison, the three other shortlisted applicants either lacked experience in a CM role or hadn’t worked in media. Seamus seemed to cover both bases.
 
 Our main concern was his salary expectation, which was reasonable but still beyond what we’d budgeted for. Sean noted, “Our budget is razor thin at the moment” and suggested that if we chose Seamus, we might have to start him half-time in the role.

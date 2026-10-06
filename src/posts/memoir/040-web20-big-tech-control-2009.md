@@ -24,6 +24,8 @@ Back in March, [when I had visited the Googleplex](/p/037-googleplex-2009-rww-ch
 ![Mozilla offices, circa March 2009](/assets/images/Mozillaheadquarters-1000x750.jpg)
 *Former Mozilla office next to the Googleplex; they moved to the other side of Mountain View [in July 2009](https://eu.gainesville.com/story/news/2009/07/26/for-mozilla-and-google-group-hugs-get-tricky/31715569007/), just a few months after my visit. Photo by Coolcaesar [via Wikimedia](https://commons.wikimedia.org/wiki/File:Mozillaheadquarters.jpg).*
 
+## The Emergence of Google Chrome
+
 If I had to pinpoint one sign that the rose-tinted view of Web 2.0 as an open-platform paradise was about to come to an end, the emergence of Google Chrome would be it.
 
 In [a sit-down interview that day](https://web.archive.org/web/20090326200143/http://www.readwriteweb.com//archives//the_future_of_firefox_chris_beard.php), Chris Beard, Mozilla’s chief innovation officer, visibly bristled when I suggested that Chrome performed better with heavy-duty web apps. When I cited Google’s claim that Chrome’s isolated tab processes meant a more stable browser, Beard replied that Firefox too was very stable and that it didn’t crash much these days. That he even had to mention the crashes was a giveaway, though: it was an all-too-familiar problem for Firefox users, although it had improved recently. 

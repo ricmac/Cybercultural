@@ -13,12 +13,16 @@ I’ve begun [a new archiving project](/rww/): republishing articles I wrote a l
 
 I’m calling this activity “replanting” — because it feels like moving a neglected plant, perhaps crowded by weeds and eaten by bugs, into a new garden, where it will be cared for and nurtured again.
 
+## A Digital Garden Approach
+
 Of course, I’m borrowing from the **digital garden** approach to personal publishing advocated [by Maggie Appleton](https://maggieappleton.com/garden-history) and others.  Maggie even uses the term “plant” to mean posting an item (and “tend” to edit). That’s probably where the similarities end, because Maggie defines a digital garden as a collection of notes — “evolving ideas that aren’t strictly organised by their publication date.” When I use the term “replant,” I basically mean to republish an article using the original publication date.
 
 For example, here’s [the replanting of my first ever blog post](/p/the-readwriteweb-2003/) from my old tech blog, ReadWriteWeb (2003-2012):
 
 ![My first ReadWriteWeb blog post replanted](/assets/images/replanting-first-rww-post.png)
 *A classic ReadWriteWeb blog post replanted. The original post had disappeared from the web.*
+
+## Original Dates and Wayback Screenshots
 
 You’ll notice that I use the original publish date, 20 April 2003. That's because I haven’t changed the content, or anything else significant. I only added this note, in italics, at the end of the post:
 
